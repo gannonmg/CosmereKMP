@@ -1,0 +1,1189 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"de1924d5-feb7-4c10-903b-35e3146c646e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the Third Ideal</p>\n<p chunk_id=\"cf779276-b9ec-4da2-add5-06a0a66079d1\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\">∞</span></p>\n<div chunk_id=\"90e7750d-6aa9-44af-a749-33dfb5a6ded4\" class=\"lore-block\">\n<p class=\"\"><em>The strength of your Nahel bond now allows your spren to manifest more fully in the Physical Realm.</em></p>\n</div>\n<p chunk_id=\"77febb34-be0f-45c5-842f-38c6f679956d\" class=\"CORE-paragraph-styles_CORE-body\">Your spren bond range increases from 30 feet to 100 feet. Additionally, when you spend <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to give your spren a task, it costs you 1 fewer focus (to a minimum cost of 1).</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Deepened Bond",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Your spren bond range increases to 100 feet, and giving your spren a task costs 1 fewer focus.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "deepened-bond",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						},
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Ashspren bond",
+							"value": "ashspren-bond"
+						},
+						{
+							"name": "Cultivationspren bond",
+							"value": "cultivationspren-bond"
+						},
+						{
+							"name": "Inkspren bond",
+							"value": "inkspren-bond"
+						},
+						{
+							"name": "Cryptic bond",
+							"value": "cryptic-bond"
+						},
+						{
+							"name": "Highspren bond",
+							"value": "highspren-bond"
+						},
+						{
+							"name": "Peakspren bond",
+							"value": "peakspren-bond"
+						},
+						{
+							"name": "Mistspren bond",
+							"value": "mistspren-bond"
+						},
+						{
+							"name": "Lightspren bond",
+							"value": "lightspren-bond"
+						},
+						{
+							"name": "Honorspren bond",
+							"value": "honorspren-bond"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"cryptic-bond": [
+							{
+								"rank": null,
+								"type": "goal",
+								"label": "Speak the Third Ideal (Lightweaver)",
+								"value": "speak-the-third-ideal-lightweaver",
+								"hardRule": true
+							}
+						],
+						"ashspren-bond": [
+							{
+								"rank": null,
+								"type": "goal",
+								"label": "Speak the Third Ideal (Dustbringer)",
+								"value": "speak-the-third-ideal-dustbringer",
+								"hardRule": true
+							}
+						],
+						"inkspren-bond": [
+							{
+								"rank": null,
+								"type": "goal",
+								"label": "Speak the Third Ideal (Elsecaller)",
+								"value": "speak-the-third-ideal-elsecaller",
+								"hardRule": true
+							}
+						],
+						"highspren-bond": [
+							{
+								"rank": null,
+								"type": "goal",
+								"label": "Speak the Third Ideal (Skybreaker)",
+								"value": "speak-the-third-ideal-skybreaker",
+								"hardRule": true
+							}
+						],
+						"mistspren-bond": [
+							{
+								"rank": null,
+								"type": "goal",
+								"label": "Speak the Third Ideal (Truthwatcher)",
+								"value": "speak-the-third-ideal-truthwatcher",
+								"hardRule": true
+							}
+						],
+						"peakspren-bond": [
+							{
+								"rank": null,
+								"type": "goal",
+								"label": "Speak the Third Ideal (Stoneward)",
+								"value": "speak-the-third-ideal-stoneward",
+								"hardRule": true
+							}
+						],
+						"honorspren-bond": [
+							{
+								"rank": null,
+								"type": "goal",
+								"label": "Speak the Third Ideal (Windrunner)",
+								"value": "speak-the-third-ideal-windrunner",
+								"hardRule": true
+							}
+						],
+						"lightspren-bond": [
+							{
+								"rank": null,
+								"type": "goal",
+								"label": "Speak the Third Ideal (Willshaper)",
+								"value": "speak-the-third-ideal-willshaper",
+								"hardRule": true
+							}
+						],
+						"cultivationspren-bond": [
+							{
+								"rank": null,
+								"type": "goal",
+								"label": "Speak the Third Ideal (Edgedancer)",
+								"value": "speak-the-third-ideal-edgedancer",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"third-ideal-dustbringer",
+						"third-ideal-edgedancer",
+						"third-ideal-elsecaller",
+						"third-ideal-lightweaver",
+						"third-ideal-skybreaker",
+						"third-ideal-stoneward",
+						"third-ideal-truthwatcher",
+						"third-ideal-willshaper",
+						"third-ideal-windrunner"
+					],
+					"objectID": "105997",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"de1924d5-feb7-4c10-903b-35e3146c646e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the Third Ideal</p>\n<p chunk_id=\"cf779276-b9ec-4da2-add5-06a0a66079d1\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\">∞</span></p>\n<div chunk_id=\"90e7750d-6aa9-44af-a749-33dfb5a6ded4\" class=\"lore-block\">\n<p class=\"\"><em>The strength of your Nahel bond now allows your spren to manifest more fully in the Physical Realm.</em></p>\n</div>\n<p chunk_id=\"77febb34-be0f-45c5-842f-38c6f679956d\" class=\"CORE-paragraph-styles_CORE-body\">Your spren bond range increases from 30 feet to 100 feet. Additionally, when you spend <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to give your spren a task, it costs you 1 fewer focus (to a minimum cost of 1).</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Deepened Bond",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Your spren bond range increases to 100 feet, and giving your spren a task costs 1 fewer focus.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"c45cdeb6-7c1c-4a0c-b34e-89b5c94e488a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Abrasion 2+; Progression 2+; Speak the First Ideal</p>\n<p chunk_id=\"e76a71c3-ab8d-4c38-a8d0-c5ca5c85ab23\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\">∞</span></p>\n<div chunk_id=\"f5337f6a-297b-4c75-a2c7-33038a2c2ab1\" class=\"lore-block\">\n<p class=\"\"><em>You’ve mastered the supernatural grace told of the Edgedancers of yore.</em></p>\n</div>\n<p chunk_id=\"9bd5c797-51ec-4d58-ab61-dc09364a21f1\" class=\"CORE-paragraph-styles_CORE-body\">After you start your turn with 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> or more, you gain an additional <span aria-label=\"Reaction\" class=\"icon-font icon\">R</span>, which you can use only to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"avoid-danger\" nexus=\"cosmererpg\">Avoid Danger</tooltip> or <tooltip category=\"action\" class=\"tooltip-convert\" element=\"dodge\" nexus=\"cosmererpg\">Dodge</tooltip>. If you use the Dodge reaction in this way, ignore its focus cost.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Edgedancer’s Grace",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After you start your turn with 1 Investiture or more, you gain an additional reaction, which you can use only to Avoid Danger or Dodge.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "edgedancers-grace",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Cultivationspren bond",
+							"value": "cultivationspren-bond"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"cultivationspren-bond": [
+							[
+								{
+									"rank": null,
+									"type": "goal",
+									"label": "Speak the First Ideal (Edgedancer)",
+									"value": "speak-the-first-ideal-edgedancer",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Abrasion 2+",
+									"value": "abrasion",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Progression 2+",
+									"value": "progression",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-edgedancer"
+					],
+					"objectID": "106022",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"c45cdeb6-7c1c-4a0c-b34e-89b5c94e488a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Abrasion 2+; Progression 2+; Speak the First Ideal</p>\n<p chunk_id=\"e76a71c3-ab8d-4c38-a8d0-c5ca5c85ab23\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\">∞</span></p>\n<div chunk_id=\"f5337f6a-297b-4c75-a2c7-33038a2c2ab1\" class=\"lore-block\">\n<p class=\"\"><em>You’ve mastered the supernatural grace told of the Edgedancers of yore.</em></p>\n</div>\n<p chunk_id=\"9bd5c797-51ec-4d58-ab61-dc09364a21f1\" class=\"CORE-paragraph-styles_CORE-body\">After you start your turn with 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> or more, you gain an additional <span aria-label=\"Reaction\" class=\"icon-font icon\">R</span>, which you can use only to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"avoid-danger\" nexus=\"cosmererpg\">Avoid Danger</tooltip> or <tooltip category=\"action\" class=\"tooltip-convert\" element=\"dodge\" nexus=\"cosmererpg\">Dodge</tooltip>. If you use the Dodge reaction in this way, ignore its focus cost.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Edgedancer’s Grace",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After you start your turn with 1 Investiture or more, you gain an additional reaction, which you can use only to Avoid Danger or Dodge.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"d131150c-46bc-4534-ae82-c41ec8539429\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Level 13+; Speak the Third Ideal</p>\n<p chunk_id=\"ea6ff38a-da7a-4dc9-ae6a-8cf9e0dd226c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\">★</span></p>\n<div chunk_id=\"bfcdc1ae-6700-45ea-bbe1-644d4d8e2752\" class=\"lore-block\">\n<p class=\"\"><em>You seek to become a full Knight Radiant by speaking the Fourth Ideal.</em></p>\n</div>\n<p chunk_id=\"5e04a508-bf25-4197-9659-9170ecee7570\" class=\"CORE-paragraph-styles_CORE-body\">You gain the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"goals\" nexus=\"cosmererpg\">goal</tooltip> “Speak the Fourth Ideal.” After you complete this goal, you gain the following reward:</p>\n<ul chunk_id=\"94897b36-ca67-42ef-8bc5-2414a0a24bb6\" class=\"\">\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">You become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"empowered\" nexus=\"cosmererpg\">Empowered</tooltip> until the end of that scene.</li>\n<li class=\"CORE-paragraph-styles_CORE-bulleted ParaOverride-8\">You can call a swarm of lifespren as <tooltip category=\"item\" class=\"tooltip-convert\" element=\"shardplate-radiant\" nexus=\"cosmererpg\">Radiant Shardplate</tooltip> (see <a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-7-items/#ShardplateandRadiantShardplate\">Chapter 7</a>).</li></ul>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Fourth Ideal (Edgedancer)",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you complete the goal “Speak the Fourth Ideal,” you become Empowered and can manifest Radiant Shardplate.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "fourth-ideal-edgedancer",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Cultivationspren bond",
+							"value": "cultivationspren-bond"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"cultivationspren-bond": [
+							[
+								{
+									"rank": null,
+									"type": "level",
+									"label": "Level 13+",
+									"value": 13,
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "goal",
+									"label": "Speak the Third Ideal",
+									"value": "speak-the-third-ideal-edgedancer",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"third-ideal-edgedancer"
+					],
+					"objectID": "106021",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"d131150c-46bc-4534-ae82-c41ec8539429\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Level 13+; Speak the Third Ideal</p>\n<p chunk_id=\"ea6ff38a-da7a-4dc9-ae6a-8cf9e0dd226c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\">★</span></p>\n<div chunk_id=\"bfcdc1ae-6700-45ea-bbe1-644d4d8e2752\" class=\"lore-block\">\n<p class=\"\"><em>You seek to become a full Knight Radiant by speaking the Fourth Ideal.</em></p>\n</div>\n<p chunk_id=\"5e04a508-bf25-4197-9659-9170ecee7570\" class=\"CORE-paragraph-styles_CORE-body\">You gain the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"goals\" nexus=\"cosmererpg\">goal</tooltip> “Speak the Fourth Ideal.” After you complete this goal, you gain the following reward:</p>\n<ul chunk_id=\"94897b36-ca67-42ef-8bc5-2414a0a24bb6\" class=\"\">\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">You become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"empowered\" nexus=\"cosmererpg\">Empowered</tooltip> until the end of that scene.</li>\n<li class=\"CORE-paragraph-styles_CORE-bulleted ParaOverride-8\">You can call a swarm of lifespren as <tooltip category=\"item\" class=\"tooltip-convert\" element=\"shardplate-radiant\" nexus=\"cosmererpg\">Radiant Shardplate</tooltip> (see <a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-7-items/#ShardplateandRadiantShardplate\">Chapter 7</a>).</li></ul>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Fourth Ideal (Edgedancer)",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you complete the goal “Speak the Fourth Ideal,” you become Empowered and can manifest Radiant Shardplate.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"3fa500d9-ef69-4504-bf96-9aea77acac49\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Varies</p>\n<p chunk_id=\"7f91963c-b22a-49ed-a148-560fbecf914d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\">∞</span></p>\n<div chunk_id=\"2feba373-450c-4f66-9ff8-06b47c463255\" class=\"lore-block\">\n<p class=\"\"><em>You learn to hold and wield greater quantities of Stormlight within yourself.</em></p>\n</div>\n<p chunk_id=\"5a663788-90e0-43f4-9edd-d29ff6cf0c0a\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your maximum <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> increases by a number equal to your tier. When your tier increases by 1, your maximum Investiture does as well.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Invested",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Your max Investiture increases by your tier.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "invested",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						},
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Ashspren bond",
+							"value": "ashspren-bond"
+						},
+						{
+							"name": "Cultivationspren bond",
+							"value": "cultivationspren-bond"
+						},
+						{
+							"name": "Inkspren bond",
+							"value": "inkspren-bond"
+						},
+						{
+							"name": "Cryptic bond",
+							"value": "cryptic-bond"
+						},
+						{
+							"name": "Highspren bond",
+							"value": "highspren-bond"
+						},
+						{
+							"name": "Peakspren bond",
+							"value": "peakspren-bond"
+						},
+						{
+							"name": "Mistspren bond",
+							"value": "mistspren-bond"
+						},
+						{
+							"name": "Lightspren bond",
+							"value": "lightspren-bond"
+						},
+						{
+							"name": "Honorspren bond",
+							"value": "honorspren-bond"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"cryptic-bond": [
+							{
+								"rank": null,
+								"type": "goal",
+								"label": "Speak the First Ideal",
+								"value": "speak-the-first-ideal-lightweaver",
+								"hardRule": true
+							}
+						],
+						"ashspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Searing Dust Storm talent",
+								"value": "searing-dust-storm",
+								"hardRule": true
+							}
+						],
+						"inkspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Elsecaller's Perspicacity talent",
+								"value": "elsecallers-perspicacity",
+								"hardRule": true
+							}
+						],
+						"highspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Soaring Destruction talent",
+								"value": "soaring-destruction",
+								"hardRule": true
+							}
+						],
+						"mistspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Spiritual Healing talent",
+								"value": "spiritual-healing",
+								"hardRule": true
+							}
+						],
+						"peakspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Cohesive Teamwork talent",
+								"value": "cohesive-teamwork",
+								"hardRule": true
+							}
+						],
+						"honorspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Reverse Lashing talent",
+								"value": "reverse-lashing",
+								"hardRule": true
+							}
+						],
+						"lightspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Spiritual Cohesion talent",
+								"value": "spiritual-cohesion",
+								"hardRule": true
+							}
+						],
+						"cultivationspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Edgedancer’s Grace talent",
+								"value": "edgedancers-grace",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"searing-dust-storm",
+						"edgedancers-grace",
+						"elsecallers-perspicacity",
+						"first-ideal-lightweaver",
+						"soaring-destruction",
+						"cohesive-teamwork",
+						"spiritual-healing",
+						"spiritual-cohesion",
+						"reverse-lashing"
+					],
+					"objectID": "105999",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"3fa500d9-ef69-4504-bf96-9aea77acac49\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Varies</p>\n<p chunk_id=\"7f91963c-b22a-49ed-a148-560fbecf914d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\">∞</span></p>\n<div chunk_id=\"2feba373-450c-4f66-9ff8-06b47c463255\" class=\"lore-block\">\n<p class=\"\"><em>You learn to hold and wield greater quantities of Stormlight within yourself.</em></p>\n</div>\n<p chunk_id=\"5a663788-90e0-43f4-9edd-d29ff6cf0c0a\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your maximum <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> increases by a number equal to your tier. When your tier increases by 1, your maximum Investiture does as well.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Invested",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Your max Investiture increases by your tier.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"dbe8bb21-a654-42c1-9574-10d88dab6bd6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Level 4+; Speak the First Ideal</p>\n<p chunk_id=\"000467d2-2945-4692-9f39-9e3ee3e730fc\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\">★</span></p>\n<div chunk_id=\"b757e295-417b-4f99-8bdf-9143da206b20\" class=\"lore-block\">\n<p class=\"\"><em>You seek to deepen your Nahel bond with your cultivationspren by speaking the Second Ideal.</em></p>\n</div>\n<p chunk_id=\"970445ac-6e8f-4024-871c-9cc96aa68c6e\" class=\"CORE-paragraph-styles_CORE-body\">You gain the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"goals\" nexus=\"cosmererpg\">goal</tooltip> “Speak the Second Ideal.” After you complete this goal, you gain the following reward:</p>\n<ul chunk_id=\"f31c8c4f-ac38-403b-8555-93aa97a56bb3\" class=\"\">\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">You become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"empowered\" nexus=\"cosmererpg\">Empowered</tooltip> until the end of that scene.</li>\n<li class=\"CORE-paragraph-styles_CORE-bulleted ParaOverride-8\">Your <tooltip category=\"action\" class=\"tooltip-convert\" element=\"enhance\" nexus=\"cosmererpg\">Enhance</tooltip> action becomes more powerful. While you have 1 Investiture or more, you can use Enhance as <span aria-label=\"Free Action\" class=\"icon-font icon\">▷</span>, and you don’t need to spend Investiture to use this action or maintain its effect.</li></ul>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Second Ideal (Edgedancer)",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You seek to deepen your Nahel bond with your cultivationspren by speaking the Second Ideal.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "second-ideal-edgedancer",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Cultivationspren bond",
+							"value": "cultivationspren-bond"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"cultivationspren-bond": [
+							[
+								{
+									"rank": null,
+									"type": "level",
+									"label": "Level 4+",
+									"value": 4,
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "goal",
+									"label": "Speak the First Ideal",
+									"value": "speak-the-first-ideal-edgedancer",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-edgedancer"
+					],
+					"objectID": "106019",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"dbe8bb21-a654-42c1-9574-10d88dab6bd6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Level 4+; Speak the First Ideal</p>\n<p chunk_id=\"000467d2-2945-4692-9f39-9e3ee3e730fc\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\">★</span></p>\n<div chunk_id=\"b757e295-417b-4f99-8bdf-9143da206b20\" class=\"lore-block\">\n<p class=\"\"><em>You seek to deepen your Nahel bond with your cultivationspren by speaking the Second Ideal.</em></p>\n</div>\n<p chunk_id=\"970445ac-6e8f-4024-871c-9cc96aa68c6e\" class=\"CORE-paragraph-styles_CORE-body\">You gain the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"goals\" nexus=\"cosmererpg\">goal</tooltip> “Speak the Second Ideal.” After you complete this goal, you gain the following reward:</p>\n<ul chunk_id=\"f31c8c4f-ac38-403b-8555-93aa97a56bb3\" class=\"\">\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">You become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"empowered\" nexus=\"cosmererpg\">Empowered</tooltip> until the end of that scene.</li>\n<li class=\"CORE-paragraph-styles_CORE-bulleted ParaOverride-8\">Your <tooltip category=\"action\" class=\"tooltip-convert\" element=\"enhance\" nexus=\"cosmererpg\">Enhance</tooltip> action becomes more powerful. While you have 1 Investiture or more, you can use Enhance as <span aria-label=\"Free Action\" class=\"icon-font icon\">▷</span>, and you don’t need to spend Investiture to use this action or maintain its effect.</li></ul>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Second Ideal (Edgedancer)",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You seek to deepen your Nahel bond with your cultivationspren by speaking the Second Ideal.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"0e95ee7b-2c0d-4b44-b4cc-9f41af74e778\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the Third Ideal</p>\n<p chunk_id=\"574528e8-7b5a-489d-b412-afe940cbe4b4\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\">★</span></p>\n<div chunk_id=\"f6c4b73c-1977-4462-9a64-ac325db4138c\" class=\"lore-block\">\n<p class=\"\"><em>You begin taking other people under your wing, allowing them to breathe Stormlight and use surges before they’ve established their own Nahel bond.</em></p>\n</div>\n<p chunk_id=\"597e9703-b2ae-412e-983c-785d301eaf82\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">After a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"long-rest\" nexus=\"cosmererpg\">long rest</tooltip>, choose a companion or player character you can influence to take as your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"squires\" nexus=\"cosmererpg\">squire</tooltip>. To choose them, they must be willing and sapient, you must have known them for at least 1 game session, and they must not have bonded a Radiant spren.</p>\n<p chunk_id=\"70608fe3-896a-41c2-b1d1-d1dea030fdd1\" class=\"CORE-paragraph-styles_CORE-body\">When you choose a squire, decide whether you want to grant them both of your surges, one of them, or none. That character becomes your squire, gaining the surges you chose plus the other benefits in the “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-5-radiant-paths/#Squires\" title=\"Squires\">Squires</a>” section in chapter 5.</p>\n<p chunk_id=\"5d14673d-f7c3-4aaa-974e-066966e72887\" class=\"CORE-paragraph-styles_CORE-body\">You can have a maximum number of squires up to your current Ideal (such as three for the Third Ideal). If you already have the maximum number of squires, you must choose one to dismiss as your squire before choosing a new one.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Take Squire (Edgedancer)",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You can choose a squire, granting them one or both of your surges.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "take-squire-edgedancer",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Cultivationspren bond",
+							"value": "cultivationspren-bond"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"cultivationspren-bond": [
+							{
+								"rank": null,
+								"type": "goal",
+								"label": "Speak the Third Ideal",
+								"value": "speak-the-third-ideal-edgedancer",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"third-ideal-edgedancer"
+					],
+					"objectID": "106023",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"0e95ee7b-2c0d-4b44-b4cc-9f41af74e778\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the Third Ideal</p>\n<p chunk_id=\"574528e8-7b5a-489d-b412-afe940cbe4b4\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\">★</span></p>\n<div chunk_id=\"f6c4b73c-1977-4462-9a64-ac325db4138c\" class=\"lore-block\">\n<p class=\"\"><em>You begin taking other people under your wing, allowing them to breathe Stormlight and use surges before they’ve established their own Nahel bond.</em></p>\n</div>\n<p chunk_id=\"597e9703-b2ae-412e-983c-785d301eaf82\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">After a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"long-rest\" nexus=\"cosmererpg\">long rest</tooltip>, choose a companion or player character you can influence to take as your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"squires\" nexus=\"cosmererpg\">squire</tooltip>. To choose them, they must be willing and sapient, you must have known them for at least 1 game session, and they must not have bonded a Radiant spren.</p>\n<p chunk_id=\"70608fe3-896a-41c2-b1d1-d1dea030fdd1\" class=\"CORE-paragraph-styles_CORE-body\">When you choose a squire, decide whether you want to grant them both of your surges, one of them, or none. That character becomes your squire, gaining the surges you chose plus the other benefits in the “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-5-radiant-paths/#Squires\" title=\"Squires\">Squires</a>” section in chapter 5.</p>\n<p chunk_id=\"5d14673d-f7c3-4aaa-974e-066966e72887\" class=\"CORE-paragraph-styles_CORE-body\">You can have a maximum number of squires up to your current Ideal (such as three for the Third Ideal). If you already have the maximum number of squires, you must choose one to dismiss as your squire before choosing a new one.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Take Squire (Edgedancer)",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You can choose a squire, granting them one or both of your surges.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"16cedc8c-5719-496b-8e1b-af956da35829\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Level 8+; Speak the Second Ideal</p>\n<p chunk_id=\"9f585ffc-9ab2-4820-8613-f64c9c238bf4\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\">★</span></p>\n<div chunk_id=\"9c7e2da9-e9c0-44cc-9753-d865dc27e92c\" class=\"lore-block\">\n<p class=\"\"><em>You seek to advance your Nahel bond even further by speaking the Third Ideal.</em></p>\n</div>\n<p chunk_id=\"078e8b1e-73ad-4126-b5b5-d07902e2fc46\" class=\"CORE-paragraph-styles_CORE-body\">You gain the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"goals\" nexus=\"cosmererpg\">goal</tooltip> “Speak the Third Ideal.” After you complete this goal, you gain the following reward:</p>\n<ul chunk_id=\"8d8237ea-0c7b-4a61-83e1-818ed4b4d752\" class=\"\">\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">You become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"empowered\" nexus=\"cosmererpg\">Empowered</tooltip> until the end of that scene.</li>\n<li class=\"CORE-paragraph-styles_CORE-bulleted ParaOverride-8\">You can summon your spren as a <tooltip category=\"item\" class=\"tooltip-convert\" element=\"shardblade-radiant\" nexus=\"cosmererpg\">Radiant Shardblade</tooltip> (see <a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-7-items/#ShardbladesandRadiantShardblades\">Chapter 7</a>).</li></ul>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Third Ideal (Edgedancer)",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you complete the goal “Speak the Third Ideal,” you become Empowered and can manifest your spren as a Radiant Shardblade.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "third-ideal-edgedancer",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Cultivationspren bond",
+							"value": "cultivationspren-bond"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"cultivationspren-bond": [
+							[
+								{
+									"rank": null,
+									"type": "level",
+									"label": "Level 8+",
+									"value": 8,
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "goal",
+									"label": "Speak the Second Ideal",
+									"value": "speak-the-second-ideal-edgedancer",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"second-ideal-edgedancer"
+					],
+					"objectID": "106020",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"16cedc8c-5719-496b-8e1b-af956da35829\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Level 8+; Speak the Second Ideal</p>\n<p chunk_id=\"9f585ffc-9ab2-4820-8613-f64c9c238bf4\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\">★</span></p>\n<div chunk_id=\"9c7e2da9-e9c0-44cc-9753-d865dc27e92c\" class=\"lore-block\">\n<p class=\"\"><em>You seek to advance your Nahel bond even further by speaking the Third Ideal.</em></p>\n</div>\n<p chunk_id=\"078e8b1e-73ad-4126-b5b5-d07902e2fc46\" class=\"CORE-paragraph-styles_CORE-body\">You gain the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"goals\" nexus=\"cosmererpg\">goal</tooltip> “Speak the Third Ideal.” After you complete this goal, you gain the following reward:</p>\n<ul chunk_id=\"8d8237ea-0c7b-4a61-83e1-818ed4b4d752\" class=\"\">\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">You become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"empowered\" nexus=\"cosmererpg\">Empowered</tooltip> until the end of that scene.</li>\n<li class=\"CORE-paragraph-styles_CORE-bulleted ParaOverride-8\">You can summon your spren as a <tooltip category=\"item\" class=\"tooltip-convert\" element=\"shardblade-radiant\" nexus=\"cosmererpg\">Radiant Shardblade</tooltip> (see <a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-7-items/#ShardbladesandRadiantShardblades\">Chapter 7</a>).</li></ul>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Third Ideal (Edgedancer)",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you complete the goal “Speak the Third Ideal,” you become Empowered and can manifest your spren as a Radiant Shardblade.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"0ec15dc6-bca6-48c6-98be-7452cb45356d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"invested\" nexus=\"cosmererpg\">Invested</tooltip> talent</p>\n<p chunk_id=\"61716a21-d66f-4a68-96ef-b04face75ae0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\">★</span></p>\n<div chunk_id=\"55bb0caa-df5e-4d96-b2ea-59cc88d5b72b\" class=\"lore-block\">\n<p class=\"\"><em>You can use Stormlight to rapidly recover from injuries.</em></p>\n</div>\n<p chunk_id=\"a6ed8bf0-f4d3-46e5-9047-a70c2a28abac\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\">When you use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"regenerate\" nexus=\"cosmererpg\">Regenerate</tooltip> free action, you can spend Investiture to instantly recover from an injury of your choice (either instead of or in addition to healing yourself). Spend 2 Investiture to recover from a temporary injury, or spend 3 Investiture to recover from a permanent one.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Wound Regeneration",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you Regenerate, spend 2 Investiture to recover from a temporary injury, or spend 3 Investiture to recover from a permanent one.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "wound-regeneration",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						},
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Ashspren bond",
+							"value": "ashspren-bond"
+						},
+						{
+							"name": "Cultivationspren bond",
+							"value": "cultivationspren-bond"
+						},
+						{
+							"name": "Inkspren bond",
+							"value": "inkspren-bond"
+						},
+						{
+							"name": "Cryptic bond",
+							"value": "cryptic-bond"
+						},
+						{
+							"name": "Highspren bond",
+							"value": "highspren-bond"
+						},
+						{
+							"name": "Peakspren bond",
+							"value": "peakspren-bond"
+						},
+						{
+							"name": "Mistspren bond",
+							"value": "mistspren-bond"
+						},
+						{
+							"name": "Lightspren bond",
+							"value": "lightspren-bond"
+						},
+						{
+							"name": "Honorspren bond",
+							"value": "honorspren-bond"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"cryptic-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Invested (Lightweaver)",
+								"value": "invested",
+								"hardRule": true
+							}
+						],
+						"ashspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Invested (Dustbringer)",
+								"value": "invested",
+								"hardRule": true
+							}
+						],
+						"inkspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Invested (Elsecaller)",
+								"value": "invested",
+								"hardRule": true
+							}
+						],
+						"highspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Invested (Skybreaker)",
+								"value": "invested",
+								"hardRule": true
+							}
+						],
+						"mistspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Invested (Truthwatcher)",
+								"value": "invested",
+								"hardRule": true
+							}
+						],
+						"peakspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Invested (Stoneward)",
+								"value": "invested",
+								"hardRule": true
+							}
+						],
+						"honorspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Invested (Windrunner)",
+								"value": "invested",
+								"hardRule": true
+							}
+						],
+						"lightspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Invested (Willshaper)",
+								"value": "invested",
+								"hardRule": true
+							}
+						],
+						"cultivationspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Invested (Edgedancer)",
+								"value": "invested",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"invested"
+					],
+					"objectID": "106000",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"0ec15dc6-bca6-48c6-98be-7452cb45356d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"invested\" nexus=\"cosmererpg\">Invested</tooltip> talent</p>\n<p chunk_id=\"61716a21-d66f-4a68-96ef-b04face75ae0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\">★</span></p>\n<div chunk_id=\"55bb0caa-df5e-4d96-b2ea-59cc88d5b72b\" class=\"lore-block\">\n<p class=\"\"><em>You can use Stormlight to rapidly recover from injuries.</em></p>\n</div>\n<p chunk_id=\"a6ed8bf0-f4d3-46e5-9047-a70c2a28abac\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\">When you use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"regenerate\" nexus=\"cosmererpg\">Regenerate</tooltip> free action, you can spend Investiture to instantly recover from an injury of your choice (either instead of or in addition to healing yourself). Spend 2 Investiture to recover from a temporary injury, or spend 3 Investiture to recover from a permanent one.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Wound Regeneration",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you Regenerate, spend 2 Investiture to recover from a temporary injury, or spend 3 Investiture to recover from a permanent one.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 8,
+			"nbSortedHits": 8,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=talentTrees.value%3A'cultivationspren-bond'&hitsPerPage=25&page=0",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"roundTrip": 62
+				},
+				"total": 1
+			},
+			"serverTimeMS": 2
+		}
+	]
+}

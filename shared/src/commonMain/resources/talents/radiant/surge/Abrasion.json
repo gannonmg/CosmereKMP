@@ -1,0 +1,866 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"60194c66-e4cd-4cb4-9d7a-8ca47939afef\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies</p>\n<p chunk_id=\"8b421509-c2b4-4134-9bb6-ef9d0b0bcba2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"cbf2410b-1a7f-44a4-a0f7-a20352749ad5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can infuse targets from a greater distance.</em></p>\n</div>\n<p chunk_id=\"50998486-1203-4eb5-abd9-f0ac0f219613\" class=\"CORE-paragraph-styles_CORE-body\">You can use your surges and their talents as though your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> is 20 feet, and you don’t need to touch the target.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Distant Surgebinding",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Use your surges and their talents as though your reach is 20 feet.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "distant-surgebinding",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Abrasion",
+							"value": "abrasion"
+						},
+						{
+							"name": "Transformation",
+							"value": "transformation"
+						},
+						{
+							"name": "Adhesion",
+							"value": "adhesion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"abrasion": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Reverse Abrasion talent",
+								"value": "reverse-abrasion",
+								"hardRule": true
+							}
+						],
+						"adhesion": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Stormlight Reclamation talent",
+								"value": "stormlight-reclamation",
+								"hardRule": true
+							}
+						],
+						"transformation": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Soulcast Parry talent",
+								"value": "soulcast-parry",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"reverse-abrasion",
+						"soulcast-parry",
+						"stormlight-reclamation"
+					],
+					"objectID": "106008",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"60194c66-e4cd-4cb4-9d7a-8ca47939afef\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies</p>\n<p chunk_id=\"8b421509-c2b4-4134-9bb6-ef9d0b0bcba2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"cbf2410b-1a7f-44a4-a0f7-a20352749ad5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can infuse targets from a greater distance.</em></p>\n</div>\n<p chunk_id=\"50998486-1203-4eb5-abd9-f0ac0f219613\" class=\"CORE-paragraph-styles_CORE-body\">You can use your surges and their talents as though your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> is 20 feet, and you don’t need to touch the target.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Distant Surgebinding",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Use your surges and their talents as though your reach is 20 feet.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"bae144a0-0e74-459b-8056-bdf3398323a3\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"4f526983-f5b9-4720-919c-96225bc38a27\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"e9ff5c29-dd2b-42a6-8beb-934f83aa9ff7\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You become increasingly adept at using Abrasion to glide through your environment.</em></p>\n</div>\n<p chunk_id=\"2be3cd90-71a4-433a-927b-0c908367fe24\" class=\"CORE-paragraph-styles_CORE-body\">While <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"surge-infusions-and-durations\" nexus=\"cosmererpg\">infused with</tooltip>\n<tooltip category=\"action\" class=\"tooltip-convert\" element=\"abrasion-surge\" nexus=\"cosmererpg\">Abrasion</tooltip>, your movement rate increases by 10 feet, and you ignore the <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"slowed\" nexus=\"cosmererpg\">Slowed</tooltip> condition when imposed by <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"difficult-terrain\" nexus=\"cosmererpg\">difficult terrain</tooltip>, <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"climbing-crawling-and-swimming\" nexus=\"cosmererpg\">climbing, crawling, and swimming</tooltip>.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Frictionless Motion",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While infused with Abrasion, increase your movement by 10 and ignore Slowed.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "frictionless-motion",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Abrasion",
+							"value": "abrasion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"abrasion": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Abrasion",
+									"value": "abrasion",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-dustbringer",
+						"first-ideal-edgedancer"
+					],
+					"objectID": "106002",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"bae144a0-0e74-459b-8056-bdf3398323a3\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"4f526983-f5b9-4720-919c-96225bc38a27\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"e9ff5c29-dd2b-42a6-8beb-934f83aa9ff7\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You become increasingly adept at using Abrasion to glide through your environment.</em></p>\n</div>\n<p chunk_id=\"2be3cd90-71a4-433a-927b-0c908367fe24\" class=\"CORE-paragraph-styles_CORE-body\">While <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"surge-infusions-and-durations\" nexus=\"cosmererpg\">infused with</tooltip>\n<tooltip category=\"action\" class=\"tooltip-convert\" element=\"abrasion-surge\" nexus=\"cosmererpg\">Abrasion</tooltip>, your movement rate increases by 10 feet, and you ignore the <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"slowed\" nexus=\"cosmererpg\">Slowed</tooltip> condition when imposed by <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"difficult-terrain\" nexus=\"cosmererpg\">difficult terrain</tooltip>, <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"climbing-crawling-and-swimming\" nexus=\"cosmererpg\">climbing, crawling, and swimming</tooltip>.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Frictionless Motion",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While infused with Abrasion, increase your movement by 10 and ignore Slowed.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"cf2b8a1f-afad-40e7-bbc7-d515c1bb673d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"frictionless-motion\" nexus=\"cosmererpg\">Frictionless Motion</tooltip> talent</p>\n<p chunk_id=\"09a99e6b-b58a-436b-8ff8-812a0f12ff63\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"e7571dac-23b2-4cf7-aa67-1237eb748162\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You dynamically skate around the battlefield, easily slipping away from your foes.</em></p>\n</div>\n<p chunk_id=\"584ec774-0bae-4569-89f8-1c219ac7c2df\" class=\"CORE-paragraph-styles_CORE-body\">When you Skate, you aren’t restricted to moving in a straight line.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Graceful Skating",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you Skate and use its Move free action, you aren’t restricted to moving in a straight line.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "graceful-skating",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Abrasion",
+							"value": "abrasion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"abrasion": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Frictionless Motion talent",
+								"value": "frictionless-motion",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"frictionless-motion"
+					],
+					"objectID": "106003",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"cf2b8a1f-afad-40e7-bbc7-d515c1bb673d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"frictionless-motion\" nexus=\"cosmererpg\">Frictionless Motion</tooltip> talent</p>\n<p chunk_id=\"09a99e6b-b58a-436b-8ff8-812a0f12ff63\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"e7571dac-23b2-4cf7-aa67-1237eb748162\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You dynamically skate around the battlefield, easily slipping away from your foes.</em></p>\n</div>\n<p chunk_id=\"584ec774-0bae-4569-89f8-1c219ac7c2df\" class=\"CORE-paragraph-styles_CORE-body\">When you Skate, you aren’t restricted to moving in a straight line.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Graceful Skating",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you Skate and use its Move free action, you aren’t restricted to moving in a straight line.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"c93897e7-74e8-4995-a2d8-06a8b04bebb0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"2158abc4-9467-4db1-a508-b02440d34052\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"328aaa33-b481-4dac-9c1b-e447f5ec9e2e\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Instead of making objects frictionless with Abrasion, you can now increase friction.</em></p>\n</div>\n<p chunk_id=\"0286e8a0-6caa-4253-8c31-4562272c9b8c\" class=\"CORE-paragraph-styles_CORE-body\">When you infuse an object or surface with Abrasion, you can choose to increase the infused target’s friction instead of reducing it, making it easier to grip and traverse. When a character interacts with such an object, they gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip> and <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> tests made to do so. When a character moves across such a surface, they ignore any <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"slowed\" nexus=\"cosmererpg\">Slowed</tooltip> condition the surface would normally apply (such as due to climbing or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"difficult-terrain\" nexus=\"cosmererpg\">difficult terrain</tooltip>).</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Reverse Abrasion",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You can increase the friction of an object or area, canceling difficult terrain and giving an advantage to interact with it.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "reverse-abrasion",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Abrasion",
+							"value": "abrasion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"abrasion": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Abrasion",
+									"value": "abrasion",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-dustbringer",
+						"first-ideal-edgedancer"
+					],
+					"objectID": "106006",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"c93897e7-74e8-4995-a2d8-06a8b04bebb0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"2158abc4-9467-4db1-a508-b02440d34052\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"328aaa33-b481-4dac-9c1b-e447f5ec9e2e\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Instead of making objects frictionless with Abrasion, you can now increase friction.</em></p>\n</div>\n<p chunk_id=\"0286e8a0-6caa-4253-8c31-4562272c9b8c\" class=\"CORE-paragraph-styles_CORE-body\">When you infuse an object or surface with Abrasion, you can choose to increase the infused target’s friction instead of reducing it, making it easier to grip and traverse. When a character interacts with such an object, they gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip> and <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> tests made to do so. When a character moves across such a surface, they ignore any <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"slowed\" nexus=\"cosmererpg\">Slowed</tooltip> condition the surface would normally apply (such as due to climbing or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"difficult-terrain\" nexus=\"cosmererpg\">difficult terrain</tooltip>).</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Reverse Abrasion",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You can increase the friction of an object or area, canceling difficult terrain and giving an advantage to interact with it.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"94d92c56-63bb-487f-ae5e-5bfd08cb5c69\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"slippery-target\" nexus=\"cosmererpg\">Slippery Target</tooltip> talent</p>\n<p chunk_id=\"9d84e205-fad0-48e5-a64b-ab043dff998f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"68c94d2e-abda-4d76-a3de-feef37555045\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You are poetry in motion, able to perform nearly any feat without slowing down.</em></p>\n</div>\n<p chunk_id=\"b259b0cb-3072-474e-9313-7e16257f776a\" class=\"CORE-paragraph-styles_CORE-body\">When you Skate or otherwise <tooltip category=\"action\" class=\"tooltip-convert\" element=\"move\" nexus=\"cosmererpg\">Move</tooltip> while infused with Abrasion, you can interrupt your movement at one or more points, use other actions as if you’d finished your Move, then use your remaining movement as if you were still in the middle of that Move action.</p>\n<p chunk_id=\"9fc63a6c-0cd6-41e2-a735-5110c4ee92c5\" class=\"CORE-paragraph-styles_CORE-body\">Once per round, when you make a melee weapon attack after starting that Move but before finishing it, you can roll an extra 1d4 damage for that attack. The size of this die increases with your ranks in Abrasion: at 2 ranks, roll an extra 1d6 damage (instead of 1d4), and so on. However, if you add this damage die, the GM can spend <span aria-label=\"Complication\" class=\"icon-font-red icon\" title=\"Complication\">C</span> from the attack test to cause you to fall <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"prone\" nexus=\"cosmererpg\">Prone</tooltip> and immediately end your Move action.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Slick Combatant",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While infused with Abrasion, you can interrupt a Move with other actions.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "slick-combatant",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Abrasion",
+							"value": "abrasion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"abrasion": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Slippery Target talent",
+								"value": "slippery-target",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"slippery-target"
+					],
+					"objectID": "106005",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"94d92c56-63bb-487f-ae5e-5bfd08cb5c69\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"slippery-target\" nexus=\"cosmererpg\">Slippery Target</tooltip> talent</p>\n<p chunk_id=\"9d84e205-fad0-48e5-a64b-ab043dff998f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"68c94d2e-abda-4d76-a3de-feef37555045\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You are poetry in motion, able to perform nearly any feat without slowing down.</em></p>\n</div>\n<p chunk_id=\"b259b0cb-3072-474e-9313-7e16257f776a\" class=\"CORE-paragraph-styles_CORE-body\">When you Skate or otherwise <tooltip category=\"action\" class=\"tooltip-convert\" element=\"move\" nexus=\"cosmererpg\">Move</tooltip> while infused with Abrasion, you can interrupt your movement at one or more points, use other actions as if you’d finished your Move, then use your remaining movement as if you were still in the middle of that Move action.</p>\n<p chunk_id=\"9fc63a6c-0cd6-41e2-a735-5110c4ee92c5\" class=\"CORE-paragraph-styles_CORE-body\">Once per round, when you make a melee weapon attack after starting that Move but before finishing it, you can roll an extra 1d4 damage for that attack. The size of this die increases with your ranks in Abrasion: at 2 ranks, roll an extra 1d6 damage (instead of 1d4), and so on. However, if you add this damage die, the GM can spend <span aria-label=\"Complication\" class=\"icon-font-red icon\" title=\"Complication\">C</span> from the attack test to cause you to fall <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"prone\" nexus=\"cosmererpg\">Prone</tooltip> and immediately end your Move action.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Slick Combatant",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While infused with Abrasion, you can interrupt a Move with other actions.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"59a30224-c554-44a6-be0b-368cb784ce5f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"graceful-skating\" nexus=\"cosmererpg\">Graceful Skating</tooltip> talent\n</p>\n<p chunk_id=\"0c834fec-ecdf-42f6-a4c9-f06a0800f15e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"e331c974-237b-44a1-a790-cb4a2ae957a1\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You make yourself so slick that glancing and hasty blows slide right off you.</em></p>\n</div>\n<p chunk_id=\"5c7b89f3-a211-4038-8889-e79d037a3db9\" class=\"CORE-paragraph-styles_CORE-body\">While you are infused with Abrasion, attacks can’t <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip> you and <tooltip category=\"action\" class=\"tooltip-convert\" element=\"reactive-strike\" nexus=\"cosmererpg\">Reactive Strikes</tooltip> against you gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip>.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Slippery Target",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While infused with Abrasion, attacks can’t graze you and Reactive Strikes against you gain a disadvantage.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "slippery-target",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Abrasion",
+							"value": "abrasion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"abrasion": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Graceful Skating talent",
+								"value": "graceful-skating",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"graceful-skating"
+					],
+					"objectID": "106004",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"59a30224-c554-44a6-be0b-368cb784ce5f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"graceful-skating\" nexus=\"cosmererpg\">Graceful Skating</tooltip> talent\n</p>\n<p chunk_id=\"0c834fec-ecdf-42f6-a4c9-f06a0800f15e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"e331c974-237b-44a1-a790-cb4a2ae957a1\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You make yourself so slick that glancing and hasty blows slide right off you.</em></p>\n</div>\n<p chunk_id=\"5c7b89f3-a211-4038-8889-e79d037a3db9\" class=\"CORE-paragraph-styles_CORE-body\">While you are infused with Abrasion, attacks can’t <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip> you and <tooltip category=\"action\" class=\"tooltip-convert\" element=\"reactive-strike\" nexus=\"cosmererpg\">Reactive Strikes</tooltip> against you gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip>.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Slippery Target",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While infused with Abrasion, attacks can’t graze you and Reactive Strikes against you gain a disadvantage.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"65b81b25-eb15-49c6-99aa-b87524d97af1\" class=\"CORE-paragraph-styles_CORE-stat ParaOverride-2\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"distant-surgebinding\" nexus=\"cosmererpg\">Distant Surgebinding</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"slippery-target\" nexus=\"cosmererpg\">Slippery Target</tooltip> talent\n</p>\n<p chunk_id=\"f90268f7-a6ff-47af-a02f-0a2b304301c7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"26324c3f-82c1-4f9b-9b78-753c8f32d481\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve become so efficient at infusing yourself with Abrasion that it becomes subconscious, allowing you to slip around with effortless grace.</em></p>\n</div>\n<p chunk_id=\"a41d9921-567a-4692-b17e-5824d107395d\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">While you have 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> or more, you gain the benefits of being <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"surge-infusions-and-durations\" nexus=\"cosmererpg\">infused with</tooltip> Abrasion without spending Investiture, and it costs you 1 fewer <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to Skate.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Smooth Operator",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While you have Investiture, you are infused with Abrasion and it costs you 1 fewer focus to Skate.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "smooth-operator",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Abrasion",
+							"value": "abrasion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"abrasion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Distant Surgebinding talent",
+									"value": "distant-surgebinding",
+									"hardRule": true
+								},
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Slippery Target talent",
+									"value": "slippery-target",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"slippery-target",
+						"distant-surgebinding"
+					],
+					"objectID": "106009",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"65b81b25-eb15-49c6-99aa-b87524d97af1\" class=\"CORE-paragraph-styles_CORE-stat ParaOverride-2\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"distant-surgebinding\" nexus=\"cosmererpg\">Distant Surgebinding</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"slippery-target\" nexus=\"cosmererpg\">Slippery Target</tooltip> talent\n</p>\n<p chunk_id=\"f90268f7-a6ff-47af-a02f-0a2b304301c7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"26324c3f-82c1-4f9b-9b78-753c8f32d481\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve become so efficient at infusing yourself with Abrasion that it becomes subconscious, allowing you to slip around with effortless grace.</em></p>\n</div>\n<p chunk_id=\"a41d9921-567a-4692-b17e-5824d107395d\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">While you have 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> or more, you gain the benefits of being <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"surge-infusions-and-durations\" nexus=\"cosmererpg\">infused with</tooltip> Abrasion without spending Investiture, and it costs you 1 fewer <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to Skate.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Smooth Operator",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While you have Investiture, you are infused with Abrasion and it costs you 1 fewer focus to Skate.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"70c004dd-69b8-4710-b3e3-5eb421cb3d14\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies\n</p>\n<p chunk_id=\"f1ab27a0-86e3-47a9-a776-0cdc3d515263\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"722c41e7-0e3a-4ea3-a111-a84bd2bca6dc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can reclaim Stormlight from active infusions.</em></p>\n</div>\n<p chunk_id=\"eb779919-ef2b-4ac3-b364-5a7ed67ac868\" class=\"CORE-paragraph-styles_CORE-body\">After your infusions expend their infused Investiture at the start of your turn, you can end any number of those infusions within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip>, recovering all remaining Investiture they were infused with.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Stormlight Reclamation",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "At the start of your turn, you can end any number of infusions to regain their remaining Investiture.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "stormlight-reclamation",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Abrasion",
+							"value": "abrasion"
+						},
+						{
+							"name": "Illumination",
+							"value": "illumination"
+						},
+						{
+							"name": "Tension",
+							"value": "tension"
+						},
+						{
+							"name": "Adhesion",
+							"value": "adhesion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"tension": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Tension",
+									"value": "tension",
+									"hardRule": true
+								}
+							]
+						],
+						"abrasion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Reverse Abrasion talent",
+									"value": "reverse-abrasion",
+									"hardRule": true
+								}
+							]
+						],
+						"adhesion": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Adhesion",
+									"value": "adhesion",
+									"hardRule": true
+								}
+							]
+						],
+						"illusion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Distracting Illusion talent",
+									"value": "distracting-illusion",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Free action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"reverse-abrasion",
+						"distracting-illusion",
+						"speak-the-first-ideal-stoneward",
+						"speak-the-first-ideal-windrunner"
+					],
+					"objectID": "106007",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"70c004dd-69b8-4710-b3e3-5eb421cb3d14\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies\n</p>\n<p chunk_id=\"f1ab27a0-86e3-47a9-a776-0cdc3d515263\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"722c41e7-0e3a-4ea3-a111-a84bd2bca6dc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can reclaim Stormlight from active infusions.</em></p>\n</div>\n<p chunk_id=\"eb779919-ef2b-4ac3-b364-5a7ed67ac868\" class=\"CORE-paragraph-styles_CORE-body\">After your infusions expend their infused Investiture at the start of your turn, you can end any number of those infusions within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip>, recovering all remaining Investiture they were infused with.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Stormlight Reclamation",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "At the start of your turn, you can end any number of infusions to regain their remaining Investiture.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 8,
+			"nbSortedHits": 8,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=talentTrees.value%3A'abrasion'&hitsPerPage=25&page=0",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"roundTrip": 60
+				},
+				"total": 1
+			},
+			"serverTimeMS": 2
+		}
+	]
+}

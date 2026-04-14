@@ -1,0 +1,823 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"2857339d-9236-4d52-9517-f0de85657410\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"distracting-illusion\" nexus=\"cosmererpg\">Distracting Illusion</tooltip> talent</p>\n<p chunk_id=\"1e6a11a0-a1a4-40bf-8ddf-f6463d4339d0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"e73e9f29-0daa-437a-8a62-da1c419c443d\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You create a brief burst of light and sound that attacks the senses of targets near you.</em></p>\n</div>\n<p chunk_id=\"f2446140-e3a5-4e49-9827-c7b1da7ffb82\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> to project a burst of light in an area within your reach, up to the size you can create with your ranks in Illumination. Make one Illumination test and compare the result against the Cognitive defense of each character in that area. If you succeed against a target, they become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"disoriented\" nexus=\"cosmererpg\">Disoriented</tooltip> until the end of their next turn.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Disorienting Flash",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 1 Investiture to project a burst of light in an area within your reach, up to the size you can create with your ranks in Illumination.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "disorienting-flash",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Illumination",
+							"value": "illumination"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"illumination": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Distracting Illusion talent",
+								"value": "distracting-illusion",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"distracting-illusion"
+					],
+					"objectID": "106060",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"2857339d-9236-4d52-9517-f0de85657410\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"distracting-illusion\" nexus=\"cosmererpg\">Distracting Illusion</tooltip> talent</p>\n<p chunk_id=\"1e6a11a0-a1a4-40bf-8ddf-f6463d4339d0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"e73e9f29-0daa-437a-8a62-da1c419c443d\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You create a brief burst of light and sound that attacks the senses of targets near you.</em></p>\n</div>\n<p chunk_id=\"f2446140-e3a5-4e49-9827-c7b1da7ffb82\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> to project a burst of light in an area within your reach, up to the size you can create with your ranks in Illumination. Make one Illumination test and compare the result against the Cognitive defense of each character in that area. If you succeed against a target, they become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"disoriented\" nexus=\"cosmererpg\">Disoriented</tooltip> until the end of their next turn.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Disorienting Flash",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 1 Investiture to project a burst of light in an area within your reach, up to the size you can create with your ranks in Illumination.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"48a753d0-e5b7-49a8-9598-13c45988becb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"3f7e48a4-d5f0-4d2e-a68d-c4ed6d82b36a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"b38bcfea-1de5-457a-bf98-cf00bd77fa78\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You create a moving, illusory copy of someone to distract your enemies.</em></p>\n</div>\n<p chunk_id=\"d6136448-e8b3-44ee-8da0-98c7cf17d857\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 Investiture to Lightweave an illusory duplicate, either of yourself or an ally you can sense within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"spren\" nexus=\"cosmererpg\">spren</tooltip> bond range. The illusion appears in that character’s space and moves with them. Attacks against that character gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> and can’t <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip>. The illusion ends after an attack misses that character or at the end of the scene.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Distracting Illusion",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You create a brief burst of light and sound that attacks the senses of targets near you.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "distracting-illusion",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Illumination",
+							"value": "illumination"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"illumination": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Illumination",
+									"value": "illumination",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-lightweaver",
+						"first-ideal-truthwatcher"
+					],
+					"objectID": "106059",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"48a753d0-e5b7-49a8-9598-13c45988becb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"3f7e48a4-d5f0-4d2e-a68d-c4ed6d82b36a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"b38bcfea-1de5-457a-bf98-cf00bd77fa78\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You create a moving, illusory copy of someone to distract your enemies.</em></p>\n</div>\n<p chunk_id=\"d6136448-e8b3-44ee-8da0-98c7cf17d857\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 Investiture to Lightweave an illusory duplicate, either of yourself or an ally you can sense within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"spren\" nexus=\"cosmererpg\">spren</tooltip> bond range. The illusion appears in that character’s space and moves with them. Attacks against that character gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> and can’t <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip>. The illusion ends after an attack misses that character or at the end of the scene.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Distracting Illusion",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You create a brief burst of light and sound that attacks the senses of targets near you.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"4ca8fac2-abc5-4271-995b-29fed2281797\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"multiplicative-lightweaving\" nexus=\"cosmererpg\">Multiplicative Lightweaving</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"spiritual-illumination\" nexus=\"cosmererpg\">Spiritual Illumination</tooltip> talent\n</p>\n<p chunk_id=\"ef2de767-e5e6-4134-ae45-b78abba702aa\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"1b9f1a96-1076-4cc6-97b3-f394f0d0a5f0\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve become so efficient at powering your illusions that you can maintain them indefinitely.</em></p>\n</div>\n<p chunk_id=\"ce9026af-535f-48c6-ae77-d318e10b4da3\" class=\"CORE-paragraph-styles_CORE-body\">While you have 1 Investiture or more, each of your Illumination infusions within your spren bond range expends no infused Investiture at the start of your turn.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Endless Illusions",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You’ve become so efficient at powering your illusions that you can maintain them indefinitely.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "endless-illusions",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Illumination",
+							"value": "illumination"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"abrasion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Multiplicative Lightweaving talent",
+									"value": "multiplicative-lightweaving",
+									"hardRule": true
+								},
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Spiritual Illumination talent",
+									"value": "spiritual-illumination",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"multiplicative-lightweaving",
+						"spiritual-illumination"
+					],
+					"objectID": "106065",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"4ca8fac2-abc5-4271-995b-29fed2281797\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"multiplicative-lightweaving\" nexus=\"cosmererpg\">Multiplicative Lightweaving</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"spiritual-illumination\" nexus=\"cosmererpg\">Spiritual Illumination</tooltip> talent\n</p>\n<p chunk_id=\"ef2de767-e5e6-4134-ae45-b78abba702aa\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"1b9f1a96-1076-4cc6-97b3-f394f0d0a5f0\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve become so efficient at powering your illusions that you can maintain them indefinitely.</em></p>\n</div>\n<p chunk_id=\"ce9026af-535f-48c6-ae77-d318e10b4da3\" class=\"CORE-paragraph-styles_CORE-body\">While you have 1 Investiture or more, each of your Illumination infusions within your spren bond range expends no infused Investiture at the start of your turn.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Endless Illusions",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You’ve become so efficient at powering your illusions that you can maintain them indefinitely.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"345c50b3-f5d1-4b91-9262-aa245a380e1f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"2215548c-b466-405f-a303-07c8a8e374a9\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"6afcba20-e4bf-4b4c-b219-db2636f09856\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You infuse spheres with your Illumination, creating illusions that linger long after you’ve moved away.</em></p>\n</div>\n<p chunk_id=\"74501c49-60a1-4fe9-89ee-98cebbdbcb19\" class=\"CORE-paragraph-styles_CORE-body\">When you Lightweave an illusion, instead of creating it in thin air, you can instead infuse its Investiture in a sphere or unencased gem within 5 feet of that illusion. For the duration, the illusion moves with the gem; for example, an ally could carry this gem to extend the duration of an illusory disguise you created for them. Instead of the infusion expending 1 Investiture per round, it expends 1 Investiture per number of rounds equal to your ranks in Illumination; for example, if you have 3 ranks in Illumination, your infusions in <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"spheres\" nexus=\"cosmererpg\">spheres</tooltip> expend Investiture once every 3 rounds.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Lingering Lightweavings",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you Lightweave an illusion, you can instead infuse its Investiture in a sphere or unencased gem within 5 feet of that illusion.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "lingering-lightweavings",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Illumination",
+							"value": "illumination"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"illumination": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Illumination",
+									"value": "illumination",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-lightweaver",
+						"first-ideal-truthwatcher"
+					],
+					"objectID": "106063",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"345c50b3-f5d1-4b91-9262-aa245a380e1f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"2215548c-b466-405f-a303-07c8a8e374a9\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"6afcba20-e4bf-4b4c-b219-db2636f09856\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You infuse spheres with your Illumination, creating illusions that linger long after you’ve moved away.</em></p>\n</div>\n<p chunk_id=\"74501c49-60a1-4fe9-89ee-98cebbdbcb19\" class=\"CORE-paragraph-styles_CORE-body\">When you Lightweave an illusion, instead of creating it in thin air, you can instead infuse its Investiture in a sphere or unencased gem within 5 feet of that illusion. For the duration, the illusion moves with the gem; for example, an ally could carry this gem to extend the duration of an illusory disguise you created for them. Instead of the infusion expending 1 Investiture per round, it expends 1 Investiture per number of rounds equal to your ranks in Illumination; for example, if you have 3 ranks in Illumination, your infusions in <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"spheres\" nexus=\"cosmererpg\">spheres</tooltip> expend Investiture once every 3 rounds.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Lingering Lightweavings",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you Lightweave an illusion, you can instead infuse its Investiture in a sphere or unencased gem within 5 feet of that illusion.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"5d6d5c24-4464-45ea-8cc4-c3d1b6378b33\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"stormlight-reclamation\" nexus=\"cosmererpg\">Stormlight Reclamation</tooltip> talent\n</p>\n<p chunk_id=\"cf025656-757c-4741-92fc-d745a57ebba2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"0c6d04ae-6ad7-476f-8aa7-3f9f7c43fa74\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You effortlessly Lightweave multiple illusions at once.</em></p>\n</div>\n<p chunk_id=\"d191ec32-fb7a-418c-951f-3d1ab5dc77c4\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you Lightweave an illusion, you can create a number of additional illusions up to your ranks in Illumination. These infusions last for the duration of the original infusion and require no additional Investiture to create or maintain.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Multiplicative Lightweaving",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you Lightweave an illusion, you can create a number of additional illusions up to your ranks in Illumination.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "multiplicative-lightweaving",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Illumination",
+							"value": "illumination"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"illumination": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Stormlight Reclamation talent",
+								"value": "stormlight-reclamation",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"stormlight-reclamation"
+					],
+					"objectID": "106064",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"5d6d5c24-4464-45ea-8cc4-c3d1b6378b33\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"stormlight-reclamation\" nexus=\"cosmererpg\">Stormlight Reclamation</tooltip> talent\n</p>\n<p chunk_id=\"cf025656-757c-4741-92fc-d745a57ebba2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"0c6d04ae-6ad7-476f-8aa7-3f9f7c43fa74\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You effortlessly Lightweave multiple illusions at once.</em></p>\n</div>\n<p chunk_id=\"d191ec32-fb7a-418c-951f-3d1ab5dc77c4\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you Lightweave an illusion, you can create a number of additional illusions up to your ranks in Illumination. These infusions last for the duration of the original infusion and require no additional Investiture to create or maintain.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Multiplicative Lightweaving",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you Lightweave an illusion, you can create a number of additional illusions up to your ranks in Illumination.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"bc119fab-3076-4877-ab29-d257b650a721\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"spiritual-illumination\" nexus=\"cosmererpg\">Spiritual Illumination</tooltip></p>\n<p chunk_id=\"76760ba8-b31e-4319-a7f4-8b43c1f7dd4b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"04ebd99d-4b17-45f9-9a54-f7c04ea13c9c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You create a haunting image of who an enemy could have been if they’d taken a better path.</em></p>\n</div>\n<p chunk_id=\"730fa97f-50b7-406a-94d3-84960f958cc6\" class=\"CORE-paragraph-styles_CORE-body\">Spend 2 Investiture and make an Illumination test against the Spiritual defense of a target you can sense within your spren bond range. On a success, they stumble in shock, becoming <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"slowed\" nexus=\"cosmererpg\">Slowed</tooltip> until the end of their next turn.</p>\n<p chunk_id=\"b29006ad-c636-4b35-a6e5-e4c499adddcf\" class=\"CORE-paragraph-styles_CORE-body\">At the start of the target’s next turn, they must either spend focus equal to your ranks in Illumination to end this effect as ▷, or immediately use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"move\" nexus=\"cosmererpg\">Move</tooltip> action to move as far as possible away from you.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Painful Truth",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You create a haunting image of who an enemy could have been if they’d taken a better path.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "painful-truth",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Illumination",
+							"value": "illumination"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"illumination": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Spiritual Illumination talent",
+								"value": "spiritual-illumination",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"objectID": "106062",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"bc119fab-3076-4877-ab29-d257b650a721\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"spiritual-illumination\" nexus=\"cosmererpg\">Spiritual Illumination</tooltip></p>\n<p chunk_id=\"76760ba8-b31e-4319-a7f4-8b43c1f7dd4b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"04ebd99d-4b17-45f9-9a54-f7c04ea13c9c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You create a haunting image of who an enemy could have been if they’d taken a better path.</em></p>\n</div>\n<p chunk_id=\"730fa97f-50b7-406a-94d3-84960f958cc6\" class=\"CORE-paragraph-styles_CORE-body\">Spend 2 Investiture and make an Illumination test against the Spiritual defense of a target you can sense within your spren bond range. On a success, they stumble in shock, becoming <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"slowed\" nexus=\"cosmererpg\">Slowed</tooltip> until the end of their next turn.</p>\n<p chunk_id=\"b29006ad-c636-4b35-a6e5-e4c499adddcf\" class=\"CORE-paragraph-styles_CORE-body\">At the start of the target’s next turn, they must either spend focus equal to your ranks in Illumination to end this effect as ▷, or immediately use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"move\" nexus=\"cosmererpg\">Move</tooltip> action to move as far as possible away from you.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Painful Truth",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You create a haunting image of who an enemy could have been if they’d taken a better path.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"cc49cccf-b964-4486-a3bd-7d9bca36464b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"disorienting-flash\" nexus=\"cosmererpg\">Disorienting Flash</tooltip> talent\n</p>\n<p chunk_id=\"387180b3-a6eb-42ba-81c1-da75064baa12\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"c287b0e7-88bf-4cc1-81df-38e142994fc1\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You use Lightweaving to show your allies inspiring possibilities of who they could become.</em></p>\n</div>\n<p chunk_id=\"1630e6c1-7944-4066-8472-bf1b7147fa9a\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">Spend 2 Investiture to create a momentary Lightweaving near an ally you can sense within your spren bond range. That ally becomes <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"determined\" nexus=\"cosmererpg\">Determined</tooltip> and <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"focused\" nexus=\"cosmererpg\">Focused</tooltip> until the end of their next turn.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Spiritual Illumination",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 2 Investiture to create a momentary Lightweaving near an ally you can sense within your spren bond range.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "spiritual-illumination",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Illumination",
+							"value": "illumination"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"illumination": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Disorienting Flash talent",
+								"value": "disorienting-flash",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"disorienting-flash"
+					],
+					"objectID": "106061",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"cc49cccf-b964-4486-a3bd-7d9bca36464b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"disorienting-flash\" nexus=\"cosmererpg\">Disorienting Flash</tooltip> talent\n</p>\n<p chunk_id=\"387180b3-a6eb-42ba-81c1-da75064baa12\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"c287b0e7-88bf-4cc1-81df-38e142994fc1\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You use Lightweaving to show your allies inspiring possibilities of who they could become.</em></p>\n</div>\n<p chunk_id=\"1630e6c1-7944-4066-8472-bf1b7147fa9a\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">Spend 2 Investiture to create a momentary Lightweaving near an ally you can sense within your spren bond range. That ally becomes <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"determined\" nexus=\"cosmererpg\">Determined</tooltip> and <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"focused\" nexus=\"cosmererpg\">Focused</tooltip> until the end of their next turn.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Spiritual Illumination",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 2 Investiture to create a momentary Lightweaving near an ally you can sense within your spren bond range.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"70c004dd-69b8-4710-b3e3-5eb421cb3d14\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies\n</p>\n<p chunk_id=\"f1ab27a0-86e3-47a9-a776-0cdc3d515263\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"722c41e7-0e3a-4ea3-a111-a84bd2bca6dc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can reclaim Stormlight from active infusions.</em></p>\n</div>\n<p chunk_id=\"eb779919-ef2b-4ac3-b364-5a7ed67ac868\" class=\"CORE-paragraph-styles_CORE-body\">After your infusions expend their infused Investiture at the start of your turn, you can end any number of those infusions within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip>, recovering all remaining Investiture they were infused with.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Stormlight Reclamation",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "At the start of your turn, you can end any number of infusions to regain their remaining Investiture.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "stormlight-reclamation",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Abrasion",
+							"value": "abrasion"
+						},
+						{
+							"name": "Illumination",
+							"value": "illumination"
+						},
+						{
+							"name": "Tension",
+							"value": "tension"
+						},
+						{
+							"name": "Adhesion",
+							"value": "adhesion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"tension": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Tension",
+									"value": "tension",
+									"hardRule": true
+								}
+							]
+						],
+						"abrasion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Reverse Abrasion talent",
+									"value": "reverse-abrasion",
+									"hardRule": true
+								}
+							]
+						],
+						"adhesion": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Adhesion",
+									"value": "adhesion",
+									"hardRule": true
+								}
+							]
+						],
+						"illusion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Distracting Illusion talent",
+									"value": "distracting-illusion",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Free action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"reverse-abrasion",
+						"distracting-illusion",
+						"speak-the-first-ideal-stoneward",
+						"speak-the-first-ideal-windrunner"
+					],
+					"objectID": "106007",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"70c004dd-69b8-4710-b3e3-5eb421cb3d14\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies\n</p>\n<p chunk_id=\"f1ab27a0-86e3-47a9-a776-0cdc3d515263\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"722c41e7-0e3a-4ea3-a111-a84bd2bca6dc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can reclaim Stormlight from active infusions.</em></p>\n</div>\n<p chunk_id=\"eb779919-ef2b-4ac3-b364-5a7ed67ac868\" class=\"CORE-paragraph-styles_CORE-body\">After your infusions expend their infused Investiture at the start of your turn, you can end any number of those infusions within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip>, recovering all remaining Investiture they were infused with.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Stormlight Reclamation",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "At the start of your turn, you can end any number of infusions to regain their remaining Investiture.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 8,
+			"nbSortedHits": 8,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=talentTrees.value%3A'illumination'&hitsPerPage=25&page=0",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"roundTrip": 58
+				},
+				"total": 0
+			},
+			"serverTimeMS": 1
+		}
+	]
+}

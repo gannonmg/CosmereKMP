@@ -1,0 +1,2385 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"field-medicine\" nexus=\"cosmererpg\">Field Medicine</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>Your knowledge of anatomy aids you in striking vital points to incapacitate your enemies while minimizing permanent harm.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you hit a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> of your size or smaller with an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"unarmed-attacks\" nexus=\"cosmererpg\">unarmed attack</tooltip>, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> or <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> to apply the <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"exhausted\" nexus=\"cosmererpg\">Exhausted</tooltip> condition to your target. The penalty applied by this condition equals half your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"medicine\" nexus=\"cosmererpg\">Medicine</tooltip>, rounded up.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Anatomical Insight",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you hit with an unarmed attack, spend 1 focus or an Opportunity to make the target Exhausted [− half your ranks in Medicine].",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "anatomical-insight",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Surgeon",
+							"value": "surgeon"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"surgeon": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Field Medicine talent",
+									"value": "field-medicine",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"field-medicine"
+					],
+					"objectID": "105968",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"field-medicine\" nexus=\"cosmererpg\">Field Medicine</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>Your knowledge of anatomy aids you in striking vital points to incapacitate your enemies while minimizing permanent harm.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you hit a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> of your size or smaller with an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"unarmed-attacks\" nexus=\"cosmererpg\">unarmed attack</tooltip>, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> or <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> to apply the <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"exhausted\" nexus=\"cosmererpg\">Exhausted</tooltip> condition to your target. The penalty applied by this condition equals half your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"medicine\" nexus=\"cosmererpg\">Medicine</tooltip>, rounded up.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Anatomical Insight",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you hit with an unarmed attack, spend 1 focus or an Opportunity to make the target Exhausted [− half your ranks in Medicine].",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"collected\" nexus=\"cosmererpg\">Collected</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>You’ve studied chemistry, anatomy, social behavior, and much more. Thanks to this broad foundation, you practice the complex art of healing with flexibility and confidence.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you cause a character to recover <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip>, they recover additional health equal to your ranks in Lore.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Applied Medicine",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Your healing abilities restore additional health equal to your ranks in Lore.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "applied-medicine",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Surgeon",
+							"value": "surgeon"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"surgeon": [
+							{
+								"rank": 2,
+								"type": "skill",
+								"label": "Lore 2+",
+								"value": "lore",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Collected talent",
+								"value": "collected",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"collected"
+					],
+					"objectID": "105970",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"collected\" nexus=\"cosmererpg\">Collected</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>You’ve studied chemistry, anatomy, social behavior, and much more. Thanks to this broad foundation, you practice the complex art of healing with flexibility and confidence.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you cause a character to recover <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip>, they recover additional health equal to your ranks in Lore.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Applied Medicine",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Your healing abilities restore additional health equal to your ranks in Lore.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"6f49e721-b5a1-4645-b02a-c8195af78958\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"7da97257-db5b-4bd3-98f5-bbe56fc3df21\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You remain mindful of your immediate goals without losing sight of your deeper value, keeping you even-keeled amid chaos.</em></p>\n</div>\n<p chunk_id=\"120b66b0-5e19-4a79-a58e-6cf847b7051e\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, increase your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Cognitive and Spiritual defenses</tooltip> by 2.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Agent (Spy) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"sure-outcome-playtest\" nexus=\"cosmererpg\">Sure Outcome</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Envoy (Diplomat) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence-playtest\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent</p><p class=\"talent-prerequisite\"><strong>Scholar (Surgeon) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"emotional-intelligence-playtest\" nexus=\"cosmererpg\">Emotional Intelligence</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Collected",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Increase your Cognitive and Spiritual defenses by 2.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "collected",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Agent",
+							"value": "agent"
+						},
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						},
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Spy",
+							"value": "spy"
+						},
+						{
+							"name": "Diplomat",
+							"value": "diplomat"
+						},
+						{
+							"name": "Surgeon",
+							"value": "surgeon"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"spy": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Sure Outcome talent",
+									"value": "sure-outcome",
+									"hardRule": true
+								}
+							]
+						],
+						"surgeon": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Emotional Intelligence talent",
+									"value": "emotional-intelligence",
+									"hardRule": true
+								}
+							]
+						],
+						"diplomat": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Rousing Presence key talent",
+									"value": "rousing-presence",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"sure-outcome",
+						"emotional-intelligence",
+						"rousing-presence"
+					],
+					"objectID": "105873",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"6f49e721-b5a1-4645-b02a-c8195af78958\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"7da97257-db5b-4bd3-98f5-bbe56fc3df21\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You remain mindful of your immediate goals without losing sight of your deeper value, keeping you even-keeled amid chaos.</em></p>\n</div>\n<p chunk_id=\"120b66b0-5e19-4a79-a58e-6cf847b7051e\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, increase your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Cognitive and Spiritual defenses</tooltip> by 2.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Agent (Spy) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"sure-outcome-playtest\" nexus=\"cosmererpg\">Sure Outcome</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Envoy (Diplomat) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence-playtest\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent</p><p class=\"talent-prerequisite\"><strong>Scholar (Surgeon) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"emotional-intelligence-playtest\" nexus=\"cosmererpg\">Emotional Intelligence</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Collected",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Increase your Cognitive and Spiritual defenses by 2.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>Through practiced composure, you push your limits without becoming distracted or losing track of threats.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your maximum and current <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> increase by a number equal to your tier. When your tier increases by 1, your maximum and current focus do as well.</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"galvanize\" nexus=\"cosmererpg\">Galvanize</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Leader (Officer) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Scholar (Strategist) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"strategize\" nexus=\"cosmererpg\">Strategize</tooltip> talent</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Composed",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Increase your max and current focus by your tier.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "composed",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						},
+						{
+							"name": "Leader",
+							"value": "leader"
+						},
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Faithful",
+							"value": "faithful"
+						},
+						{
+							"name": "Officer",
+							"value": "officer"
+						},
+						{
+							"name": "Strategist",
+							"value": "strategist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"officer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Decisive Command key talent",
+									"value": "decisive-command",
+									"hardRule": true
+								}
+							]
+						],
+						"faithful": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Galvanize talent",
+									"value": "galvanize",
+									"hardRule": true
+								}
+							]
+						],
+						"strategist": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Strategize talent",
+									"value": "strategize",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"galvanize",
+						"decisive-command",
+						"strategize"
+					],
+					"objectID": "105897",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>Through practiced composure, you push your limits without becoming distracted or losing track of threats.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your maximum and current <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> increase by a number equal to your tier. When your tier increases by 1, your maximum and current focus do as well.</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"galvanize\" nexus=\"cosmererpg\">Galvanize</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Leader (Officer) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Scholar (Strategist) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"strategize\" nexus=\"cosmererpg\">Strategize</tooltip> talent</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Composed",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Increase your max and current focus by your tier.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"composed\" nexus=\"cosmererpg\">Composed</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span></p>\n<div class=\"lore-block\">\n<p><em>History is strewn with the debris of those who failed to learn from the past. You’re determined not to join them, so you prepare for anything that might derail your plans.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">After an ally you can influence within 20 feet of you rolls a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"complications\" nexus=\"cosmererpg\">Complication</tooltip>, you can use this reaction and spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to remove a Complication from their test.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Contingency",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 2 focus to remove a Complication from the test of an ally within 20 feet.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "contingency",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Strategist",
+							"value": "strategist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"strategist": [
+							{
+								"rank": 3,
+								"type": "skill",
+								"label": "Lore 3+",
+								"value": "lore",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Composed talent",
+								"value": "composed",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": "",
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Reaction",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"composed"
+					],
+					"objectID": "105964",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"composed\" nexus=\"cosmererpg\">Composed</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span></p>\n<div class=\"lore-block\">\n<p><em>History is strewn with the debris of those who failed to learn from the past. You’re determined not to join them, so you prepare for anything that might derail your plans.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">After an ally you can influence within 20 feet of you rolls a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"complications\" nexus=\"cosmererpg\">Complication</tooltip>, you can use this reaction and spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to remove a Complication from their test.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Contingency",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 2 focus to remove a Complication from the test of an ally within 20 feet.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"composed\" nexus=\"cosmererpg\">Composed</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div class=\"lore-block\">\n<p><em>You methodically search your mental archives for facts and information to help resolve your current situation.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">Reassign up to 2 of the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skills\" nexus=\"cosmererpg\">skills</tooltip> and <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"expertises\" nexus=\"cosmererpg\">expertises</tooltip> gained from your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"erudition\" nexus=\"cosmererpg\">Erudition</tooltip>.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Deep Contemplation",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Reassign up to 2 skills and expertises from Erudition.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "deep-contemplation",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Strategist",
+							"value": "strategist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"strategist": [
+							{
+								"rank": 2,
+								"type": "skill",
+								"label": "Lore 2+",
+								"value": "lore",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Composed talent",
+								"value": "composed",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"composed"
+					],
+					"objectID": "105962",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"composed\" nexus=\"cosmererpg\">Composed</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div class=\"lore-block\">\n<p><em>You methodically search your mental archives for facts and information to help resolve your current situation.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">Reassign up to 2 of the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skills\" nexus=\"cosmererpg\">skills</tooltip> and <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"expertises\" nexus=\"cosmererpg\">expertises</tooltip> gained from your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"erudition\" nexus=\"cosmererpg\">Erudition</tooltip>.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Deep Contemplation",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Reassign up to 2 skills and expertises from Erudition.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"efficient-engineer\" nexus=\"cosmererpg\">Efficient Engineer</tooltip> talent\n</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>Driven by academic inquiry, you love nothing more than getting lost in an archive of books, scrolls, and dusty secrets.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"erudition\" nexus=\"cosmererpg\">Erudition</tooltip> talent grants you one additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"cultural-expertises\" nexus=\"cosmererpg\">cultural</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip>, and it grants you two additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">cognitive skills</tooltip> that aren’t surge skills. You can reassign these in the same way as the others you gained from that talent.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Deep Study",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Erudition grants you an additional cultural or utility expertise and two additional non-surge cognitive skills.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "deep-study",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Artifabrian",
+							"value": "artifabrian"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"artifabrian": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Efficient Engineer talent",
+									"value": "efficient-engineer",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"efficient-engineer"
+					],
+					"objectID": "105953",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"efficient-engineer\" nexus=\"cosmererpg\">Efficient Engineer</tooltip> talent\n</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>Driven by academic inquiry, you love nothing more than getting lost in an archive of books, scrolls, and dusty secrets.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"erudition\" nexus=\"cosmererpg\">Erudition</tooltip> talent grants you one additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"cultural-expertises\" nexus=\"cosmererpg\">cultural</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip>, and it grants you two additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">cognitive skills</tooltip> that aren’t surge skills. You can reassign these in the same way as the others you gained from that talent.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Deep Study",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Erudition grants you an additional cultural or utility expertise and two additional non-surge cognitive skills.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"crafting\" nexus=\"cosmererpg\">Crafting</tooltip> 1+; Erudition key talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p class=\"\"><em>Solid work begins with practice and fundamentals like measuring twice before each cut. You’ve put in the hours, sweat, tears, and occasional blood to learn the basic tricks of the tinkerer’s trade.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> in Armor Crafting, Equipment Crafting, or Weapon Crafting. You also gain one of the following from <a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-7-items/#Chapter7Items\" title=\"chapter 7\">chapter 7</a>:</p>\n<ul>\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">An <tooltip category=\"item\" class=\"tooltip-convert\" element=\"painrial-amplifying\" nexus=\"cosmererpg\"><strong><em>amplifying painrial</em></strong></tooltip></li>\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">A <tooltip category=\"item\" class=\"tooltip-convert\" element=\"painrial-numbing\" nexus=\"cosmererpg\"><strong><em>numbing painrial</em></strong></tooltip></li>\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">A pair of <tooltip category=\"item\" class=\"tooltip-convert\" element=\"spanreed-1-pair\" nexus=\"cosmererpg\"><strong><em>spanreeds</em></strong></tooltip> plus an <tooltip category=\"item\" class=\"tooltip-convert\" element=\"emotion-bracelet\" nexus=\"cosmererpg\"><strong><em>emotion bracelet</em></strong></tooltip></li>\n</ul>\n<p class=\"CORE-paragraph-styles_CORE-body\">Additionally, when you attempt to craft an item or invent a fabrial (see “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-7-items/#Crafting\">Crafting</a>” in chapter 7), your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip> range on those tests expands by 2, and any cost to acquire raw materials is reduced by half.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Efficient Engineer",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Gain expertise in Armor Crafting, Equipment Crafting, or Weapon Crafting, and gain a fabrial. When crafting, your Opportunity range expands by 2 and your material cost is halved.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "efficient-engineer",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Artifabrian",
+							"value": "artifabrian"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"artifabrian": [
+							{
+								"rank": 1,
+								"type": "skill",
+								"label": "Crafting 1+",
+								"value": "crafting",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Erudition key talent",
+								"value": "erudition",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"erudition"
+					],
+					"objectID": "105951",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"crafting\" nexus=\"cosmererpg\">Crafting</tooltip> 1+; Erudition key talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p class=\"\"><em>Solid work begins with practice and fundamentals like measuring twice before each cut. You’ve put in the hours, sweat, tears, and occasional blood to learn the basic tricks of the tinkerer’s trade.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> in Armor Crafting, Equipment Crafting, or Weapon Crafting. You also gain one of the following from <a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-7-items/#Chapter7Items\" title=\"chapter 7\">chapter 7</a>:</p>\n<ul>\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">An <tooltip category=\"item\" class=\"tooltip-convert\" element=\"painrial-amplifying\" nexus=\"cosmererpg\"><strong><em>amplifying painrial</em></strong></tooltip></li>\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">A <tooltip category=\"item\" class=\"tooltip-convert\" element=\"painrial-numbing\" nexus=\"cosmererpg\"><strong><em>numbing painrial</em></strong></tooltip></li>\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">A pair of <tooltip category=\"item\" class=\"tooltip-convert\" element=\"spanreed-1-pair\" nexus=\"cosmererpg\"><strong><em>spanreeds</em></strong></tooltip> plus an <tooltip category=\"item\" class=\"tooltip-convert\" element=\"emotion-bracelet\" nexus=\"cosmererpg\"><strong><em>emotion bracelet</em></strong></tooltip></li>\n</ul>\n<p class=\"CORE-paragraph-styles_CORE-body\">Additionally, when you attempt to craft an item or invent a fabrial (see “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-7-items/#Crafting\">Crafting</a>” in chapter 7), your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip> range on those tests expands by 2, and any cost to acquire raw materials is reduced by half.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Efficient Engineer",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Gain expertise in Armor Crafting, Equipment Crafting, or Weapon Crafting, and gain a fabrial. When crafting, your Opportunity range expands by 2 and your material cost is halved.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"erudition\" nexus=\"cosmererpg\">Erudition</tooltip> key talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>You hone your intuition and understanding of others, enabling you to spot easy-to-miss signs of hidden exclude-from-nav symptoms and complicated feelings.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your Erudition talent grants you an additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skills\" nexus=\"cosmererpg\">skill</tooltip>, and you can use Erudition to choose <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">spiritual</tooltip> skills that aren’t surges.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> Additionally, you gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> in Diagnosis.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Emotional Intelligence",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Gain Diagnosis expertise. Gain an additional skill from Erudition. You can now choose spiritual skills with Erudition.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "emotional-intelligence",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Surgeon",
+							"value": "surgeon"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"surgeon": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Erudition key talent",
+									"value": "erudition",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"erudition"
+					],
+					"objectID": "105967",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"erudition\" nexus=\"cosmererpg\">Erudition</tooltip> key talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>You hone your intuition and understanding of others, enabling you to spot easy-to-miss signs of hidden exclude-from-nav symptoms and complicated feelings.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your Erudition talent grants you an additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skills\" nexus=\"cosmererpg\">skill</tooltip>, and you can use Erudition to choose <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">spiritual</tooltip> skills that aren’t surges.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> Additionally, you gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> in Diagnosis.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Emotional Intelligence",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Gain Diagnosis expertise. Gain an additional skill from Erudition. You can now choose spiritual skills with Erudition.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> none</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>You’ve conditioned your mind to quickly assimilate, archive, and recall information. After brief but intensive study, you can navigate your newest areas of focus with impressive proficiency.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you become adroit at mental organization. Choose one <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"cultural-expertises\" nexus=\"cosmererpg\">cultural</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> you don’t already have, and choose two different <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">cognitive </tooltip>skills that aren’t surge skills.</p>\n<p class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> When you make a test, you count as having the chosen <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"expertises\" nexus=\"cosmererpg\">expertise</tooltip>, and you count as having one additional rank of each of the chosen skills.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> You can use this talent to gain skill ranks even if they exceed your usual maximum for skill ranks. This talent’s expertise and skill ranks are temporary and don’t count toward prerequisites.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> After a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"long-rest\" nexus=\"cosmererpg\">long rest</tooltip> during which you had access to a library, you can reassign any expertises and skill ranks granted by this talent. Follow the same rules to choose them as you did when you gained this talent.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Erudition",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Temporarily gain a cultural or utility expertise and a rank in two non-surge cognitive skills. Reassign these after a long rest with library access.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "erudition",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"hasPrerequisites": false,
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"objectID": "105950",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> none</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>You’ve conditioned your mind to quickly assimilate, archive, and recall information. After brief but intensive study, you can navigate your newest areas of focus with impressive proficiency.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you become adroit at mental organization. Choose one <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"cultural-expertises\" nexus=\"cosmererpg\">cultural</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> you don’t already have, and choose two different <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">cognitive </tooltip>skills that aren’t surge skills.</p>\n<p class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> When you make a test, you count as having the chosen <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"expertises\" nexus=\"cosmererpg\">expertise</tooltip>, and you count as having one additional rank of each of the chosen skills.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> You can use this talent to gain skill ranks even if they exceed your usual maximum for skill ranks. This talent’s expertise and skill ranks are temporary and don’t count toward prerequisites.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> After a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"long-rest\" nexus=\"cosmererpg\">long rest</tooltip> during which you had access to a library, you can reassign any expertises and skill ranks granted by this talent. Follow the same rules to choose them as you did when you gained this talent.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Erudition",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Temporarily gain a cultural or utility expertise and a rank in two non-surge cognitive skills. Reassign these after a long rest with library access.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"fine-handiwork\" nexus=\"cosmererpg\">Fine Handiwork</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>You’ve honed your instinct for when to sacrifice one feature to enhance another; after all, invention relies not only on ingenious breakthroughs, but also on carefully balanced tradeoffs.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"crafting\" nexus=\"cosmererpg\">craft</tooltip> an item or invent a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"fabrials\" nexus=\"cosmererpg\">fabrial</tooltip>, your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip> range on those tests expands by 1, and your crafting time is halved.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> Additionally, you can forgo the usual benefits of a long rest to instead spend that time tinkering with a fabrial that uses your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"prized-acquisition\" nexus=\"cosmererpg\">Prized Acquisition</tooltip> gem. After that long rest, you can attempt to reconfigure this fabrial to create a different fabrial of the same tier or lower; this follows the normal crafting process, except you don’t need new materials and you ignore the usual time requirement for attracting a spren and crafting the fabrial. If you fail your Lore test to trap a spren, your previous fabrial remains intact, but you can’t use this talent to reconfigure a fabrial again until your next long rest. After you finish crafting a new fabrial using this talent, the old fabrial is lost.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Experimental Tinkering",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When crafting, your Opportunity range expands by 1 and your crafting time is halved. During a long rest, you can reconfigure your Prized Acquisition fabrial to a different fabrial.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "experimental-tinkering",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Artifabrian",
+							"value": "artifabrian"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"artifabrian": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Fine Handiwork talent",
+									"value": "fine-handiwork",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"fine-handiwork"
+					],
+					"objectID": "105957",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"fine-handiwork\" nexus=\"cosmererpg\">Fine Handiwork</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>You’ve honed your instinct for when to sacrifice one feature to enhance another; after all, invention relies not only on ingenious breakthroughs, but also on carefully balanced tradeoffs.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"crafting\" nexus=\"cosmererpg\">craft</tooltip> an item or invent a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"fabrials\" nexus=\"cosmererpg\">fabrial</tooltip>, your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip> range on those tests expands by 1, and your crafting time is halved.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> Additionally, you can forgo the usual benefits of a long rest to instead spend that time tinkering with a fabrial that uses your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"prized-acquisition\" nexus=\"cosmererpg\">Prized Acquisition</tooltip> gem. After that long rest, you can attempt to reconfigure this fabrial to create a different fabrial of the same tier or lower; this follows the normal crafting process, except you don’t need new materials and you ignore the usual time requirement for attracting a spren and crafting the fabrial. If you fail your Lore test to trap a spren, your previous fabrial remains intact, but you can’t use this talent to reconfigure a fabrial again until your next long rest. After you finish crafting a new fabrial using this talent, the old fabrial is lost.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Experimental Tinkering",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When crafting, your Opportunity range expands by 1 and your crafting time is halved. During a long rest, you can reconfigure your Prized Acquisition fabrial to a different fabrial.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"medicine\" nexus=\"cosmererpg\">Medicine</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"erudition\" nexus=\"cosmererpg\">Erudition</tooltip> key talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div class=\"lore-block\">\n<p><em>You treat a minor wound by bandaging a gash, applying salves, or resetting a dislocated joint.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a DC 15 Medicine test to treat a conscious willing character within your reach, and roll the target’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"recovery-die\" nexus=\"cosmererpg\">recovery die</tooltip> as part of this test. You gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> if you’re treating yourself. On a success, your target recovers <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip> equal to the result of their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"recovery-die\" nexus=\"cosmererpg\">recovery die</tooltip> + your ranks in Medicine. On a failure, your target only recovers health equal to the result of their recovery die.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Field Medicine",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 1 focus and test Medicine (DC 15) to heal a conscious character. On success, add your ranks in Medicine to their recovery die.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "field-medicine",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Surgeon",
+							"value": "surgeon"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"surgeon": [
+							{
+								"rank": 1,
+								"type": "skill",
+								"label": "Medicine 1+",
+								"value": "medicine",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Erudition key talent",
+								"value": "erudition",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"erudition"
+					],
+					"objectID": "105966",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"medicine\" nexus=\"cosmererpg\">Medicine</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"erudition\" nexus=\"cosmererpg\">Erudition</tooltip> key talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div class=\"lore-block\">\n<p><em>You treat a minor wound by bandaging a gash, applying salves, or resetting a dislocated joint.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a DC 15 Medicine test to treat a conscious willing character within your reach, and roll the target’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"recovery-die\" nexus=\"cosmererpg\">recovery die</tooltip> as part of this test. You gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> if you’re treating yourself. On a success, your target recovers <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip> equal to the result of their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"recovery-die\" nexus=\"cosmererpg\">recovery die</tooltip> + your ranks in Medicine. On a failure, your target only recovers health equal to the result of their recovery die.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Field Medicine",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 1 focus and test Medicine (DC 15) to heal a conscious character. On success, add your ranks in Medicine to their recovery die.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"efficient-engineer\" nexus=\"cosmererpg\">Efficient Engineer</tooltip> talent\n</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>Your dedication to quality and love for innovation ensure that your designs stand out from the crowd.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"crafting\" nexus=\"cosmererpg\">craft</tooltip> an item or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"inventing-unique-fabrials\" nexus=\"cosmererpg\">invent</tooltip> a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"fabrials\" nexus=\"cosmererpg\">fabrial</tooltip>, you can spend one upgrade to apply an advanced feature, instead of spending two upgrades. You can only benefit from this talent once per item.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Fine Handiwork",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When crafting, advanced features cost one upgrade instead of two.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "fine-handiwork",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Artifabrian",
+							"value": "artifabrian"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"artifabrian": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Efficient Engineer talent",
+									"value": "efficient-engineer",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"efficient-engineer"
+					],
+					"objectID": "105955",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"efficient-engineer\" nexus=\"cosmererpg\">Efficient Engineer</tooltip> talent\n</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>Your dedication to quality and love for innovation ensure that your designs stand out from the crowd.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"crafting\" nexus=\"cosmererpg\">craft</tooltip> an item or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"inventing-unique-fabrials\" nexus=\"cosmererpg\">invent</tooltip> a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"fabrials\" nexus=\"cosmererpg\">fabrial</tooltip>, you can spend one upgrade to apply an advanced feature, instead of spending two upgrades. You can only benefit from this talent once per item.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Fine Handiwork",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When crafting, advanced features cost one upgrade instead of two.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"crafting\" nexus=\"cosmererpg\">Crafting</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"prized-acquisition\" nexus=\"cosmererpg\">Prized Acquisition</tooltip> talent\n</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>Your custom fabrials often integrate novel functionalities thanks to your deep knowledge of the stone with which you most commonly work.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"crafting\" nexus=\"cosmererpg\">craft</tooltip> a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"fabrials\" nexus=\"cosmererpg\">fabrial</tooltip> using your gemstone from your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"prized-acquisition\" nexus=\"cosmererpg\">Prized Acquisition</tooltip>, you can select an effect of 1 tier higher than the tier you’re currently crafting.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Inventive Design",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Your Prized Acquisition fabrial can have an effect 1 tier higher than the tier you’re currently crafting.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "inventive-design",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Artifabrian",
+							"value": "artifabrian"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"artifabrian": [
+							{
+								"rank": 2,
+								"type": "skill",
+								"label": "Crafting 2+",
+								"value": "crafting",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Prized Acquisition talent",
+								"value": "prized-acquisition",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"prized-acquisition"
+					],
+					"objectID": "105954",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"crafting\" nexus=\"cosmererpg\">Crafting</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"prized-acquisition\" nexus=\"cosmererpg\">Prized Acquisition</tooltip> talent\n</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>Your custom fabrials often integrate novel functionalities thanks to your deep knowledge of the stone with which you most commonly work.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"crafting\" nexus=\"cosmererpg\">craft</tooltip> a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"fabrials\" nexus=\"cosmererpg\">fabrial</tooltip> using your gemstone from your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"prized-acquisition\" nexus=\"cosmererpg\">Prized Acquisition</tooltip>, you can select an effect of 1 tier higher than the tier you’re currently crafting.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Inventive Design",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Your Prized Acquisition fabrial can have an effect 1 tier higher than the tier you’re currently crafting.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\">Prerequisite:\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"deep-contemplation\" nexus=\"cosmererpg\">Deep Contemplation</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>Everyone has weaknesses—and you have a knack for uncovering and exploiting them.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">After you succeed on a test to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip>, you exploit one of your target’s crucial traits, strengths, or flaws. Unless the target resists your influence, they gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> on their next test during this encounter.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Keen Insight",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After you Gain Advantage, the target must resist your influence or gain a disadvantage on their next test.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "keen-insight",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Strategist",
+							"value": "strategist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"strategist": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Deep Contemplation talent",
+									"value": "deep-contemplation",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"deep-contemplation"
+					],
+					"objectID": "105963",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\">Prerequisite:\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"deep-contemplation\" nexus=\"cosmererpg\">Deep Contemplation</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>Everyone has weaknesses—and you have a knack for uncovering and exploiting them.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">After you succeed on a test to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip>, you exploit one of your target’s crucial traits, strengths, or flaws. Unless the target resists your influence, they gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> on their next test during this encounter.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Keen Insight",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After you Gain Advantage, the target must resist your influence or gain a disadvantage on their next test.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deduction\" nexus=\"cosmererpg\">Deduction</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"mind-and-body\" nexus=\"cosmererpg\">Mind and Body</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>Conflict follows its own beat, rising and falling as powers struggle for dominance. Your knowledge of strategy, rhetoric, and history guides you on when to act for greatest effect.</em></p>\n</div>\n<p chunk_id=\"16cb833c-d8e8-425c-ad48-e586ff84b8c4\" class=\"CORE-paragraph-styles_CORE-body\">After the beginning of each <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">round</tooltip>, each of your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> increases by 2 until the start of your turn.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Know Your Moment",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Your defenses increase by 2 from the start of each round until you take your turn.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "know-your-moment",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Strategist",
+							"value": "strategist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"strategist": [
+							{
+								"rank": 2,
+								"type": "skill",
+								"label": "Deduction 2+",
+								"value": "deduction",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Mind and Body talent",
+								"value": "mind-and-body",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"mind-and-body"
+					],
+					"objectID": "105961",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deduction\" nexus=\"cosmererpg\">Deduction</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"mind-and-body\" nexus=\"cosmererpg\">Mind and Body</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>Conflict follows its own beat, rising and falling as powers struggle for dominance. Your knowledge of strategy, rhetoric, and history guides you on when to act for greatest effect.</em></p>\n</div>\n<p chunk_id=\"16cb833c-d8e8-425c-ad48-e586ff84b8c4\" class=\"CORE-paragraph-styles_CORE-body\">After the beginning of each <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">round</tooltip>, each of your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> increases by 2 until the start of your turn.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Know Your Moment",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Your defenses increase by 2 from the start of each round until you take your turn.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"erudition\" nexus=\"cosmererpg\">Erudition</tooltip> key talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>You expand your intensive studies to include martial arts and fitness in addition to the cerebral arts.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your Erudition talent grants you an additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skills\" nexus=\"cosmererpg\">skill</tooltip>, and you can use Erudition to choose physical <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skills\" nexus=\"cosmererpg\">skills</tooltip> that aren’t surges.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> Additionally, gain one <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapon-expertises\" nexus=\"cosmererpg\">weapon expertise</tooltip> of your choice.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Mind and Body",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Gain a weapon expertise. Gain an additional skill from Erudition. You can now choose physical skills with Erudition.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "mind-and-body",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Strategist",
+							"value": "strategist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"strategist": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Erudition key talent",
+									"value": "erudition",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"erudition"
+					],
+					"objectID": "105960",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"erudition\" nexus=\"cosmererpg\">Erudition</tooltip> key talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>You expand your intensive studies to include martial arts and fitness in addition to the cerebral arts.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your Erudition talent grants you an additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skills\" nexus=\"cosmererpg\">skill</tooltip>, and you can use Erudition to choose physical <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skills\" nexus=\"cosmererpg\">skills</tooltip> that aren’t surges.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> Additionally, gain one <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapon-expertises\" nexus=\"cosmererpg\">weapon expertise</tooltip> of your choice.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Mind and Body",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Gain a weapon expertise. Gain an additional skill from Erudition. You can now choose physical skills with Erudition.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"swift-healer\" nexus=\"cosmererpg\">Swift Healer</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>Medical care can be an arduous process that requires patience and periodic reassessment. You’ve studied the connection between physical and mental health, learning to support both on the long road to recovery.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">You can forgo the usual benefits of a short or long rest to instead spend that time treating an ally within your reach. After that <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"resting\" nexus=\"cosmererpg\">rest</tooltip>, make a DC 10 <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"medicine\" nexus=\"cosmererpg\">Medicine</tooltip> test, increasing the difficulty by 5 for each injury the target has beyond the first. On a success, you remove a single <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"conditions\" nexus=\"cosmererpg\">condition</tooltip> or similar effect caused by one of the target’s injuries (but the injury itself remains until healed). A <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> can’t benefit from this talent more than once every 24 hours.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> in Mental Health Care.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Ongoing Care",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Gain Mental Health Care expertise. During a rest, test Medicine (DC 10) to treat an ally, removing one condition caused by their injury.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "ongoing-care",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Surgeon",
+							"value": "surgeon"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"surgeon": [
+							{
+								"rank": 3,
+								"type": "skill",
+								"label": "Lore 3+",
+								"value": "lore",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Swift Healer talent",
+								"value": "swift-healer",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"swift-healer"
+					],
+					"objectID": "105971",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"swift-healer\" nexus=\"cosmererpg\">Swift Healer</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>Medical care can be an arduous process that requires patience and periodic reassessment. You’ve studied the connection between physical and mental health, learning to support both on the long road to recovery.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">You can forgo the usual benefits of a short or long rest to instead spend that time treating an ally within your reach. After that <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"resting\" nexus=\"cosmererpg\">rest</tooltip>, make a DC 10 <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"medicine\" nexus=\"cosmererpg\">Medicine</tooltip> test, increasing the difficulty by 5 for each injury the target has beyond the first. On a success, you remove a single <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"conditions\" nexus=\"cosmererpg\">condition</tooltip> or similar effect caused by one of the target’s injuries (but the injury itself remains until healed). A <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> can’t benefit from this talent more than once every 24 hours.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> in Mental Health Care.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Ongoing Care",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Gain Mental Health Care expertise. During a rest, test Medicine (DC 10) to treat an ally, removing one condition caused by their injury.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"crafting\" nexus=\"cosmererpg\">Crafting</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"prized-acquisition\" nexus=\"cosmererpg\">Prized Acquisition</tooltip> talent\n</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>You push fabrials to their limits, overcharging them beyond conventional use or safe practice.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">Once per turn, when you make an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attack-test\" nexus=\"cosmererpg\">attack test</tooltip> using a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"fabrials\" nexus=\"cosmererpg\">fabrial</tooltip>, you can <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"raising-the-stakes\" nexus=\"cosmererpg\">raise the stakes</tooltip>.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> You can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> from this test to use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> action with that fabrial as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> on the same turn; that Strike doesn’t count against your allowed number of Strikes for the hands holding that weapon.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> The GM can spend <span aria-label=\"Complication\" class=\"icon-font-red icon\" title=\"Complication\">C</span> from this test to add one new drawback to that fabrial. This drawback remains until you resolve the unexpected issue by succeeding on a DC 15 Crafting test made as <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span>.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Overcharge",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Once per turn, you can raise the stakes on a fabrial attack, then spend an Opportunity to Strike with that fabrial as a free action.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "overcharge",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Artifabrian",
+							"value": "artifabrian"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"artifabrian": [
+							{
+								"rank": 3,
+								"type": "skill",
+								"label": "Crafting 3+",
+								"value": "crafting",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Prized Acquisition talent",
+								"value": "prized-acquisition",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"prized-acquisition"
+					],
+					"objectID": "105956",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"crafting\" nexus=\"cosmererpg\">Crafting</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"prized-acquisition\" nexus=\"cosmererpg\">Prized Acquisition</tooltip> talent\n</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>You push fabrials to their limits, overcharging them beyond conventional use or safe practice.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">Once per turn, when you make an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attack-test\" nexus=\"cosmererpg\">attack test</tooltip> using a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"fabrials\" nexus=\"cosmererpg\">fabrial</tooltip>, you can <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"raising-the-stakes\" nexus=\"cosmererpg\">raise the stakes</tooltip>.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> You can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> from this test to use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> action with that fabrial as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> on the same turn; that Strike doesn’t count against your allowed number of Strikes for the hands holding that weapon.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> The GM can spend <span aria-label=\"Complication\" class=\"icon-font-red icon\" title=\"Complication\">C</span> from this test to add one new drawback to that fabrial. This drawback remains until you resolve the unexpected issue by succeeding on a DC 15 Crafting test made as <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span>.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Overcharge",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Once per turn, you can raise the stakes on a fabrial attack, then spend an Opportunity to Strike with that fabrial as a free action.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"experimental-tinkering\" nexus=\"cosmererpg\">Experimental Tinkering</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>When speaking about a topic you’re passionate about, you do so with unsurpassed authority and at unmatched length. The uninitiated can rarely withstand such a torrent of information without becoming lost amid the data.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">Spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">cognitive or spiritual</tooltip> test using your Lore modifier instead of the usual skill modifier for that test.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Overwhelm with Details",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 2 focus to use your Lore modifier on another cognitive or spiritual test.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "overwhelm-with-details",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Artifabrian",
+							"value": "artifabrian"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"artifabrian": [
+							{
+								"rank": 3,
+								"type": "skill",
+								"label": "Lore 3+",
+								"value": "lore",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Experimental Tinkering talent",
+								"value": "experimental-tinkering",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"experimental-tinkering"
+					],
+					"objectID": "105958",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"experimental-tinkering\" nexus=\"cosmererpg\">Experimental Tinkering</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>When speaking about a topic you’re passionate about, you do so with unsurpassed authority and at unmatched length. The uninitiated can rarely withstand such a torrent of information without becoming lost amid the data.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">Spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">cognitive or spiritual</tooltip> test using your Lore modifier instead of the usual skill modifier for that test.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Overwhelm with Details",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 2 focus to use your Lore modifier on another cognitive or spiritual test.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"erudition\" nexus=\"cosmererpg\">Erudition</tooltip> key talent\n</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p class=\"\"><em>Through good fortune or hard work, you’ve acquired a gemstone of sufficient quality to practice crafting fabrials.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"specialist-expertises\" nexus=\"cosmererpg\">specialist expertise</tooltip> in <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"fabrials\" nexus=\"cosmererpg\">Fabrial</tooltip> Crafting.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> Additionally, you gain a specially cut gemstone and can use it to craft a fabrial (see “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-7-items/#Crafting\" title=\"Crafting\">Crafting</a>” in chapter 7). The first time you attempt to craft a fabrial with this gem, you ignore the usual time requirements for attracting a spren and crafting the fabrial, thanks to previous study and tinkering, though you still need raw materials.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> This gem fulfills the gem requirement for a unique fabrial with a tier equal to your current character tier.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> You can’t bear to sell or trade this gem, as it is vital to your work! If for any reason you lose it, you can usually find an appropriate replacement after a long rest, though the GM is the final arbiter of when you can replace it. During downtime, you can salvage your fabrial to recover this gem, which you can then use in a new fabrial (ignoring the crafting rule that prevents the reuse of gems).</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Prized Acquisition",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Gain Fabrial Crafting expertise. Gain a special gem you can immediately use to craft a fabrial of your tier. You can reuse this gem for new fabrials.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "prized-acquisition",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Artifabrian",
+							"value": "artifabrian"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"artifabrian": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Erudition key talent",
+									"value": "erudition",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"erudition"
+					],
+					"objectID": "105952",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"erudition\" nexus=\"cosmererpg\">Erudition</tooltip> key talent\n</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p class=\"\"><em>Through good fortune or hard work, you’ve acquired a gemstone of sufficient quality to practice crafting fabrials.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"specialist-expertises\" nexus=\"cosmererpg\">specialist expertise</tooltip> in <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"fabrials\" nexus=\"cosmererpg\">Fabrial</tooltip> Crafting.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> Additionally, you gain a specially cut gemstone and can use it to craft a fabrial (see “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-7-items/#Crafting\" title=\"Crafting\">Crafting</a>” in chapter 7). The first time you attempt to craft a fabrial with this gem, you ignore the usual time requirements for attracting a spren and crafting the fabrial, thanks to previous study and tinkering, though you still need raw materials.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> This gem fulfills the gem requirement for a unique fabrial with a tier equal to your current character tier.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> You can’t bear to sell or trade this gem, as it is vital to your work! If for any reason you lose it, you can usually find an appropriate replacement after a long rest, though the GM is the final arbiter of when you can replace it. During downtime, you can salvage your fabrial to recover this gem, which you can then use in a new fabrial (ignoring the crafting rule that prevents the reuse of gems).</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Prized Acquisition",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Gain Fabrial Crafting expertise. Gain a special gem you can immediately use to craft a fabrial of your tier. You can reuse this gem for new fabrials.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"medicine\" nexus=\"cosmererpg\">Medicine</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"swift-healer\" nexus=\"cosmererpg\">Swift Healer</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>You quickly and efficiently treat a mortally wounded creature, seeking to pull them back from the brink by applying a tourniquet, administering an antidote, or even restarting failed organs.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">You can use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"field-medicine\" nexus=\"cosmererpg\">Field Medicine</tooltip> talent to attempt to resuscitate a fallen character. When you do, spend 3 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> (instead of 1) to target a character within your reach who is <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"unconscious\" nexus=\"cosmererpg\">Unconscious</tooltip> or who <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"death\" nexus=\"cosmererpg\">died</tooltip> within a number of <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">rounds</tooltip> equal to your ranks in Medicine.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> That talent’s test DC increases by 5 for each injury the target has beyond the first. On a failure, the target doesn’t regain <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip>. On a success, the target recovers health as usual for that talent, and if they were dead, they return to life. If they were Unconscious, they can choose to remove that condition if they wish.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Resuscitation",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 3 focus when using Field Medicine to revive an Unconscious character or one who died recently.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "resuscitation",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Surgeon",
+							"value": "surgeon"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"surgeon": [
+							{
+								"rank": 3,
+								"type": "skill",
+								"label": "Medicine 3+",
+								"value": "medicine",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Swift Healer talent",
+								"value": "swift-healer",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"swift-healer"
+					],
+					"objectID": "105972",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"medicine\" nexus=\"cosmererpg\">Medicine</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"swift-healer\" nexus=\"cosmererpg\">Swift Healer</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>You quickly and efficiently treat a mortally wounded creature, seeking to pull them back from the brink by applying a tourniquet, administering an antidote, or even restarting failed organs.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">You can use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"field-medicine\" nexus=\"cosmererpg\">Field Medicine</tooltip> talent to attempt to resuscitate a fallen character. When you do, spend 3 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> (instead of 1) to target a character within your reach who is <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"unconscious\" nexus=\"cosmererpg\">Unconscious</tooltip> or who <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"death\" nexus=\"cosmererpg\">died</tooltip> within a number of <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">rounds</tooltip> equal to your ranks in Medicine.</p>\n<p class=\"CORE-paragraph-styles_CORE-body\"> That talent’s test DC increases by 5 for each injury the target has beyond the first. On a failure, the target doesn’t regain <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip>. On a success, the target recovers health as usual for that talent, and if they were dead, they return to life. If they were Unconscious, they can choose to remove that condition if they wish.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Resuscitation",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 3 focus when using Field Medicine to revive an Unconscious character or one who died recently.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deduction\" nexus=\"cosmererpg\">Deduction</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"erudition\" nexus=\"cosmererpg\">Erudition</tooltip> key talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>You carefully observe and assess your problem from novel angles, creating a cunning plan to remove an obstacle, gain the edge, or counter a foe’s next move.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">After you succeed on a test to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip> using a skill gained from your Erudition, you can choose an ally you can influence. That ally gains the benefits of your Gain Advantage action instead of you. When you use this talent, you can also spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to prevent the target of your Gain Advantage from using reactions against the ally you chose until the end of your next turn.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Strategize",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After you Gain Advantage using an Erudition skill, grant that advantage to an ally instead. You can spend 2 focus to also prevent the target from using reactions against that ally.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "strategize",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Strategist",
+							"value": "strategist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"strategist": [
+							{
+								"rank": 1,
+								"type": "skill",
+								"label": "Deduction 1+",
+								"value": "deduction",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Erudition key talent",
+								"value": "erudition",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"erudition"
+					],
+					"objectID": "105959",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deduction\" nexus=\"cosmererpg\">Deduction</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"erudition\" nexus=\"cosmererpg\">Erudition</tooltip> key talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div class=\"lore-block\">\n<p><em>You carefully observe and assess your problem from novel angles, creating a cunning plan to remove an obstacle, gain the edge, or counter a foe’s next move.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">After you succeed on a test to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip> using a skill gained from your Erudition, you can choose an ally you can influence. That ally gains the benefits of your Gain Advantage action instead of you. When you use this talent, you can also spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to prevent the target of your Gain Advantage from using reactions against the ally you chose until the end of your next turn.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Strategize",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After you Gain Advantage using an Erudition skill, grant that advantage to an ally instead. You can spend 2 focus to also prevent the target from using reactions against that ally.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"medicine\" nexus=\"cosmererpg\">Medicine</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"field-medicine\" nexus=\"cosmererpg\">Field Medicine</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div class=\"lore-block\">\n<p><em>Your practiced hands quickly dress wounds, even as the tides of battle ebb and flow around you.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">You can use your Field Medicine as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>.</p>\n<p class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\"> Additionally, when you acquire this talent, you become more skilled in healing. When you use an ability that restores <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip> to another character, they recover additional health equal to your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"medicine\" nexus=\"cosmererpg\">Medicine</tooltip>.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Swift Healer",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Use Field Medicine as a free action. Your healing abilities restore additional health equal to your ranks in Medicine.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "swift-healer",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Surgeon",
+							"value": "surgeon"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"surgeon": [
+							{
+								"rank": 2,
+								"type": "skill",
+								"label": "Medicine 2+",
+								"value": "medicine",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Field Medicine talent",
+								"value": "field-medicine",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Free action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"field-medicine"
+					],
+					"objectID": "105969",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"medicine\" nexus=\"cosmererpg\">Medicine</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"field-medicine\" nexus=\"cosmererpg\">Field Medicine</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div class=\"lore-block\">\n<p><em>Your practiced hands quickly dress wounds, even as the tides of battle ebb and flow around you.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">You can use your Field Medicine as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>.</p>\n<p class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\"> Additionally, when you acquire this talent, you become more skilled in healing. When you use an ability that restores <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip> to another character, they recover additional health equal to your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"medicine\" nexus=\"cosmererpg\">Medicine</tooltip>.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Swift Healer",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Use Field Medicine as a free action. Your healing abilities restore additional health equal to your ranks in Medicine.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deduction\" nexus=\"cosmererpg\">Deduction</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"contingency\" nexus=\"cosmererpg\">Contingency</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div class=\"lore-block\">\n<p><em>Battles often pivot on a single crucial moment. Through studying the history of warfare, you learn to identify such opportunities and gain the upper hand.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">Once per <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip>, you can spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to find a weakness in an opposing group’s strategy. Make a <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deduction\" nexus=\"cosmererpg\">Deduction</tooltip> test against the Cognitive <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> of the top-ranking enemy leader in this scene; to target this leader, you must be able to sense them. If you took a slow turn, you gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on this test. On a success, you and your allies you can influence gain an additional <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> on your next turns.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Turning Point",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 2 focus to test Deduction vs. Cognitive of the enemy leader, gaining an advantage if you took a slow turn. On success, you and your allies gain one action on your next turns.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "turning-point",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Strategist",
+							"value": "strategist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"strategist": [
+							{
+								"rank": 3,
+								"type": "skill",
+								"label": "Deduction 3+",
+								"value": "deduction",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Contingency talent",
+								"value": "contingency",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"contingency"
+					],
+					"objectID": "105965",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deduction\" nexus=\"cosmererpg\">Deduction</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"contingency\" nexus=\"cosmererpg\">Contingency</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div class=\"lore-block\">\n<p><em>Battles often pivot on a single crucial moment. Through studying the history of warfare, you learn to identify such opportunities and gain the upper hand.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">Once per <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip>, you can spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to find a weakness in an opposing group’s strategy. Make a <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deduction\" nexus=\"cosmererpg\">Deduction</tooltip> test against the Cognitive <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> of the top-ranking enemy leader in this scene; to target this leader, you must be able to sense them. If you took a slow turn, you gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on this test. On a success, you and your allies you can influence gain an additional <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> on your next turns.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Turning Point",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 2 focus to test Deduction vs. Cognitive of the enemy leader, gaining an advantage if you took a slow turn. On success, you and your allies gain one action on your next turns.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 25,
+			"nbSortedHits": 25,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=paths.value%3A'scholar'&hitsPerPage=25&page=0&query=",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"roundTrip": 58
+				},
+				"afterFetch": {
+					"format": {
+						"highlighting": 2,
+						"total": 2
+					}
+				},
+				"getIdx": {
+					"load": {
+						"total": 1
+					},
+					"total": 1
+				},
+				"total": 1
+			},
+			"serverTimeMS": 5
+		}
+	]
+}

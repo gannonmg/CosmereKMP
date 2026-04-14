@@ -1,0 +1,772 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"a4c78ed7-13c0-4670-98c9-ca7a9005bff2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"true-stoneshaping\" nexus=\"cosmererpg\">True Stoneshaping</tooltip> talent\n</p>\n<p chunk_id=\"91529b92-19e8-4f26-862d-d395f2ed6f35\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"08adcc82-9c6d-4e4b-870b-83fdf8080233\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Shaping stone with Cohesion has become so natural that you can mold the ground beneath your feet as you actively sculpt other stone.</em></p>\n</div>\n<p chunk_id=\"60242f59-b3dd-4755-b4a5-c6d729a29766\" class=\"CORE-paragraph-styles_CORE-body\">After you use Cohesion or spend at least <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> on one of its talents, you can shape the stone beneath your feet without spending additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> to do so. The stone pushes you up to 5 feet × your ranks in Cohesion, and you can choose to be pushed in any direction, such as rising upward on a pillar. This movement doesn’t trigger <tooltip category=\"action\" class=\"tooltip-convert\" element=\"reactive-strike\" nexus=\"cosmererpg\">Reactive Strikes</tooltip>.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Flowing Earth",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After you use Cohesion or spend at least ▶ on one of its talents, you can shape the stone beneath your feet without spending additional Investiture.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "flowing-earth",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Cohesion",
+							"value": "cohesion"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"cohesion": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "True Stoneshaping talent",
+								"value": "true-stoneshaping",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"true-stoneshaping"
+					],
+					"objectID": "106093",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"a4c78ed7-13c0-4670-98c9-ca7a9005bff2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"true-stoneshaping\" nexus=\"cosmererpg\">True Stoneshaping</tooltip> talent\n</p>\n<p chunk_id=\"91529b92-19e8-4f26-862d-d395f2ed6f35\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"08adcc82-9c6d-4e4b-870b-83fdf8080233\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Shaping stone with Cohesion has become so natural that you can mold the ground beneath your feet as you actively sculpt other stone.</em></p>\n</div>\n<p chunk_id=\"60242f59-b3dd-4755-b4a5-c6d729a29766\" class=\"CORE-paragraph-styles_CORE-body\">After you use Cohesion or spend at least <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> on one of its talents, you can shape the stone beneath your feet without spending additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> to do so. The stone pushes you up to 5 feet × your ranks in Cohesion, and you can choose to be pushed in any direction, such as rising upward on a pillar. This movement doesn’t trigger <tooltip category=\"action\" class=\"tooltip-convert\" element=\"reactive-strike\" nexus=\"cosmererpg\">Reactive Strikes</tooltip>.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Flowing Earth",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After you use Cohesion or spend at least ▶ on one of its talents, you can shape the stone beneath your feet without spending additional Investiture.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"2c90975f-2aad-4630-a56d-2bb23d28f43a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"62fd1252-519d-4e4f-9d60-ff2db02b69a9\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"f4611fa4-ecf6-4d57-afc3-b5f32b929b7c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your deepening knowledge of the earth allows you to commune with stone itself, gaining visions of things the stone has seen.</em></p>\n</div>\n<p chunk_id=\"ff0dfb0e-49e8-4ad9-adda-6ef784ee36a8\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 Investiture to communicate for 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">round</tooltip> with stone you’re touching. The earth’s knowledge reaches far, including the area’s history and memories of nearby events, but it communicates in sculpted images and faint whispers that might be cryptic or incomplete. To interpret these communications, the GM might require you to succeed on a Cohesion test (DC determined by the GM). To communicate with the stone for more than 1 round, you must use this talent multiple times.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Memories of Stone",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 1 Investiture to communicate for 1 round with stone you’re touching.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "memories-of-stone",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Cohesion",
+							"value": "cohesion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"cohesion": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Cohesion",
+									"value": "cohesion",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-stoneward",
+						"first-ideal-willshaper"
+					],
+					"objectID": "106090",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"2c90975f-2aad-4630-a56d-2bb23d28f43a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"62fd1252-519d-4e4f-9d60-ff2db02b69a9\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"f4611fa4-ecf6-4d57-afc3-b5f32b929b7c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your deepening knowledge of the earth allows you to commune with stone itself, gaining visions of things the stone has seen.</em></p>\n</div>\n<p chunk_id=\"ff0dfb0e-49e8-4ad9-adda-6ef784ee36a8\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 Investiture to communicate for 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">round</tooltip> with stone you’re touching. The earth’s knowledge reaches far, including the area’s history and memories of nearby events, but it communicates in sculpted images and faint whispers that might be cryptic or incomplete. To interpret these communications, the GM might require you to succeed on a Cohesion test (DC determined by the GM). To communicate with the stone for more than 1 round, you must use this talent multiple times.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Memories of Stone",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 1 Investiture to communicate for 1 round with stone you’re touching.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"fca17b79-71de-4444-aca5-29c6f1d113e2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"stone-spear\" nexus=\"cosmererpg\">Stone Spear</tooltip> talent</p>\n<p chunk_id=\"e441405e-12b7-4e9f-ace9-759ac9b3054e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"bf3cd915-2ed1-443a-b936-0d9ea92cf436\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You cause the ground to soften so quickly that it can catch anyone standing in it by surprise.</em></p>\n</div>\n<p chunk_id=\"65122115-8962-42e6-bc5b-1d95131ab7ca\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">Spend 1 Investiture and choose an area of stone ground of a size you can affect with your ranks in Cohesion. Then choose one or more characters who are touching the ground in that area. Make one Cohesion test and compare the result to the Cognitive defense of each chosen character. If you succeed against a target, they sink into the ground and are <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"immobilized\" nexus=\"cosmererpg\">Immobilized</tooltip> as you resolidify the rock. (See “<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"using-cohesion\" nexus=\"cosmererpg\">Using Cohesion</tooltip>” for rules on escaping.)</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Sinkhole",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 1 Investiture and choose an area of stone ground of a size you can affect with your ranks in Cohesion.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "sinkhole",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Cohesion",
+							"value": "cohesion"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"cohesion": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Stone Spear talent",
+								"value": "stone-spear",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"stone-spear"
+					],
+					"objectID": "106087",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"fca17b79-71de-4444-aca5-29c6f1d113e2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"stone-spear\" nexus=\"cosmererpg\">Stone Spear</tooltip> talent</p>\n<p chunk_id=\"e441405e-12b7-4e9f-ace9-759ac9b3054e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"bf3cd915-2ed1-443a-b936-0d9ea92cf436\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You cause the ground to soften so quickly that it can catch anyone standing in it by surprise.</em></p>\n</div>\n<p chunk_id=\"65122115-8962-42e6-bc5b-1d95131ab7ca\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">Spend 1 Investiture and choose an area of stone ground of a size you can affect with your ranks in Cohesion. Then choose one or more characters who are touching the ground in that area. Make one Cohesion test and compare the result to the Cognitive defense of each chosen character. If you succeed against a target, they sink into the ground and are <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"immobilized\" nexus=\"cosmererpg\">Immobilized</tooltip> as you resolidify the rock. (See “<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"using-cohesion\" nexus=\"cosmererpg\">Using Cohesion</tooltip>” for rules on escaping.)</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Sinkhole",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 1 Investiture and choose an area of stone ground of a size you can affect with your ranks in Cohesion.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"c2b8f342-20d1-4cc6-8420-9e9520e3fc69\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"048b4a4b-97a8-4a3e-84a9-8c81a3afe0ab\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"0647e766-9811-4055-b397-ba81bae866fd\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You cause the surface of the stone to launch forward in tight pillars, solidifying mid-flight before slamming into your target.</em></p>\n</div>\n<p chunk_id=\"8e7b6821-b691-4d42-9ae4-4c04bba00638\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 Investiture to make a ranged Cohesion attack against the Physical defense of a target within 60 feet of you, rolling 2d4 impact damage. On a hit, you can also spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> to knock the target <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"prone\" nexus=\"cosmererpg\">Prone</tooltip>.</p>\n<p chunk_id=\"13f85f47-9c92-40fb-acce-d335f10a637a\" class=\"CORE-paragraph-styles_CORE-body\">The size of this attack’s damage dice increases with your ranks in Cohesion; at 2 ranks, roll 2d6 (instead of 2d4), and so on.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Stone Spear",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 1 Investiture to make a ranged Cohesion attack against the Physical defense of a target within 60 feet of you.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "stone-spear",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Cohesion",
+							"value": "cohesion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"cohesion": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Cohesion",
+									"value": "cohesion",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-stoneward",
+						"first-ideal-willshaper"
+					],
+					"objectID": "106086",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"c2b8f342-20d1-4cc6-8420-9e9520e3fc69\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"048b4a4b-97a8-4a3e-84a9-8c81a3afe0ab\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"0647e766-9811-4055-b397-ba81bae866fd\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You cause the surface of the stone to launch forward in tight pillars, solidifying mid-flight before slamming into your target.</em></p>\n</div>\n<p chunk_id=\"8e7b6821-b691-4d42-9ae4-4c04bba00638\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 Investiture to make a ranged Cohesion attack against the Physical defense of a target within 60 feet of you, rolling 2d4 impact damage. On a hit, you can also spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> to knock the target <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"prone\" nexus=\"cosmererpg\">Prone</tooltip>.</p>\n<p chunk_id=\"13f85f47-9c92-40fb-acce-d335f10a637a\" class=\"CORE-paragraph-styles_CORE-body\">The size of this attack’s damage dice increases with your ranks in Cohesion; at 2 ranks, roll 2d6 (instead of 2d4), and so on.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Stone Spear",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 1 Investiture to make a ranged Cohesion attack against the Physical defense of a target within 60 feet of you.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"4e08b199-4797-4650-bd34-aedf147f69eb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"sinkhole\" nexus=\"cosmererpg\">Sinkhole</tooltip> talent\n</p>\n<p chunk_id=\"86c80a27-a5e2-4826-ac73-0e9125135b3f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"2ca47503-163d-4981-ac7a-cdcd241bb2a2\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>When you touch stone, you can sense and use your Cohesion through it from a much greater distance.</em></p>\n</div>\n<p chunk_id=\"af9e3f35-083b-4ce5-8a22-e8cac5850f11\" class=\"CORE-paragraph-styles_CORE-body\">You can use your surges and their talents as though your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> is 20 feet, as long as there is a stone surface between you and your target that you can touch.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Through the Stone",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You can use your surges and their talents as though your reach is 20 feet.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "through-the-stone",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Cohesion",
+							"value": "cohesion"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"cohesion": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Sinkhole talent",
+								"value": "sinkhole",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"sinkhole"
+					],
+					"objectID": "106088",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"4e08b199-4797-4650-bd34-aedf147f69eb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"sinkhole\" nexus=\"cosmererpg\">Sinkhole</tooltip> talent\n</p>\n<p chunk_id=\"86c80a27-a5e2-4826-ac73-0e9125135b3f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"2ca47503-163d-4981-ac7a-cdcd241bb2a2\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>When you touch stone, you can sense and use your Cohesion through it from a much greater distance.</em></p>\n</div>\n<p chunk_id=\"af9e3f35-083b-4ce5-8a22-e8cac5850f11\" class=\"CORE-paragraph-styles_CORE-body\">You can use your surges and their talents as though your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> is 20 feet, as long as there is a stone surface between you and your target that you can touch.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Through the Stone",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You can use your surges and their talents as though your reach is 20 feet.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"a8736c4d-8b07-4c2c-a0c7-5528fdb43ee3\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Cohesion 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"tunneling\" nexus=\"cosmererpg\">Tunneling</tooltip> talent</p>\n<p chunk_id=\"0840c171-30a7-4711-9f59-2d72021a05be\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"3fe20524-6fb0-49ae-86c6-a5f786fa834a\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You no longer simply soften stone—you assert your will on it, molding it into complex shapes with a mere command.</em></p>\n</div>\n<p chunk_id=\"bca57b5a-cc89-4d03-9fdd-3ed5ee0bdcb8\" class=\"CORE-paragraph-styles_CORE-body\">When you use Cohesion to shape an object or surface, you can automatically reshape it to your will without using additional actions or time. For example, you can instantly raise or lower elevation, form walls or pillars, create or remove <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"difficult-terrain\" nexus=\"cosmererpg\">difficult terrain</tooltip>, or create intricate shapes or images.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "True Stoneshaping",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you use Cohesion to shape an object or surface, you can automatically reshape it to your will without using additional actions or time.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "true-stoneshaping",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Cohesion",
+							"value": "cohesion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"cohesion": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Cohesion 2+",
+									"value": "cohesion",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Tunneling talent",
+									"value": "tunneling",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"tunneling"
+					],
+					"objectID": "106092",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"a8736c4d-8b07-4c2c-a0c7-5528fdb43ee3\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Cohesion 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"tunneling\" nexus=\"cosmererpg\">Tunneling</tooltip> talent</p>\n<p chunk_id=\"0840c171-30a7-4711-9f59-2d72021a05be\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"3fe20524-6fb0-49ae-86c6-a5f786fa834a\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You no longer simply soften stone—you assert your will on it, molding it into complex shapes with a mere command.</em></p>\n</div>\n<p chunk_id=\"bca57b5a-cc89-4d03-9fdd-3ed5ee0bdcb8\" class=\"CORE-paragraph-styles_CORE-body\">When you use Cohesion to shape an object or surface, you can automatically reshape it to your will without using additional actions or time. For example, you can instantly raise or lower elevation, form walls or pillars, create or remove <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"difficult-terrain\" nexus=\"cosmererpg\">difficult terrain</tooltip>, or create intricate shapes or images.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "True Stoneshaping",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you use Cohesion to shape an object or surface, you can automatically reshape it to your will without using additional actions or time.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"83c478c0-e3e5-4f8d-a2f0-5ecd746d06a5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"sinkhole\" nexus=\"cosmererpg\">Sinkhole</tooltip> talent\n</p>\n<p chunk_id=\"db78276b-9576-40f6-b470-33327c1a045f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"5e2c22d3-bc49-460f-a66e-b379ce662fe3\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You infuse yourself with Cohesion to shift stone from your path as you move.</em></p>\n</div>\n<p chunk_id=\"1496ddd8-2cba-4ef0-86d6-f82f5a6e5509\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 Investiture to infuse yourself with Cohesion. For the duration, you can move through stone surfaces and objects as if moving through <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"difficult-terrain\" nexus=\"cosmererpg\">difficult terrain</tooltip>. You leave a 5-foot-radius tunnel in your wake through which others can follow. At the start of each of your turns, you can spend 1 Investiture as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> to maintain this infusion.</p>\n<p chunk_id=\"0ac951b5-4d6d-4748-8b6b-f16dc3eb42c9\" class=\"CORE-paragraph-styles_CORE-body\">If you create tunnels near the surface, an observant character might detect ripples from the diverted material, potentially sensing your presence.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Tunneling",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 1 Investiture to infuse yourself with Cohesion. For the duration, you can move through stone surfaces and objects.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "tunneling",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Cohesion",
+							"value": "cohesion"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"cohesion": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Sinkhole talent",
+								"value": "sinkhole",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"sinkhole"
+					],
+					"objectID": "106091",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"83c478c0-e3e5-4f8d-a2f0-5ecd746d06a5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"sinkhole\" nexus=\"cosmererpg\">Sinkhole</tooltip> talent\n</p>\n<p chunk_id=\"db78276b-9576-40f6-b470-33327c1a045f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"5e2c22d3-bc49-460f-a66e-b379ce662fe3\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You infuse yourself with Cohesion to shift stone from your path as you move.</em></p>\n</div>\n<p chunk_id=\"1496ddd8-2cba-4ef0-86d6-f82f5a6e5509\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 Investiture to infuse yourself with Cohesion. For the duration, you can move through stone surfaces and objects as if moving through <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"difficult-terrain\" nexus=\"cosmererpg\">difficult terrain</tooltip>. You leave a 5-foot-radius tunnel in your wake through which others can follow. At the start of each of your turns, you can spend 1 Investiture as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> to maintain this infusion.</p>\n<p chunk_id=\"0ac951b5-4d6d-4748-8b6b-f16dc3eb42c9\" class=\"CORE-paragraph-styles_CORE-body\">If you create tunnels near the surface, an observant character might detect ripples from the diverted material, potentially sensing your presence.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Tunneling",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 1 Investiture to infuse yourself with Cohesion. For the duration, you can move through stone surfaces and objects.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"f5c11af8-1f62-4436-8e5b-16c58bbb3bb3\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Cohesion 4+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"through-the-stone\" nexus=\"cosmererpg\">Through the Stone</tooltip> talent</p>\n<p chunk_id=\"0b862b2e-f3e1-49cc-a120-bef8ef2e13c8\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"dd44e260-f3f5-43f6-a4e9-995fd32a8084\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your Stoneshaping transcends a singular medium, allowing you to soften and shape nearly any material.</em></p>\n</div>\n<p chunk_id=\"221f7d69-4ccc-4652-9e54-3cee7600434e\" class=\"CORE-paragraph-styles_CORE-body\">You can use Cohesion and its talents not only on stone, but on any solid material that isn’t alive, <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"invested-items\" nexus=\"cosmererpg\">Invested</tooltip>, or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"surge-infusions-and-durations\" nexus=\"cosmererpg\">infused with</tooltip> <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"stormlight\" nexus=\"cosmererpg\">Stormlight</tooltip>.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Unbound Cohesion",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You can use Cohesion and its talents any solid material that isn’t alive, Invested, or infused with Stormlight.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "unbound-cohesion",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Cohesion",
+							"value": "cohesion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"cohesion": [
+							[
+								{
+									"rank": 4,
+									"type": "skill",
+									"label": "Cohesion 4+",
+									"value": "cohesion",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Through the Stone talent",
+									"value": "through-the-stone",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"through-the-stone"
+					],
+					"objectID": "106089",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"f5c11af8-1f62-4436-8e5b-16c58bbb3bb3\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Cohesion 4+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"through-the-stone\" nexus=\"cosmererpg\">Through the Stone</tooltip> talent</p>\n<p chunk_id=\"0b862b2e-f3e1-49cc-a120-bef8ef2e13c8\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"dd44e260-f3f5-43f6-a4e9-995fd32a8084\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your Stoneshaping transcends a singular medium, allowing you to soften and shape nearly any material.</em></p>\n</div>\n<p chunk_id=\"221f7d69-4ccc-4652-9e54-3cee7600434e\" class=\"CORE-paragraph-styles_CORE-body\">You can use Cohesion and its talents not only on stone, but on any solid material that isn’t alive, <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"invested-items\" nexus=\"cosmererpg\">Invested</tooltip>, or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"surge-infusions-and-durations\" nexus=\"cosmererpg\">infused with</tooltip> <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"stormlight\" nexus=\"cosmererpg\">Stormlight</tooltip>.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Unbound Cohesion",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You can use Cohesion and its talents any solid material that isn’t alive, Invested, or infused with Stormlight.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 8,
+			"nbSortedHits": 8,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=talentTrees.value%3A'cohesion'&hitsPerPage=25&page=0",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"roundTrip": 60
+				},
+				"total": 0
+			},
+			"serverTimeMS": 1
+		}
+	]
+}

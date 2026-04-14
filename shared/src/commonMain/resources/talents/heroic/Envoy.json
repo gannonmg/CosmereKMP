@@ -1,0 +1,2614 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"ff6960a4-806b-4987-bd11-5950aa8f01e3\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"039508da-398e-4b40-bb48-e27928815b74\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You skillfully motivate others with your words to keep them focused on the goal.</em></p>\n</div>\n<p chunk_id=\"f9127dc3-6473-45c1-a2c4-26ba72ad7bc3\" class=\"CORE-paragraph-styles_CORE-body\">When you cause a character to recover <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>, they recover additional focus equal to half your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> (rounded up).</p><p chunk_id=\"7a269f44-bdff-4d9e-994e-c600de018a5c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"galvanize\" nexus=\"cosmererpg\">Galvanize</tooltip> talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Applied Motivation",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you cause a character to recover focus, they recover additional focus equal to half your ranks in Lore (rounded up).",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "applied-motivation",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Faithful",
+							"value": "faithful"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"faithful": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Discipline 2+",
+									"value": "discipline",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Galvanize talent",
+									"value": "galvanize",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"galvanize"
+					],
+					"objectID": "105899",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"ff6960a4-806b-4987-bd11-5950aa8f01e3\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"039508da-398e-4b40-bb48-e27928815b74\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You skillfully motivate others with your words to keep them focused on the goal.</em></p>\n</div>\n<p chunk_id=\"f9127dc3-6473-45c1-a2c4-26ba72ad7bc3\" class=\"CORE-paragraph-styles_CORE-body\">When you cause a character to recover <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>, they recover additional focus equal to half your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> (rounded up).</p><p chunk_id=\"7a269f44-bdff-4d9e-994e-c600de018a5c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"galvanize\" nexus=\"cosmererpg\">Galvanize</tooltip> talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Applied Motivation",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you cause a character to recover focus, they recover additional focus equal to half your ranks in Lore (rounded up).",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"86a47e5c-a0e5-4315-8428-39f7d0372244\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"a5ff1abd-ecf5-4a35-b0ee-79b41863fd2d\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You draw on your enemy’s innate desire to live and continue pursuing their goals. Sowing seeds of doubt, you encourage them to reach a compromise.</em></p>\n</div>\n<p chunk_id=\"ce44a5ea-52f3-417f-98d1-7b9d3ecce252\" class=\"CORE-paragraph-styles_CORE-body\">When your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steadfast-challenge\" nexus=\"cosmererpg\">Steadfast Challenge</tooltip> makes a character <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"disoriented\" nexus=\"cosmererpg\">Disoriented</tooltip>, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to also pacify them until the end of this scene. A pacified character makes no <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attacks</tooltip> or similar hostile <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">actions</tooltip> without provocation. However, if you or your ally attacks them or similarly acts hostilely, or if one of their allies suffers an injury or dies, the pacified character ceases to be pacified.</p>\n<p chunk_id=\"c23f8711-1358-4e59-936f-faf930ba357e\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, after a target resists the influence of your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steadfast-challenge\" nexus=\"cosmererpg\">Steadfast Challenge</tooltip>, they lose additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> equal to your ranks in Discipline.</p><p chunk_id=\"87cfbe41-aff6-4a91-aa64-4de7066f1b9c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Diplomat) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip>\n</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"withering-retort\" nexus=\"cosmererpg\">Withering Retort</tooltip> talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Calm Appeal",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When your Steadfast Challenge makes a character Disoriented, you can spend 1 focus to also pacify them until the end of this scene.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "calm-appeal",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Diplomat",
+							"value": "diplomat"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"diplomat": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Discipline 2+",
+									"value": "discipline",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Withering Retort talent",
+									"value": "withering-retort",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"withering-retort"
+					],
+					"objectID": "105891",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"86a47e5c-a0e5-4315-8428-39f7d0372244\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"a5ff1abd-ecf5-4a35-b0ee-79b41863fd2d\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You draw on your enemy’s innate desire to live and continue pursuing their goals. Sowing seeds of doubt, you encourage them to reach a compromise.</em></p>\n</div>\n<p chunk_id=\"ce44a5ea-52f3-417f-98d1-7b9d3ecce252\" class=\"CORE-paragraph-styles_CORE-body\">When your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steadfast-challenge\" nexus=\"cosmererpg\">Steadfast Challenge</tooltip> makes a character <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"disoriented\" nexus=\"cosmererpg\">Disoriented</tooltip>, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to also pacify them until the end of this scene. A pacified character makes no <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attacks</tooltip> or similar hostile <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">actions</tooltip> without provocation. However, if you or your ally attacks them or similarly acts hostilely, or if one of their allies suffers an injury or dies, the pacified character ceases to be pacified.</p>\n<p chunk_id=\"c23f8711-1358-4e59-936f-faf930ba357e\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, after a target resists the influence of your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steadfast-challenge\" nexus=\"cosmererpg\">Steadfast Challenge</tooltip>, they lose additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> equal to your ranks in Discipline.</p><p chunk_id=\"87cfbe41-aff6-4a91-aa64-4de7066f1b9c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Diplomat) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip>\n</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"withering-retort\" nexus=\"cosmererpg\">Withering Retort</tooltip> talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Calm Appeal",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When your Steadfast Challenge makes a character Disoriented, you can spend 1 focus to also pacify them until the end of this scene.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"6f49e721-b5a1-4645-b02a-c8195af78958\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"7da97257-db5b-4bd3-98f5-bbe56fc3df21\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You remain mindful of your immediate goals without losing sight of your deeper value, keeping you even-keeled amid chaos.</em></p>\n</div>\n<p chunk_id=\"120b66b0-5e19-4a79-a58e-6cf847b7051e\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, increase your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Cognitive and Spiritual defenses</tooltip> by 2.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Agent (Spy) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"sure-outcome-playtest\" nexus=\"cosmererpg\">Sure Outcome</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Envoy (Diplomat) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence-playtest\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent</p><p class=\"talent-prerequisite\"><strong>Scholar (Surgeon) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"emotional-intelligence-playtest\" nexus=\"cosmererpg\">Emotional Intelligence</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Collected",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Increase your Cognitive and Spiritual defenses by 2.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "collected",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Agent",
+							"value": "agent"
+						},
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						},
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Spy",
+							"value": "spy"
+						},
+						{
+							"name": "Diplomat",
+							"value": "diplomat"
+						},
+						{
+							"name": "Surgeon",
+							"value": "surgeon"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"spy": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Sure Outcome talent",
+									"value": "sure-outcome",
+									"hardRule": true
+								}
+							]
+						],
+						"surgeon": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Emotional Intelligence talent",
+									"value": "emotional-intelligence",
+									"hardRule": true
+								}
+							]
+						],
+						"diplomat": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Rousing Presence key talent",
+									"value": "rousing-presence",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"sure-outcome",
+						"emotional-intelligence",
+						"rousing-presence"
+					],
+					"objectID": "105873",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"6f49e721-b5a1-4645-b02a-c8195af78958\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"7da97257-db5b-4bd3-98f5-bbe56fc3df21\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You remain mindful of your immediate goals without losing sight of your deeper value, keeping you even-keeled amid chaos.</em></p>\n</div>\n<p chunk_id=\"120b66b0-5e19-4a79-a58e-6cf847b7051e\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, increase your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Cognitive and Spiritual defenses</tooltip> by 2.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Agent (Spy) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"sure-outcome-playtest\" nexus=\"cosmererpg\">Sure Outcome</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Envoy (Diplomat) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence-playtest\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent</p><p class=\"talent-prerequisite\"><strong>Scholar (Surgeon) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"emotional-intelligence-playtest\" nexus=\"cosmererpg\">Emotional Intelligence</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Collected",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Increase your Cognitive and Spiritual defenses by 2.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>Through practiced composure, you push your limits without becoming distracted or losing track of threats.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your maximum and current <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> increase by a number equal to your tier. When your tier increases by 1, your maximum and current focus do as well.</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"galvanize\" nexus=\"cosmererpg\">Galvanize</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Leader (Officer) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Scholar (Strategist) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"strategize\" nexus=\"cosmererpg\">Strategize</tooltip> talent</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Composed",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Increase your max and current focus by your tier.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "composed",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						},
+						{
+							"name": "Leader",
+							"value": "leader"
+						},
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Faithful",
+							"value": "faithful"
+						},
+						{
+							"name": "Officer",
+							"value": "officer"
+						},
+						{
+							"name": "Strategist",
+							"value": "strategist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"officer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Decisive Command key talent",
+									"value": "decisive-command",
+									"hardRule": true
+								}
+							]
+						],
+						"faithful": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Galvanize talent",
+									"value": "galvanize",
+									"hardRule": true
+								}
+							]
+						],
+						"strategist": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Strategize talent",
+									"value": "strategize",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"galvanize",
+						"decisive-command",
+						"strategize"
+					],
+					"objectID": "105897",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>Through practiced composure, you push your limits without becoming distracted or losing track of threats.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your maximum and current <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> increase by a number equal to your tier. When your tier increases by 1, your maximum and current focus do as well.</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"galvanize\" nexus=\"cosmererpg\">Galvanize</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Leader (Officer) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Scholar (Strategist) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"strategize\" nexus=\"cosmererpg\">Strategize</tooltip> talent</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Composed",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Increase your max and current focus by your tier.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"36bb19b5-4010-495d-959c-8c4e4cbd888e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"f919697c-9ddf-43c0-a28f-ce027b92abfc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve worn your uniform or traditional clothing for so long that it feels like a second skin, freeing your movements and granting you a deep well of confidence.</em></p>\n</div>\n<p chunk_id=\"94bc185d-1647-4ffa-be75-9fb19cf6524c\" class=\"CORE-paragraph-styles_CORE-body\">While you’re visibly wearing <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"presentable\" nexus=\"cosmererpg\">Presentable</tooltip> armor or clothing appropriate for your station, your Physical and Spiritual <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> increase by 2.</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent\n</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Leader (Officer) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"through-the-fray\" nexus=\"cosmererpg\">Through the Fray</tooltip> talent</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Customary Garb",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While you’re visibly wearing Presentable armor or clothing appropriate for your station, your Physical and Spiritual defenses increase by 2.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "customary-garb",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						},
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Faithful",
+							"value": "faithful"
+						},
+						{
+							"name": "Officer",
+							"value": "officer"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"officer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Through the Fray talent",
+									"value": "through-the-fray",
+									"hardRule": true
+								}
+							]
+						],
+						"faithful": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Rousing Presence key talent",
+									"value": "rousing-presence",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"rousing-presence",
+						"through-the-fray"
+					],
+					"objectID": "105894",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"36bb19b5-4010-495d-959c-8c4e4cbd888e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"f919697c-9ddf-43c0-a28f-ce027b92abfc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve worn your uniform or traditional clothing for so long that it feels like a second skin, freeing your movements and granting you a deep well of confidence.</em></p>\n</div>\n<p chunk_id=\"94bc185d-1647-4ffa-be75-9fb19cf6524c\" class=\"CORE-paragraph-styles_CORE-body\">While you’re visibly wearing <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"presentable\" nexus=\"cosmererpg\">Presentable</tooltip> armor or clothing appropriate for your station, your Physical and Spiritual <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> increase by 2.</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent\n</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Leader (Officer) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"through-the-fray\" nexus=\"cosmererpg\">Through the Fray</tooltip> talent</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Customary Garb",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While you’re visibly wearing Presentable armor or clothing appropriate for your station, your Physical and Spiritual defenses increase by 2.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"136018d6-8279-4587-8e6d-27927e58ee17\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"eafd1c01-a902-498a-b502-4ea9a1fbd61b\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your words fill your compatriots with purpose, helping them shrug off discomfort or surprise.</em></p>\n</div>\n<p chunk_id=\"a1509d16-2e9f-46fb-afd8-99567646ff0a\" class=\"CORE-paragraph-styles_CORE-body\">When you use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> on one or more allies, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> per <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> to remove any number of the following conditions from them: <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"prone\" nexus=\"cosmererpg\">Prone</tooltip>, <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"slowed\" nexus=\"cosmererpg\">Slowed</tooltip>, <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"stunned\" nexus=\"cosmererpg\">Stunned</tooltip>, and <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"surprised\" nexus=\"cosmererpg\">Surprised</tooltip>.</p><p chunk_id=\"bded4867-0d69-4435-86f0-4d34c3b59aac\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"customary-garb\" nexus=\"cosmererpg\">Customary Garb</tooltip> talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Devoted Presence",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you use your Rousing Presence on one or more allies, you can spend 1 focus per target to remove conditions from them.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "devoted-presence",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Faithful",
+							"value": "faithful"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"faithful": [
+							[
+								{
+									"rank": 1,
+									"type": "skill",
+									"label": "Lore 1+",
+									"value": "lore",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Customary Garb talent",
+									"value": "customary-garb",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"customary-garb"
+					],
+					"objectID": "105896",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"136018d6-8279-4587-8e6d-27927e58ee17\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"eafd1c01-a902-498a-b502-4ea9a1fbd61b\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your words fill your compatriots with purpose, helping them shrug off discomfort or surprise.</em></p>\n</div>\n<p chunk_id=\"a1509d16-2e9f-46fb-afd8-99567646ff0a\" class=\"CORE-paragraph-styles_CORE-body\">When you use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> on one or more allies, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> per <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> to remove any number of the following conditions from them: <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"prone\" nexus=\"cosmererpg\">Prone</tooltip>, <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"slowed\" nexus=\"cosmererpg\">Slowed</tooltip>, <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"stunned\" nexus=\"cosmererpg\">Stunned</tooltip>, and <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"surprised\" nexus=\"cosmererpg\">Surprised</tooltip>.</p><p chunk_id=\"bded4867-0d69-4435-86f0-4d34c3b59aac\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"customary-garb\" nexus=\"cosmererpg\">Customary Garb</tooltip> talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Devoted Presence",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you use your Rousing Presence on one or more allies, you can spend 1 focus per target to remove conditions from them.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"c553f65c-065f-4ea4-a394-99e608743ee1\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"81885f56-f2a4-4fc8-8917-45e6d2005954\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Through hard personal experience, you’ve learned to remain alert and aware even when your surroundings appear safe.</em></p>\n</div>\n<p chunk_id=\"48183c22-c236-4d97-b162-49289dfb2fbd\" class=\"CORE-paragraph-styles_CORE-body\">At the beginning of combat and at the start of each of your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turns</tooltip>, gain an additional <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span>.</p><p chunk_id=\"9d26a86b-a844-4e00-83e5-c444c63fcb88\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Mentor) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"instill-confidence\" nexus=\"cosmererpg\">Instill Confidence</tooltip> talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Foresight",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "At the beginning of combat and at the start of each of your turns, gain an additional reaction.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "foresight",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Mentor",
+							"value": "mentor"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"mentor": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Discipline 3+",
+									"value": "discipline",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Instill Confidence talent",
+									"value": "instill-confidence",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"instill-confidence"
+					],
+					"objectID": "105907",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"c553f65c-065f-4ea4-a394-99e608743ee1\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"81885f56-f2a4-4fc8-8917-45e6d2005954\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Through hard personal experience, you’ve learned to remain alert and aware even when your surroundings appear safe.</em></p>\n</div>\n<p chunk_id=\"48183c22-c236-4d97-b162-49289dfb2fbd\" class=\"CORE-paragraph-styles_CORE-body\">At the beginning of combat and at the start of each of your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turns</tooltip>, gain an additional <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span>.</p><p chunk_id=\"9d26a86b-a844-4e00-83e5-c444c63fcb88\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Mentor) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"instill-confidence\" nexus=\"cosmererpg\">Instill Confidence</tooltip> talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Foresight",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "At the beginning of combat and at the start of each of your turns, gain an additional reaction.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"2644b2b4-97c1-49ae-827b-2aac234e26b9\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"24dcf5c5-77a2-4c6b-8d8e-75c274c05d51\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You speak to an ally with infectious fervor, renewing their focus on your shared goals.</em></p>\n</div>\n<p chunk_id=\"aae99270-f2ef-4a78-b952-dfbc6a921e99\" class=\"CORE-paragraph-styles_CORE-body\">Once per <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip>, choose an ally you can influence. They can roll their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"recovery-die\" nexus=\"cosmererpg\">recovery die</tooltip> (no action required) and recover <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> equal to the result.</p><p chunk_id=\"68e4bb8a-f0d6-41d5-91fe-3befac93ba52\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Galvanize",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Once per scene, choose an ally you can influence. They can roll their recovery die (no action required) and recover focus equal to the result.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "galvanize",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Faithful",
+							"value": "faithful"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"faithful": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Rousing Presence talent",
+								"value": "rousing-presence",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"rousing-presence"
+					],
+					"objectID": "105895",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"2644b2b4-97c1-49ae-827b-2aac234e26b9\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"24dcf5c5-77a2-4c6b-8d8e-75c274c05d51\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You speak to an ally with infectious fervor, renewing their focus on your shared goals.</em></p>\n</div>\n<p chunk_id=\"aae99270-f2ef-4a78-b952-dfbc6a921e99\" class=\"CORE-paragraph-styles_CORE-body\">Once per <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip>, choose an ally you can influence. They can roll their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"recovery-die\" nexus=\"cosmererpg\">recovery die</tooltip> (no action required) and recover <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> equal to the result.</p><p chunk_id=\"68e4bb8a-f0d6-41d5-91fe-3befac93ba52\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Galvanize",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Once per scene, choose an ally you can influence. They can roll their recovery die (no action required) and recover focus equal to the result.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"8d411714-0f1c-48e1-9831-6f22262d2da6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"e6d2cf8d-0eeb-42d3-8ee0-ed4f61d08469\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your quick and effective communication enables your allies to make the most of your actions.</em></p>\n</div>\n<p chunk_id=\"b6b56b95-19aa-4f44-847b-3c52c1b4b78f\" class=\"CORE-paragraph-styles_CORE-body\">After you succeed on a test to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip>, you can choose an ally you can influence within 10 feet of your target. Until the end of their next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>, that ally gains an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on their next test against your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip>.</p><p chunk_id=\"5320685a-0c5f-4343-8dc9-145fce999de9\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Mentor) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"mighty\" nexus=\"cosmererpg\">Mighty</tooltip> talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Guiding Oration",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After you succeed on a test to Gain Advantage, you can choose an ally you can influence within 10 feet of your target.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "guiding-oration",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Mentor",
+							"value": "mentor"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"mentor": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Leadership 2+",
+									"value": "leadership",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Mighty talent",
+									"value": "mighty",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"mighty"
+					],
+					"objectID": "105906",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"8d411714-0f1c-48e1-9831-6f22262d2da6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"e6d2cf8d-0eeb-42d3-8ee0-ed4f61d08469\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your quick and effective communication enables your allies to make the most of your actions.</em></p>\n</div>\n<p chunk_id=\"b6b56b95-19aa-4f44-847b-3c52c1b4b78f\" class=\"CORE-paragraph-styles_CORE-body\">After you succeed on a test to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip>, you can choose an ally you can influence within 10 feet of your target. Until the end of their next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>, that ally gains an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on their next test against your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip>.</p><p chunk_id=\"5320685a-0c5f-4343-8dc9-145fce999de9\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Mentor) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"mighty\" nexus=\"cosmererpg\">Mighty</tooltip> talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Guiding Oration",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After you succeed on a test to Gain Advantage, you can choose an ally you can influence within 10 feet of your target.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"92fb8a12-deb7-45ab-828c-c7ceb2aad869\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"2da37e3d-114e-4c20-9423-ef2d82d71e0b\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your patron’s name opens doors for you, even in unfamiliar places. By invoking their name or network in the right context, you can expand your influence even further.</em></p>\n</div>\n<p chunk_id=\"8140a32c-9c7c-49ce-ba03-0a140c54b82d\" class=\"CORE-paragraph-styles_CORE-body\">When you make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">test</tooltip> to interact socially in high society, you can spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to add an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip> to the result.</p>\n<p chunk_id=\"324a11e6-f40a-4d7a-8ae2-c88e77e3f6c6\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"cultural-expertises\" nexus=\"cosmererpg\">cultural expertise</tooltip> in High Society.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Agent (Spy) Prerequisite:</strong> Have a patron who is part of high society; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"cover-story-playtest\" nexus=\"cosmererpg\">Cover Story</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Envoy (Diplomat) Prerequisite:</strong> Have a patron who is part of high society; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"well-dressed-playtest\" nexus=\"cosmererpg\">Well Dressed</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "High Society Contacts",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Gain High Society expertise. Spend 2 focus to add an Opportunity to a test to interact in high society.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "high-society-contacts",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Agent",
+							"value": "agent"
+						},
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Spy",
+							"value": "spy"
+						},
+						{
+							"name": "Diplomat",
+							"value": "diplomat"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"spy": [
+							{
+								"rank": null,
+								"type": "patron",
+								"label": "Patron in high society",
+								"value": null,
+								"hardRule": false
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Cover Story talent",
+								"value": "cover-story",
+								"hardRule": true
+							}
+						],
+						"diplomat": [
+							{
+								"rank": null,
+								"type": "patron",
+								"label": "Patron in high society",
+								"value": null,
+								"hardRule": false
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Well Dressed talent",
+								"value": "well-dressed",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"cover-story",
+						"well-dressed"
+					],
+					"objectID": "105878",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"92fb8a12-deb7-45ab-828c-c7ceb2aad869\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"2da37e3d-114e-4c20-9423-ef2d82d71e0b\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your patron’s name opens doors for you, even in unfamiliar places. By invoking their name or network in the right context, you can expand your influence even further.</em></p>\n</div>\n<p chunk_id=\"8140a32c-9c7c-49ce-ba03-0a140c54b82d\" class=\"CORE-paragraph-styles_CORE-body\">When you make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">test</tooltip> to interact socially in high society, you can spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to add an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip> to the result.</p>\n<p chunk_id=\"324a11e6-f40a-4d7a-8ae2-c88e77e3f6c6\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"cultural-expertises\" nexus=\"cosmererpg\">cultural expertise</tooltip> in High Society.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Agent (Spy) Prerequisite:</strong> Have a patron who is part of high society; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"cover-story-playtest\" nexus=\"cosmererpg\">Cover Story</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Envoy (Diplomat) Prerequisite:</strong> Have a patron who is part of high society; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"well-dressed-playtest\" nexus=\"cosmererpg\">Well Dressed</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "High Society Contacts",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Gain High Society expertise. Spend 2 focus to add an Opportunity to a test to interact in high society.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"77fd23a9-2f3f-46b0-9d64-5a1b00c0c166\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"76f2dcdf-86bb-4d38-8ce1-c6c1b4ba46d5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>When an ally achieves new heights, your proclamations of their success inspire those around you.</em></p>\n</div>\n<p chunk_id=\"958015b1-c82a-4c26-9f1e-2f2ff2150a62\" class=\"CORE-paragraph-styles_CORE-body\">After an ally you can sense uses their <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"determined\" nexus=\"cosmererpg\">Determined</tooltip> condition to add an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip> to a test, you can choose a number of other allies you can influence up to your ranks in Discipline. Each target recovers 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> (no <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">action</tooltip> required).</p><p chunk_id=\"5daf7d61-da41-4032-a8a4-d57d30032c36\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 3+; either <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"applied-motivation\" nexus=\"cosmererpg\">Applied Motivation</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"stalwart-presence\" nexus=\"cosmererpg\">Stalwart Presence</tooltip> talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Inspired Zeal",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After an ally you can sense uses their Determined condition to add an Opportunity to a test, you can choose a number of allies up to your Discipline ranks who can then recover 1 focus.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "inspired-zeal",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Faithful",
+							"value": "faithful"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"faithful": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Discipline 3+",
+									"value": "discipline",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Applied Motivation talent",
+									"value": "applied-motivation",
+									"hardRule": true
+								},
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Stalwart Presence talent",
+									"value": "stalwart-presence",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"stalwart-presence",
+						"applied-motivation"
+					],
+					"objectID": "105901",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"77fd23a9-2f3f-46b0-9d64-5a1b00c0c166\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"76f2dcdf-86bb-4d38-8ce1-c6c1b4ba46d5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>When an ally achieves new heights, your proclamations of their success inspire those around you.</em></p>\n</div>\n<p chunk_id=\"958015b1-c82a-4c26-9f1e-2f2ff2150a62\" class=\"CORE-paragraph-styles_CORE-body\">After an ally you can sense uses their <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"determined\" nexus=\"cosmererpg\">Determined</tooltip> condition to add an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip> to a test, you can choose a number of other allies you can influence up to your ranks in Discipline. Each target recovers 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> (no <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">action</tooltip> required).</p><p chunk_id=\"5daf7d61-da41-4032-a8a4-d57d30032c36\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 3+; either <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"applied-motivation\" nexus=\"cosmererpg\">Applied Motivation</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"stalwart-presence\" nexus=\"cosmererpg\">Stalwart Presence</tooltip> talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Inspired Zeal",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After an ally you can sense uses their Determined condition to add an Opportunity to a test, you can choose a number of allies up to your Discipline ranks who can then recover 1 focus.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"89995b7b-e12e-4c59-aac0-fd5dde65f5c1\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"af99447b-5561-49f4-bf00-87dae83672b9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your presence brings clarity and encouragement, keeping others focused on their goal.</em></p>\n</div>\n<p chunk_id=\"66158001-42e9-4994-b81f-ca766326d47e\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip>, instead of the target becoming <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"determined\" nexus=\"cosmererpg\">Determined</tooltip>, you can make them <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"focused\" nexus=\"cosmererpg\">Focused</tooltip> until the end of the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip>.</p><p chunk_id=\"070c557e-58b6-4c86-9993-119f5ac1eb2b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Mentor) Prerequisite:</span></strong> Have a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"companions\" nexus=\"cosmererpg\">companion</tooltip>; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"lessons-in-patience\" nexus=\"cosmererpg\">Lessons in Patience</tooltip> talent</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Instill Confidence",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you use your Rousing Presence, instead of the target becoming Determined, you can make them Focused until the end of the scene.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "instill-confidence",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Mentor",
+							"value": "mentor"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"mentor": [
+							[
+								{
+									"rank": null,
+									"type": "companion",
+									"label": "Have a companion",
+									"value": null,
+									"hardRule": false
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Lessons in Patience talent",
+									"value": "lessons-in-patience",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"lessons-in-patience"
+					],
+					"objectID": "105905",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"89995b7b-e12e-4c59-aac0-fd5dde65f5c1\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"af99447b-5561-49f4-bf00-87dae83672b9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your presence brings clarity and encouragement, keeping others focused on their goal.</em></p>\n</div>\n<p chunk_id=\"66158001-42e9-4994-b81f-ca766326d47e\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip>, instead of the target becoming <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"determined\" nexus=\"cosmererpg\">Determined</tooltip>, you can make them <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"focused\" nexus=\"cosmererpg\">Focused</tooltip> until the end of the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip>.</p><p chunk_id=\"070c557e-58b6-4c86-9993-119f5ac1eb2b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Mentor) Prerequisite:</span></strong> Have a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"companions\" nexus=\"cosmererpg\">companion</tooltip>; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"lessons-in-patience\" nexus=\"cosmererpg\">Lessons in Patience</tooltip> talent</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Instill Confidence",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you use your Rousing Presence, instead of the target becoming Determined, you can make them Focused until the end of the scene.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"155816f4-d8e4-4ec2-9a81-bef41ea37bd5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"c4c0f722-740a-4971-8b8b-1a76e51c76ac\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Amid the uncertainties of life, you encourage others to slowly and persistently pursue their goals rather than push themselves to burnout.</em></p>\n</div>\n<p chunk_id=\"526d9b7d-1476-4377-9385-be636a1aedfa\" class=\"CORE-paragraph-styles_CORE-body\">After you use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip>, the target recovers 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>.</p>\n<p chunk_id=\"da7a9fd1-c592-4d55-8a14-645d368471c8\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> in Motivational Speech.</p><p chunk_id=\"74bfb9b2-8e55-40ec-8915-d2a88b6547bf\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Mentor) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"sound-advice\" nexus=\"cosmererpg\">Sound Advice</tooltip> talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Lessons in Patience",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After you use your Rousing Presence, the target recovers 1 focus.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "lessons-in-patience",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Mentor",
+							"value": "mentor"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"mentor": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Discipline 2+",
+									"value": "discipline",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Sound Advice talent",
+									"value": "sound-advice",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"sound-advice"
+					],
+					"objectID": "105904",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"155816f4-d8e4-4ec2-9a81-bef41ea37bd5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"c4c0f722-740a-4971-8b8b-1a76e51c76ac\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Amid the uncertainties of life, you encourage others to slowly and persistently pursue their goals rather than push themselves to burnout.</em></p>\n</div>\n<p chunk_id=\"526d9b7d-1476-4377-9385-be636a1aedfa\" class=\"CORE-paragraph-styles_CORE-body\">After you use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip>, the target recovers 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>.</p>\n<p chunk_id=\"da7a9fd1-c592-4d55-8a14-645d368471c8\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> in Motivational Speech.</p><p chunk_id=\"74bfb9b2-8e55-40ec-8915-d2a88b6547bf\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Mentor) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"sound-advice\" nexus=\"cosmererpg\">Sound Advice</tooltip> talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Lessons in Patience",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After you use your Rousing Presence, the target recovers 1 focus.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"b1cbe4a6-4e03-49f9-9b1b-2053af037205\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies</p>\n<p chunk_id=\"0a871d07-ffe7-456e-9938-8e92ab639faa\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"79e90496-a13a-4494-867f-02d766541c47\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You deliver your swings, punches, and kicks with practiced efficiency.</em></p>\n</div>\n<p chunk_id=\"7115475e-3f42-4501-addc-f213e3155b65\" class=\"CORE-paragraph-styles_CORE-body\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>\n</tooltip> with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapons\" nexus=\"cosmererpg\">weapon</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"unarmed-attacks\" nexus=\"cosmererpg\">unarmed attack</tooltip>, for each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> you used on that attack’s action, increase the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> you deal by 1 + your tier. For example, if you’re level 6 and you make an attack that costs <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span>, each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> deals an extra 1 + 2 damage, for a total of 6 damage.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Mighty",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you hit with a weapon or unarmed attack, for each ▶ you used on that attack’s action, increase the damage you deal by 1 + your tier.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "mighty",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Agent",
+							"value": "agent"
+						},
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						},
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						},
+						{
+							"name": "Leader",
+							"value": "leader"
+						},
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Spy",
+							"value": "spy"
+						},
+						{
+							"name": "Mentor",
+							"value": "mentor"
+						},
+						{
+							"name": "Assassin",
+							"value": "assassin"
+						},
+						{
+							"name": "Champion",
+							"value": "champion"
+						},
+						{
+							"name": "Shardbearer",
+							"value": "shardbearer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"spy": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cover Story talent",
+									"value": "cover-story",
+									"hardRule": true
+								}
+							]
+						],
+						"mentor": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Practical Demonstration talent",
+									"value": "practical-demonstration",
+									"hardRule": true
+								}
+							]
+						],
+						"assassin": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cold Eyes talent",
+									"value": "cold-eyes",
+									"hardRule": true
+								}
+							]
+						],
+						"champion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Imposing Posture talent",
+									"value": "imposing-posture",
+									"hardRule": true
+								}
+							]
+						],
+						"shardbearer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Stonestance talent",
+									"value": "stonestance",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"cover-story",
+						"practical-demonstration",
+						"cold-eyes",
+						"imposing-posture",
+						"stonestance"
+					],
+					"objectID": "105876",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"b1cbe4a6-4e03-49f9-9b1b-2053af037205\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies</p>\n<p chunk_id=\"0a871d07-ffe7-456e-9938-8e92ab639faa\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"79e90496-a13a-4494-867f-02d766541c47\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You deliver your swings, punches, and kicks with practiced efficiency.</em></p>\n</div>\n<p chunk_id=\"7115475e-3f42-4501-addc-f213e3155b65\" class=\"CORE-paragraph-styles_CORE-body\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>\n</tooltip> with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapons\" nexus=\"cosmererpg\">weapon</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"unarmed-attacks\" nexus=\"cosmererpg\">unarmed attack</tooltip>, for each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> you used on that attack’s action, increase the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> you deal by 1 + your tier. For example, if you’re level 6 and you make an attack that costs <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span>, each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> deals an extra 1 + 2 damage, for a total of 6 damage.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Mighty",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you hit with a weapon or unarmed attack, for each ▶ you used on that attack’s action, increase the damage you deal by 1 + your tier.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"5a1d04c7-6467-41ad-9ca0-d59d147a1836\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"d3a11247-ba01-4158-88ec-4229091bd774\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>The best battle is one you don’t have to fight. If your calm appeals meet willing hearts, you’d rather end the conflict peacefully.</em></p>\n</div>\n<p chunk_id=\"dab32ef6-affd-4a98-966e-3853aeed37c3\" class=\"CORE-paragraph-styles_CORE-body\">In combat, if all non-minion enemies are currently pacified (such as by <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"calm-appeal\" nexus=\"cosmererpg\">Calm Appeal</tooltip>) and all other non-minion characters agree to cease hostilities, you can ease tensions. The combat immediately ends and becomes a conversation.</p>\n<p chunk_id=\"0ff8d7b5-4ddd-4efc-a1be-e6af47d8f908\" class=\"CORE-paragraph-styles_CORE-body\"> At the GM’s discretion, you can use this talent in non-combat scenes.</p><p chunk_id=\"4dc9640a-eb97-4184-af9b-a4e836db0acf\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Diplomat) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"calm-appeal\" nexus=\"cosmererpg\">Calm Appeal</tooltip> talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Peaceful Solution",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "If all non-minion enemies are currently pacified (such as by Calm Appeal) and all other non-minion characters agree to cease hostilities, you can ease tensions.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "peaceful-solution",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Diplomat",
+							"value": "diplomat"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"diplomat": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Discipline 3+",
+									"value": "discipline",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Calm Appeal talent",
+									"value": "calm-appeal",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Free action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"calm-appeal"
+					],
+					"objectID": "105892",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"5a1d04c7-6467-41ad-9ca0-d59d147a1836\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"d3a11247-ba01-4158-88ec-4229091bd774\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>The best battle is one you don’t have to fight. If your calm appeals meet willing hearts, you’d rather end the conflict peacefully.</em></p>\n</div>\n<p chunk_id=\"dab32ef6-affd-4a98-966e-3853aeed37c3\" class=\"CORE-paragraph-styles_CORE-body\">In combat, if all non-minion enemies are currently pacified (such as by <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"calm-appeal\" nexus=\"cosmererpg\">Calm Appeal</tooltip>) and all other non-minion characters agree to cease hostilities, you can ease tensions. The combat immediately ends and becomes a conversation.</p>\n<p chunk_id=\"0ff8d7b5-4ddd-4efc-a1be-e6af47d8f908\" class=\"CORE-paragraph-styles_CORE-body\"> At the GM’s discretion, you can use this talent in non-combat scenes.</p><p chunk_id=\"4dc9640a-eb97-4184-af9b-a4e836db0acf\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Diplomat) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"calm-appeal\" nexus=\"cosmererpg\">Calm Appeal</tooltip> talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Peaceful Solution",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "If all non-minion enemies are currently pacified (such as by Calm Appeal) and all other non-minion characters agree to cease hostilities, you can ease tensions.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"5bcb7bc6-b83d-4957-9620-86f47be6e2d6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"b8c04c02-9d46-4e95-a6cc-09356b2ffcb5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your lessons are functional and direct, providing an excellent example for others to follow.</em></p>\n</div>\n<p chunk_id=\"029cf20f-cb55-4ded-8a8c-552343bdf7bf\" class=\"CORE-paragraph-styles_CORE-body\">After you succeed on a test to <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip> or <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip>, you can use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>.</p><p chunk_id=\"eab9a4e4-757a-495e-ae18-006cfdd0cd89\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Mentor) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Practical Demonstration",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After you succeed on a test to attack or Gain Advantage, you can use your Rousing Presence as ▷.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "practical-demonstration",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Mentor",
+							"value": "mentor"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"mentor": [
+							[
+								{
+									"rank": 1,
+									"type": "skill",
+									"label": "Leadership 1+",
+									"value": "leadership",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Rousing Presence key talent",
+									"value": "rousing-presence",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Free action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"rousing-presence"
+					],
+					"objectID": "105903",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"5bcb7bc6-b83d-4957-9620-86f47be6e2d6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"b8c04c02-9d46-4e95-a6cc-09356b2ffcb5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your lessons are functional and direct, providing an excellent example for others to follow.</em></p>\n</div>\n<p chunk_id=\"029cf20f-cb55-4ded-8a8c-552343bdf7bf\" class=\"CORE-paragraph-styles_CORE-body\">After you succeed on a test to <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip> or <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip>, you can use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>.</p><p chunk_id=\"eab9a4e4-757a-495e-ae18-006cfdd0cd89\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Mentor) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Practical Demonstration",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After you succeed on a test to attack or Gain Advantage, you can use your Rousing Presence as ▷.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"d94393be-00f9-4f6c-904d-4ee89f1251a8\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"5f3e2963-d540-4e96-9351-9e9ee9b9cf2a\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Thanks to your study of the history of rhetoric, you confidently craft your speeches for widespread appeal.</em></p>\n</div>\n<p chunk_id=\"b69eada0-d1ad-4786-ae75-a91c3c079a60\" class=\"CORE-paragraph-styles_CORE-body\">When you use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steadfast-challenge\" nexus=\"cosmererpg\">Steadfast Challenge</tooltip>, you can spend <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> up to your ranks in Persuasion to affect that many additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">targets</tooltip>.</p><p chunk_id=\"4ceb9805-59c2-484c-ad3d-79286a478265\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Diplomat) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"persuasion\" nexus=\"cosmererpg\">Persuasion</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"high-society-contacts\" nexus=\"cosmererpg\">High Society Contacts</tooltip>\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Practiced Oratory",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you use your Rousing Presence or Steadfast Challenge, you can spend focus up to your ranks in Persuasion to affect that many additional targets.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "practiced-oratory",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Diplomat",
+							"value": "diplomat"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"diplomat": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Persuasion 3+",
+									"value": "persuasion",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "High Society Contacts",
+									"value": "high-society-contacts",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"high-society-contacts"
+					],
+					"objectID": "105893",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"d94393be-00f9-4f6c-904d-4ee89f1251a8\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"5f3e2963-d540-4e96-9351-9e9ee9b9cf2a\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Thanks to your study of the history of rhetoric, you confidently craft your speeches for widespread appeal.</em></p>\n</div>\n<p chunk_id=\"b69eada0-d1ad-4786-ae75-a91c3c079a60\" class=\"CORE-paragraph-styles_CORE-body\">When you use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steadfast-challenge\" nexus=\"cosmererpg\">Steadfast Challenge</tooltip>, you can spend <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> up to your ranks in Persuasion to affect that many additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">targets</tooltip>.</p><p chunk_id=\"4ceb9805-59c2-484c-ad3d-79286a478265\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Diplomat) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"persuasion\" nexus=\"cosmererpg\">Persuasion</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"high-society-contacts\" nexus=\"cosmererpg\">High Society Contacts</tooltip>\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Practiced Oratory",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you use your Rousing Presence or Steadfast Challenge, you can spend focus up to your ranks in Persuasion to affect that many additional targets.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"60319869-7806-468f-8e6f-2dc89f969679\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"c7bda655-43fb-4407-8d3b-340b946405eb\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your words cut through pain, fatigue, and even unconsciousness, helping your allies regain their feet at critical moments.</em></p>\n</div>\n<p chunk_id=\"63159479-0328-4bfe-8433-2f15f5e4d0af\" class=\"CORE-paragraph-styles_CORE-body\">When you use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip>, you can target an <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"unconscious\" nexus=\"cosmererpg\">Unconscious</tooltip> ally you can sense. When you do, the target is no longer Unconscious, and if they have 0 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip>, they roll their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"recovery-die\" nexus=\"cosmererpg\">recovery die</tooltip> and recover health equal to the result + your ranks in Leadership.</p><p chunk_id=\"17718adf-06c1-4494-ad88-a254dcc19651\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Mentor) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"guiding-oration\" nexus=\"cosmererpg\">Guiding Oration</tooltip> talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Rallying Shout",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you use your Rousing Presence, you can target an Unconscious ally you can sense.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "rallying-shout",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Mentor",
+							"value": "mentor"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"mentor": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Leadership 3+",
+									"value": "leadership",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Guiding Oration talent",
+									"value": "guiding-oration",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"guiding-oration"
+					],
+					"objectID": "105908",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"60319869-7806-468f-8e6f-2dc89f969679\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"c7bda655-43fb-4407-8d3b-340b946405eb\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your words cut through pain, fatigue, and even unconsciousness, helping your allies regain their feet at critical moments.</em></p>\n</div>\n<p chunk_id=\"63159479-0328-4bfe-8433-2f15f5e4d0af\" class=\"CORE-paragraph-styles_CORE-body\">When you use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip>, you can target an <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"unconscious\" nexus=\"cosmererpg\">Unconscious</tooltip> ally you can sense. When you do, the target is no longer Unconscious, and if they have 0 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip>, they roll their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"recovery-die\" nexus=\"cosmererpg\">recovery die</tooltip> and recover health equal to the result + your ranks in Leadership.</p><p chunk_id=\"17718adf-06c1-4494-ad88-a254dcc19651\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Mentor) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"guiding-oration\" nexus=\"cosmererpg\">Guiding Oration</tooltip> talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Rallying Shout",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you use your Rousing Presence, you can target an Unconscious ally you can sense.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"2e194c44-ab8d-4aaa-a059-7e216062011a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> none</p>\n<p chunk_id=\"8cb82d81-4b46-440a-bb5c-ab8612fd6ee1\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"89ac350b-77f7-4c56-ac79-ce8468523d51\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>With a gesture, a facial expression, or a few scant words, you inspire others to excel.</em></p>\n</div>\n<p chunk_id=\"b3f21e53-0dcc-4e80-a287-6e2503ed0c19\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">Choose an ally you can influence. They become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"determined\" nexus=\"cosmererpg\">Determined</tooltip> until they benefit from that condition or until the scene ends.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Rousing Presence",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-starter-rules",
+					"shortDescription": "You influence an ally to become Determined.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "rousing-presence",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"hasPrerequisites": false,
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"objectID": "105887",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"2e194c44-ab8d-4aaa-a059-7e216062011a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> none</p>\n<p chunk_id=\"8cb82d81-4b46-440a-bb5c-ab8612fd6ee1\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"89ac350b-77f7-4c56-ac79-ce8468523d51\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>With a gesture, a facial expression, or a few scant words, you inspire others to excel.</em></p>\n</div>\n<p chunk_id=\"b3f21e53-0dcc-4e80-a287-6e2503ed0c19\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">Choose an ally you can influence. They become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"determined\" nexus=\"cosmererpg\">Determined</tooltip> until they benefit from that condition or until the scene ends.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Rousing Presence",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You influence an ally to become Determined.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"9ab7031e-66d7-434b-9932-df1da71e2c12\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"0773548b-0da8-42f0-b305-30bd66dfc4a6\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You offer reassuring guidance alongside physical assistance, making your allies confident of your approval.</em></p>\n</div>\n<p chunk_id=\"ce30551e-6f8d-4040-8730-c887787d8604\" class=\"CORE-paragraph-styles_CORE-body\">After you use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"aid\" nexus=\"cosmererpg\">Aid</tooltip> reaction on an ally, spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to grant that ally the benefits of your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> (no <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">action</tooltip> required).</p><p chunk_id=\"3800dcca-74ec-46a6-a9ae-bef09809b97f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"stalwart-presence\" nexus=\"cosmererpg\">Stalwart Presence</tooltip> talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Sage Counsel",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After you use the Aid reaction on an ally, spend 1 focus to grant that ally the benefits of your Rousing Presence.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "sage-counsel",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Faithful",
+							"value": "faithful"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"faithful": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Lore 3+",
+									"value": "lore",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Stalwart Presence talent",
+									"value": "stalwart-presence",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"stalwart-presence"
+					],
+					"objectID": "105900",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"9ab7031e-66d7-434b-9932-df1da71e2c12\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"0773548b-0da8-42f0-b305-30bd66dfc4a6\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You offer reassuring guidance alongside physical assistance, making your allies confident of your approval.</em></p>\n</div>\n<p chunk_id=\"ce30551e-6f8d-4040-8730-c887787d8604\" class=\"CORE-paragraph-styles_CORE-body\">After you use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"aid\" nexus=\"cosmererpg\">Aid</tooltip> reaction on an ally, spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to grant that ally the benefits of your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> (no <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">action</tooltip> required).</p><p chunk_id=\"3800dcca-74ec-46a6-a9ae-bef09809b97f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"lore\" nexus=\"cosmererpg\">Lore</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"stalwart-presence\" nexus=\"cosmererpg\">Stalwart Presence</tooltip> talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Sage Counsel",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After you use the Aid reaction on an ally, spend 1 focus to grant that ally the benefits of your Rousing Presence.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"6229b16e-c9a3-4212-b22d-df5f30971a87\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span></p>\n<div chunk_id=\"56b12c94-9f6e-47b5-b9a0-678dd5db74a4\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You know failure can be an excellent teacher, but only if its origin is understood, so you encourage your allies to grow from their inevitable setbacks.</em></p>\n</div>\n<p chunk_id=\"d949779a-2116-4c89-9b36-30e3bcc6386f\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\">After an ally you can influence fails a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">skill test</tooltip>, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> on them as <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span>.</p><p chunk_id=\"8da200ef-22ef-4f5b-80cd-eb184ca24304\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Mentor) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Sound Advice",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After an ally you can influence fails a skill test, you can spend 1 focus to use your Rousing Presence on them.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "sound-advice",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Mentor",
+							"value": "mentor"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"mentor": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Rousing Presence key talent",
+								"value": "rousing-presence",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": "",
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Reaction",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"rousing-presence"
+					],
+					"objectID": "105902",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"6229b16e-c9a3-4212-b22d-df5f30971a87\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span></p>\n<div chunk_id=\"56b12c94-9f6e-47b5-b9a0-678dd5db74a4\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You know failure can be an excellent teacher, but only if its origin is understood, so you encourage your allies to grow from their inevitable setbacks.</em></p>\n</div>\n<p chunk_id=\"d949779a-2116-4c89-9b36-30e3bcc6386f\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\">After an ally you can influence fails a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">skill test</tooltip>, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> on them as <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span>.</p><p chunk_id=\"8da200ef-22ef-4f5b-80cd-eb184ca24304\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Mentor) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Sound Advice",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After an ally you can influence fails a skill test, you can spend 1 focus to use your Rousing Presence on them.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"a1b57c43-c8c2-4ae9-a474-7541e145f994\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"e02bd987-3cc1-4555-a8d0-c06e6b77b530\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your words carry the certainty of your beliefs, bolstering the endurance of even those who don’t share your faith.</em></p>\n</div>\n<p chunk_id=\"614af85a-d9ef-43b2-b1aa-de336a065385\" class=\"CORE-paragraph-styles_CORE-body\">When you use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip>, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to increase one of the target’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> (your choice) by 2 until the end of the next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">round</tooltip>.</p><p chunk_id=\"ca45ffef-8a78-468e-a43a-8191a288ae5d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"devoted-presence\" nexus=\"cosmererpg\">Devoted Presence</tooltip> talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Stalwart Presence",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you use your Rousing Presence, you can spend 1 focus to increase one of the target’s defenses by 2 until the end of the next round.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "stalwart-presence",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Faithful",
+							"value": "faithful"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"faithful": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Discipline 2+",
+									"value": "discipline",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Devoted Presence talent",
+									"value": "devoted-presence",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"devoted-presence"
+					],
+					"objectID": "105898",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"a1b57c43-c8c2-4ae9-a474-7541e145f994\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"e02bd987-3cc1-4555-a8d0-c06e6b77b530\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your words carry the certainty of your beliefs, bolstering the endurance of even those who don’t share your faith.</em></p>\n</div>\n<p chunk_id=\"614af85a-d9ef-43b2-b1aa-de336a065385\" class=\"CORE-paragraph-styles_CORE-body\">When you use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip>, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to increase one of the target’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> (your choice) by 2 until the end of the next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">round</tooltip>.</p><p chunk_id=\"ca45ffef-8a78-468e-a43a-8191a288ae5d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"devoted-presence\" nexus=\"cosmererpg\">Devoted Presence</tooltip> talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Stalwart Presence",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you use your Rousing Presence, you can spend 1 focus to increase one of the target’s defenses by 2 until the end of the next round.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"a69509a2-d4a7-46e3-b7c5-82298b741a33\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"b0585ad8-270d-4520-996c-7f2dc34adb40\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You stand firm, locking eyes with your opponent and speaking a challenge with unnerving calm.</em></p>\n</div>\n<p chunk_id=\"73759ffb-745d-416f-9d40-ddea985ab8d2\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a Discipline test against the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Spiritual defense</tooltip> of an enemy you can influence. On a success, they become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"disoriented\" nexus=\"cosmererpg\">Disoriented</tooltip> and gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> on tests against you until the end of their next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>.</p><p chunk_id=\"fe032c75-131c-4296-b468-79d31e5fe38e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Diplomat) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Steadfast Challenge",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-starter-rules",
+					"shortDescription": "Spend 1 focus to make a Discipline test against the Spiritual defense of an enemy you can influence.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "steadfast-challenge",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Diplomat",
+							"value": "diplomat"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"diplomat": [
+							[
+								{
+									"rank": 1,
+									"type": "skill",
+									"label": "Discipline 1+",
+									"value": "discipline",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Rousing Presence key talent",
+									"value": "rousing-presence",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"rousing-presence"
+					],
+					"objectID": "105888",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"a69509a2-d4a7-46e3-b7c5-82298b741a33\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"b0585ad8-270d-4520-996c-7f2dc34adb40\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You stand firm, locking eyes with your opponent and speaking a challenge with unnerving calm.</em></p>\n</div>\n<p chunk_id=\"73759ffb-745d-416f-9d40-ddea985ab8d2\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a Discipline test against the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Spiritual defense</tooltip> of an enemy you can influence. On a success, they become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"disoriented\" nexus=\"cosmererpg\">Disoriented</tooltip> and gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> on tests against you until the end of their next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>.</p><p chunk_id=\"fe032c75-131c-4296-b468-79d31e5fe38e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Diplomat) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Steadfast Challenge",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 1 focus to make a Discipline test against the Spiritual defense of an enemy you can influence.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"88669169-bb1d-4bd4-8ade-da56d5b3d5af\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"11cc6971-92b5-47e4-969e-638a0fc368d0\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You cleverly match your outfits to the occasion, always making the perfect statement.</em></p>\n</div>\n<p chunk_id=\"227401c3-0a5a-47de-8460-1e7c8546c89c\" class=\"CORE-paragraph-styles_CORE-body\">While visibly wearing <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"presentable\" nexus=\"cosmererpg\">Presentable</tooltip> armor or fashionable clothing, you gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on the first <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip>, <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip>, or <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"persuasion\" nexus=\"cosmererpg\">Persuasion</tooltip> test you make during each scene.</p>\n<p chunk_id=\"3c317a3e-eb3c-4221-be38-4f13fb6a5459\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"cultural-expertises\" nexus=\"cosmererpg\">cultural expertise</tooltip> in Fashion.</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Diplomat) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steadfast-challenge\" nexus=\"cosmererpg\">Steadfast Challenge</tooltip> talent\n</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Leader (Politico) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rumormonger\" nexus=\"cosmererpg\">Rumormonger</tooltip> talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Well Dressed",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While visibly wearing Presentable armor or fashionable clothing, you gain an advantage on the first Deception, Leadership, or Persuasion test you make during each scene.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "well-dressed",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						},
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Diplomat",
+							"value": "diplomat"
+						},
+						{
+							"name": "Politico",
+							"value": "politico"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"diplomat": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Steadfast Challenge talent",
+									"value": "steadfast-challenge",
+									"hardRule": true
+								}
+							]
+						],
+						"politico": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Rumormonger talent",
+									"value": "rumormonger",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"steadfast-challenge",
+						"rumormonger"
+					],
+					"objectID": "105890",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"88669169-bb1d-4bd4-8ade-da56d5b3d5af\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"11cc6971-92b5-47e4-969e-638a0fc368d0\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You cleverly match your outfits to the occasion, always making the perfect statement.</em></p>\n</div>\n<p chunk_id=\"227401c3-0a5a-47de-8460-1e7c8546c89c\" class=\"CORE-paragraph-styles_CORE-body\">While visibly wearing <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"presentable\" nexus=\"cosmererpg\">Presentable</tooltip> armor or fashionable clothing, you gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on the first <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip>, <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip>, or <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"persuasion\" nexus=\"cosmererpg\">Persuasion</tooltip> test you make during each scene.</p>\n<p chunk_id=\"3c317a3e-eb3c-4221-be38-4f13fb6a5459\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"cultural-expertises\" nexus=\"cosmererpg\">cultural expertise</tooltip> in Fashion.</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Diplomat) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steadfast-challenge\" nexus=\"cosmererpg\">Steadfast Challenge</tooltip> talent\n</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Leader (Politico) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rumormonger\" nexus=\"cosmererpg\">Rumormonger</tooltip> talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Well Dressed",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While visibly wearing Presentable armor or fashionable clothing, you gain an advantage on the first Deception, Leadership, or Persuasion test you make during each scene.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"a00c163e-c236-48f1-8f10-287cd52c45ec\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span></p>\n<div chunk_id=\"f01cb66f-8e24-4c91-8e4e-bada1e19ab12\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You unflinchingly face even the most violent of attacks.</em></p>\n</div>\n<p chunk_id=\"08837798-0654-4ba1-9af5-3f882ff46706\" class=\"CORE-paragraph-styles_CORE-body\">Before a character you can sense <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">targets</tooltip> you with an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attack-test\" nexus=\"cosmererpg\">attack test</tooltip>, you can use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steadfast-challenge\" nexus=\"cosmererpg\">Steadfast Challenge</tooltip> as <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span>. When you do, also increase your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"deflect\" nexus=\"cosmererpg\">deflect</tooltip> value against this attack by your ranks in Discipline.</p><p chunk_id=\"9c7a6e54-200a-4e05-8f1f-4aa8fce2ee87\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Diplomat) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steadfast-challenge\" nexus=\"cosmererpg\">Steadfast Challenge</tooltip> talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Withering Retort",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Before a character you can sense targets you with an attack test, you can use your Steadfast Challenge as a reaction.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "withering-retort",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Diplomat",
+							"value": "diplomat"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"diplomat": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Discipline 2+",
+									"value": "discipline",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Steadfast Challenge talent",
+									"value": "steadfast-challenge",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": "",
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Reaction",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"steadfast-challenge"
+					],
+					"objectID": "105889",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"a00c163e-c236-48f1-8f10-287cd52c45ec\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span></p>\n<div chunk_id=\"f01cb66f-8e24-4c91-8e4e-bada1e19ab12\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You unflinchingly face even the most violent of attacks.</em></p>\n</div>\n<p chunk_id=\"08837798-0654-4ba1-9af5-3f882ff46706\" class=\"CORE-paragraph-styles_CORE-body\">Before a character you can sense <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">targets</tooltip> you with an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attack-test\" nexus=\"cosmererpg\">attack test</tooltip>, you can use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steadfast-challenge\" nexus=\"cosmererpg\">Steadfast Challenge</tooltip> as <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span>. When you do, also increase your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"deflect\" nexus=\"cosmererpg\">deflect</tooltip> value against this attack by your ranks in Discipline.</p><p chunk_id=\"9c7a6e54-200a-4e05-8f1f-4aa8fce2ee87\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Diplomat) Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steadfast-challenge\" nexus=\"cosmererpg\">Steadfast Challenge</tooltip> talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Withering Retort",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Before a character you can sense targets you with an attack test, you can use your Steadfast Challenge as a reaction.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 25,
+			"nbSortedHits": 25,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=paths.value%3A'envoy'&hitsPerPage=25&page=0&query=",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"roundTrip": 58
+				},
+				"afterFetch": {
+					"format": {
+						"highlighting": 2,
+						"total": 3
+					}
+				},
+				"getIdx": {
+					"total": 1
+				},
+				"total": 1
+			},
+			"serverTimeMS": 5
+		}
+	]
+}

@@ -1,0 +1,2541 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"7896796a-cca3-4058-bceb-ddbc18dd4d23\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"7cc13261-bf2f-46e4-877b-354ac4a0871d\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your animal companion is more than just a friend or working beast—they’re your partner. They warn you of danger, anticipate your needs, and follow your commands … most of the time, anyway.</em></p>\n</div>\n<p chunk_id=\"f5b75623-7269-473b-91bc-35a0ab712d49\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, it upgrades an animal companion you’ve gained as a reward (see “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-8-goals-and-rewards/#Companions\" title=\"Companions\">Companions</a>” in chapter 8).</p>\n<p chunk_id=\"51ab92db-bc3b-41c2-b7c8-33ba3c7be3d1\" class=\"CORE-paragraph-styles_CORE-body\"> You can communicate simple concepts with your animal companion, and they generally attempt to help you as requested. When a scene requires their stat block, see appendix A, “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/appendices/#AppendixAnimalCompanions\" title=\"Animal Companions\">Animal Companions</a>.”</p>\n<p chunk_id=\"bd8cf72e-73ab-45c0-a4a0-781a9d8362b7\" class=\"CORE-paragraph-styles_CORE-body\"> Your animal companion alerts you of incoming danger. While you can sense them within 10 feet of you, each of your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> increases by 1. When you move, your animal companion automatically moves alongside you.</p>\n<p chunk_id=\"875e8997-e7f2-499d-9e84-edd20cef48f0\" class=\"CORE-paragraph-styles_CORE-body\"> During combat, your animal companion follows the rules for allied NPCs (see “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-10-combat/#RoundsandTurns\" title=\"Rounds and Turns\">Rounds and Turns</a>” in chapter 10). However, if your animal companion hasn’t yet acted this round, you can use <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> to call on them to act during your turn. When you do, they gain either <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> or <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span> (your choice) to immediately use actions of your choice, then at the start of their next turn, they gain that many fewer <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> than usual.</p>\n<p chunk_id=\"5de64c30-c001-4083-92f4-92d4498790fb\" class=\"CORE-paragraph-styles_CORE-body\"> In addition to the actions in chapter 10 and in your animal companion’s stat block, they can use the special Track action:</p>\n<p chunk_id=\"fca24a58-a20b-4e88-85cb-204d78e3ba24\" class=\"STAT-BLOCK-styles_STAT-BLOCK-body ParaOverride-14\"><span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span><strong><span class=\"color-span\">Track.</span></strong> The animal companion helps their Hunter track one character of the Hunter’s choice who the animal companion can sense within their reach. The target becomes the Hunter’s quarry for their <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> talent.</p>\n<p chunk_id=\"84339732-2c87-484c-aabd-49e356531781\" class=\"CORE-paragraph-styles_CORE-body\">If your animal companion is reduced to 0 health, they don’t become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"unconscious\" nexus=\"cosmererpg\">Unconscious</tooltip>, but they stop fighting and retreat to safety. (However, your animal companion can still die from injuries or for narrative reasons.) If you ever lose your animal companion, you can bond with a new animal at an opportunity the GM deems appropriate.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Tracker) Prerequisite:</strong> Have an animal companion; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> key talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Animal Bond",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While your companion is within 10 feet, your defenses increase by 1.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "animal-bond",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Tracker",
+							"value": "tracker"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"tracker": [
+							[
+								{
+									"rank": null,
+									"type": "companion",
+									"label": "Have an animal companion",
+									"value": null,
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Seek Quarry key talent",
+									"value": "seek-quarry",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"seek-quarry"
+					],
+					"objectID": "105930",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"7896796a-cca3-4058-bceb-ddbc18dd4d23\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"7cc13261-bf2f-46e4-877b-354ac4a0871d\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your animal companion is more than just a friend or working beast—they’re your partner. They warn you of danger, anticipate your needs, and follow your commands … most of the time, anyway.</em></p>\n</div>\n<p chunk_id=\"f5b75623-7269-473b-91bc-35a0ab712d49\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, it upgrades an animal companion you’ve gained as a reward (see “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-8-goals-and-rewards/#Companions\" title=\"Companions\">Companions</a>” in chapter 8).</p>\n<p chunk_id=\"51ab92db-bc3b-41c2-b7c8-33ba3c7be3d1\" class=\"CORE-paragraph-styles_CORE-body\"> You can communicate simple concepts with your animal companion, and they generally attempt to help you as requested. When a scene requires their stat block, see appendix A, “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/appendices/#AppendixAnimalCompanions\" title=\"Animal Companions\">Animal Companions</a>.”</p>\n<p chunk_id=\"bd8cf72e-73ab-45c0-a4a0-781a9d8362b7\" class=\"CORE-paragraph-styles_CORE-body\"> Your animal companion alerts you of incoming danger. While you can sense them within 10 feet of you, each of your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> increases by 1. When you move, your animal companion automatically moves alongside you.</p>\n<p chunk_id=\"875e8997-e7f2-499d-9e84-edd20cef48f0\" class=\"CORE-paragraph-styles_CORE-body\"> During combat, your animal companion follows the rules for allied NPCs (see “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-10-combat/#RoundsandTurns\" title=\"Rounds and Turns\">Rounds and Turns</a>” in chapter 10). However, if your animal companion hasn’t yet acted this round, you can use <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> to call on them to act during your turn. When you do, they gain either <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> or <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span> (your choice) to immediately use actions of your choice, then at the start of their next turn, they gain that many fewer <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> than usual.</p>\n<p chunk_id=\"5de64c30-c001-4083-92f4-92d4498790fb\" class=\"CORE-paragraph-styles_CORE-body\"> In addition to the actions in chapter 10 and in your animal companion’s stat block, they can use the special Track action:</p>\n<p chunk_id=\"fca24a58-a20b-4e88-85cb-204d78e3ba24\" class=\"STAT-BLOCK-styles_STAT-BLOCK-body ParaOverride-14\"><span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span><strong><span class=\"color-span\">Track.</span></strong> The animal companion helps their Hunter track one character of the Hunter’s choice who the animal companion can sense within their reach. The target becomes the Hunter’s quarry for their <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> talent.</p>\n<p chunk_id=\"84339732-2c87-484c-aabd-49e356531781\" class=\"CORE-paragraph-styles_CORE-body\">If your animal companion is reduced to 0 health, they don’t become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"unconscious\" nexus=\"cosmererpg\">Unconscious</tooltip>, but they stop fighting and retreat to safety. (However, your animal companion can still die from injuries or for narrative reasons.) If you ever lose your animal companion, you can bond with a new animal at an opportunity the GM deems appropriate.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Tracker) Prerequisite:</strong> Have an animal companion; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> key talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Animal Bond",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While your companion is within 10 feet, your defenses increase by 1.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"7c20fce7-1549-42c2-9100-a3b68292b69d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"ed74ea3a-8110-4c6a-a713-02ac9dcae07f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve learned to fire then fade into Roshar’s harsh battlefields, keeping a safe distance from heavily armed enemies who might force hand-to-hand combat.</em></p>\n</div>\n<p chunk_id=\"b1742ec8-a8eb-4607-8a67-3dd370f3c8e2\" class=\"CORE-paragraph-styles_CORE-body\">After you make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"ranged-attacks\" nexus=\"cosmererpg\">ranged attack</tooltip>, spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"disengage\" nexus=\"cosmererpg\">Disengage</tooltip> as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>. If you then end your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip> in <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"cover\" nexus=\"cosmererpg\">cover</tooltip> or an area where your enemy’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"senses\" nexus=\"cosmererpg\">senses</tooltip> are obscured, you gain the benefit of the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"brace\" nexus=\"cosmererpg\">Brace</tooltip> action.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steady-aim\" nexus=\"cosmererpg\">Steady Aim</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Backstep",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After making a ranged attack, spend 2 focus to Disengage without spending ▶, and Brace if you enter cover or obscured area.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "backstep",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Archer",
+							"value": "archer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"archer": [
+							{
+								"rank": 2,
+								"type": "skill",
+								"label": "Agility 2+",
+								"value": "agility",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Steady Aim talent",
+								"value": "steady-aim",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Free action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"steady-aim"
+					],
+					"objectID": "105915",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"7c20fce7-1549-42c2-9100-a3b68292b69d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"ed74ea3a-8110-4c6a-a713-02ac9dcae07f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve learned to fire then fade into Roshar’s harsh battlefields, keeping a safe distance from heavily armed enemies who might force hand-to-hand combat.</em></p>\n</div>\n<p chunk_id=\"b1742ec8-a8eb-4607-8a67-3dd370f3c8e2\" class=\"CORE-paragraph-styles_CORE-body\">After you make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"ranged-attacks\" nexus=\"cosmererpg\">ranged attack</tooltip>, spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"disengage\" nexus=\"cosmererpg\">Disengage</tooltip> as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>. If you then end your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip> in <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"cover\" nexus=\"cosmererpg\">cover</tooltip> or an area where your enemy’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"senses\" nexus=\"cosmererpg\">senses</tooltip> are obscured, you gain the benefit of the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"brace\" nexus=\"cosmererpg\">Brace</tooltip> action.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steady-aim\" nexus=\"cosmererpg\">Steady Aim</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Backstep",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After making a ranged attack, spend 2 focus to Disengage without spending ▶, and Brace if you enter cover or obscured area.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"f5f9145c-bab3-4c2d-a14b-eae2805c7ab6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"515784cd-32c9-4bda-9ddd-5c0fb310f70d\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>As you eliminate one target, your gaze instinctively slides to the next threat.</em></p>\n</div>\n<p chunk_id=\"c2d640d6-52aa-4b23-82b2-783abfee26e1\" class=\"CORE-paragraph-styles_CORE-body\">After you kill or incapacitate an enemy who is your quarry, you recover 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> and can designate another enemy you can sense as your quarry for your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> talent. At the GM’s discretion, you might not be able to use this talent on some characters, such as those who pose no threat.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Assassin) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"shadowing\" nexus=\"cosmererpg\">Shadowing</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Cold Eyes",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After you defeat your quarry, recover 1 focus and choose a new quarry.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "cold-eyes",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Assassin",
+							"value": "assassin"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"assassin": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Shadowing talent",
+									"value": "shadowing",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"shadowing"
+					],
+					"objectID": "105921",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"f5f9145c-bab3-4c2d-a14b-eae2805c7ab6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"515784cd-32c9-4bda-9ddd-5c0fb310f70d\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>As you eliminate one target, your gaze instinctively slides to the next threat.</em></p>\n</div>\n<p chunk_id=\"c2d640d6-52aa-4b23-82b2-783abfee26e1\" class=\"CORE-paragraph-styles_CORE-body\">After you kill or incapacitate an enemy who is your quarry, you recover 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> and can designate another enemy you can sense as your quarry for your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> talent. At the GM’s discretion, you might not be able to use this talent on some characters, such as those who pose no threat.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Assassin) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"shadowing\" nexus=\"cosmererpg\">Shadowing</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Cold Eyes",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After you defeat your quarry, recover 1 focus and choose a new quarry.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"92c76a7b-f128-4819-a1e9-429bb9a4afe0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Varies</p>\n<p chunk_id=\"186ddb4a-5b26-492e-81b6-172f295413ef\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"c333e417-e1b9-4ee2-b68d-7a06d14b24e1\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve been trained in the basics of weaponry and elementary battle tactics.</em></p>\n</div>\n<p chunk_id=\"f4776d99-4654-426a-8266-c2221eb3dd68\" class=\"CORE-paragraph-styles_CORE-body\">Once per <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">round</tooltip>, when you miss on a weapon <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip>, you can <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip> one target without spending <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>.</p>\n<p chunk_id=\"50daa91d-3a06-4b5c-9eef-487d0c01252b\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, gain a weapon <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"expertises\" nexus=\"cosmererpg\">expertise</tooltip> and an armor expertise of your choice, and gain a cultural expertise in Military Life.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Combat Training",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-starter-rules",
+					"shortDescription": "Once per round, when you miss on a weapon attack, you can graze one target without spending focus.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "combat-training",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						},
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Archer",
+							"value": "archer"
+						},
+						{
+							"name": "Soldier",
+							"value": "soldier"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"archer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Seek Quarry key talent",
+									"value": "seek-quarry",
+									"hardRule": true
+								}
+							]
+						],
+						"soldier": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Vigliant Stance key talent",
+									"value": "vigilant-stance",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"seek-quarry",
+						"vigilant-stance"
+					],
+					"objectID": "105911",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"92c76a7b-f128-4819-a1e9-429bb9a4afe0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Varies</p>\n<p chunk_id=\"186ddb4a-5b26-492e-81b6-172f295413ef\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"c333e417-e1b9-4ee2-b68d-7a06d14b24e1\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve been trained in the basics of weaponry and elementary battle tactics.</em></p>\n</div>\n<p chunk_id=\"f4776d99-4654-426a-8266-c2221eb3dd68\" class=\"CORE-paragraph-styles_CORE-body\">Once per <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">round</tooltip>, when you miss on a weapon <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip>, you can <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip> one target without spending <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>.</p>\n<p chunk_id=\"50daa91d-3a06-4b5c-9eef-487d0c01252b\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, gain a weapon <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"expertises\" nexus=\"cosmererpg\">expertise</tooltip> and an armor expertise of your choice, and gain a cultural expertise in Military Life.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Combat Training",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Once per round, when you miss on a weapon attack, you can graze one target without spending focus.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"528a96fb-2a85-45db-8721-e55ab146d94b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"802656d1-3954-438e-ae7c-5e94445e0f77\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You know how to build traps and snares to catch wildlife—or even deadlier game!</em></p>\n</div>\n<p chunk_id=\"62cd208f-2c02-44a5-abd3-27dc8f1de118\" class=\"CORE-paragraph-styles_CORE-body\">Using foraged supplies or specialized equipment, you create and conceal a trap within your reach. Choose an entangling trap or an impaling trap:</p>\n<p chunk_id=\"d521e913-fb11-4d46-a749-b76041980d91\" class=\"hanging\"><strong><span class=\"color-span\">Entangling Trap (Survival vs. Cognitive defense).</span></strong> You create a trap with rope, debris, or other ensnaring objects. On a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>, the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> takes 2d4 impact <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> and becomes <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"immobilized\" nexus=\"cosmererpg\">Immobilized</tooltip> for 1 round, then the trap’s area becomes <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"difficult-terrain\" nexus=\"cosmererpg\">difficult terrain</tooltip> until the end of the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip>.</p>\n<p chunk_id=\"7766ffd2-7d22-446d-ba82-cacc6a5dc0c1\" class=\"hanging\"><strong><span class=\"color-span\">Impaling Trap (Survival vs. Physical defense).</span></strong> You create a trap with caltrops, spikes, or other sharp objects. On a hit, the target takes 2d4 keen damage and becomes <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"afflicted\" nexus=\"cosmererpg\">Afflicted</tooltip> [vital damage equal to 3 + your ranks in Survival] for 1 round, and you can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> to inflict an injury on the target.</p>\n<p chunk_id=\"f19b8af6-7e3a-402f-89ae-98734a4144e6\" class=\"CORE-paragraph-styles_CORE-body\">This trap covers a 5-foot-diameter circle on the ground or other surface concealing it; the trap remains until triggered, then it is expended. When a character touches this surface, the trap triggers. Make an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip> using your Survival against the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> listed for that trap, gaining an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> if the target is your quarry. On a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>, the target suffers the trap’s effects. This attack can’t <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip>.</p>\n<p chunk_id=\"f36d8472-490b-4309-8420-f69b17abdb8b\" class=\"CORE-paragraph-styles_CORE-body\"> You can have a maximum number of active traps equal to your ranks in Survival. You can’t overlap the areas of active traps. If another character makes a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">test</tooltip> to search for or disarm a trap, the DC equals your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Spiritual defense</tooltip>.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Tracker) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"survival\" nexus=\"cosmererpg\">Survival</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> key talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Deadly Trap",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Conceal a 5-foot entangling or impaling trap.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "deadly-trap",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Tracker",
+							"value": "tracker"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"tracker": [
+							[
+								{
+									"rank": 1,
+									"type": "skill",
+									"label": "Survival 1+",
+									"value": "survival",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Seek Quarry key talent",
+									"value": "seek-quarry",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"seek-quarry"
+					],
+					"objectID": "105924",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"528a96fb-2a85-45db-8721-e55ab146d94b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"802656d1-3954-438e-ae7c-5e94445e0f77\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You know how to build traps and snares to catch wildlife—or even deadlier game!</em></p>\n</div>\n<p chunk_id=\"62cd208f-2c02-44a5-abd3-27dc8f1de118\" class=\"CORE-paragraph-styles_CORE-body\">Using foraged supplies or specialized equipment, you create and conceal a trap within your reach. Choose an entangling trap or an impaling trap:</p>\n<p chunk_id=\"d521e913-fb11-4d46-a749-b76041980d91\" class=\"hanging\"><strong><span class=\"color-span\">Entangling Trap (Survival vs. Cognitive defense).</span></strong> You create a trap with rope, debris, or other ensnaring objects. On a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>, the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> takes 2d4 impact <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> and becomes <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"immobilized\" nexus=\"cosmererpg\">Immobilized</tooltip> for 1 round, then the trap’s area becomes <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"difficult-terrain\" nexus=\"cosmererpg\">difficult terrain</tooltip> until the end of the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip>.</p>\n<p chunk_id=\"7766ffd2-7d22-446d-ba82-cacc6a5dc0c1\" class=\"hanging\"><strong><span class=\"color-span\">Impaling Trap (Survival vs. Physical defense).</span></strong> You create a trap with caltrops, spikes, or other sharp objects. On a hit, the target takes 2d4 keen damage and becomes <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"afflicted\" nexus=\"cosmererpg\">Afflicted</tooltip> [vital damage equal to 3 + your ranks in Survival] for 1 round, and you can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> to inflict an injury on the target.</p>\n<p chunk_id=\"f19b8af6-7e3a-402f-89ae-98734a4144e6\" class=\"CORE-paragraph-styles_CORE-body\">This trap covers a 5-foot-diameter circle on the ground or other surface concealing it; the trap remains until triggered, then it is expended. When a character touches this surface, the trap triggers. Make an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip> using your Survival against the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> listed for that trap, gaining an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> if the target is your quarry. On a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>, the target suffers the trap’s effects. This attack can’t <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip>.</p>\n<p chunk_id=\"f36d8472-490b-4309-8420-f69b17abdb8b\" class=\"CORE-paragraph-styles_CORE-body\"> You can have a maximum number of active traps equal to your ranks in Survival. You can’t overlap the areas of active traps. If another character makes a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">test</tooltip> to search for or disarm a trap, the DC equals your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Spiritual defense</tooltip>.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Tracker) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"survival\" nexus=\"cosmererpg\">Survival</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> key talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Deadly Trap",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Conceal a 5-foot entangling or impaling trap.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"af66676d-19aa-4c4b-be5e-5492833c188a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"82de7151-a821-469a-8073-bec4c680f391\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’re adept at living off the land, confidently hunting with your traps and foraging for resources.</em></p>\n</div>\n<p chunk_id=\"2993985c-03d4-4e74-bbe2-4c6f3b9600d0\" class=\"CORE-paragraph-styles_CORE-body\">When you forage as part of a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"short-rest\" nexus=\"cosmererpg\">short rest</tooltip>, it doesn’t take your full attention, so you can roll your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"recovery-die\" nexus=\"cosmererpg\">recovery die</tooltip> or engage in other activities as usual. When you make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">Survival test</tooltip> to forage for food and water, you automatically succeed as long as they exist in your environment and nothing prevents you from foraging. Your foraging can sustain a number of characters equal to your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"survival\" nexus=\"cosmererpg\">Survival</tooltip>.</p>\n<p chunk_id=\"b3187b1e-fb07-4679-8f60-d1ea13847e26\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, after a long rest in the wilderness, you can fashion a tool from natural materials using your Survival modifier instead of Crafting (see “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-7-items/#Crafting\" title=\"Crafting\">Crafting</a>” in chapter 7). This foraged tool could be a spear, sling, tent, or another survival tool that can be made from materials found in the area, as determined by the GM.</p>\n<p chunk_id=\"f92a4531-834d-45f5-a85b-51ee00ab5aa4\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Finally, when you acquire this talent, the damage from your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"deadly-trap\" nexus=\"cosmererpg\">Deadly Traps</tooltip> talent increases from 2d4 to 2d6, and when that talent applies a condition, its <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"durations\" nexus=\"cosmererpg\">duration</tooltip> increases from 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">round</tooltip> to 2 rounds.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Tracker) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"deadly-trap\" nexus=\"cosmererpg\">Deadly Trap</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Experienced Trapper",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You easily forage for characters up to your ranks in Survival. You can fashion natural tools using Survival. Your Deadly Traps increase to 2d6 damage and 2 rounds duration.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "experienced-trapper",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Tracker",
+							"value": "tracker"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"tracker": [
+							{
+								"rank": 2,
+								"type": "skill",
+								"label": "Perception 2+",
+								"value": "perception",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Deadly Trap talent",
+								"value": "deadly-trap",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"deadly-trap"
+					],
+					"objectID": "105925",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"af66676d-19aa-4c4b-be5e-5492833c188a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"82de7151-a821-469a-8073-bec4c680f391\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’re adept at living off the land, confidently hunting with your traps and foraging for resources.</em></p>\n</div>\n<p chunk_id=\"2993985c-03d4-4e74-bbe2-4c6f3b9600d0\" class=\"CORE-paragraph-styles_CORE-body\">When you forage as part of a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"short-rest\" nexus=\"cosmererpg\">short rest</tooltip>, it doesn’t take your full attention, so you can roll your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"recovery-die\" nexus=\"cosmererpg\">recovery die</tooltip> or engage in other activities as usual. When you make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">Survival test</tooltip> to forage for food and water, you automatically succeed as long as they exist in your environment and nothing prevents you from foraging. Your foraging can sustain a number of characters equal to your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"survival\" nexus=\"cosmererpg\">Survival</tooltip>.</p>\n<p chunk_id=\"b3187b1e-fb07-4679-8f60-d1ea13847e26\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, after a long rest in the wilderness, you can fashion a tool from natural materials using your Survival modifier instead of Crafting (see “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-7-items/#Crafting\" title=\"Crafting\">Crafting</a>” in chapter 7). This foraged tool could be a spear, sling, tent, or another survival tool that can be made from materials found in the area, as determined by the GM.</p>\n<p chunk_id=\"f92a4531-834d-45f5-a85b-51ee00ab5aa4\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Finally, when you acquire this talent, the damage from your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"deadly-trap\" nexus=\"cosmererpg\">Deadly Traps</tooltip> talent increases from 2d4 to 2d6, and when that talent applies a condition, its <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"durations\" nexus=\"cosmererpg\">duration</tooltip> increases from 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">round</tooltip> to 2 rounds.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Tracker) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"deadly-trap\" nexus=\"cosmererpg\">Deadly Trap</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Experienced Trapper",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You easily forage for characters up to your ranks in Survival. You can fashion natural tools using Survival. Your Deadly Traps increase to 2d6 damage and 2 rounds duration.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"7b045666-5042-4477-8233-34a2f622a520\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"bf47aacc-66db-439d-81a8-89201612dfdc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You study your quarry’s gait, posture, and movements, homing in on their weaknesses to bring them down for good.</em></p>\n</div>\n<p chunk_id=\"62c9f729-8271-43ec-8653-d17f272c5fc1\" class=\"CORE-paragraph-styles_CORE-body\">Use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip> action as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>, targeting only your quarry.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"sharp-eye\" nexus=\"cosmererpg\">Sharp Eye</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Exploit Weakness",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Gain Advantage on your quarry without spending an action.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "exploit-weakness",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Archer",
+							"value": "archer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"archer": [
+							{
+								"rank": 3,
+								"type": "skill",
+								"label": "Perception 3+",
+								"value": "perception",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Sharp Eye talent",
+								"value": "sharp-eye",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Free action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"sharp-eye"
+					],
+					"objectID": "105914",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"7b045666-5042-4477-8233-34a2f622a520\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"bf47aacc-66db-439d-81a8-89201612dfdc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You study your quarry’s gait, posture, and movements, homing in on their weaknesses to bring them down for good.</em></p>\n</div>\n<p chunk_id=\"62c9f729-8271-43ec-8653-d17f272c5fc1\" class=\"CORE-paragraph-styles_CORE-body\">Use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip> action as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>, targeting only your quarry.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"sharp-eye\" nexus=\"cosmererpg\">Sharp Eye</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Exploit Weakness",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Gain Advantage on your quarry without spending an action.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"d4313b4c-dd48-4537-9635-8b44ac988106\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"219d8e5a-33a6-4a98-94f4-b7925b231e71\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You aim for your foe’s vitals with callous finesse, hoping to bring the fight to an end before it begins.</em></p>\n</div>\n<p chunk_id=\"ba2a0394-9360-46b3-bf15-b5b630111bd5\" class=\"CORE-paragraph-styles_CORE-body\">Using a <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"light-weaponry\" nexus=\"cosmererpg\">light weapon</tooltip>, make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-attacks\" nexus=\"cosmererpg\">melee attack</tooltip> against the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Cognitive defense</tooltip> of a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> who is <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"surprised\" nexus=\"cosmererpg\">Surprised</tooltip>, doesn’t sense you, or doesn’t view you as a threat (such as if you’re disguised). If this weapon has the <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"discreet\" nexus=\"cosmererpg\">Discreet</tooltip> trait, you gain two <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantages</tooltip> on the test.</p>\n<p chunk_id=\"5c9f1643-6390-4c88-896f-da12ed1ea4f6\" class=\"CORE-paragraph-styles_CORE-body\"> When you roll <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> for this attack, add an extra 4d4 damage, then count the number of your damage dice that rolled their maximum value (including your weapon’s usual damage plus the extra damage). For each die that rolled its maximum, your target must subtract 2 from any <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"injury-rolls\" nexus=\"cosmererpg\">injury roll</tooltip> they make for that attack. For example, if you roll 1d6 plus 4d4, and two dice roll their maximum value—a 6 on your weapon’s d6 and a 4 on an extra d4—your target subtracts 4 from their injury roll.</p>\n<p chunk_id=\"3eb85587-2030-4723-be0f-4aeb4b1e76c8\" class=\"CORE-paragraph-styles_CORE-body\"> This talent becomes more powerful as your tier increases: at tier 3, you roll an extra 6d4 damage (instead of 4d4); at tier 4, you instead roll an extra 8d4 damage; and at tier 5, you instead roll an extra 10d4 damage.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Assassin) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"startling-blow\" nexus=\"cosmererpg\">Startling Blow</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Fatal Thrust",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Attack an unsuspecting target with a light melee weapon vs. Cognitive. Add 4d4 damage, and gain two advantages if the weapon is Discreet. Max damage rolls add a penalty to the injury roll.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "fatal-thrust",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Assassin",
+							"value": "assassin"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"assassin": [
+							{
+								"rank": 3,
+								"type": "skill",
+								"label": "Perception 3+",
+								"value": "perception",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Startling Blow talent",
+								"value": "startling-blow",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"startling-blow"
+					],
+					"objectID": "105919",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"d4313b4c-dd48-4537-9635-8b44ac988106\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"219d8e5a-33a6-4a98-94f4-b7925b231e71\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You aim for your foe’s vitals with callous finesse, hoping to bring the fight to an end before it begins.</em></p>\n</div>\n<p chunk_id=\"ba2a0394-9360-46b3-bf15-b5b630111bd5\" class=\"CORE-paragraph-styles_CORE-body\">Using a <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"light-weaponry\" nexus=\"cosmererpg\">light weapon</tooltip>, make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-attacks\" nexus=\"cosmererpg\">melee attack</tooltip> against the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Cognitive defense</tooltip> of a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> who is <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"surprised\" nexus=\"cosmererpg\">Surprised</tooltip>, doesn’t sense you, or doesn’t view you as a threat (such as if you’re disguised). If this weapon has the <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"discreet\" nexus=\"cosmererpg\">Discreet</tooltip> trait, you gain two <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantages</tooltip> on the test.</p>\n<p chunk_id=\"5c9f1643-6390-4c88-896f-da12ed1ea4f6\" class=\"CORE-paragraph-styles_CORE-body\"> When you roll <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> for this attack, add an extra 4d4 damage, then count the number of your damage dice that rolled their maximum value (including your weapon’s usual damage plus the extra damage). For each die that rolled its maximum, your target must subtract 2 from any <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"injury-rolls\" nexus=\"cosmererpg\">injury roll</tooltip> they make for that attack. For example, if you roll 1d6 plus 4d4, and two dice roll their maximum value—a 6 on your weapon’s d6 and a 4 on an extra d4—your target subtracts 4 from their injury roll.</p>\n<p chunk_id=\"3eb85587-2030-4723-be0f-4aeb4b1e76c8\" class=\"CORE-paragraph-styles_CORE-body\"> This talent becomes more powerful as your tier increases: at tier 3, you roll an extra 6d4 damage (instead of 4d4); at tier 4, you instead roll an extra 8d4 damage; and at tier 5, you instead roll an extra 10d4 damage.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Assassin) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"startling-blow\" nexus=\"cosmererpg\">Startling Blow</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Fatal Thrust",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Attack an unsuspecting target with a light melee weapon vs. Cognitive. Add 4d4 damage, and gain two advantages if the weapon is Discreet. Max damage rolls add a penalty to the injury roll.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"3991959a-0269-4f29-a71f-693cffdd8db5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"36f015b7-d383-4c4c-b2f1-510251fc2868\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your animal companion has grown strong under your care and has learned to trust your instincts as much as their own.</em></p>\n</div>\n<p chunk_id=\"69d3edf8-bd1f-4180-81b9-85588f190f06\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your animal companion’s maximum and current <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip> increase by 5 × your tier; when your tier increases, your animal companion’s health does as well.</p>\n<p chunk_id=\"0b3a7a53-cea2-40c6-97d1-67bc7f54327b\" class=\"CORE-paragraph-styles_CORE-body\"> They also increase their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Physical, Cognitive, and Spiritual defenses</tooltip> by 2 each. When your animal companion makes a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">test</tooltip>, they add a bonus equal to your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"survival\" nexus=\"cosmererpg\">Survival</tooltip>.</p>\n<p chunk_id=\"7260957d-19b5-4cee-a547-fe040f372086\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> in Animal Care.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Tracker) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"survival\" nexus=\"cosmererpg\">Survival</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"protective-bond\" nexus=\"cosmererpg\">Protective Bond</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Feral Connection",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Gain expertise in Animal Care. Your animal companion’s health increases by 5 × your tier, their defenses increase by 2, and their tests gain a bonus equal to your ranks in Survival.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "feral-connection",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Tracker",
+							"value": "tracker"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"tracker": [
+							{
+								"rank": 2,
+								"type": "skill",
+								"label": "Survival 2+",
+								"value": "survival",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Protective Bond talent",
+								"value": "protective-bond",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"protective-bond"
+					],
+					"objectID": "105927",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"3991959a-0269-4f29-a71f-693cffdd8db5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"36f015b7-d383-4c4c-b2f1-510251fc2868\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your animal companion has grown strong under your care and has learned to trust your instincts as much as their own.</em></p>\n</div>\n<p chunk_id=\"69d3edf8-bd1f-4180-81b9-85588f190f06\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your animal companion’s maximum and current <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip> increase by 5 × your tier; when your tier increases, your animal companion’s health does as well.</p>\n<p chunk_id=\"0b3a7a53-cea2-40c6-97d1-67bc7f54327b\" class=\"CORE-paragraph-styles_CORE-body\"> They also increase their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Physical, Cognitive, and Spiritual defenses</tooltip> by 2 each. When your animal companion makes a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">test</tooltip>, they add a bonus equal to your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"survival\" nexus=\"cosmererpg\">Survival</tooltip>.</p>\n<p chunk_id=\"7260957d-19b5-4cee-a547-fe040f372086\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> in Animal Care.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Tracker) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"survival\" nexus=\"cosmererpg\">Survival</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"protective-bond\" nexus=\"cosmererpg\">Protective Bond</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Feral Connection",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Gain expertise in Animal Care. Your animal companion’s health increases by 5 × your tier, their defenses increase by 2, and their tests gain a bonus equal to your ranks in Survival.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"e869d49a-2ba7-435f-8447-9128f9b8328d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"b6ac8aca-5793-48d8-8290-cead350f44e9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve trained your body to endure pain and fatigue, keeping you in the fight until the bitter end.</em></p>\n</div>\n<p chunk_id=\"4f6da07c-fc65-457f-bf6c-a56412ef871f\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your maximum and current <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip> increase by 1 per level. This applies to all previous and future levels; for example, if you choose this talent at level 6, retroactively increase your health by 6.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Agent (Investigator) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"baleful\" nexus=\"cosmererpg\">Baleful</tooltip> talent\n</p><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steady-aim-playtest\" nexus=\"cosmererpg\">Steady Aim</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Leader (Champion) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"valiant-intervention-playtest\" nexus=\"cosmererpg\">Valiant Intervention</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Warrior (Soldier) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"combat-training-playtest\" nexus=\"cosmererpg\">Combat Training</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Hardy",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Gain +1 max health per level (including previous levels).",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "hardy",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Agent",
+							"value": "agent"
+						},
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						},
+						{
+							"name": "Leader",
+							"value": "leader"
+						},
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Investigator",
+							"value": "investigator"
+						},
+						{
+							"name": "Archer",
+							"value": "archer"
+						},
+						{
+							"name": "Champion",
+							"value": "champion"
+						},
+						{
+							"name": "Soldier",
+							"value": "soldier"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"archer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Steady Aim talent",
+									"value": "steady-aim",
+									"hardRule": true
+								}
+							]
+						],
+						"soldier": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Combat Training talent",
+									"value": "combat-training",
+									"hardRule": true
+								}
+							]
+						],
+						"champion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Valiant Intervention talent",
+									"value": "valiant-intervention",
+									"hardRule": true
+								}
+							]
+						],
+						"investigator": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Baleful talent",
+									"value": "baleful",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"steady-aim",
+						"combat-training",
+						"valiant-intervention",
+						"baleful"
+					],
+					"objectID": "105868",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"e869d49a-2ba7-435f-8447-9128f9b8328d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"b6ac8aca-5793-48d8-8290-cead350f44e9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve trained your body to endure pain and fatigue, keeping you in the fight until the bitter end.</em></p>\n</div>\n<p chunk_id=\"4f6da07c-fc65-457f-bf6c-a56412ef871f\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your maximum and current <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip> increase by 1 per level. This applies to all previous and future levels; for example, if you choose this talent at level 6, retroactively increase your health by 6.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Agent (Investigator) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"baleful\" nexus=\"cosmererpg\">Baleful</tooltip> talent\n</p><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steady-aim-playtest\" nexus=\"cosmererpg\">Steady Aim</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Leader (Champion) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"valiant-intervention-playtest\" nexus=\"cosmererpg\">Valiant Intervention</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Warrior (Soldier) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"combat-training-playtest\" nexus=\"cosmererpg\">Combat Training</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Hardy",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Gain +1 max health per level (including previous levels).",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"3987965e-af37-4bf6-944a-1752a24e3b3c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"ce2e60be-0f1f-4c0c-9491-92d25401d65f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You put your traps and animal companion to best use, inflicting devastating wounds with all the tools in your arsenal.</em></p>\n</div>\n<p chunk_id=\"7f505071-1757-4e6a-9e0a-1084198f30b7\" class=\"CORE-paragraph-styles_CORE-body\">Your animal companion gains an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">tests</tooltip> against your quarry.</p>\n<p chunk_id=\"c72528de-e03f-4080-9698-b7cce456ffa2\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, the damage from your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"deadly-trap\" nexus=\"cosmererpg\">Deadly Traps</tooltip> talent increases from 2d6 to 2d8, and when that talent applies a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"conditions\" nexus=\"cosmererpg\">condition</tooltip>, its <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"durations\" nexus=\"cosmererpg\">duration</tooltip> increases from 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">rounds</tooltip> to 3 rounds.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Tracker) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"subtle-takedown-playtest\" nexus=\"cosmererpg\">Subtle Takedown</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Hunter’s Edge",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Your animal companion gains an advantage against your quarry. Your Deadly Traps increase to 2d8 damage and 3 rounds duration.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "hunters-edge",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Tracker",
+							"value": "tracker"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"tracker": [
+							{
+								"rank": 3,
+								"type": "skill",
+								"label": "Survival 3+",
+								"value": "survival",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Experienced Trapper talent",
+								"value": "experienced-trapper",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"experienced-trapper"
+					],
+					"objectID": "105928",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"3987965e-af37-4bf6-944a-1752a24e3b3c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"ce2e60be-0f1f-4c0c-9491-92d25401d65f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You put your traps and animal companion to best use, inflicting devastating wounds with all the tools in your arsenal.</em></p>\n</div>\n<p chunk_id=\"7f505071-1757-4e6a-9e0a-1084198f30b7\" class=\"CORE-paragraph-styles_CORE-body\">Your animal companion gains an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">tests</tooltip> against your quarry.</p>\n<p chunk_id=\"c72528de-e03f-4080-9698-b7cce456ffa2\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, the damage from your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"deadly-trap\" nexus=\"cosmererpg\">Deadly Traps</tooltip> talent increases from 2d6 to 2d8, and when that talent applies a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"conditions\" nexus=\"cosmererpg\">condition</tooltip>, its <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"durations\" nexus=\"cosmererpg\">duration</tooltip> increases from 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">rounds</tooltip> to 3 rounds.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Tracker) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"subtle-takedown-playtest\" nexus=\"cosmererpg\">Subtle Takedown</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Hunter’s Edge",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Your animal companion gains an advantage against your quarry. Your Deadly Traps increase to 2d8 damage and 3 rounds duration.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"8d63f728-d140-4ea4-9cc1-49ad30c1ab83\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"471c1942-7963-4a72-911d-9d8712fe0cda\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your simple weapons seem humble beside ancient relics or weapons of war, but in your hands, even a rusty knife or pitted sling is as deadly as the finest steel.</em></p>\n</div>\n<p chunk_id=\"a2a696a8-6706-4aa9-ba8b-292373035b2c\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, gain <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapon-expertises\" nexus=\"cosmererpg\">weapon expertises</tooltip> in Knives and Slings.</p>\n<p chunk_id=\"bfb53949-63c0-4b32-bee6-aaebe07cf630\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, while you wield a knife or sling, it also has the <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"deadly\" nexus=\"cosmererpg\">Deadly</tooltip> and <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"quickdraw\" nexus=\"cosmererpg\">Quickdraw</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"expert-traits\" nexus=\"cosmererpg\">expert traits</tooltip> for you.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Assassin) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> key talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Killing Edge",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Gain Knives and Slings expertises. These weapons gain the Deadly and Quickdraw expert traits.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "killing-edge",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Assassin",
+							"value": "assassin"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"assassin": [
+							{
+								"rank": 2,
+								"type": "skill",
+								"label": "Perception 2+",
+								"value": "perception",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Seek Quarry key talent",
+								"value": "seek-quarry",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"seek-quarry"
+					],
+					"objectID": "105918",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"8d63f728-d140-4ea4-9cc1-49ad30c1ab83\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"471c1942-7963-4a72-911d-9d8712fe0cda\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your simple weapons seem humble beside ancient relics or weapons of war, but in your hands, even a rusty knife or pitted sling is as deadly as the finest steel.</em></p>\n</div>\n<p chunk_id=\"a2a696a8-6706-4aa9-ba8b-292373035b2c\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, gain <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapon-expertises\" nexus=\"cosmererpg\">weapon expertises</tooltip> in Knives and Slings.</p>\n<p chunk_id=\"bfb53949-63c0-4b32-bee6-aaebe07cf630\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, while you wield a knife or sling, it also has the <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"deadly\" nexus=\"cosmererpg\">Deadly</tooltip> and <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"quickdraw\" nexus=\"cosmererpg\">Quickdraw</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"expert-traits\" nexus=\"cosmererpg\">expert traits</tooltip> for you.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Assassin) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> key talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Killing Edge",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Gain Knives and Slings expertises. These weapons gain the Deadly and Quickdraw expert traits.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"b1cbe4a6-4e03-49f9-9b1b-2053af037205\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies</p>\n<p chunk_id=\"0a871d07-ffe7-456e-9938-8e92ab639faa\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"79e90496-a13a-4494-867f-02d766541c47\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You deliver your swings, punches, and kicks with practiced efficiency.</em></p>\n</div>\n<p chunk_id=\"7115475e-3f42-4501-addc-f213e3155b65\" class=\"CORE-paragraph-styles_CORE-body\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>\n</tooltip> with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapons\" nexus=\"cosmererpg\">weapon</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"unarmed-attacks\" nexus=\"cosmererpg\">unarmed attack</tooltip>, for each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> you used on that attack’s action, increase the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> you deal by 1 + your tier. For example, if you’re level 6 and you make an attack that costs <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span>, each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> deals an extra 1 + 2 damage, for a total of 6 damage.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Mighty",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you hit with a weapon or unarmed attack, for each ▶ you used on that attack’s action, increase the damage you deal by 1 + your tier.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "mighty",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Agent",
+							"value": "agent"
+						},
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						},
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						},
+						{
+							"name": "Leader",
+							"value": "leader"
+						},
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Spy",
+							"value": "spy"
+						},
+						{
+							"name": "Mentor",
+							"value": "mentor"
+						},
+						{
+							"name": "Assassin",
+							"value": "assassin"
+						},
+						{
+							"name": "Champion",
+							"value": "champion"
+						},
+						{
+							"name": "Shardbearer",
+							"value": "shardbearer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"spy": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cover Story talent",
+									"value": "cover-story",
+									"hardRule": true
+								}
+							]
+						],
+						"mentor": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Practical Demonstration talent",
+									"value": "practical-demonstration",
+									"hardRule": true
+								}
+							]
+						],
+						"assassin": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cold Eyes talent",
+									"value": "cold-eyes",
+									"hardRule": true
+								}
+							]
+						],
+						"champion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Imposing Posture talent",
+									"value": "imposing-posture",
+									"hardRule": true
+								}
+							]
+						],
+						"shardbearer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Stonestance talent",
+									"value": "stonestance",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"cover-story",
+						"practical-demonstration",
+						"cold-eyes",
+						"imposing-posture",
+						"stonestance"
+					],
+					"objectID": "105876",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"b1cbe4a6-4e03-49f9-9b1b-2053af037205\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies</p>\n<p chunk_id=\"0a871d07-ffe7-456e-9938-8e92ab639faa\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"79e90496-a13a-4494-867f-02d766541c47\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You deliver your swings, punches, and kicks with practiced efficiency.</em></p>\n</div>\n<p chunk_id=\"7115475e-3f42-4501-addc-f213e3155b65\" class=\"CORE-paragraph-styles_CORE-body\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>\n</tooltip> with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapons\" nexus=\"cosmererpg\">weapon</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"unarmed-attacks\" nexus=\"cosmererpg\">unarmed attack</tooltip>, for each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> you used on that attack’s action, increase the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> you deal by 1 + your tier. For example, if you’re level 6 and you make an attack that costs <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span>, each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> deals an extra 1 + 2 damage, for a total of 6 damage.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Mighty",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you hit with a weapon or unarmed attack, for each ▶ you used on that attack’s action, increase the damage you deal by 1 + your tier.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"dcae2915-6df1-42ff-9164-3f338392607f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span></p>\n<div chunk_id=\"601bab24-5272-494e-9451-0f4221c14c72\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Like a predator who hunts in groups, you expose your quarry’s weaknesses, enabling your allies to fight alongside you with terrifying coordination.</em></p>\n</div>\n<p chunk_id=\"142e5cf2-410d-47b8-bf84-01208116efdd\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\">When an ally in your line of effect <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacks-with-multiple-targets\" nexus=\"cosmererpg\">attacks</tooltip> your quarry, you can use this <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reactions\" nexus=\"cosmererpg\">reaction</tooltip> and spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to add your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"survival\" nexus=\"cosmererpg\">Survival</tooltip> to either the result of their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attack-test\" nexus=\"cosmererpg\">attack test</tooltip> or their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> roll (your choice).</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Tracker) Prerequisite:</strong> <strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"protective-bond\" nexus=\"cosmererpg\">Protective Bond</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Pack Hunting",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 1 focus to add your ranks in Survival to your ally’s attack or damage roll against your quarry.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "pack-hunting",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Tracker",
+							"value": "tracker"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"tracker": [
+							{
+								"rank": 3,
+								"type": "skill",
+								"label": "Perception 3+",
+								"value": "perception",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Protective Bond talent",
+								"value": "protective-bond",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": "",
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Reaction",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"protective-bond"
+					],
+					"objectID": "105929",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"dcae2915-6df1-42ff-9164-3f338392607f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span></p>\n<div chunk_id=\"601bab24-5272-494e-9451-0f4221c14c72\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Like a predator who hunts in groups, you expose your quarry’s weaknesses, enabling your allies to fight alongside you with terrifying coordination.</em></p>\n</div>\n<p chunk_id=\"142e5cf2-410d-47b8-bf84-01208116efdd\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\">When an ally in your line of effect <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacks-with-multiple-targets\" nexus=\"cosmererpg\">attacks</tooltip> your quarry, you can use this <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reactions\" nexus=\"cosmererpg\">reaction</tooltip> and spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to add your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"survival\" nexus=\"cosmererpg\">Survival</tooltip> to either the result of their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attack-test\" nexus=\"cosmererpg\">attack test</tooltip> or their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> roll (your choice).</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Tracker) Prerequisite:</strong> <strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"protective-bond\" nexus=\"cosmererpg\">Protective Bond</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Pack Hunting",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 1 focus to add your ranks in Survival to your ally’s attack or damage roll against your quarry.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"8e9b1e6f-aa94-48f4-9d30-9bee09b97e6a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"b2811521-5630-43c1-b9db-b85a7978cca6\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>With a word or gesture, you command your animal companion to defend others.</em></p>\n</div>\n<p chunk_id=\"deacc644-bbd0-4b3a-8836-9b9280dada70\" class=\"CORE-paragraph-styles_CORE-body\">You assign your animal companion to protect an ally within 30 feet of you, and your animal companion moves to that ally’s side. While your animal companion remains within reach of the ally, you lose the bonus to your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> from your Animal Bond, and the ally gains this bonus instead.</p>\n<p chunk_id=\"8e862157-75da-4e29-ac0d-29a9327cca77\" class=\"CORE-paragraph-styles_CORE-body\"> You can end this effect as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> if you’re within 30 feet of your animal companion and can influence them, at which point the animal companion returns to your side. Otherwise, this effect ends at the end of the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip>.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Tracker) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"animal-bond\" nexus=\"cosmererpg\">Animal Bond</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Protective Bond",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Your animal companion protects an ally within 30 feet of you, and that ally gains your Animal Bond bonus instead of you.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "protective-bond",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Tracker",
+							"value": "tracker"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"tracker": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Animal Bond talent",
+									"value": "animal-bond",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"animal-bond"
+					],
+					"objectID": "105926",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"8e9b1e6f-aa94-48f4-9d30-9bee09b97e6a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"b2811521-5630-43c1-b9db-b85a7978cca6\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>With a word or gesture, you command your animal companion to defend others.</em></p>\n</div>\n<p chunk_id=\"deacc644-bbd0-4b3a-8836-9b9280dada70\" class=\"CORE-paragraph-styles_CORE-body\">You assign your animal companion to protect an ally within 30 feet of you, and your animal companion moves to that ally’s side. While your animal companion remains within reach of the ally, you lose the bonus to your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> from your Animal Bond, and the ally gains this bonus instead.</p>\n<p chunk_id=\"8e862157-75da-4e29-ac0d-29a9327cca77\" class=\"CORE-paragraph-styles_CORE-body\"> You can end this effect as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> if you’re within 30 feet of your animal companion and can influence them, at which point the animal companion returns to your side. Otherwise, this effect ends at the end of the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip>.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Tracker) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"animal-bond\" nexus=\"cosmererpg\">Animal Bond</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Protective Bond",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Your animal companion protects an ally within 30 feet of you, and that ally gains your Animal Bond bonus instead of you.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"4391789c-4399-4a85-936d-c7fcd0c3c7a5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"8af549c8-e92d-44f7-8955-4de4dad196f1\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Once you’ve found your prey’s trail, you unrelentingly pursue them and study their movements across the harshest of terrain.</em></p>\n</div>\n<p chunk_id=\"f08ea8a5-0ece-42e6-91a1-fbe96935cdcc\" class=\"CORE-paragraph-styles_CORE-body\">After spending 1 minute mentally preparing, you choose a character who you can sense or who you’ve previously encountered. That character becomes your quarry until you choose to end this effect (<span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>) or select a new quarry.</p>\n<p chunk_id=\"a24d7cab-c38e-4967-b91f-9fd389ea3a63\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Additionally, you gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on tests made to find, attack, or study your quarry (such as the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip> action).</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (key talent) Prerequisite:</strong> none</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Seek Quarry",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-starter-rules",
+					"shortDescription": "Choose a character to be your quarry, gaining an advantage on tests to find, attack, and study them.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "seek-quarry",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"hasPrerequisites": false,
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"objectID": "105909",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"4391789c-4399-4a85-936d-c7fcd0c3c7a5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"8af549c8-e92d-44f7-8955-4de4dad196f1\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Once you’ve found your prey’s trail, you unrelentingly pursue them and study their movements across the harshest of terrain.</em></p>\n</div>\n<p chunk_id=\"f08ea8a5-0ece-42e6-91a1-fbe96935cdcc\" class=\"CORE-paragraph-styles_CORE-body\">After spending 1 minute mentally preparing, you choose a character who you can sense or who you’ve previously encountered. That character becomes your quarry until you choose to end this effect (<span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>) or select a new quarry.</p>\n<p chunk_id=\"a24d7cab-c38e-4967-b91f-9fd389ea3a63\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Additionally, you gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on tests made to find, attack, or study your quarry (such as the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip> action).</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (key talent) Prerequisite:</strong> none</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Seek Quarry",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Choose a character to be your quarry, gaining an advantage on tests to find, attack, and study them.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"1ef0655b-2f02-4264-b4a6-0ec4eea7eb74\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"142b813f-a944-4c59-a3b0-dd1e4d610c1f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You silently skulk toward your target, using cover, crowds, or other camouflage to remain unseen until it’s too late.</em></p>\n</div>\n<p chunk_id=\"10ccb8aa-af72-4372-ac76-70f431e4c8b2\" class=\"CORE-paragraph-styles_CORE-body\">You gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on tests to avoid being sensed by your quarry, and your quarry gains a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> on tests to sense you.</p>\n<p chunk_id=\"2c511cc0-40c9-4a51-bf21-5ca14add7e86\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you succeed on a test against an enemy’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Cognitive defense</tooltip> while you’re in cover or an area where your target’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"senses\" nexus=\"cosmererpg\">senses</tooltip> are obscured, you can spend 3 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to designate that target as your quarry for your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> talent.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Assassin) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"stealth\" nexus=\"cosmererpg\">Stealth</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"killing-edge\" nexus=\"cosmererpg\">Killing Edge</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Shadowing",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Your quarry gains a disadvantage to sense you, and you gain an advantage to avoid their notice. When you succeed vs. Cognitive while in cover or obscured, spend 3 focus to designate that target as your quarry.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "shadowing",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Assassin",
+							"value": "assassin"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"assassin": [
+							{
+								"rank": 2,
+								"type": "skill",
+								"label": "Stealth 2+",
+								"value": "stealth",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Killing Edge talent",
+								"value": "killing-edge",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"killing-edge"
+					],
+					"objectID": "105920",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"1ef0655b-2f02-4264-b4a6-0ec4eea7eb74\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"142b813f-a944-4c59-a3b0-dd1e4d610c1f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You silently skulk toward your target, using cover, crowds, or other camouflage to remain unseen until it’s too late.</em></p>\n</div>\n<p chunk_id=\"10ccb8aa-af72-4372-ac76-70f431e4c8b2\" class=\"CORE-paragraph-styles_CORE-body\">You gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on tests to avoid being sensed by your quarry, and your quarry gains a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> on tests to sense you.</p>\n<p chunk_id=\"2c511cc0-40c9-4a51-bf21-5ca14add7e86\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you succeed on a test against an enemy’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Cognitive defense</tooltip> while you’re in cover or an area where your target’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"senses\" nexus=\"cosmererpg\">senses</tooltip> are obscured, you can spend 3 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to designate that target as your quarry for your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> talent.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Assassin) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"stealth\" nexus=\"cosmererpg\">Stealth</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"killing-edge\" nexus=\"cosmererpg\">Killing Edge</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Shadowing",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Your quarry gains a disadvantage to sense you, and you gain an advantage to avoid their notice. When you succeed vs. Cognitive while in cover or obscured, spend 3 focus to designate that target as your quarry.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"d23d451a-c28d-4fc4-8929-bf3807541dcc\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"8c2d0fa6-07b0-46a9-a04b-2a507def3922\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your practiced eye discerns the strengths and vulnerabilities of your foes—especially your chosen quarry.</em></p>\n</div>\n<p chunk_id=\"9edce821-7e69-4257-ac7e-5e598c525fb6\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">After you observe your quarry for <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>, or after you observe another character for at least 1 minute, make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">Perception test</tooltip> against their Cognitive <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip>. On a success, you learn one of the following of your choice:</p>\n<ul chunk_id=\"58e2b0e3-b95c-414a-a4bb-6a68906113f0\" class=\"\">\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">The target’s lowest <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attributes\" nexus=\"cosmererpg\">attribute</tooltip> score.</li>\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">The target’s lowest defense.</li>\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">Whether the target has lost more than half of their maximum <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip>, <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>, or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> (choose one).</li></ul><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"tagging-shot\" nexus=\"cosmererpg\">Tagging Shot</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Sharp Eye",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Observe a target then test Perception vs. Cognitive to learn their lowest attribute, lowest defense, or if their health, focus, or Investiture are below half.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "sharp-eye",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Archer",
+							"value": "archer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"archer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Tagging Shot talent",
+									"value": "tagging-shot",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"tagging-shot"
+					],
+					"objectID": "105912",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"d23d451a-c28d-4fc4-8929-bf3807541dcc\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"8c2d0fa6-07b0-46a9-a04b-2a507def3922\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your practiced eye discerns the strengths and vulnerabilities of your foes—especially your chosen quarry.</em></p>\n</div>\n<p chunk_id=\"9edce821-7e69-4257-ac7e-5e598c525fb6\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">After you observe your quarry for <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>, or after you observe another character for at least 1 minute, make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">Perception test</tooltip> against their Cognitive <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip>. On a success, you learn one of the following of your choice:</p>\n<ul chunk_id=\"58e2b0e3-b95c-414a-a4bb-6a68906113f0\" class=\"\">\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">The target’s lowest <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attributes\" nexus=\"cosmererpg\">attribute</tooltip> score.</li>\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">The target’s lowest defense.</li>\n<li class=\"CORE-paragraph-styles_CORE-bulleted\">Whether the target has lost more than half of their maximum <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip>, <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>, or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> (choose one).</li></ul><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"tagging-shot\" nexus=\"cosmererpg\">Tagging Shot</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Sharp Eye",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Observe a target then test Perception vs. Cognitive to learn their lowest attribute, lowest defense, or if their health, focus, or Investiture are below half.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"bfa6a996-d9ed-49e9-8544-69b877c87ce5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"06a38e57-62b8-4d87-9978-54f7cbdaa4bf\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Sliding like a shadow, you flit past your foes’ strikes and evade blows that seem certain to connect.</em></p>\n</div>\n<p chunk_id=\"ba8cc8ea-63c0-43d9-a2e9-de1ac8e8a842\" class=\"CORE-paragraph-styles_CORE-body\">Gain an additional <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span> at the start of combat and at the start of each of your turns, which you can use only to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"dodge\" nexus=\"cosmererpg\">Dodge</tooltip>. You can’t benefit from this talent while wearing armor with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"deflect\" nexus=\"cosmererpg\">deflect</tooltip> value of 2 or higher.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Assassin) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"stealth\" nexus=\"cosmererpg\">Stealth</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"shadowing\" nexus=\"cosmererpg\">Shadowing</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Sidestep",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Gain an additional reaction to Dodge when you’re not wearing armor with deflect of 2 or higher.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "sidestep",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Assassin",
+							"value": "assassin"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"assassin": [
+							{
+								"rank": 3,
+								"type": "skill",
+								"label": "Stealth 3+",
+								"value": "stealth",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Shadowing talent",
+								"value": "shadowing",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"shadowing"
+					],
+					"objectID": "105923",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"bfa6a996-d9ed-49e9-8544-69b877c87ce5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"06a38e57-62b8-4d87-9978-54f7cbdaa4bf\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Sliding like a shadow, you flit past your foes’ strikes and evade blows that seem certain to connect.</em></p>\n</div>\n<p chunk_id=\"ba8cc8ea-63c0-43d9-a2e9-de1ac8e8a842\" class=\"CORE-paragraph-styles_CORE-body\">Gain an additional <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span> at the start of combat and at the start of each of your turns, which you can use only to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"dodge\" nexus=\"cosmererpg\">Dodge</tooltip>. You can’t benefit from this talent while wearing armor with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"deflect\" nexus=\"cosmererpg\">deflect</tooltip> value of 2 or higher.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Assassin) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"stealth\" nexus=\"cosmererpg\">Stealth</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"shadowing\" nexus=\"cosmererpg\">Shadowing</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Sidestep",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Gain an additional reaction to Dodge when you’re not wearing armor with deflect of 2 or higher.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"93a8b623-b93a-46d1-a000-ea76881767be\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"2830ae76-565d-4243-a4a8-63d2ec961861\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You unexpectedly strike at your target’s weak point, dizzying your target and creating an opening for your next attack.</em></p>\n</div>\n<p chunk_id=\"020750b9-a1cb-499e-8b22-57f02f39e9f0\" class=\"CORE-paragraph-styles_CORE-body\">Make an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"unarmed-attacks\" nexus=\"cosmererpg\">unarmed</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"improvised-weapons\" nexus=\"cosmererpg\">improvised weapon</tooltip> attack against the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Cognitive defense</tooltip> of a target of your size or smaller. On a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip>, the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> also becomes <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"surprised\" nexus=\"cosmererpg\">Surprised</tooltip> until the end of your next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Assassin) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"stealth\" nexus=\"cosmererpg\">Stealth</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> key talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Startling Blow",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Make an unarmed or improvised weapon attack vs. Cognitive. On a hit or graze, the target is Surprised.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "startling-blow",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Assassin",
+							"value": "assassin"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"assassin": [
+							{
+								"rank": 1,
+								"type": "skill",
+								"label": "Stealth 1+",
+								"value": "stealth",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Seek Quarry key talent",
+								"value": "seek-quarry",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"seek-quarry"
+					],
+					"objectID": "105917",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"93a8b623-b93a-46d1-a000-ea76881767be\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"2830ae76-565d-4243-a4a8-63d2ec961861\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You unexpectedly strike at your target’s weak point, dizzying your target and creating an opening for your next attack.</em></p>\n</div>\n<p chunk_id=\"020750b9-a1cb-499e-8b22-57f02f39e9f0\" class=\"CORE-paragraph-styles_CORE-body\">Make an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"unarmed-attacks\" nexus=\"cosmererpg\">unarmed</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"improvised-weapons\" nexus=\"cosmererpg\">improvised weapon</tooltip> attack against the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Cognitive defense</tooltip> of a target of your size or smaller. On a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip>, the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> also becomes <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"surprised\" nexus=\"cosmererpg\">Surprised</tooltip> until the end of your next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Assassin) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"stealth\" nexus=\"cosmererpg\">Stealth</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> key talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Startling Blow",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Make an unarmed or improvised weapon attack vs. Cognitive. On a hit or graze, the target is Surprised.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"918a7cb4-06fa-42e7-973e-6e26ead3181e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"2177bed2-6cfb-46bb-8147-84b63af94ac8\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your shot finds its mark even across dizzying distances.</em></p>\n</div>\n<p chunk_id=\"4cc6b348-9337-4318-8d9c-8bf59c7ab087\" class=\"CORE-paragraph-styles_CORE-body\">Until the end of your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>, both the short and long <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"range\" nexus=\"cosmererpg\">ranges</tooltip> of your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"ranged-weapons\" nexus=\"cosmererpg\">ranged weapons</tooltip> increase by half, and when you hit with a ranged weapon <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip>, you deal extra <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> equal to your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip>.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"combat-training\" nexus=\"cosmererpg\">Combat Training</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Steady Aim",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Increase your weapon range by half and deal extra damage equal to your ranks in Perception.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "steady-aim",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Archer",
+							"value": "archer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"archer": [
+							{
+								"rank": 1,
+								"type": "skill",
+								"label": "Agility 1+",
+								"value": "agility",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Combat Training talent",
+								"value": "combat-training",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"combat-training"
+					],
+					"objectID": "105913",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"918a7cb4-06fa-42e7-973e-6e26ead3181e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"2177bed2-6cfb-46bb-8147-84b63af94ac8\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your shot finds its mark even across dizzying distances.</em></p>\n</div>\n<p chunk_id=\"4cc6b348-9337-4318-8d9c-8bf59c7ab087\" class=\"CORE-paragraph-styles_CORE-body\">Until the end of your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>, both the short and long <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"range\" nexus=\"cosmererpg\">ranges</tooltip> of your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"ranged-weapons\" nexus=\"cosmererpg\">ranged weapons</tooltip> increase by half, and when you hit with a ranged weapon <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip>, you deal extra <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> equal to your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip>.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"combat-training\" nexus=\"cosmererpg\">Combat Training</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Steady Aim",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Increase your weapon range by half and deal extra damage equal to your ranks in Perception.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"523ba0f8-405a-476e-ad14-24d780033ef0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Varies</p>\n<p chunk_id=\"2a497dde-0160-4d91-874f-9067ebe849f2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"a73fc26f-1496-4e2e-8f64-f27d80b0f279\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You move through treacherous terrain with confidence and speed.</em></p>\n</div>\n<p chunk_id=\"9ae01082-0f03-4fe7-81aa-1fb008aa7904\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, increase your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"movement-rate\" nexus=\"cosmererpg\">movement rate</tooltip> by 10.</p>\n<p chunk_id=\"21c80c55-f7d2-4fe6-a1fa-1b2da9c8e2f9\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, before you take <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> from dangerous terrain or falling, reduce that damage by 2 × your tier.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Surefooted",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Increase your movement rate by 10. Before you take damage from dangerous terrain or falling, reduce that damage by 2 × your tier.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "surefooted",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Agent",
+							"value": "agent"
+						},
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						},
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Thief",
+							"value": "thief"
+						},
+						{
+							"name": "Tracker",
+							"value": "tracker"
+						},
+						{
+							"name": "Duelist",
+							"value": "duelist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"thief": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cheap Shot talent",
+									"value": "cheap-shot",
+									"hardRule": true
+								}
+							]
+						],
+						"duelist": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Ironstance talent",
+									"value": "ironstance",
+									"hardRule": true
+								}
+							]
+						],
+						"tracker": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Experienced Trapper talent",
+									"value": "experienced-trapper",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"cheap-shot",
+						"experienced-trapper",
+						"ironstance"
+					],
+					"objectID": "105882",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"523ba0f8-405a-476e-ad14-24d780033ef0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Varies</p>\n<p chunk_id=\"2a497dde-0160-4d91-874f-9067ebe849f2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"a73fc26f-1496-4e2e-8f64-f27d80b0f279\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You move through treacherous terrain with confidence and speed.</em></p>\n</div>\n<p chunk_id=\"9ae01082-0f03-4fe7-81aa-1fb008aa7904\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, increase your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"movement-rate\" nexus=\"cosmererpg\">movement rate</tooltip> by 10.</p>\n<p chunk_id=\"21c80c55-f7d2-4fe6-a1fa-1b2da9c8e2f9\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, before you take <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> from dangerous terrain or falling, reduce that damage by 2 × your tier.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Surefooted",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Increase your movement rate by 10. Before you take damage from dangerous terrain or falling, reduce that damage by 2 × your tier.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"47b03ea0-30e6-46ed-a875-3a751153e6e4\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Varies</p>\n<p chunk_id=\"6a334cab-35b8-45fd-9ef4-5d4350482f6e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"ed339350-7b8a-482a-9c10-2f7a02c441ea\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You instinctively follow the tempo of battle, keeping the pressure on your foes at critical moments.</em></p>\n</div>\n<p chunk_id=\"f059a5e9-7ea4-4212-b5ae-26b2c8470f74\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a second <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> action with a hand you already used for a Strike this turn.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Swift Strikes",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 1 focus to make a second Strike action with a hand you already used for a Strike this turn.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "swift-strikes",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						},
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Assassin",
+							"value": "assassin"
+						},
+						{
+							"name": "Soldier",
+							"value": "soldier"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"soldier": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Hardy talent",
+									"value": "hardy",
+									"hardRule": true
+								}
+							]
+						],
+						"assassin": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cold Eyes talent",
+									"value": "cold-eyes",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": 1,
+						"costLabel": "Focus",
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"cold-eyes",
+						"hardy"
+					],
+					"objectID": "105922",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"47b03ea0-30e6-46ed-a875-3a751153e6e4\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Varies</p>\n<p chunk_id=\"6a334cab-35b8-45fd-9ef4-5d4350482f6e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"ed339350-7b8a-482a-9c10-2f7a02c441ea\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You instinctively follow the tempo of battle, keeping the pressure on your foes at critical moments.</em></p>\n</div>\n<p chunk_id=\"f059a5e9-7ea4-4212-b5ae-26b2c8470f74\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a second <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> action with a hand you already used for a Strike this turn.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Swift Strikes",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 1 focus to make a second Strike action with a hand you already used for a Strike this turn.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"422a3300-720c-430f-b8c4-0ed5992995c5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Three Actions\" class=\"icon-font icon\" title=\"Three Actions\">3</span></p>\n<div chunk_id=\"3b9dd58e-8500-4a64-8a11-08614199708e\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your careful shot wounds your target, causing them to leave behind a trail of blood, staggering footprints, or other marks of passage.</em></p>\n</div>\n<p chunk_id=\"9485552a-100c-4a6f-ae3b-d307e093794a\" class=\"CORE-paragraph-styles_CORE-body\">Move up to 5 feet and make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"ranged-weapons\" nexus=\"cosmererpg\">ranged weapon</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip> against the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Physical defense</tooltip> of a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip>. On a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip> or a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip>, you also make the target your quarry for your Seek Quarry talent.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> key talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Tagging Shot",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-starter-rules",
+					"shortDescription": "Move 5 feet and make a ranged attack. On a hit or a graze, the target becomes your quarry.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "tagging-shot",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Archer",
+							"value": "archer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"archer": [
+							{
+								"rank": 2,
+								"type": "skill",
+								"label": "Perception 2+",
+								"value": "perception",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Seek Quarry key talent",
+								"value": "seek-quarry",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 3,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"seek-quarry"
+					],
+					"objectID": "105910",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"422a3300-720c-430f-b8c4-0ed5992995c5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Three Actions\" class=\"icon-font icon\" title=\"Three Actions\">3</span></p>\n<div chunk_id=\"3b9dd58e-8500-4a64-8a11-08614199708e\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your careful shot wounds your target, causing them to leave behind a trail of blood, staggering footprints, or other marks of passage.</em></p>\n</div>\n<p chunk_id=\"9485552a-100c-4a6f-ae3b-d307e093794a\" class=\"CORE-paragraph-styles_CORE-body\">Move up to 5 feet and make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"ranged-weapons\" nexus=\"cosmererpg\">ranged weapon</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip> against the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">Physical defense</tooltip> of a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip>. On a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip> or a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip>, you also make the target your quarry for your Seek Quarry talent.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"seek-quarry\" nexus=\"cosmererpg\">Seek Quarry</tooltip> key talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Tagging Shot",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Move 5 feet and make a ranged attack. On a hit or a graze, the target becomes your quarry.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"823b7ad0-d591-4f73-8544-e1d922716470\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"5c4c1502-82eb-4ec6-afa5-44134834b5e8\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Drawing the bowstring with impressive speed, you fire again, using your first arrow’s path as your guide.</em></p>\n</div>\n<p chunk_id=\"4e454a2b-969d-488f-8e0e-f42f16f44dd5\" class=\"CORE-paragraph-styles_CORE-body\">You can use the same <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"ranged-weapons\" nexus=\"cosmererpg\">ranged weapon</tooltip> to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> against your quarry more than once a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>, instead of being limited to one <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> per hand.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"hardy\" nexus=\"cosmererpg\">Hardy</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Unrelenting Salvo",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You can Strike your quarry more than once per turn with the same ranged weapon.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "unrelenting-salvo",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Archer",
+							"value": "archer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"archer": [
+							{
+								"rank": 3,
+								"type": "skill",
+								"label": "Agility 3+",
+								"value": "agility",
+								"hardRule": true
+							},
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Hardy talent",
+								"value": "hardy",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"hardy"
+					],
+					"objectID": "105916",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"823b7ad0-d591-4f73-8544-e1d922716470\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"5c4c1502-82eb-4ec6-afa5-44134834b5e8\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Drawing the bowstring with impressive speed, you fire again, using your first arrow’s path as your guide.</em></p>\n</div>\n<p chunk_id=\"4e454a2b-969d-488f-8e0e-f42f16f44dd5\" class=\"CORE-paragraph-styles_CORE-body\">You can use the same <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"ranged-weapons\" nexus=\"cosmererpg\">ranged weapon</tooltip> to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> against your quarry more than once a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>, instead of being limited to one <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> per hand.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"hardy\" nexus=\"cosmererpg\">Hardy</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Unrelenting Salvo",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You can Strike your quarry more than once per turn with the same ranged weapon.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 25,
+			"nbSortedHits": 25,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=paths.value%3A'hunter'&hitsPerPage=25&page=0&query=",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"roundTrip": 58
+				},
+				"afterFetch": {
+					"format": {
+						"highlighting": 2,
+						"total": 3
+					}
+				},
+				"total": 1
+			},
+			"serverTimeMS": 5
+		}
+	]
+}

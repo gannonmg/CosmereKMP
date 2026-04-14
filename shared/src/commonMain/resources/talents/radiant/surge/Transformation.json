@@ -1,0 +1,801 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"d7d2c606-823e-4839-b009-a3401e1f5dc8\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"living-soulcasting\" nexus=\"cosmererpg\">Living Soulcasting</tooltip> talent\n</p>\n<p chunk_id=\"2c464b00-deb6-49ae-9100-f2bdb3f4230b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"55322368-f1ff-4242-a649-cf37ba122551\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve practiced techniques for Soulcasting blood, allowing you to cleanse the body of poison and to speed recovery from injuries.</em></p>\n</div>\n<p chunk_id=\"91340dfb-1904-441b-a426-1e088b30c5ea\" class=\"CORE-paragraph-styles_CORE-body\">While touching a character, spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> and make a DC 15 Transformation test to cleanse their blood. On a success, the effects of any poison end for the target, and you can reduce the recovery time of one of their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"injuries\" nexus=\"cosmererpg\">injuries</tooltip> by 5 days.</p>\n<p chunk_id=\"80dfff9b-e05d-41ac-aaa2-6e75efd798a7\" class=\"CORE-paragraph-styles_CORE-body\">The GM can spend <span aria-label=\"Complication\" class=\"icon-font-red icon\" title=\"Complication\">C</span> from this test to reduce the target’s maximum health by twice their level until after the target’s next long rest.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Bloodcasting",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While touching a character, spend 1 Investiture and make a DC 15 Transformation test to cleanse their blood.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "bloodcasting",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Transformation",
+							"value": "transformation"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"transformation": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Living Soulcasting talent",
+								"value": "living-soulcasting",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"living-soulcasting"
+					],
+					"objectID": "106042",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"d7d2c606-823e-4839-b009-a3401e1f5dc8\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"living-soulcasting\" nexus=\"cosmererpg\">Living Soulcasting</tooltip> talent\n</p>\n<p chunk_id=\"2c464b00-deb6-49ae-9100-f2bdb3f4230b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"55322368-f1ff-4242-a649-cf37ba122551\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve practiced techniques for Soulcasting blood, allowing you to cleanse the body of poison and to speed recovery from injuries.</em></p>\n</div>\n<p chunk_id=\"91340dfb-1904-441b-a426-1e088b30c5ea\" class=\"CORE-paragraph-styles_CORE-body\">While touching a character, spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> and make a DC 15 Transformation test to cleanse their blood. On a success, the effects of any poison end for the target, and you can reduce the recovery time of one of their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"injuries\" nexus=\"cosmererpg\">injuries</tooltip> by 5 days.</p>\n<p chunk_id=\"80dfff9b-e05d-41ac-aaa2-6e75efd798a7\" class=\"CORE-paragraph-styles_CORE-body\">The GM can spend <span aria-label=\"Complication\" class=\"icon-font-red icon\" title=\"Complication\">C</span> from this test to reduce the target’s maximum health by twice their level until after the target’s next long rest.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Bloodcasting",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While touching a character, spend 1 Investiture and make a DC 15 Transformation test to cleanse their blood.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"60194c66-e4cd-4cb4-9d7a-8ca47939afef\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies</p>\n<p chunk_id=\"8b421509-c2b4-4134-9bb6-ef9d0b0bcba2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"cbf2410b-1a7f-44a4-a0f7-a20352749ad5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can infuse targets from a greater distance.</em></p>\n</div>\n<p chunk_id=\"50998486-1203-4eb5-abd9-f0ac0f219613\" class=\"CORE-paragraph-styles_CORE-body\">You can use your surges and their talents as though your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> is 20 feet, and you don’t need to touch the target.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Distant Surgebinding",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Use your surges and their talents as though your reach is 20 feet.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "distant-surgebinding",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Abrasion",
+							"value": "abrasion"
+						},
+						{
+							"name": "Transformation",
+							"value": "transformation"
+						},
+						{
+							"name": "Adhesion",
+							"value": "adhesion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"abrasion": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Reverse Abrasion talent",
+								"value": "reverse-abrasion",
+								"hardRule": true
+							}
+						],
+						"adhesion": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Stormlight Reclamation talent",
+								"value": "stormlight-reclamation",
+								"hardRule": true
+							}
+						],
+						"transformation": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Soulcast Parry talent",
+								"value": "soulcast-parry",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"reverse-abrasion",
+						"soulcast-parry",
+						"stormlight-reclamation"
+					],
+					"objectID": "106008",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"60194c66-e4cd-4cb4-9d7a-8ca47939afef\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies</p>\n<p chunk_id=\"8b421509-c2b4-4134-9bb6-ef9d0b0bcba2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"cbf2410b-1a7f-44a4-a0f7-a20352749ad5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can infuse targets from a greater distance.</em></p>\n</div>\n<p chunk_id=\"50998486-1203-4eb5-abd9-f0ac0f219613\" class=\"CORE-paragraph-styles_CORE-body\">You can use your surges and their talents as though your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> is 20 feet, and you don’t need to touch the target.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Distant Surgebinding",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Use your surges and their talents as though your reach is 20 feet.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"6155b5cc-0cc4-4d6f-8483-b08963c6a623\" class=\"CORE-paragraph-styles_CORE-stat ParaOverride-2\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"flamecasting\" nexus=\"cosmererpg\">Flamecasting</tooltip> talent</p>\n<p chunk_id=\"403fc301-278b-4840-a4af-febfd7d75b58\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"e574f286-0dde-40da-bcee-447ae1ee971c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve become so powerful that you can Soulcast larger objects with much greater efficiency.</em></p>\n</div>\n<p chunk_id=\"6400f983-f861-4c15-aab7-32629061a155\" class=\"CORE-paragraph-styles_CORE-body\">When you Soulcast non-living material, reduce the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> cost by 2 (to a minimum of 1 Investiture). For example, it now costs you only 1 Investiture to Soulcast either a Small, Medium, or Large object.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Expansive Transmuter",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you Soulcast non-living material, reduce the Investiture cost by 2 (to a minimum of 1 Investiture).",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "expansive-transmuter",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Transformation",
+							"value": "transformation"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"transformation": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Flamecasting talent",
+								"value": "flamecasting",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"flamecasting"
+					],
+					"objectID": "106044",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"6155b5cc-0cc4-4d6f-8483-b08963c6a623\" class=\"CORE-paragraph-styles_CORE-stat ParaOverride-2\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"flamecasting\" nexus=\"cosmererpg\">Flamecasting</tooltip> talent</p>\n<p chunk_id=\"403fc301-278b-4840-a4af-febfd7d75b58\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"e574f286-0dde-40da-bcee-447ae1ee971c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve become so powerful that you can Soulcast larger objects with much greater efficiency.</em></p>\n</div>\n<p chunk_id=\"6400f983-f861-4c15-aab7-32629061a155\" class=\"CORE-paragraph-styles_CORE-body\">When you Soulcast non-living material, reduce the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> cost by 2 (to a minimum of 1 Investiture). For example, it now costs you only 1 Investiture to Soulcast either a Small, Medium, or Large object.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Expansive Transmuter",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you Soulcast non-living material, reduce the Investiture cost by 2 (to a minimum of 1 Investiture).",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"62383370-e44d-4faa-9e3c-953648c76bdc\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"soulcast-parry\" nexus=\"cosmererpg\">Soulcast Parry</tooltip> talent\n</p>\n<p chunk_id=\"ada5a1df-b844-4f2b-bb13-745b8e335c49\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"410f71c0-2792-4e60-be73-d558457d54c9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve learned the difficult art of Soulcasting Essences directly into instantaneous bursts of flame.</em></p>\n</div>\n<p chunk_id=\"e06a4738-3666-4aca-a7aa-13b9acb3b296\" class=\"CORE-paragraph-styles_CORE-body\">On your surge’s list of Soulcasting materials, you gain a sixth category called “Flame,” which follows the entry for “Clear Air.” When Soulcasting a material that’s five spaces away on this expanded list, the DC is 30 (such as when Soulcasting stone into flame).</p>\n<p chunk_id=\"a243b0b2-275f-4f52-8605-e84f05b9124b\" class=\"CORE-paragraph-styles_CORE-body\">When you Soulcast an object into flame, the flames last for only a moment before dissipating. However, before they do, they can catch flammable objects on fire.</p>\n<p chunk_id=\"25e9dfe5-d04e-486c-879f-0f33b8fea0a1\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you Soulcast an object into flame, use the result of that Transformation test to make an attack as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> against the Physical defense of each character within 5 feet of the Soulcast object. Roll 2d4 energy damage. The size of these damage dice increases with your ranks in Transformation; at 2 ranks, roll 2d6 (instead of 2d4), and so on.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Flamecasting",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You’ve learned the difficult art of Soulcasting Essences directly into instantaneous bursts of flame.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "flamecasting",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Transformation",
+							"value": "transformation"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"transformation": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Soulcast Parry talent",
+								"value": "soulcast-parry",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"soulcast-parry"
+					],
+					"objectID": "106043",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"62383370-e44d-4faa-9e3c-953648c76bdc\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"soulcast-parry\" nexus=\"cosmererpg\">Soulcast Parry</tooltip> talent\n</p>\n<p chunk_id=\"ada5a1df-b844-4f2b-bb13-745b8e335c49\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"410f71c0-2792-4e60-be73-d558457d54c9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve learned the difficult art of Soulcasting Essences directly into instantaneous bursts of flame.</em></p>\n</div>\n<p chunk_id=\"e06a4738-3666-4aca-a7aa-13b9acb3b296\" class=\"CORE-paragraph-styles_CORE-body\">On your surge’s list of Soulcasting materials, you gain a sixth category called “Flame,” which follows the entry for “Clear Air.” When Soulcasting a material that’s five spaces away on this expanded list, the DC is 30 (such as when Soulcasting stone into flame).</p>\n<p chunk_id=\"a243b0b2-275f-4f52-8605-e84f05b9124b\" class=\"CORE-paragraph-styles_CORE-body\">When you Soulcast an object into flame, the flames last for only a moment before dissipating. However, before they do, they can catch flammable objects on fire.</p>\n<p chunk_id=\"25e9dfe5-d04e-486c-879f-0f33b8fea0a1\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you Soulcast an object into flame, use the result of that Transformation test to make an attack as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> against the Physical defense of each character within 5 feet of the Soulcast object. Roll 2d4 energy damage. The size of these damage dice increases with your ranks in Transformation; at 2 ranks, roll 2d6 (instead of 2d4), and so on.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Flamecasting",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You’ve learned the difficult art of Soulcasting Essences directly into instantaneous bursts of flame.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"99a64e84-a57e-4efe-b689-51bd25d8c829\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"1e32838b-e996-4eca-845e-e71ef1618bdb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"49f84e14-bf33-4e30-809a-52e1eb35940e\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve mastered the subtleties of affecting living flesh with Soulcasting.</em></p>\n</div>\n<p chunk_id=\"c7c08b77-65d5-4439-a39c-c7f9930f21e3\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> and make a melee Transformation attack against the Spiritual defense of a character, plant, or other living organism within your reach. Roll 3d4 spirit damage. The size of these damage dice increases with your ranks in Transformation; at 2 ranks, roll 3d6 (instead of 3d4), and so on.</p>\n<p chunk_id=\"0aaf1584-e786-4d7a-a8bd-43c911196109\" class=\"CORE-paragraph-styles_CORE-body\">If this reduces the target to 0 health, they die, and you transform their body into your choice of material without spending additional actions or Investiture.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Living Soulcasting",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You’ve mastered the subtleties of affecting living flesh with Soulcasting.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "living-soulcasting",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Transformation",
+							"value": "transformation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"transformation": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Transformation",
+									"value": "transformation",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-elsecaller",
+						"first-ideal-lightweaver"
+					],
+					"objectID": "106041",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"99a64e84-a57e-4efe-b689-51bd25d8c829\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"1e32838b-e996-4eca-845e-e71ef1618bdb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"49f84e14-bf33-4e30-809a-52e1eb35940e\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve mastered the subtleties of affecting living flesh with Soulcasting.</em></p>\n</div>\n<p chunk_id=\"c7c08b77-65d5-4439-a39c-c7f9930f21e3\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> and make a melee Transformation attack against the Spiritual defense of a character, plant, or other living organism within your reach. Roll 3d4 spirit damage. The size of these damage dice increases with your ranks in Transformation; at 2 ranks, roll 3d6 (instead of 3d4), and so on.</p>\n<p chunk_id=\"0aaf1584-e786-4d7a-a8bd-43c911196109\" class=\"CORE-paragraph-styles_CORE-body\">If this reduces the target to 0 health, they die, and you transform their body into your choice of material without spending additional actions or Investiture.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Living Soulcasting",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You’ve mastered the subtleties of affecting living flesh with Soulcasting.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"118fc7d6-060a-4530-81e4-011720e49337\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Transformation 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"distant-surgebinding\" nexus=\"cosmererpg\">Distant Surgebinding</tooltip> talent</p>\n<p chunk_id=\"d5e3a423-3842-4bb1-bbb0-1668d1062455\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"659cb7be-ba70-434e-801f-9af6468010f1\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your force of will is so great that objects have a hard time denying you.</em></p>\n</div>\n<p chunk_id=\"d2945f39-9605-4c57-943c-01c8cd4561ec\" class=\"CORE-paragraph-styles_CORE-body\">When transforming a non-living material, your Transformation test has a maximum DC of 15.</p>\n<p chunk_id=\"cc1b3ee3-8d49-4345-aebd-501cf2280b4d\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Additionally, after you fail to Soulcast an object, you can attempt to do so again during the same <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip>. When you succeed on this test, you must spend 1 additional Investiture per time you failed to Soulcast that object during this scene; if you can’t spend that much Investiture, the object isn’t transformed.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Persistent Transformation",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When transforming a non-living material, your Transformation test has a maximum DC of 15.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "persistent-transformation",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Transformation",
+							"value": "transformation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"transformation": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Transformation 2+",
+									"value": "transformation",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Distant Surgebinding talent",
+									"value": "distant-surgebinding",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"distant-surgebinding"
+					],
+					"objectID": "106040",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"118fc7d6-060a-4530-81e4-011720e49337\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Transformation 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"distant-surgebinding\" nexus=\"cosmererpg\">Distant Surgebinding</tooltip> talent</p>\n<p chunk_id=\"d5e3a423-3842-4bb1-bbb0-1668d1062455\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"659cb7be-ba70-434e-801f-9af6468010f1\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your force of will is so great that objects have a hard time denying you.</em></p>\n</div>\n<p chunk_id=\"d2945f39-9605-4c57-943c-01c8cd4561ec\" class=\"CORE-paragraph-styles_CORE-body\">When transforming a non-living material, your Transformation test has a maximum DC of 15.</p>\n<p chunk_id=\"cc1b3ee3-8d49-4345-aebd-501cf2280b4d\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Additionally, after you fail to Soulcast an object, you can attempt to do so again during the same <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip>. When you succeed on this test, you must spend 1 additional Investiture per time you failed to Soulcast that object during this scene; if you can’t spend that much Investiture, the object isn’t transformed.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Persistent Transformation",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When transforming a non-living material, your Transformation test has a maximum DC of 15.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"c5ae68f7-6d93-43a3-bd26-06b3bbf3d7f6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"e097e153-58f6-4dd6-b639-b97fac3d1295\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">↻</span></p>\n<div chunk_id=\"c07d96f3-22df-4a6e-8775-666a2c4f4901\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You Soulcast near-instinctively, able to transform projectiles in flight.</em></p>\n</div>\n<p chunk_id=\"ce6f51a0-49af-4287-a619-5e14b62d908b\" class=\"CORE-paragraph-styles_CORE-body\">Before you or an ally within your reach is hit by a projectile from a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"ranged-attacks\" nexus=\"cosmererpg\">ranged attack</tooltip>, you can use this reaction and spend 1 Investiture to make a Transformation test. The DC of this test equals the triggering attack’s test result; you can choose whether to use this reaction after you learn the DC.</p>\n<p chunk_id=\"6ef46047-12d0-4e14-ba7e-c705f160574b\" class=\"CORE-paragraph-styles_CORE-body\"> On a failure, the attack <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">grazes</tooltip> instead of hitting. On a success, the attack instead misses and can’t graze, and you transform the projectile into a material of your choice. If you choose a non-solid material, this destroys the projectile.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Soulcast Defense",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You Soulcast near-instinctively, able to transform projectiles in flight.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "soulcast-defense",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Transformation",
+							"value": "transformation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"transformation": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Transformation",
+									"value": "transformation",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": "",
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Reaction",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-elsecaller",
+						"first-ideal-lightweaver"
+					],
+					"objectID": "106038",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"c5ae68f7-6d93-43a3-bd26-06b3bbf3d7f6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"e097e153-58f6-4dd6-b639-b97fac3d1295\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">↻</span></p>\n<div chunk_id=\"c07d96f3-22df-4a6e-8775-666a2c4f4901\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You Soulcast near-instinctively, able to transform projectiles in flight.</em></p>\n</div>\n<p chunk_id=\"ce6f51a0-49af-4287-a619-5e14b62d908b\" class=\"CORE-paragraph-styles_CORE-body\">Before you or an ally within your reach is hit by a projectile from a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"ranged-attacks\" nexus=\"cosmererpg\">ranged attack</tooltip>, you can use this reaction and spend 1 Investiture to make a Transformation test. The DC of this test equals the triggering attack’s test result; you can choose whether to use this reaction after you learn the DC.</p>\n<p chunk_id=\"6ef46047-12d0-4e14-ba7e-c705f160574b\" class=\"CORE-paragraph-styles_CORE-body\"> On a failure, the attack <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">grazes</tooltip> instead of hitting. On a success, the attack instead misses and can’t graze, and you transform the projectile into a material of your choice. If you choose a non-solid material, this destroys the projectile.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Soulcast Defense",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You Soulcast near-instinctively, able to transform projectiles in flight.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<div chunk_id=\"3be74a67-66f4-4adf-979b-645988ec8b4a\" class=\"lore-block\" style=\"\"><p class=\"\"><em>You can use Soulcasting to defend against even more immediate threats.</em></p>\n</div>\n<p chunk_id=\"847c89a3-42f7-40bf-a666-3abe02e8dfac\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"soulcast-defense\" nexus=\"cosmererpg\">Soulcast Defense</tooltip> talent</p>\n<p chunk_id=\"8bf3c39e-81d9-45ab-b14b-fa6fe869ba45\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<p chunk_id=\"b30f5b29-d1ed-4cd4-bb45-5ecbce992b82\" class=\"CORE-paragraph-styles_CORE-body\">You can now use Soulcast Defense on melee weapon attacks as well as ranged ones.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Soulcast Parry",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You can now use Soulcast Defense on melee weapon attacks as well as ranged ones.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "soulcast-parry",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Transformation",
+							"value": "transformation"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"transformation": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Soulcast Defense talent",
+								"value": "soulcast-defense",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"soulcast-defense"
+					],
+					"objectID": "106039",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<div chunk_id=\"3be74a67-66f4-4adf-979b-645988ec8b4a\" class=\"lore-block\" style=\"\"><p class=\"\"><em>You can use Soulcasting to defend against even more immediate threats.</em></p>\n</div>\n<p chunk_id=\"847c89a3-42f7-40bf-a666-3abe02e8dfac\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"soulcast-defense\" nexus=\"cosmererpg\">Soulcast Defense</tooltip> talent</p>\n<p chunk_id=\"8bf3c39e-81d9-45ab-b14b-fa6fe869ba45\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<p chunk_id=\"b30f5b29-d1ed-4cd4-bb45-5ecbce992b82\" class=\"CORE-paragraph-styles_CORE-body\">You can now use Soulcast Defense on melee weapon attacks as well as ranged ones.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Soulcast Parry",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You can now use Soulcast Defense on melee weapon attacks as well as ranged ones.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 8,
+			"nbSortedHits": 8,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=talentTrees.value%3A'transformation'&hitsPerPage=25&page=0",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"roundTrip": 58
+				},
+				"total": 0
+			},
+			"serverTimeMS": 1
+		}
+	]
+}

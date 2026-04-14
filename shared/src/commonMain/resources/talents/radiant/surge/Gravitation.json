@@ -1,0 +1,779 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"03d4cbf0-ace1-40c6-86ba-c82a1fdc5e7d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Gravitation 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"group-flight\" nexus=\"cosmererpg\">Group Flight</tooltip> talent</p>\n<p chunk_id=\"81e42b0b-543c-4bfb-8102-ed5c0ed9416a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"c97c687a-fb64-4627-aca9-aed49b1d16ba\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve trained your allies in aerial combat scenarios, readying them to fly together at a moment’s notice.</em></p>\n</div>\n<p chunk_id=\"9e2cbcb1-7904-40a6-af49-5b199329532a\" class=\"CORE-paragraph-styles_CORE-body\">You can use your Group Flight in combat.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Aerial Squadron",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You can use your Group Flight in combat.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "aerial-squadron",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Gravitation",
+							"value": "gravitation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"gravitation": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Gravitation 3+",
+									"value": "gravitation",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Group Flight talent",
+									"value": "group-flight",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"group-flight"
+					],
+					"objectID": "106075",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"03d4cbf0-ace1-40c6-86ba-c82a1fdc5e7d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Gravitation 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"group-flight\" nexus=\"cosmererpg\">Group Flight</tooltip> talent</p>\n<p chunk_id=\"81e42b0b-543c-4bfb-8102-ed5c0ed9416a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"c97c687a-fb64-4627-aca9-aed49b1d16ba\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve trained your allies in aerial combat scenarios, readying them to fly together at a moment’s notice.</em></p>\n</div>\n<p chunk_id=\"9e2cbcb1-7904-40a6-af49-5b199329532a\" class=\"CORE-paragraph-styles_CORE-body\">You can use your Group Flight in combat.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Aerial Squadron",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You can use your Group Flight in combat.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"684636a9-8f6b-498c-9de7-d2274cf5f83c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"fb9f009b-2e63-4451-a566-d8f3a90bc308\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"9d7cdb0d-9a3a-4060-87a7-8a46416b66dd\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You are a master of the skies, adeptly wielding your weapon while in flight.</em></p>\n</div>\n<p chunk_id=\"c573b794-c717-4536-abbb-890bad20aa75\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">While maintaining a Basic Lashing on yourself, fly a distance up to your gravitation rate. Once during this movement, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a melee weapon attack as part of the same action. After resolving that attack, you can continue your movement.</p>\n<p chunk_id=\"2e4a0f49-9f38-4031-8048-cea17cf275e9\" class=\"CORE-paragraph-styles_CORE-body\">Additionally, when you acquire this talent, your gravitation rate increases to 40 feet.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Flying Ace",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While maintaining a Basic Lashing on yourself, fly a distance up to your gravitation rate.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "flying-ace",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Gravitation",
+							"value": "gravitation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"gravitation": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Gravitation",
+									"value": "gravitation",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-skybreaker",
+						"first-ideal-windrunner"
+					],
+					"objectID": "106072",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"684636a9-8f6b-498c-9de7-d2274cf5f83c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"fb9f009b-2e63-4451-a566-d8f3a90bc308\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"9d7cdb0d-9a3a-4060-87a7-8a46416b66dd\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You are a master of the skies, adeptly wielding your weapon while in flight.</em></p>\n</div>\n<p chunk_id=\"c573b794-c717-4536-abbb-890bad20aa75\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">While maintaining a Basic Lashing on yourself, fly a distance up to your gravitation rate. Once during this movement, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a melee weapon attack as part of the same action. After resolving that attack, you can continue your movement.</p>\n<p chunk_id=\"2e4a0f49-9f38-4031-8048-cea17cf275e9\" class=\"CORE-paragraph-styles_CORE-body\">Additionally, when you acquire this talent, your gravitation rate increases to 40 feet.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Flying Ace",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While maintaining a Basic Lashing on yourself, fly a distance up to your gravitation rate.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"bc0b8686-9a61-48f2-8729-56a9ebfdba55\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"6e207a48-1b61-42a7-9d3d-460d7f0241e6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"3e6af615-e39b-416d-90f4-9f8608a5ed96\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your Basic Lashings become more forceful and potentially dangerous on impact.</em></p>\n</div>\n<p chunk_id=\"48626b4e-66a1-4085-9b78-2f8a6afc9486\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you use a Basic Lashing to move an unwilling creature or object into a solid surface, the collision stops that movement early, and you can choose for the Lashed target to take 1d4 impact damage for every 10 feet they were moved with that Lashing on this turn. For example, if you moved them 25 feet then they collide with a wall, they take 2d4 impact damage.</p>\n<p chunk_id=\"d6b284a4-d785-49a6-ac11-6114b56abdee\" class=\"CORE-paragraph-styles_CORE-body\">Your target can use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"avoid-danger\" nexus=\"cosmererpg\">Avoid Danger</tooltip> reaction to make an <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip> test opposed by your Gravitation, taking half as much damage on a success.</p>\n<p chunk_id=\"0fedb2d3-e7cb-4fde-8211-ef2889a5e0f8\" class=\"CORE-paragraph-styles_CORE-body\">The size of these damage dice increases with your ranks in Gravitation; at 2 ranks, roll 1d6 (instead of 1d4), and so on.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Gravitational Slam",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you use a Basic Lashing to move an unwilling creature or object into a solid surface, the collision stops that movement early, and you can choose to damage that target.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "gravitational-slam",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Gravitation",
+							"value": "gravitation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"gravitation": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Gravitation",
+									"value": "gravitation",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-windrunner",
+						"first-ideal-skybreaker"
+					],
+					"objectID": "106076",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"bc0b8686-9a61-48f2-8729-56a9ebfdba55\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"6e207a48-1b61-42a7-9d3d-460d7f0241e6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"3e6af615-e39b-416d-90f4-9f8608a5ed96\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your Basic Lashings become more forceful and potentially dangerous on impact.</em></p>\n</div>\n<p chunk_id=\"48626b4e-66a1-4085-9b78-2f8a6afc9486\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you use a Basic Lashing to move an unwilling creature or object into a solid surface, the collision stops that movement early, and you can choose for the Lashed target to take 1d4 impact damage for every 10 feet they were moved with that Lashing on this turn. For example, if you moved them 25 feet then they collide with a wall, they take 2d4 impact damage.</p>\n<p chunk_id=\"d6b284a4-d785-49a6-ac11-6114b56abdee\" class=\"CORE-paragraph-styles_CORE-body\">Your target can use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"avoid-danger\" nexus=\"cosmererpg\">Avoid Danger</tooltip> reaction to make an <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip> test opposed by your Gravitation, taking half as much damage on a success.</p>\n<p chunk_id=\"0fedb2d3-e7cb-4fde-8211-ef2889a5e0f8\" class=\"CORE-paragraph-styles_CORE-body\">The size of these damage dice increases with your ranks in Gravitation; at 2 ranks, roll 1d6 (instead of 1d4), and so on.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Gravitational Slam",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you use a Basic Lashing to move an unwilling creature or object into a solid surface, the collision stops that movement early, and you can choose to damage that target.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"2c095b2d-6232-408c-9766-cfe33e3c1497\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"stable-flight\" nexus=\"cosmererpg\">Stable Flight</tooltip> talent\n</p>\n<p chunk_id=\"069ea804-772b-492f-88b0-f1f2d9386c38\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"2b2526c6-5784-489e-996a-49bf13f44958\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can infuse multiple allies with Gravitation at once.</em></p>\n</div>\n<p chunk_id=\"fdd584d0-ab92-457d-a16d-42d3bee211ea\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">While not in combat, when you spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> or more to infuse yourself or a willing character with a Basic Lashing, you can also infuse a number of additional willing characters up to your ranks in Gravitation. Each target must be within your reach. These infusions last for the duration of the original infusion and require no additional Investiture to create or maintain.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Group Flight",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While not in combat, you can also infuse a number of additional willing characters up to your ranks in Gravitation.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "group-flight",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Gravitation",
+							"value": "gravitation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"gravitation": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Stable Flight talent",
+									"value": "stable-flight",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"stable-flight"
+					],
+					"objectID": "106074",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"2c095b2d-6232-408c-9766-cfe33e3c1497\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"stable-flight\" nexus=\"cosmererpg\">Stable Flight</tooltip> talent\n</p>\n<p chunk_id=\"069ea804-772b-492f-88b0-f1f2d9386c38\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"2b2526c6-5784-489e-996a-49bf13f44958\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can infuse multiple allies with Gravitation at once.</em></p>\n</div>\n<p chunk_id=\"fdd584d0-ab92-457d-a16d-42d3bee211ea\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">While not in combat, when you spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> or more to infuse yourself or a willing character with a Basic Lashing, you can also infuse a number of additional willing characters up to your ranks in Gravitation. Each target must be within your reach. These infusions last for the duration of the original infusion and require no additional Investiture to create or maintain.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Group Flight",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While not in combat, you can also infuse a number of additional willing characters up to your ranks in Gravitation.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"e7ab6af4-696b-4fc8-9f75-d972dce5df36\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"gravitational-slam\" nexus=\"cosmererpg\">Gravitational Slam</tooltip> talent\n</p>\n<p chunk_id=\"f98ad78d-4320-4737-a8bc-016b0f03dde2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"84eeb9c9-639a-46a1-a67d-b1db128c50db\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You apply multiple Basic Lashings to an object, launching it with several times the force of gravity.</em></p>\n</div>\n<p chunk_id=\"3662fafb-20b2-4d78-b8f2-3df849c3d01b\" class=\"CORE-paragraph-styles_CORE-body\">You touch an unattended object of a size you can affect with your ranks in Gravitation, then you propel that object at a target in your line of effect, spending Investiture equal to the distance to that target divided by your gravitation rate (rounded up).</p>\n<p chunk_id=\"93d2d7e3-a221-4bd4-855f-950f567ce468\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">Make a ranged Gravitation attack against the Physical defense of that target, rolling 2d4 impact damage. The size of these damage dice increases with your ranks in Gravitation; at 2 ranks, roll 2d6 (instead of 2d4), and so on.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Lashing Shot",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You propel an unattended object at a target in your line of effect.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "lashing-shot",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Gravitation",
+							"value": "gravitation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"gravitation": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Gravitational Slam talent",
+									"value": "gravitational-slam",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"gravitational-slam"
+					],
+					"objectID": "106078",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"e7ab6af4-696b-4fc8-9f75-d972dce5df36\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"gravitational-slam\" nexus=\"cosmererpg\">Gravitational Slam</tooltip> talent\n</p>\n<p chunk_id=\"f98ad78d-4320-4737-a8bc-016b0f03dde2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"84eeb9c9-639a-46a1-a67d-b1db128c50db\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You apply multiple Basic Lashings to an object, launching it with several times the force of gravity.</em></p>\n</div>\n<p chunk_id=\"3662fafb-20b2-4d78-b8f2-3df849c3d01b\" class=\"CORE-paragraph-styles_CORE-body\">You touch an unattended object of a size you can affect with your ranks in Gravitation, then you propel that object at a target in your line of effect, spending Investiture equal to the distance to that target divided by your gravitation rate (rounded up).</p>\n<p chunk_id=\"93d2d7e3-a221-4bd4-855f-950f567ce468\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">Make a ranged Gravitation attack against the Physical defense of that target, rolling 2d4 impact damage. The size of these damage dice increases with your ranks in Gravitation; at 2 ranks, roll 2d6 (instead of 2d4), and so on.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Lashing Shot",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You propel an unattended object at a target in your line of effect.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"b4bbde47-707c-4b4d-a5a6-e30919e08e75\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"group-flight\" nexus=\"cosmererpg\">Group Flight</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"lashing-shot\" nexus=\"cosmererpg\">Lashing Shot</tooltip> talent\n</p>\n<p chunk_id=\"3c29af06-9c38-4601-ae66-84234a66615c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"50d72c31-aea3-4966-b6a4-ae8716a2fea8\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve become so efficient at infusing yourself with Gravitation that it becomes subconscious, allowing you to endlessly soar.</em></p>\n</div>\n<p chunk_id=\"3ad63bac-f11f-4e31-b689-8353014554b6\" class=\"CORE-paragraph-styles_CORE-body\">While you have 1 Investiture or more, you gain the benefits of being <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"surge-infusions-and-durations\" nexus=\"cosmererpg\">infused with</tooltip> Gravitation without spending Investiture.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Master of the Skies",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While you have 1 Investiture or more, you gain the benefits of being infused with Gravitation without spending Investiture.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "master-of-the-skies",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Gravitation",
+							"value": "gravitation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"gravitation": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Group Flight talent",
+									"value": "group-flight",
+									"hardRule": true
+								},
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Lashing Shot talent",
+									"value": "lashing-shot",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"group-flight",
+						"lashing-shot"
+					],
+					"objectID": "106079",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"b4bbde47-707c-4b4d-a5a6-e30919e08e75\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"group-flight\" nexus=\"cosmererpg\">Group Flight</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"lashing-shot\" nexus=\"cosmererpg\">Lashing Shot</tooltip> talent\n</p>\n<p chunk_id=\"3c29af06-9c38-4601-ae66-84234a66615c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"50d72c31-aea3-4966-b6a4-ae8716a2fea8\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve become so efficient at infusing yourself with Gravitation that it becomes subconscious, allowing you to endlessly soar.</em></p>\n</div>\n<p chunk_id=\"3ad63bac-f11f-4e31-b689-8353014554b6\" class=\"CORE-paragraph-styles_CORE-body\">While you have 1 Investiture or more, you gain the benefits of being <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"surge-infusions-and-durations\" nexus=\"cosmererpg\">infused with</tooltip> Gravitation without spending Investiture.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Master of the Skies",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While you have 1 Investiture or more, you gain the benefits of being infused with Gravitation without spending Investiture.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"ae03adef-5eb7-4f04-90d1-9144c83590e2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"gravitational-slam\" nexus=\"cosmererpg\">Gravitational Slam</tooltip> talent\n</p>\n<p chunk_id=\"2d5a74b5-e7d4-4ea4-8e21-3459c8f6ac95\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"c3406309-ce4b-483a-a681-6bad87cc1ca7\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can apply multiple Basic Lashings to an enemy.</em></p>\n</div>\n<p chunk_id=\"619ced94-a675-4bf0-a794-b1d075be9d9e\" class=\"CORE-paragraph-styles_CORE-body\">After you succeed on a Gravitation test to move an unwilling character, you can infuse them with an amount of Investiture up to your ranks in Gravitation (instead of only 1 Investiture). When you do, the effect continues until the infusion ends (instead of until the start of your next turn).</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Multiple Lashings",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After you succeed on a Gravitation test to move an unwilling character, you can infuse them to extend the effect.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "multiple-lashings",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Gravitation",
+							"value": "gravitation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"gravitation": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Gravitational Slam talent",
+									"value": "gravitational-slam",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"gravitational-slam"
+					],
+					"objectID": "106077",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"ae03adef-5eb7-4f04-90d1-9144c83590e2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"gravitational-slam\" nexus=\"cosmererpg\">Gravitational Slam</tooltip> talent\n</p>\n<p chunk_id=\"2d5a74b5-e7d4-4ea4-8e21-3459c8f6ac95\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"c3406309-ce4b-483a-a681-6bad87cc1ca7\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can apply multiple Basic Lashings to an enemy.</em></p>\n</div>\n<p chunk_id=\"619ced94-a675-4bf0-a794-b1d075be9d9e\" class=\"CORE-paragraph-styles_CORE-body\">After you succeed on a Gravitation test to move an unwilling character, you can infuse them with an amount of Investiture up to your ranks in Gravitation (instead of only 1 Investiture). When you do, the effect continues until the infusion ends (instead of until the start of your next turn).</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Multiple Lashings",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After you succeed on a Gravitation test to move an unwilling character, you can infuse them to extend the effect.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"3edf322c-d46f-48e4-8f82-531d9e967521\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"flying-ace\" nexus=\"cosmererpg\">Flying Ace</tooltip> talent\n</p>\n<p chunk_id=\"2a3ad3d2-b977-4a63-8965-f6340f494227\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"ea43a16e-0e4f-4c03-8ad0-b26a80c31553\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’re an expert in launching attacks from afar in mid-flight.</em></p>\n</div>\n<p chunk_id=\"22f1d1e4-1c03-4db9-8e1d-14a8888d14b0\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\">While maintaining a Basic Lashing on yourself, your ranged attacks don’t gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> due to flying or other causes of unstable footing.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Stable Flight",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While maintaining a Basic Lashing on yourself, your ranged attacks don’t gain a disadvantage due to flying or other causes of unstable footing.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "stable-flight",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Gravitation",
+							"value": "gravitation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"gravitation": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Flying Ace talent",
+									"value": "flying-ace",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"flying-ace"
+					],
+					"objectID": "106073",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"3edf322c-d46f-48e4-8f82-531d9e967521\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"flying-ace\" nexus=\"cosmererpg\">Flying Ace</tooltip> talent\n</p>\n<p chunk_id=\"2a3ad3d2-b977-4a63-8965-f6340f494227\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"ea43a16e-0e4f-4c03-8ad0-b26a80c31553\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’re an expert in launching attacks from afar in mid-flight.</em></p>\n</div>\n<p chunk_id=\"22f1d1e4-1c03-4db9-8e1d-14a8888d14b0\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\">While maintaining a Basic Lashing on yourself, your ranged attacks don’t gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> due to flying or other causes of unstable footing.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Stable Flight",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While maintaining a Basic Lashing on yourself, your ranged attacks don’t gain a disadvantage due to flying or other causes of unstable footing.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 8,
+			"nbSortedHits": 8,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=talentTrees.value%3A'gravitation'&hitsPerPage=25&page=0",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"roundTrip": 60
+				},
+				"total": 0
+			},
+			"serverTimeMS": 1
+		}
+	]
+}

@@ -1,0 +1,858 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"8699290b-55c2-4c84-bd08-b8445324b9a4\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"binding-shot\" nexus=\"cosmererpg\">Binding Shot</tooltip> talent</p>\n<p chunk_id=\"0de8e341-140e-4754-8932-530eb97198c6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"95b6e71c-f166-446b-8637-22f6d57ba6ba\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can infuse Adhesion into surfaces, causing anyone who touches them to become stuck.</em></p>\n</div>\n<p chunk_id=\"a8de57bc-189c-4cea-9f46-bd1986f5c102\" class=\"CORE-paragraph-styles_CORE-body\">When you use <tooltip category=\"action\" class=\"tooltip-convert\" element=\"adhesion-surge\" nexus=\"cosmererpg\">Adhesion</tooltip>, you can choose to infuse no objects, and instead only infuse a portion of one surface, up to the size you can affect with your ranks in Adhesion.</p>\n<p chunk_id=\"d1323189-20e6-46bf-8511-6cba42785a7d\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-37\">When another character touches this infused area, they become subject to a Full Lashing with that surface for the duration of the infusion, and your test to Lash them in this way automatically succeeds. For example, a character becomes Lashed to the surface if they’re touching it when you infuse it, if they later touch it while moving through its space, or if they’re forcibly moved into its space (such as with a gravitational Lashing).</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Adhesive Trap",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you use Adhesion, you can choose to infuse no objects, and instead only infuse a portion of one surface, up to the size you can affect with your ranks in Adhesion.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "adhesive-trap",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Adhesion",
+							"value": "adhesion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"adhesion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Binding Shot talent",
+									"value": "binding-shot",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"binding-shot"
+					],
+					"objectID": "106127",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"8699290b-55c2-4c84-bd08-b8445324b9a4\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"binding-shot\" nexus=\"cosmererpg\">Binding Shot</tooltip> talent</p>\n<p chunk_id=\"0de8e341-140e-4754-8932-530eb97198c6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"95b6e71c-f166-446b-8637-22f6d57ba6ba\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can infuse Adhesion into surfaces, causing anyone who touches them to become stuck.</em></p>\n</div>\n<p chunk_id=\"a8de57bc-189c-4cea-9f46-bd1986f5c102\" class=\"CORE-paragraph-styles_CORE-body\">When you use <tooltip category=\"action\" class=\"tooltip-convert\" element=\"adhesion-surge\" nexus=\"cosmererpg\">Adhesion</tooltip>, you can choose to infuse no objects, and instead only infuse a portion of one surface, up to the size you can affect with your ranks in Adhesion.</p>\n<p chunk_id=\"d1323189-20e6-46bf-8511-6cba42785a7d\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-37\">When another character touches this infused area, they become subject to a Full Lashing with that surface for the duration of the infusion, and your test to Lash them in this way automatically succeeds. For example, a character becomes Lashed to the surface if they’re touching it when you infuse it, if they later touch it while moving through its space, or if they’re forcibly moved into its space (such as with a gravitational Lashing).</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Adhesive Trap",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you use Adhesion, you can choose to infuse no objects, and instead only infuse a portion of one surface, up to the size you can affect with your ranks in Adhesion.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"602cd7a5-fb18-48df-af4e-6cec6fcd6fb4\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"binding-strike\" nexus=\"cosmererpg\">Binding Strike</tooltip> talent</p>\n<p chunk_id=\"07064695-8e6d-4f26-93a5-58c46b793c22\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"19e7c287-48d7-468f-8c09-13386533e7e5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You “paint” your ammunition with Adhesion before throwing or firing it at a target, transferring the infusion to one of your target’s possessions.</em></p>\n</div>\n<p chunk_id=\"8c570800-96d5-4bbc-a73b-21946d9b0e43\" class=\"CORE-paragraph-styles_CORE-body\">You can use Binding Strike when you hit with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"ranged-attacks\" nexus=\"cosmererpg\">ranged attack</tooltip> at any distance, and you don’t need to touch the infused targets or have a hand free.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Binding Shot",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You can use Binding Strike when you hit with a ranged attack at any distance, and you don’t need to touch the infused targets or have a hand free.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "binding-shot",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"isLegacy": false,
+					"sort": 0,
+					"paths": [
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"isSpoiler": false,
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"talentTrees": [
+						{
+							"name": "Adhesion",
+							"value": "adhesion"
+						}
+					],
+					"parentTalents": [
+						"binding-strike"
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"honorspren-bond": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Binding Strike talent",
+									"value": "binding-strike",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"elementImage": "null",
+					"objectID": "106126",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"602cd7a5-fb18-48df-af4e-6cec6fcd6fb4\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"binding-strike\" nexus=\"cosmererpg\">Binding Strike</tooltip> talent</p>\n<p chunk_id=\"07064695-8e6d-4f26-93a5-58c46b793c22\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"19e7c287-48d7-468f-8c09-13386533e7e5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You “paint” your ammunition with Adhesion before throwing or firing it at a target, transferring the infusion to one of your target’s possessions.</em></p>\n</div>\n<p chunk_id=\"8c570800-96d5-4bbc-a73b-21946d9b0e43\" class=\"CORE-paragraph-styles_CORE-body\">You can use Binding Strike when you hit with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"ranged-attacks\" nexus=\"cosmererpg\">ranged attack</tooltip> at any distance, and you don’t need to touch the infused targets or have a hand free.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Binding Shot",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You can use Binding Strike when you hit with a ranged attack at any distance, and you don’t need to touch the infused targets or have a hand free.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"3454dc91-be34-4f29-a473-6eb83f6cf31b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"6aa8f71f-4def-4e10-bbcd-cb1a50f64967\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"0a5fff27-b67b-4fd4-ab1a-94d45d9e5e4e\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can seamlessly use Adhesion while performing your melee attacks.</em></p>\n</div>\n<p chunk_id=\"baaf8aab-cb8b-4ece-87b4-9f866e8c6b61\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-25\">After you hit with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-attacks\" nexus=\"cosmererpg\">melee attack</tooltip>, you can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> or 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to use Adhesion, infusing <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> as usual but without spending an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">action</tooltip>. At least one target must be an object the target is holding or wearing, and you automatically succeed on the test to infuse it. As usual, the other object or surface must be within 5 feet of the first object, but you don’t need to touch it or have a hand free.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Binding Strike",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After you hit with a melee attack, you can spend O or 2 focus to use Adhesion, infusing Investiture as usual but without spending an action.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "binding-strike",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Adhesion",
+							"value": "adhesion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"adhesion": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Adhesion",
+									"value": "adhesion",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-windrunner"
+					],
+					"objectID": "106125",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"3454dc91-be34-4f29-a473-6eb83f6cf31b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"6aa8f71f-4def-4e10-bbcd-cb1a50f64967\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"0a5fff27-b67b-4fd4-ab1a-94d45d9e5e4e\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can seamlessly use Adhesion while performing your melee attacks.</em></p>\n</div>\n<p chunk_id=\"baaf8aab-cb8b-4ece-87b4-9f866e8c6b61\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-25\">After you hit with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-attacks\" nexus=\"cosmererpg\">melee attack</tooltip>, you can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> or 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to use Adhesion, infusing <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> as usual but without spending an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">action</tooltip>. At least one target must be an object the target is holding or wearing, and you automatically succeed on the test to infuse it. As usual, the other object or surface must be within 5 feet of the first object, but you don’t need to touch it or have a hand free.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Binding Strike",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After you hit with a melee attack, you can spend O or 2 focus to use Adhesion, infusing Investiture as usual but without spending an action.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"60194c66-e4cd-4cb4-9d7a-8ca47939afef\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies</p>\n<p chunk_id=\"8b421509-c2b4-4134-9bb6-ef9d0b0bcba2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"cbf2410b-1a7f-44a4-a0f7-a20352749ad5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can infuse targets from a greater distance.</em></p>\n</div>\n<p chunk_id=\"50998486-1203-4eb5-abd9-f0ac0f219613\" class=\"CORE-paragraph-styles_CORE-body\">You can use your surges and their talents as though your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> is 20 feet, and you don’t need to touch the target.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Distant Surgebinding",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Use your surges and their talents as though your reach is 20 feet.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "distant-surgebinding",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Abrasion",
+							"value": "abrasion"
+						},
+						{
+							"name": "Transformation",
+							"value": "transformation"
+						},
+						{
+							"name": "Adhesion",
+							"value": "adhesion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"abrasion": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Reverse Abrasion talent",
+								"value": "reverse-abrasion",
+								"hardRule": true
+							}
+						],
+						"adhesion": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Stormlight Reclamation talent",
+								"value": "stormlight-reclamation",
+								"hardRule": true
+							}
+						],
+						"transformation": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Soulcast Parry talent",
+								"value": "soulcast-parry",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"reverse-abrasion",
+						"soulcast-parry",
+						"stormlight-reclamation"
+					],
+					"objectID": "106008",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"60194c66-e4cd-4cb4-9d7a-8ca47939afef\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies</p>\n<p chunk_id=\"8b421509-c2b4-4134-9bb6-ef9d0b0bcba2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"cbf2410b-1a7f-44a4-a0f7-a20352749ad5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can infuse targets from a greater distance.</em></p>\n</div>\n<p chunk_id=\"50998486-1203-4eb5-abd9-f0ac0f219613\" class=\"CORE-paragraph-styles_CORE-body\">You can use your surges and their talents as though your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> is 20 feet, and you don’t need to touch the target.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Distant Surgebinding",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Use your surges and their talents as though your reach is 20 feet.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"020451ba-2ac8-4ac9-93f8-0e362fc0bf6d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"distant-surgebinding\" nexus=\"cosmererpg\">Distant Surgebinding</tooltip> talent</p>\n<p chunk_id=\"d9e9f5b4-3ec6-4b70-b8d8-7ab8f8c74627\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"88dedf5c-9787-4aff-a6c7-281f7341b0a5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your Full Lashings use less Stormlight, allowing them to last much longer.</em></p>\n</div>\n<p chunk_id=\"76b10dc0-39d6-4f60-9c6d-e151b509709c\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you perform a Full Lashing, instead of the infusion using 1 Investiture per round, it expends 1 Investiture per number of rounds equal to your ranks in Adhesion. For example, if you have 3 ranks in Adhesion, those infusions expend Investiture once every 3 rounds.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Extended Adhesion",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you perform a Full Lashing, it expends 1 Investiture per number of rounds equal to your ranks in Adhesion.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "extended-adhesion",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"isLegacy": false,
+					"sort": 0,
+					"paths": [
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"isSpoiler": false,
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"talentTrees": [
+						{
+							"name": "Adhesion",
+							"value": "adhesion"
+						}
+					],
+					"parentTalents": [
+						"distant-surgebinding"
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"honorspren-bond": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Distant Surgebinding talent",
+									"value": "distant-surgebinding",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"elementImage": "null",
+					"objectID": "106123",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"020451ba-2ac8-4ac9-93f8-0e362fc0bf6d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"distant-surgebinding\" nexus=\"cosmererpg\">Distant Surgebinding</tooltip> talent</p>\n<p chunk_id=\"d9e9f5b4-3ec6-4b70-b8d8-7ab8f8c74627\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"88dedf5c-9787-4aff-a6c7-281f7341b0a5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your Full Lashings use less Stormlight, allowing them to last much longer.</em></p>\n</div>\n<p chunk_id=\"76b10dc0-39d6-4f60-9c6d-e151b509709c\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you perform a Full Lashing, instead of the infusion using 1 Investiture per round, it expends 1 Investiture per number of rounds equal to your ranks in Adhesion. For example, if you have 3 ranks in Adhesion, those infusions expend Investiture once every 3 rounds.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Extended Adhesion",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you perform a Full Lashing, it expends 1 Investiture per number of rounds equal to your ranks in Adhesion.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"6374e09a-200b-4b67-86e0-2285135e4951\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"extended-adhesion\" nexus=\"cosmererpg\">Extended Adhesion</tooltip> talent</p>\n<p chunk_id=\"faf6040f-c331-4c30-a9c8-52add90a6a84\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"6a85777e-821b-498d-95cc-87884927fb56\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can apply Adhesion directly to other living beings, sticking their bodies to surfaces.</em></p>\n</div>\n<p chunk_id=\"cfdc3275-0f0c-4e1a-bfbf-11184c15398f\" class=\"CORE-paragraph-styles_CORE-body\">You can use Adhesion on characters, making a test as if you were targeting an object in their possession. When you Lash a character to an object or surface that’s larger than them, that character becomes <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"restrained\" nexus=\"cosmererpg\">Restrained</tooltip>, they gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> on all physical tests, and all attack tests against them gain an advantage.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Living Adhesion",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You can use Adhesion on characters, making a test as if you were targeting an object in their possession.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "living-adhesion",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"isLegacy": false,
+					"sort": 0,
+					"paths": [
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"isSpoiler": false,
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"talentTrees": [
+						{
+							"name": "Adhesion",
+							"value": "adhesion"
+						}
+					],
+					"parentTalents": [
+						"extended-adhesion"
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"honorspren-bond": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Extended Adhesion talent",
+									"value": "extended-adhesion",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"elementImage": "null",
+					"objectID": "106124",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"6374e09a-200b-4b67-86e0-2285135e4951\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"extended-adhesion\" nexus=\"cosmererpg\">Extended Adhesion</tooltip> talent</p>\n<p chunk_id=\"faf6040f-c331-4c30-a9c8-52add90a6a84\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"6a85777e-821b-498d-95cc-87884927fb56\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can apply Adhesion directly to other living beings, sticking their bodies to surfaces.</em></p>\n</div>\n<p chunk_id=\"cfdc3275-0f0c-4e1a-bfbf-11184c15398f\" class=\"CORE-paragraph-styles_CORE-body\">You can use Adhesion on characters, making a test as if you were targeting an object in their possession. When you Lash a character to an object or surface that’s larger than them, that character becomes <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"restrained\" nexus=\"cosmererpg\">Restrained</tooltip>, they gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> on all physical tests, and all attack tests against them gain an advantage.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Living Adhesion",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You can use Adhesion on characters, making a test as if you were targeting an object in their possession.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"70c004dd-69b8-4710-b3e3-5eb421cb3d14\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies\n</p>\n<p chunk_id=\"f1ab27a0-86e3-47a9-a776-0cdc3d515263\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"722c41e7-0e3a-4ea3-a111-a84bd2bca6dc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can reclaim Stormlight from active infusions.</em></p>\n</div>\n<p chunk_id=\"eb779919-ef2b-4ac3-b364-5a7ed67ac868\" class=\"CORE-paragraph-styles_CORE-body\">After your infusions expend their infused Investiture at the start of your turn, you can end any number of those infusions within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip>, recovering all remaining Investiture they were infused with.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Stormlight Reclamation",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "At the start of your turn, you can end any number of infusions to regain their remaining Investiture.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "stormlight-reclamation",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Abrasion",
+							"value": "abrasion"
+						},
+						{
+							"name": "Illumination",
+							"value": "illumination"
+						},
+						{
+							"name": "Tension",
+							"value": "tension"
+						},
+						{
+							"name": "Adhesion",
+							"value": "adhesion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"tension": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Tension",
+									"value": "tension",
+									"hardRule": true
+								}
+							]
+						],
+						"abrasion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Reverse Abrasion talent",
+									"value": "reverse-abrasion",
+									"hardRule": true
+								}
+							]
+						],
+						"adhesion": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Adhesion",
+									"value": "adhesion",
+									"hardRule": true
+								}
+							]
+						],
+						"illusion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Distracting Illusion talent",
+									"value": "distracting-illusion",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Free action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"reverse-abrasion",
+						"distracting-illusion",
+						"speak-the-first-ideal-stoneward",
+						"speak-the-first-ideal-windrunner"
+					],
+					"objectID": "106007",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"70c004dd-69b8-4710-b3e3-5eb421cb3d14\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies\n</p>\n<p chunk_id=\"f1ab27a0-86e3-47a9-a776-0cdc3d515263\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"722c41e7-0e3a-4ea3-a111-a84bd2bca6dc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can reclaim Stormlight from active infusions.</em></p>\n</div>\n<p chunk_id=\"eb779919-ef2b-4ac3-b364-5a7ed67ac868\" class=\"CORE-paragraph-styles_CORE-body\">After your infusions expend their infused Investiture at the start of your turn, you can end any number of those infusions within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip>, recovering all remaining Investiture they were infused with.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Stormlight Reclamation",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "At the start of your turn, you can end any number of infusions to regain their remaining Investiture.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"14745124-42c0-4121-a8e0-5538dee59248\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"adhesive-trap\" nexus=\"cosmererpg\">Adhesive Trap</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"extended-adhesion\" nexus=\"cosmererpg\">Extended Adhesion</tooltip> talent\n</p>\n<p chunk_id=\"84907d9e-f525-4832-8433-a274f17f26da\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"9baeaa58-800c-401c-a0fd-cfa8add7282f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your Full Lashings can be broken only by the strongest of individuals.</em></p>\n</div>\n<p chunk_id=\"8b25dcf0-901a-46b6-a006-957b9c15b997\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When a character attempts to break one of your Full Lashings, if their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"strength\" nexus=\"cosmererpg\">Strength</tooltip> attribute is lower than or equal to your ranks in Adhesion, you automatically succeed on the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opposed-tests\" nexus=\"cosmererpg\">opposed test</tooltip> without either of you rolling.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Superior Bond",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "A character with a Strength attribute lower than or equal to your ranks in Adhesion cannot break your Full Lashings.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "superior-bond",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Adhesion",
+							"value": "adhesion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"adhesion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Adhesive Trap talent",
+									"value": "adhesive-trap",
+									"hardRule": true
+								},
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Extended Adhesion talent",
+									"value": "extended-adhesion",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"adhesive-trap",
+						"extended-adhesion"
+					],
+					"objectID": "106128",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"14745124-42c0-4121-a8e0-5538dee59248\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"adhesive-trap\" nexus=\"cosmererpg\">Adhesive Trap</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"extended-adhesion\" nexus=\"cosmererpg\">Extended Adhesion</tooltip> talent\n</p>\n<p chunk_id=\"84907d9e-f525-4832-8433-a274f17f26da\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"9baeaa58-800c-401c-a0fd-cfa8add7282f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your Full Lashings can be broken only by the strongest of individuals.</em></p>\n</div>\n<p chunk_id=\"8b25dcf0-901a-46b6-a006-957b9c15b997\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When a character attempts to break one of your Full Lashings, if their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"strength\" nexus=\"cosmererpg\">Strength</tooltip> attribute is lower than or equal to your ranks in Adhesion, you automatically succeed on the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opposed-tests\" nexus=\"cosmererpg\">opposed test</tooltip> without either of you rolling.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Superior Bond",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "A character with a Strength attribute lower than or equal to your ranks in Adhesion cannot break your Full Lashings.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 8,
+			"nbSortedHits": 8,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=talentTrees.value%3A'adhesion'&hitsPerPage=25&page=0",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"roundTrip": 60
+				},
+				"afterFetch": {
+					"format": {
+						"highlighting": 1,
+						"total": 1
+					}
+				},
+				"total": 1
+			},
+			"serverTimeMS": 3
+		}
+	]
+}

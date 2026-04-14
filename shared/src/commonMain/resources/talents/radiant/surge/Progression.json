@@ -1,0 +1,795 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"91ac6c93-f766-4092-9ac1-136e59b20095\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"6dc3d41a-5ede-4ba2-b0d3-c32b7212b7e3\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"66f806d3-bc1c-4ea6-bae8-d497d080e98c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You grow plants explosively, striking and ensnaring your enemies.</em></p>\n</div>\n<p chunk_id=\"77839518-cf7d-47ba-babd-37a60ffff08c\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> to use Growth in an area up to the size you can affect with your ranks in Progression. Make one Progression attack and compare the test result to the Physical defense of each character of your choice in that area. Roll 2d4 damage, dealing either impact or keen damage (whichever is logical for the grown plants). The size of this attack’s damage dice increases with your ranks in Progression; at 2 ranks, roll 2d6 (instead of 2d4), and so on.</p>\n<p chunk_id=\"07c340d4-a58f-46ba-a275-9852d86a823d\" class=\"CORE-paragraph-styles_CORE-body\">You can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\">O</span> to cause any number of the targets you hit to become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"immobilized\" nexus=\"cosmererpg\">Immobilized</tooltip> until the end of your next turn.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Explosive Growth",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You grow plants explosively, striking and ensnaring your enemies.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "explosive-growth",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Progression",
+							"value": "progression"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"progression": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Progression",
+									"value": "progression",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-edgedancer",
+						"first-ideal-truthwatcher"
+					],
+					"objectID": "106028",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"91ac6c93-f766-4092-9ac1-136e59b20095\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"6dc3d41a-5ede-4ba2-b0d3-c32b7212b7e3\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"66f806d3-bc1c-4ea6-bae8-d497d080e98c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You grow plants explosively, striking and ensnaring your enemies.</em></p>\n</div>\n<p chunk_id=\"77839518-cf7d-47ba-babd-37a60ffff08c\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> to use Growth in an area up to the size you can affect with your ranks in Progression. Make one Progression attack and compare the test result to the Physical defense of each character of your choice in that area. Roll 2d4 damage, dealing either impact or keen damage (whichever is logical for the grown plants). The size of this attack’s damage dice increases with your ranks in Progression; at 2 ranks, roll 2d6 (instead of 2d4), and so on.</p>\n<p chunk_id=\"07c340d4-a58f-46ba-a275-9852d86a823d\" class=\"CORE-paragraph-styles_CORE-body\">You can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\">O</span> to cause any number of the targets you hit to become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"immobilized\" nexus=\"cosmererpg\">Immobilized</tooltip> until the end of your next turn.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Explosive Growth",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You grow plants explosively, striking and ensnaring your enemies.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"1430ca52-af42-41a0-a4e9-7aed3fe1df81\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"swift-regeneration\" nexus=\"cosmererpg\">Swift Regeneration</tooltip> talent\n</p>\n<p chunk_id=\"83744ba1-d57b-4f78-a984-21c2acdcd8da\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"ffcb7781-1be3-40de-b518-e999af3c5088\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your Regrowth infusions expend Stormlight far less quickly.</em></p>\n</div>\n<p chunk_id=\"1211c305-fc4b-4584-aecf-953207f808c6\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you infuse Regrowth into a character, instead of the infusion expending 1 Investiture per round, it expends 1 Investiture per number of rounds equal to your ranks in Progression. For example, if you have 3 ranks in Progression, those infusions expend Investiture once every 3 rounds.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Extended Regrowth",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Your Regrowth infusions expend Stormlight far less quickly.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "extended-regrowth",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Progression",
+							"value": "progression"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"progression": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Swift Regeneration talent",
+								"value": "swift-regeneration",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"swift-regeneration"
+					],
+					"objectID": "106026",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"1430ca52-af42-41a0-a4e9-7aed3fe1df81\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"swift-regeneration\" nexus=\"cosmererpg\">Swift Regeneration</tooltip> talent\n</p>\n<p chunk_id=\"83744ba1-d57b-4f78-a984-21c2acdcd8da\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"ffcb7781-1be3-40de-b518-e999af3c5088\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your Regrowth infusions expend Stormlight far less quickly.</em></p>\n</div>\n<p chunk_id=\"1211c305-fc4b-4584-aecf-953207f808c6\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you infuse Regrowth into a character, instead of the infusion expending 1 Investiture per round, it expends 1 Investiture per number of rounds equal to your ranks in Progression. For example, if you have 3 ranks in Progression, those infusions expend Investiture once every 3 rounds.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Extended Regrowth",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Your Regrowth infusions expend Stormlight far less quickly.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"3056cab0-7d35-4882-bc7d-30c07c1318bb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"extended-regrowth\" nexus=\"cosmererpg\">Extended Regrowth</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"reliable-progression\" nexus=\"cosmererpg\">Reliable Progression</tooltip> talent</p>\n<p chunk_id=\"d07a10ae-11c1-480d-9268-993223c7ee69\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"52aa1d2a-2e8b-4fc6-b265-e350f7831553\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve grown so powerful that growth and healing flow from you with incredible speed.</em></p>\n</div>\n<p chunk_id=\"8e71b8d1-95a0-402a-a6ed-c8737cf75feb\" class=\"CORE-paragraph-styles_CORE-body\">It costs you one <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> fewer to use Progression and its talents.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Font of Life",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "It costs you one ▶ fewer to use Progression and its talents.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "font-of-life",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Progression",
+							"value": "progression"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"progression": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Extended Regrowth talent",
+									"value": "extended-regrowth",
+									"hardRule": true
+								},
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Reliable Progression talent",
+									"value": "reliable-progression",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"extended-regrowth",
+						"reliable-progression"
+					],
+					"objectID": "106031",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"3056cab0-7d35-4882-bc7d-30c07c1318bb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"extended-regrowth\" nexus=\"cosmererpg\">Extended Regrowth</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"reliable-progression\" nexus=\"cosmererpg\">Reliable Progression</tooltip> talent</p>\n<p chunk_id=\"d07a10ae-11c1-480d-9268-993223c7ee69\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"52aa1d2a-2e8b-4fc6-b265-e350f7831553\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve grown so powerful that growth and healing flow from you with incredible speed.</em></p>\n</div>\n<p chunk_id=\"8e71b8d1-95a0-402a-a6ed-c8737cf75feb\" class=\"CORE-paragraph-styles_CORE-body\">It costs you one <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> fewer to use Progression and its talents.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Font of Life",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "It costs you one ▶ fewer to use Progression and its talents.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"d5a06df8-aa23-4da6-9237-9eb385849966\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Progression 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"extended-regrowth\" nexus=\"cosmererpg\">Extended Regrowth</tooltip> talent</p>\n<p chunk_id=\"f2035335-5930-48f0-933b-3c1f685139ce\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Three Actions\" class=\"icon-font icon\" title=\"Three Actions\">3</span></p>\n<div chunk_id=\"93038bb9-64f6-4936-b010-36b8d823b4d9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You use Regrowth to pull someone back from the very edge of death.</em></p>\n</div>\n<p chunk_id=\"9bcda042-992e-44a7-b30f-59b769a539c3\" class=\"CORE-paragraph-styles_CORE-body\">Spend 3 Investiture and touch the body of a character who died within the last minute. If the target is willing, they return to life <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"unconscious\" nexus=\"cosmererpg\">Unconscious</tooltip> with 0 health.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "From the Brink",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You use Regrowth to pull someone back from the very edge of death.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "from-the-brink",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Progression",
+							"value": "progression"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"progression": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Progression 3+",
+									"value": "progression",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Extended Regrowth talent",
+									"value": "extended-regrowth",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 3,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"extended-regrowth"
+					],
+					"objectID": "106027",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"d5a06df8-aa23-4da6-9237-9eb385849966\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Progression 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"extended-regrowth\" nexus=\"cosmererpg\">Extended Regrowth</tooltip> talent</p>\n<p chunk_id=\"f2035335-5930-48f0-933b-3c1f685139ce\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Three Actions\" class=\"icon-font icon\" title=\"Three Actions\">3</span></p>\n<div chunk_id=\"93038bb9-64f6-4936-b010-36b8d823b4d9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You use Regrowth to pull someone back from the very edge of death.</em></p>\n</div>\n<p chunk_id=\"9bcda042-992e-44a7-b30f-59b769a539c3\" class=\"CORE-paragraph-styles_CORE-body\">Spend 3 Investiture and touch the body of a character who died within the last minute. If the target is willing, they return to life <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"unconscious\" nexus=\"cosmererpg\">Unconscious</tooltip> with 0 health.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "From the Brink",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You use Regrowth to pull someone back from the very edge of death.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"b66b9897-bb27-4823-8060-1ea290d8506d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"607f9450-58b7-4af9-8b06-a40aec98265a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"9fd0fc00-d327-4ad8-952d-8011fc0c7e1f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You use Regrowth to rapidly recover injuries, including permanent ones and missing body parts.</em></p>\n</div>\n<p chunk_id=\"04c29951-2492-4847-b271-e4032591d606\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">Spend 2 Investiture to cause yourself or a willing character you touch to instantly recover from a temporary injury of the target’s choice, or spend 3 Investiture to recover from a permanent <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"injuries\" nexus=\"cosmererpg\">injury</tooltip>.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Injury Regrowth",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You use Regrowth to rapidly recover injuries, including permanent ones and missing body parts.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "injury-regrowth",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Progression",
+							"value": "progression"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"progression": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Progression",
+									"value": "progression",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-edgedancer",
+						"first-ideal-truthwatcher"
+					],
+					"objectID": "106024",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"b66b9897-bb27-4823-8060-1ea290d8506d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"607f9450-58b7-4af9-8b06-a40aec98265a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"9fd0fc00-d327-4ad8-952d-8011fc0c7e1f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You use Regrowth to rapidly recover injuries, including permanent ones and missing body parts.</em></p>\n</div>\n<p chunk_id=\"04c29951-2492-4847-b271-e4032591d606\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">Spend 2 Investiture to cause yourself or a willing character you touch to instantly recover from a temporary injury of the target’s choice, or spend 3 Investiture to recover from a permanent <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"injuries\" nexus=\"cosmererpg\">injury</tooltip>.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Injury Regrowth",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You use Regrowth to rapidly recover injuries, including permanent ones and missing body parts.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"df8ee8e8-7834-4d78-867a-c11b269429d8\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"explosive-growth\" nexus=\"cosmererpg\">Explosive Growth</tooltip> talent\n</p>\n<p chunk_id=\"199536d2-d473-4c20-87e9-8250842a1b39\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"4bddbe27-4536-4d39-8b2c-758dbd86f7a7\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You persuade plants to grow beyond their normal size and shape.</em></p>\n</div>\n<p chunk_id=\"32ca4c7c-ee8d-444b-a23e-d856b5c3f0be\" class=\"CORE-paragraph-styles_CORE-body\">When you infuse Growth into a plant, you can make a DC 15 Progression test as part of that action. On a success, you cause the plant to grow beyond its species’ normal limits, up to the surge size for your ranks in Progression, and the plant’s current and total health increase by 2d4. The size of these dice increases with your ranks in Progression; at 2 ranks, roll 2d6 (instead of 2d4), and so on.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Overgrowth",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You persuade plants to grow beyond their normal size and shape.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "overgrowth",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Progression",
+							"value": "progression"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"progression": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Explosive Growth talent",
+									"value": "explosive-growth",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"explosive-growth"
+					],
+					"objectID": "106029",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"df8ee8e8-7834-4d78-867a-c11b269429d8\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"explosive-growth\" nexus=\"cosmererpg\">Explosive Growth</tooltip> talent\n</p>\n<p chunk_id=\"199536d2-d473-4c20-87e9-8250842a1b39\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"4bddbe27-4536-4d39-8b2c-758dbd86f7a7\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You persuade plants to grow beyond their normal size and shape.</em></p>\n</div>\n<p chunk_id=\"32ca4c7c-ee8d-444b-a23e-d856b5c3f0be\" class=\"CORE-paragraph-styles_CORE-body\">When you infuse Growth into a plant, you can make a DC 15 Progression test as part of that action. On a success, you cause the plant to grow beyond its species’ normal limits, up to the surge size for your ranks in Progression, and the plant’s current and total health increase by 2d4. The size of these dice increases with your ranks in Progression; at 2 ranks, roll 2d6 (instead of 2d4), and so on.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Overgrowth",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You persuade plants to grow beyond their normal size and shape.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"c3ba827b-536d-402b-9078-33bcdd4706f7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Progression 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"overgrowth\" nexus=\"cosmererpg\">Overgrowth</tooltip> talent</p>\n<p chunk_id=\"f7f18781-cc97-4454-a6e1-2f824f3bfeeb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"26aa2b50-7323-48ad-9151-cf4a8774ff62\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Through adept control of your Stormlight, your Growth and Regrowth become even more dependable.</em></p>\n</div>\n<p chunk_id=\"33eb788f-befd-454b-9f89-fc0bb50e7dce\" class=\"CORE-paragraph-styles_CORE-body\">When you roll a die whose size increases with your ranks in Progression (such as when using the <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"explosive-growth\" nexus=\"cosmererpg\">Explosive Growth</tooltip>, Overgrowth, and <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"swift-regeneration\" nexus=\"cosmererpg\">Swift Regeneration</tooltip> talents) or when a willing character rolls a die to recover health from your Regrowth, if the die rolls a number lower than your ranks in Progression, you can change that result to instead equal your ranks in Progression (no action required).</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Reliable Progression",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Through adept control of your Stormlight, your Growth and Regrowth become even more dependable.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "reliable-progression",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Progression",
+							"value": "progression"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"progression": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Progression 2+",
+									"value": "progression",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Overgrowth talent",
+									"value": "overgrowth",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"overgrowth"
+					],
+					"objectID": "106030",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"c3ba827b-536d-402b-9078-33bcdd4706f7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Progression 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"overgrowth\" nexus=\"cosmererpg\">Overgrowth</tooltip> talent</p>\n<p chunk_id=\"f7f18781-cc97-4454-a6e1-2f824f3bfeeb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"26aa2b50-7323-48ad-9151-cf4a8774ff62\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Through adept control of your Stormlight, your Growth and Regrowth become even more dependable.</em></p>\n</div>\n<p chunk_id=\"33eb788f-befd-454b-9f89-fc0bb50e7dce\" class=\"CORE-paragraph-styles_CORE-body\">When you roll a die whose size increases with your ranks in Progression (such as when using the <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"explosive-growth\" nexus=\"cosmererpg\">Explosive Growth</tooltip>, Overgrowth, and <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"swift-regeneration\" nexus=\"cosmererpg\">Swift Regeneration</tooltip> talents) or when a willing character rolls a die to recover health from your Regrowth, if the die rolls a number lower than your ranks in Progression, you can change that result to instead equal your ranks in Progression (no action required).</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Reliable Progression",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Through adept control of your Stormlight, your Growth and Regrowth become even more dependable.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"257b5197-33aa-4f69-80a2-d2068dd28a0a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Progression 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"injury-regrowth\" nexus=\"cosmererpg\">Injury Regrowth</tooltip> talent</p>\n<p chunk_id=\"e35cd227-8d92-490c-926f-c8bcd34b2bcc\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"9f269e94-6454-4fa7-b6e0-1c57505a0e09\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can heal yourself with greater efficiency and make those <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"surge-infusions-and-durations\" nexus=\"cosmererpg\">infused with</tooltip> your Regrowth more resistant to injury.</em></p>\n</div>\n<p chunk_id=\"519ff88d-b029-46c5-9e65-aeb4c2f6c439\" class=\"CORE-paragraph-styles_CORE-body\">When you use <tooltip category=\"action\" class=\"tooltip-convert\" element=\"regenerate\" nexus=\"cosmererpg\">Regenerate</tooltip>, instead of recovering the normal amount of health, you can recover health equal to 1d6 + your Progression modifier. The size of this die increases with your ranks in Progression: at 3 ranks, roll 1d8 (instead of 1d6), and so on.</p>\n<p chunk_id=\"0440f16a-0d92-465b-8566-23f33d60d540\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\">Additionally, while you have 1 Investiture or more, you and any character infused with your Regrowth can add your Progression modifier to injury rolls.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Swift Regeneration",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you use Regenerate, instead of recovering the normal amount of health, you can recover health equal to 1d6 + your Progression modifier.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "swift-regeneration",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Progression",
+							"value": "progression"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"progression": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Progression 2+",
+									"value": "progression",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Injury Regrowth talent",
+									"value": "injury-regrowth",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"injury-regrowth"
+					],
+					"objectID": "106025",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"257b5197-33aa-4f69-80a2-d2068dd28a0a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Progression 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"injury-regrowth\" nexus=\"cosmererpg\">Injury Regrowth</tooltip> talent</p>\n<p chunk_id=\"e35cd227-8d92-490c-926f-c8bcd34b2bcc\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"9f269e94-6454-4fa7-b6e0-1c57505a0e09\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can heal yourself with greater efficiency and make those <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"surge-infusions-and-durations\" nexus=\"cosmererpg\">infused with</tooltip> your Regrowth more resistant to injury.</em></p>\n</div>\n<p chunk_id=\"519ff88d-b029-46c5-9e65-aeb4c2f6c439\" class=\"CORE-paragraph-styles_CORE-body\">When you use <tooltip category=\"action\" class=\"tooltip-convert\" element=\"regenerate\" nexus=\"cosmererpg\">Regenerate</tooltip>, instead of recovering the normal amount of health, you can recover health equal to 1d6 + your Progression modifier. The size of this die increases with your ranks in Progression: at 3 ranks, roll 1d8 (instead of 1d6), and so on.</p>\n<p chunk_id=\"0440f16a-0d92-465b-8566-23f33d60d540\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\">Additionally, while you have 1 Investiture or more, you and any character infused with your Regrowth can add your Progression modifier to injury rolls.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Swift Regeneration",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you use Regenerate, instead of recovering the normal amount of health, you can recover health equal to 1d6 + your Progression modifier.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 8,
+			"nbSortedHits": 8,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=talentTrees.value%3A'progression'&hitsPerPage=25&page=0",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"roundTrip": 58
+				},
+				"total": 1
+			},
+			"serverTimeMS": 2
+		}
+	]
+}

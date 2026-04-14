@@ -1,0 +1,813 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"2fe8ec30-9e25-43c0-8c83-271a59b770d7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"34d0fb94-e028-41c4-9351-f035d69b49b2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"82fe0842-6753-40a6-bdfd-fd096ef40f13\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can see greater distances into Shadesmar, and you can use it to orient yourself.</em></p>\n</div>\n<p chunk_id=\"847c13e5-89c5-4f39-a575-cd1143e2b16c\" class=\"CORE-paragraph-styles_CORE-body\">When you peer into the Cognitive Realm with Transportation, you can spot things up to a distance equal to 3 × your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"spren\" nexus=\"cosmererpg\">spren</tooltip> bond range.</p>\n<p chunk_id=\"aaacbd5c-3fd2-4da4-9c8b-c38491e921b4\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, while you have 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> or more, you always know both which direction is north and which direction you must travel to reach the nearest settlement or gathering of people.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Cognitive Farsight",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you peer into the Cognitive Realm with Transportation, you can spot things up to a distance equal to 3 × your spren bond range.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "cognitive-farsight",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Transportation",
+							"value": "transportation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"transportation": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Transportation",
+									"value": "transportation",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-elsecaller",
+						"first-ideal-willshaper"
+					],
+					"objectID": "106045",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"2fe8ec30-9e25-43c0-8c83-271a59b770d7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"34d0fb94-e028-41c4-9351-f035d69b49b2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"82fe0842-6753-40a6-bdfd-fd096ef40f13\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can see greater distances into Shadesmar, and you can use it to orient yourself.</em></p>\n</div>\n<p chunk_id=\"847c13e5-89c5-4f39-a575-cd1143e2b16c\" class=\"CORE-paragraph-styles_CORE-body\">When you peer into the Cognitive Realm with Transportation, you can spot things up to a distance equal to 3 × your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"spren\" nexus=\"cosmererpg\">spren</tooltip> bond range.</p>\n<p chunk_id=\"aaacbd5c-3fd2-4da4-9c8b-c38491e921b4\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, while you have 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> or more, you always know both which direction is north and which direction you must travel to reach the nearest settlement or gathering of people.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Cognitive Farsight",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you peer into the Cognitive Realm with Transportation, you can spot things up to a distance equal to 3 × your spren bond range.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"41adef4b-f127-4715-800c-ee653755fc77\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"cognitive-farsight\" nexus=\"cosmererpg\">Cognitive Farsight</tooltip> talent</p>\n<p chunk_id=\"f3d0d805-3954-463b-95a6-2454d07c6d50\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"c11e1323-7300-4d3b-bd62-66c28a5ad6e4\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can glean even greater knowledge and spot even more hidden information when you peer into the Cognitive Realm.</em></p>\n</div>\n<p chunk_id=\"f3bc5ecc-82f3-473d-946e-3ed37007c01c\" class=\"CORE-paragraph-styles_CORE-body\">The following entries are added to the list of things you can spot when you use Transportation to look into the Cognitive Realm:</p>\n<p chunk_id=\"3caf0734-e912-4a54-8dcf-903d74c39d99\" class=\"hanging\"><strong><span class=\"color-span\">Learn Intent.</span></strong> Make a Transportation test as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> against the Cognitive defense of an enemy you can sense. On a success, you extrapolate their likely intentions based on the spren lurking around them, and you can share that information with your allies. That enemy gains a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> on their next test against you or one of your allies.</p>\n<p chunk_id=\"85dd8d83-566c-4af8-afaf-600017198bf4\" class=\"hanging\"><strong><span class=\"color-span\">Locate Objects.</span></strong> By briefly reaching into Shadesmar, you can examine the various soul beads and their relative locations in the bead ocean. This might reveal nearby objects or other information about your immediate environment, depending on which beads you touch.</p>\n<p chunk_id=\"2c504fff-6062-40f6-9b4d-c9c2e5d81937\" class=\"CORE-paragraph-styles_CORE-body\">As usual, spotting more difficult things might require a Transportation test at the GM’s discretion.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Cognitive Vision",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You can glean even greater knowledge and spot even more hidden information when you peer into the Cognitive Realm.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "cognitive-vision",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Transportation",
+							"value": "transportation"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"transportation": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Cognitive Farsight talent",
+								"value": "cognitive-farsight",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"cognitive-farsight"
+					],
+					"objectID": "106046",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"41adef4b-f127-4715-800c-ee653755fc77\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"cognitive-farsight\" nexus=\"cosmererpg\">Cognitive Farsight</tooltip> talent</p>\n<p chunk_id=\"f3d0d805-3954-463b-95a6-2454d07c6d50\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"c11e1323-7300-4d3b-bd62-66c28a5ad6e4\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can glean even greater knowledge and spot even more hidden information when you peer into the Cognitive Realm.</em></p>\n</div>\n<p chunk_id=\"f3bc5ecc-82f3-473d-946e-3ed37007c01c\" class=\"CORE-paragraph-styles_CORE-body\">The following entries are added to the list of things you can spot when you use Transportation to look into the Cognitive Realm:</p>\n<p chunk_id=\"3caf0734-e912-4a54-8dcf-903d74c39d99\" class=\"hanging\"><strong><span class=\"color-span\">Learn Intent.</span></strong> Make a Transportation test as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> against the Cognitive defense of an enemy you can sense. On a success, you extrapolate their likely intentions based on the spren lurking around them, and you can share that information with your allies. That enemy gains a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> on their next test against you or one of your allies.</p>\n<p chunk_id=\"85dd8d83-566c-4af8-afaf-600017198bf4\" class=\"hanging\"><strong><span class=\"color-span\">Locate Objects.</span></strong> By briefly reaching into Shadesmar, you can examine the various soul beads and their relative locations in the bead ocean. This might reveal nearby objects or other information about your immediate environment, depending on which beads you touch.</p>\n<p chunk_id=\"2c504fff-6062-40f6-9b4d-c9c2e5d81937\" class=\"CORE-paragraph-styles_CORE-body\">As usual, spotting more difficult things might require a Transportation test at the GM’s discretion.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Cognitive Vision",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You can glean even greater knowledge and spot even more hidden information when you peer into the Cognitive Realm.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"50738183-9d1c-403e-b30f-28c6f3f585a5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the Third Ideal; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"realmic-step\" nexus=\"cosmererpg\">Realmic Step</tooltip> talent</p>\n<p chunk_id=\"97963aff-7a95-426a-9060-c03e62079e14\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"3b34c28a-1975-4479-8027-c12e8e2201b1\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You temporarily open a miniature perpendicularity that allows you to travel between the Cognitive and Physical Realms.</em></p>\n</div>\n<p chunk_id=\"95cbe51a-0186-4d60-9718-8f4ecacb8a0d\" class=\"CORE-paragraph-styles_CORE-body\">You can transport yourself from the Physical Realm to the same location within the Cognitive Realm, or vice versa, along with each object you’re wearing or carrying. This movement doesn’t trigger <tooltip category=\"action\" class=\"tooltip-convert\" element=\"reactive-strike\" nexus=\"cosmererpg\">Reactive Strikes</tooltip>.</p>\n<p chunk_id=\"39c5a8b9-c981-4afb-8804-e7ebdf30a62a\" class=\"CORE-paragraph-styles_CORE-body\"> If you’re in the Physical Realm, spend 1 Investiture to transport yourself to the Cognitive Realm. Elsecalling in this way is simple, requiring no <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">skill test</tooltip>.</p>\n<p chunk_id=\"1dd4ed81-581d-4aec-b6d0-ee6cdc354177\" class=\"CORE-paragraph-styles_CORE-body\">If you’re in the Cognitive Realm, make a DC 20 Transportation test. On a success, spend 2 Investiture to transport yourself to the Physical Realm. On a failure, you don’t spend Investiture or transport yourself; on a later turn, you can attempt to Elsecall again.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Elsecalling",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You can transport yourself from the Physical Realm to the same location within the Cognitive Realm, or vice versa.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "elsecalling",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Transportation",
+							"value": "transportation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"transportation": [
+							[
+								{
+									"rank": null,
+									"type": "goal",
+									"label": "Speak the Third Ideal (Elsecaller)",
+									"value": "speak-the-third-ideal-elsecaller",
+									"hardRule": true
+								},
+								{
+									"rank": null,
+									"type": "goal",
+									"label": "Speak the Third Ideal (Willshaper)",
+									"value": "speak-the-third-ideal-willshaper",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Realmic Step talent",
+									"value": "realmic-step",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"realmic-step"
+					],
+					"objectID": "106051",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"50738183-9d1c-403e-b30f-28c6f3f585a5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the Third Ideal; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"realmic-step\" nexus=\"cosmererpg\">Realmic Step</tooltip> talent</p>\n<p chunk_id=\"97963aff-7a95-426a-9060-c03e62079e14\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"3b34c28a-1975-4479-8027-c12e8e2201b1\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You temporarily open a miniature perpendicularity that allows you to travel between the Cognitive and Physical Realms.</em></p>\n</div>\n<p chunk_id=\"95cbe51a-0186-4d60-9718-8f4ecacb8a0d\" class=\"CORE-paragraph-styles_CORE-body\">You can transport yourself from the Physical Realm to the same location within the Cognitive Realm, or vice versa, along with each object you’re wearing or carrying. This movement doesn’t trigger <tooltip category=\"action\" class=\"tooltip-convert\" element=\"reactive-strike\" nexus=\"cosmererpg\">Reactive Strikes</tooltip>.</p>\n<p chunk_id=\"39c5a8b9-c981-4afb-8804-e7ebdf30a62a\" class=\"CORE-paragraph-styles_CORE-body\"> If you’re in the Physical Realm, spend 1 Investiture to transport yourself to the Cognitive Realm. Elsecalling in this way is simple, requiring no <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">skill test</tooltip>.</p>\n<p chunk_id=\"1dd4ed81-581d-4aec-b6d0-ee6cdc354177\" class=\"CORE-paragraph-styles_CORE-body\">If you’re in the Cognitive Realm, make a DC 20 Transportation test. On a success, spend 2 Investiture to transport yourself to the Physical Realm. On a failure, you don’t spend Investiture or transport yourself; on a later turn, you can attempt to Elsecall again.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Elsecalling",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You can transport yourself from the Physical Realm to the same location within the Cognitive Realm, or vice versa.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"b545efdc-d862-4816-9fad-ae63b4287cb0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the Fourth Ideal; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"shared-transportation\" nexus=\"cosmererpg\">Shared Transportation</tooltip> talent</p>\n<p chunk_id=\"cd03abda-9769-40ee-99c0-43222b3e9ce7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"36d678fb-dcb5-4ec1-9fd3-63afe885eb64\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can create more stable perpendicularities that allow you to transport yourself and others to highly Invested locations, even across a significant distance.</em></p>\n</div>\n<p chunk_id=\"fa23abcd-7395-4dd4-b568-6dfe9c8cc8da\" class=\"CORE-paragraph-styles_CORE-body\">After a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"long-rest\" nexus=\"cosmererpg\">long rest</tooltip>, you can instantly transport yourself and up to ten more willing characters, along with each object the targets are wearing or carrying. Choose an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"oathgate\" nexus=\"cosmererpg\">Oathgate</tooltip> platform or permanent perpendicularity you’ve visited before. After spending Investiture as described below, you and the other targets are transported to that destination.</p>\n<p chunk_id=\"f594d25b-e57d-4acd-ace6-b0f172f726aa\" class=\"CORE-paragraph-styles_CORE-body\"> This Transportation requires significant Investiture; you must have infused <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"spheres\" nexus=\"cosmererpg\">spheres</tooltip> worth twice as many marks as the number of characters you’re transporting, and when you arrive, those spheres all become dun.</p>\n<p chunk_id=\"3c0f9a1a-024d-4bca-9014-7875b7ed383b\" class=\"CORE-paragraph-styles_CORE-body\">At the GM’s discretion, you might be able to choose other destinations that are highly Invested locations you’ve visited before.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Elsegate",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After a long rest, you can instantly transport yourself and up to ten more willing characters, along with each object the targets are wearing or carrying.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "elsegate",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Transportation",
+							"value": "transportation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"transportation": [
+							[
+								{
+									"rank": null,
+									"type": "goal",
+									"label": "Speak the Fourth Ideal (Elsecaller)",
+									"value": "speak-the-fourth-ideal-elsecaller",
+									"hardRule": true
+								},
+								{
+									"rank": null,
+									"type": "goal",
+									"label": "Speak the Fourth Ideal (Willshaper)",
+									"value": "speak-the-fourth-ideal-willshaper",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Shared Transportation talent",
+									"value": "shared-transportation",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"shared-transportation"
+					],
+					"objectID": "106048",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"b545efdc-d862-4816-9fad-ae63b4287cb0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the Fourth Ideal; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"shared-transportation\" nexus=\"cosmererpg\">Shared Transportation</tooltip> talent</p>\n<p chunk_id=\"cd03abda-9769-40ee-99c0-43222b3e9ce7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"36d678fb-dcb5-4ec1-9fd3-63afe885eb64\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can create more stable perpendicularities that allow you to transport yourself and others to highly Invested locations, even across a significant distance.</em></p>\n</div>\n<p chunk_id=\"fa23abcd-7395-4dd4-b568-6dfe9c8cc8da\" class=\"CORE-paragraph-styles_CORE-body\">After a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"long-rest\" nexus=\"cosmererpg\">long rest</tooltip>, you can instantly transport yourself and up to ten more willing characters, along with each object the targets are wearing or carrying. Choose an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"oathgate\" nexus=\"cosmererpg\">Oathgate</tooltip> platform or permanent perpendicularity you’ve visited before. After spending Investiture as described below, you and the other targets are transported to that destination.</p>\n<p chunk_id=\"f594d25b-e57d-4acd-ace6-b0f172f726aa\" class=\"CORE-paragraph-styles_CORE-body\"> This Transportation requires significant Investiture; you must have infused <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"spheres\" nexus=\"cosmererpg\">spheres</tooltip> worth twice as many marks as the number of characters you’re transporting, and when you arrive, those spheres all become dun.</p>\n<p chunk_id=\"3c0f9a1a-024d-4bca-9014-7875b7ed383b\" class=\"CORE-paragraph-styles_CORE-body\">At the GM’s discretion, you might be able to choose other destinations that are highly Invested locations you’ve visited before.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Elsegate",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After a long rest, you can instantly transport yourself and up to ten more willing characters, along with each object the targets are wearing or carrying.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"249a8aeb-467f-401e-abad-972fdd2c4a83\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the Second Ideal</p>\n<p chunk_id=\"5b6f4fd7-13ba-42d1-acc0-0e6203cc3f62\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">↻</span></p>\n<div chunk_id=\"361c1e8a-9417-48fe-bd00-0140c7a103d7\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You dodge danger, momentarily transporting yourself between the Physical and Cognitive Realms, then return after the danger has passed.</em></p>\n</div>\n<p chunk_id=\"7f7c9295-0160-425a-b56f-14cecd174c53\" class=\"CORE-paragraph-styles_CORE-body\">Before you’re hit by an attack, you can use this <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reactions\" nexus=\"cosmererpg\">reaction</tooltip> and spend 1 Investiture to make a Transportation test. The DC of this test equals the triggering attack’s test result; you can choose whether to use this reaction after you learn the DC. On a failure, the attack <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">grazes</tooltip> instead of hitting. On a success, the attack instead misses and can’t graze.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Realmic Evasion",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Before you’re hit by an attack, you can use this reaction and spend 1 Investiture to make a Transportation test.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "realmic-evasion",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Transportation",
+							"value": "transportation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"transportation": [
+							[
+								{
+									"rank": null,
+									"type": "goal",
+									"label": "Speak the Second Ideal (Elsecaller)",
+									"value": "speak-the-second-ideal-elsecaller",
+									"hardRule": true
+								},
+								{
+									"rank": null,
+									"type": "goal",
+									"label": "Speak the Second Ideal (Willshaper)",
+									"value": "speak-the-second-ideal-willshaper",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": "",
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Reaction",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-elsecaller",
+						"first-ideal-willshaper"
+					],
+					"objectID": "106049",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"249a8aeb-467f-401e-abad-972fdd2c4a83\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the Second Ideal</p>\n<p chunk_id=\"5b6f4fd7-13ba-42d1-acc0-0e6203cc3f62\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">↻</span></p>\n<div chunk_id=\"361c1e8a-9417-48fe-bd00-0140c7a103d7\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You dodge danger, momentarily transporting yourself between the Physical and Cognitive Realms, then return after the danger has passed.</em></p>\n</div>\n<p chunk_id=\"7f7c9295-0160-425a-b56f-14cecd174c53\" class=\"CORE-paragraph-styles_CORE-body\">Before you’re hit by an attack, you can use this <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reactions\" nexus=\"cosmererpg\">reaction</tooltip> and spend 1 Investiture to make a Transportation test. The DC of this test equals the triggering attack’s test result; you can choose whether to use this reaction after you learn the DC. On a failure, the attack <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">grazes</tooltip> instead of hitting. On a success, the attack instead misses and can’t graze.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Realmic Evasion",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Before you’re hit by an attack, you can use this reaction and spend 1 Investiture to make a Transportation test.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"caf78dad-5174-420f-a2a0-31b490138c25\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"realmic-evasion\" nexus=\"cosmererpg\">Realmic Evasion</tooltip> talent</p>\n<p chunk_id=\"029a743f-67cd-4998-a5ae-6f4d660add60\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"197e6e34-4d16-4c73-90ff-5181a95f6dc6\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You briefly slip into the Cognitive Realm, run a short distance there, then reappear in the Physical Realm.</em></p>\n</div>\n<p chunk_id=\"3534474f-512e-4ddf-92b1-096496595ebc\" class=\"CORE-paragraph-styles_CORE-body\">Make a DC 15 Transportation test. On a success, spend 2 Investiture to move through Shadesmar (along with each object you’re wearing or carrying), transporting yourself to an unoccupied space you can sense within your spren bond range. This movement doesn’t trigger <tooltip category=\"action\" class=\"tooltip-convert\" element=\"reactive-strike\" nexus=\"cosmererpg\">Reactive Strikes</tooltip>.</p>\n<p chunk_id=\"dc8053e5-dabe-4f4d-b048-2aab2454f4f8\" class=\"CORE-paragraph-styles_CORE-body\">If you are on or above a large body of water, using this talent only costs 1 Investiture, as you don't have to shape the sea of beads beneath yourself to move around.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Realmic Step",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Make a DC 15 Transportation test. On a success, spend 2 Investiture to move through Shadesmar.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "realmic-step",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Transportation",
+							"value": "transportation"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"transportation": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Realmic Evasion talent",
+								"value": "realmic-evasion",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"realmic-evasion"
+					],
+					"objectID": "106050",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"caf78dad-5174-420f-a2a0-31b490138c25\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"realmic-evasion\" nexus=\"cosmererpg\">Realmic Evasion</tooltip> talent</p>\n<p chunk_id=\"029a743f-67cd-4998-a5ae-6f4d660add60\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"197e6e34-4d16-4c73-90ff-5181a95f6dc6\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You briefly slip into the Cognitive Realm, run a short distance there, then reappear in the Physical Realm.</em></p>\n</div>\n<p chunk_id=\"3534474f-512e-4ddf-92b1-096496595ebc\" class=\"CORE-paragraph-styles_CORE-body\">Make a DC 15 Transportation test. On a success, spend 2 Investiture to move through Shadesmar (along with each object you’re wearing or carrying), transporting yourself to an unoccupied space you can sense within your spren bond range. This movement doesn’t trigger <tooltip category=\"action\" class=\"tooltip-convert\" element=\"reactive-strike\" nexus=\"cosmererpg\">Reactive Strikes</tooltip>.</p>\n<p chunk_id=\"dc8053e5-dabe-4f4d-b048-2aab2454f4f8\" class=\"CORE-paragraph-styles_CORE-body\">If you are on or above a large body of water, using this talent only costs 1 Investiture, as you don't have to shape the sea of beads beneath yourself to move around.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Realmic Step",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Make a DC 15 Transportation test. On a success, spend 2 Investiture to move through Shadesmar.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"896b4e8d-73d0-48aa-9ef7-bb2fc982a793\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"elsecalling\" nexus=\"cosmererpg\">Elsecalling</tooltip> talent</p>\n<p chunk_id=\"71244305-c06c-48c4-84d3-76069c334480\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"920e4009-b5c2-4d49-ac92-ff2a508b3c55\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You effortlessly step between the Cognitive and Physical Realms.</em></p>\n</div>\n<p chunk_id=\"534c173b-0e2b-4f37-996e-b7772715adaa\" class=\"CORE-paragraph-styles_CORE-body\">When you make a Transportation test to use a Transportation talent, you automatically succeed.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Realmwalker",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you make a Transportation test to use a Transportation talent, you automatically succeed.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "realmwalker",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Transportation",
+							"value": "transportation"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"transportation": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Elsecalling talent",
+								"value": "elsecalling",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"elsecalling"
+					],
+					"objectID": "106052",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"896b4e8d-73d0-48aa-9ef7-bb2fc982a793\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"elsecalling\" nexus=\"cosmererpg\">Elsecalling</tooltip> talent</p>\n<p chunk_id=\"71244305-c06c-48c4-84d3-76069c334480\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"920e4009-b5c2-4d49-ac92-ff2a508b3c55\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You effortlessly step between the Cognitive and Physical Realms.</em></p>\n</div>\n<p chunk_id=\"534c173b-0e2b-4f37-996e-b7772715adaa\" class=\"CORE-paragraph-styles_CORE-body\">When you make a Transportation test to use a Transportation talent, you automatically succeed.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Realmwalker",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you make a Transportation test to use a Transportation talent, you automatically succeed.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"d846861a-edf2-4abf-af34-3fc12e320f73\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Transportation 4+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"elsecalling\" nexus=\"cosmererpg\">Elsecalling</tooltip> talent</p>\n<p chunk_id=\"c5028be0-62ff-457d-9c89-b8a0f0248d82\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"ce37520a-ff9a-4f17-8aad-82d0c949614f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can keep your miniature perpendicularities open long enough to bring others along.</em></p>\n</div>\n<p chunk_id=\"66b4480e-2b99-4708-ba5d-4952407bbd75\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you move yourself through Shadesmar with your Elsecalling or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"realmic-step\" nexus=\"cosmererpg\">Realmic Step</tooltip> talent, you can spend additional Investiture to also transport willing characters within your reach, along with everything they’re wearing or carrying. Spend 1 Investiture per additional character you choose to transport.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Shared Transportation",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you move yourself through Shadesmar, you can spend additional Investiture to also transport willing characters within your reach.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "shared-transportation",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Elsecaller",
+							"value": "elsecaller"
+						},
+						{
+							"name": "Willshaper",
+							"value": "willshaper"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Transportation",
+							"value": "transportation"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"transportation": [
+							[
+								{
+									"rank": 4,
+									"type": "skill",
+									"label": "Transportation 4+",
+									"value": "transportation",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Elsecalling talent",
+									"value": "elsecalling",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"elsecalling"
+					],
+					"objectID": "106047",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"d846861a-edf2-4abf-af34-3fc12e320f73\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Transportation 4+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"elsecalling\" nexus=\"cosmererpg\">Elsecalling</tooltip> talent</p>\n<p chunk_id=\"c5028be0-62ff-457d-9c89-b8a0f0248d82\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"ce37520a-ff9a-4f17-8aad-82d0c949614f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can keep your miniature perpendicularities open long enough to bring others along.</em></p>\n</div>\n<p chunk_id=\"66b4480e-2b99-4708-ba5d-4952407bbd75\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you move yourself through Shadesmar with your Elsecalling or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"realmic-step\" nexus=\"cosmererpg\">Realmic Step</tooltip> talent, you can spend additional Investiture to also transport willing characters within your reach, along with everything they’re wearing or carrying. Spend 1 Investiture per additional character you choose to transport.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Shared Transportation",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you move yourself through Shadesmar, you can spend additional Investiture to also transport willing characters within your reach.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 8,
+			"nbSortedHits": 8,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=talentTrees.value%3A'transportation'&hitsPerPage=25&page=0",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"roundTrip": 60
+				},
+				"afterFetch": {
+					"format": {
+						"highlighting": 1,
+						"total": 1
+					}
+				},
+				"getIdx": {
+					"total": 1
+				},
+				"total": 1
+			},
+			"serverTimeMS": 3
+		}
+	]
+}

@@ -1,0 +1,2600 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"5fe47397-fe61-4559-8fde-496f92fcab77\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"mighty\" nexus=\"cosmererpg\">Mighty</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"shard-training\" nexus=\"cosmererpg\">Shard Training</tooltip> talent\n</p>\n<p chunk_id=\"b1643cd0-b454-48ba-97a6-b36678a7c979\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"6709a255-6669-45d5-a8ea-e86c72c78112\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You assume a reckless, violent stance that trades defense for deadly power.</em></p>\n</div>\n<p chunk_id=\"a94b35ca-1f41-4f1d-ae36-e976be64d97c\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you learn a new stance, which you can enter as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>:</p>\n<p chunk_id=\"d3d853c7-40d4-4d88-ac61-63703c0ad338\" class=\"hanging\"><strong><span class=\"color-span\">Bloodstance.</span></strong> While in this stance, your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"range\" nexus=\"cosmererpg\">range</tooltip> for <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attack-test\" nexus=\"cosmererpg\">attack tests</tooltip> and physical tests expands by 2, but your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">Physical, Cognitive, and Spiritual</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> decrease by 2.\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Bloodstance",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While in this stance, your Opportunity range for attack tests and physical tests expands by 2, but your Physical, Cognitive, and Spiritual defenses decrease by 2.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "bloodstance",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Shardbearer",
+							"value": "shardbearer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"shardbearer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Shard Training talent",
+									"value": "shard-training",
+									"hardRule": true
+								},
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Mighty talent",
+									"value": "mighty",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Athletics 2+",
+									"value": "athletics",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"mighty",
+						"shard-training"
+					],
+					"objectID": "105985",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"5fe47397-fe61-4559-8fde-496f92fcab77\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"mighty\" nexus=\"cosmererpg\">Mighty</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"shard-training\" nexus=\"cosmererpg\">Shard Training</tooltip> talent\n</p>\n<p chunk_id=\"b1643cd0-b454-48ba-97a6-b36678a7c979\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"6709a255-6669-45d5-a8ea-e86c72c78112\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You assume a reckless, violent stance that trades defense for deadly power.</em></p>\n</div>\n<p chunk_id=\"a94b35ca-1f41-4f1d-ae36-e976be64d97c\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you learn a new stance, which you can enter as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>:</p>\n<p chunk_id=\"d3d853c7-40d4-4d88-ac61-63703c0ad338\" class=\"hanging\"><strong><span class=\"color-span\">Bloodstance.</span></strong> While in this stance, your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"range\" nexus=\"cosmererpg\">range</tooltip> for <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attack-test\" nexus=\"cosmererpg\">attack tests</tooltip> and physical tests expands by 2, but your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">Physical, Cognitive, and Spiritual</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> decrease by 2.\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Bloodstance",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While in this stance, your Opportunity range for attack tests and physical tests expands by 2, but your Physical, Cognitive, and Spiritual defenses decrease by 2.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"062fb232-cf2b-4b59-819f-46260b150b24\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"vigilant-stance\" nexus=\"cosmererpg\">Vigilant Stance</tooltip> key talent\n</p>\n<p chunk_id=\"306c8c64-ef06-427e-add2-193a49f8b70e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"166ecc08-63a5-4671-9d71-3300b33241fc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You understand the hazards in your environment and the flow of battle, helping you find the safest path across the battlefield.</em></p>\n</div>\n<p chunk_id=\"9b83875a-4ea3-4039-83d9-396f7fae6857\" class=\"CORE-paragraph-styles_CORE-body\">Move up to half your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"movement-rate\" nexus=\"cosmererpg\">movement rate</tooltip>, ignoring <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"difficult-terrain\" nexus=\"cosmererpg\">difficult terrain</tooltip>, then gain <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span> that can be spent only on the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"brace\" nexus=\"cosmererpg\">Brace</tooltip> or <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">actions</tooltip>.\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Cautious Advance",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Move up to half your movement rate, ignoring difficult terrain, then gain ▶▶ that can be spent only on the Brace or Gain Advantage actions.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "cautious-advance",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Soldier",
+							"value": "soldier"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"soldier": [
+							[
+								{
+									"rank": 1,
+									"type": "skill",
+									"label": "Discipline 1+",
+									"value": "discipline",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Vigilant Stance key talent",
+									"value": "vigilant-stance",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"vigilant-stance"
+					],
+					"objectID": "105988",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"062fb232-cf2b-4b59-819f-46260b150b24\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"vigilant-stance\" nexus=\"cosmererpg\">Vigilant Stance</tooltip> key talent\n</p>\n<p chunk_id=\"306c8c64-ef06-427e-add2-193a49f8b70e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"166ecc08-63a5-4671-9d71-3300b33241fc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You understand the hazards in your environment and the flow of battle, helping you find the safest path across the battlefield.</em></p>\n</div>\n<p chunk_id=\"9b83875a-4ea3-4039-83d9-396f7fae6857\" class=\"CORE-paragraph-styles_CORE-body\">Move up to half your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"movement-rate\" nexus=\"cosmererpg\">movement rate</tooltip>, ignoring <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"difficult-terrain\" nexus=\"cosmererpg\">difficult terrain</tooltip>, then gain <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span> that can be spent only on the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"brace\" nexus=\"cosmererpg\">Brace</tooltip> or <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">actions</tooltip>.\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Cautious Advance",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Move up to half your movement rate, ignoring difficult terrain, then gain ▶▶ that can be spent only on the Brace or Gain Advantage actions.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"92c76a7b-f128-4819-a1e9-429bb9a4afe0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Varies</p>\n<p chunk_id=\"186ddb4a-5b26-492e-81b6-172f295413ef\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"c333e417-e1b9-4ee2-b68d-7a06d14b24e1\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve been trained in the basics of weaponry and elementary battle tactics.</em></p>\n</div>\n<p chunk_id=\"f4776d99-4654-426a-8266-c2221eb3dd68\" class=\"CORE-paragraph-styles_CORE-body\">Once per <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">round</tooltip>, when you miss on a weapon <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip>, you can <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip> one target without spending <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>.</p>\n<p chunk_id=\"50daa91d-3a06-4b5c-9eef-487d0c01252b\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, gain a weapon <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"expertises\" nexus=\"cosmererpg\">expertise</tooltip> and an armor expertise of your choice, and gain a cultural expertise in Military Life.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Combat Training",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-starter-rules",
+					"shortDescription": "Once per round, when you miss on a weapon attack, you can graze one target without spending focus.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "combat-training",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						},
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Archer",
+							"value": "archer"
+						},
+						{
+							"name": "Soldier",
+							"value": "soldier"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"archer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Seek Quarry key talent",
+									"value": "seek-quarry",
+									"hardRule": true
+								}
+							]
+						],
+						"soldier": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Vigliant Stance key talent",
+									"value": "vigilant-stance",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"seek-quarry",
+						"vigilant-stance"
+					],
+					"objectID": "105911",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"92c76a7b-f128-4819-a1e9-429bb9a4afe0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Varies</p>\n<p chunk_id=\"186ddb4a-5b26-492e-81b6-172f295413ef\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"c333e417-e1b9-4ee2-b68d-7a06d14b24e1\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve been trained in the basics of weaponry and elementary battle tactics.</em></p>\n</div>\n<p chunk_id=\"f4776d99-4654-426a-8266-c2221eb3dd68\" class=\"CORE-paragraph-styles_CORE-body\">Once per <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">round</tooltip>, when you miss on a weapon <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip>, you can <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip> one target without spending <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>.</p>\n<p chunk_id=\"50daa91d-3a06-4b5c-9eef-487d0c01252b\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, gain a weapon <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"expertises\" nexus=\"cosmererpg\">expertise</tooltip> and an armor expertise of your choice, and gain a cultural expertise in Military Life.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Combat Training",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Once per round, when you miss on a weapon attack, you can graze one target without spending focus.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"e878735c-19dc-4025-a656-828e2d4a7149\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"cautious-advance\" nexus=\"cosmererpg\">Cautious Advance</tooltip> talent\n</p>\n<p chunk_id=\"61d821bf-c908-49fe-8e68-3f6318de1de3\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"e7a0b788-e764-4b81-a773-ce31ea04acdd\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve learned when to withdraw and when to commit to a position, holding it unflinchingly.</em></p>\n</div>\n<p chunk_id=\"9124ffcd-44cc-4cc6-bb5f-1af6fee3731b\" class=\"CORE-paragraph-styles_CORE-body\">The <tooltip category=\"action\" class=\"tooltip-convert\" element=\"brace\" nexus=\"cosmererpg\">Brace</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">action</tooltip> adds two <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantages</tooltip> to attacks against you, instead of one.\n</p>\n<p chunk_id=\"9b1b9ccb-f323-4f21-bafe-6bd974419d74\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, while you’re using a shield to Brace, allies within 5 feet of you can Brace as if they had <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"cover\" nexus=\"cosmererpg\">cover</tooltip> or a shield.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Defensive Position",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "The Brace action adds two disadvantages to attacks against you, instead of one. Additionally, while you’re using a shield to Brace, allies within 5 feet of you can Brace as if they had cover or a shield.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "defensive-position",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Soldier",
+							"value": "soldier"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"soldier": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Athletics 2+",
+									"value": "athletics",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cautious Advance talent",
+									"value": "cautious-advance",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"cautious-advance"
+					],
+					"objectID": "105989",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"e878735c-19dc-4025-a656-828e2d4a7149\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"cautious-advance\" nexus=\"cosmererpg\">Cautious Advance</tooltip> talent\n</p>\n<p chunk_id=\"61d821bf-c908-49fe-8e68-3f6318de1de3\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"e7a0b788-e764-4b81-a773-ce31ea04acdd\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve learned when to withdraw and when to commit to a position, holding it unflinchingly.</em></p>\n</div>\n<p chunk_id=\"9124ffcd-44cc-4cc6-bb5f-1af6fee3731b\" class=\"CORE-paragraph-styles_CORE-body\">The <tooltip category=\"action\" class=\"tooltip-convert\" element=\"brace\" nexus=\"cosmererpg\">Brace</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">action</tooltip> adds two <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantages</tooltip> to attacks against you, instead of one.\n</p>\n<p chunk_id=\"9b1b9ccb-f323-4f21-bafe-6bd974419d74\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, while you’re using a shield to Brace, allies within 5 feet of you can Brace as if they had <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"cover\" nexus=\"cosmererpg\">cover</tooltip> or a shield.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Defensive Position",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "The Brace action adds two disadvantages to attacks against you, instead of one. Additionally, while you’re using a shield to Brace, allies within 5 feet of you can Brace as if they had cover or a shield.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"6b636e43-e77a-423f-b429-6080459b9483\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"combat-training\" nexus=\"cosmererpg\">Combat Training</tooltip> talent\n</p>\n<p chunk_id=\"7e386166-8486-44c3-a6ea-65385c54c7ab\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"109d1554-68ed-4bb9-ac98-4289b60271ed\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Delivering a fatal strike requires not only skill, but resolve. You’ve learned to set aside any natural aversion to harming others, and when you strike to kill, you do so without mercy or hesitation.</em></p>\n</div>\n<p chunk_id=\"4e3a34ac-e8b6-4b30-b5b2-fb5a0bc96a9b\" class=\"CORE-paragraph-styles_CORE-body\">Make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-weapons\" nexus=\"cosmererpg\">melee weapon</tooltip> attack against the Physical <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> of a target. When you roll <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> for this attack, add an extra 2d8 damage.</p>\n<p chunk_id=\"baac3182-caec-4423-a357-cd65bcff7356\" class=\"CORE-paragraph-styles_CORE-body\"> This talent becomes more powerful as your tier increases: at tier 3, you roll an extra 3d8 damage (instead of 2d8); at tier 4, you instead roll an extra 4d8 damage; and at tier 5, you instead roll an extra 5d8 damage.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Devastating Blow",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Make a melee weapon attack against the Physical defense of a target.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "devastating-blow",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Soldier",
+							"value": "soldier"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"soldier": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Athletics 3+",
+									"value": "athletics",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Combat Training talent",
+									"value": "combat-training",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"combat-training"
+					],
+					"objectID": "105990",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"6b636e43-e77a-423f-b429-6080459b9483\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"combat-training\" nexus=\"cosmererpg\">Combat Training</tooltip> talent\n</p>\n<p chunk_id=\"7e386166-8486-44c3-a6ea-65385c54c7ab\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"109d1554-68ed-4bb9-ac98-4289b60271ed\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Delivering a fatal strike requires not only skill, but resolve. You’ve learned to set aside any natural aversion to harming others, and when you strike to kill, you do so without mercy or hesitation.</em></p>\n</div>\n<p chunk_id=\"4e3a34ac-e8b6-4b30-b5b2-fb5a0bc96a9b\" class=\"CORE-paragraph-styles_CORE-body\">Make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-weapons\" nexus=\"cosmererpg\">melee weapon</tooltip> attack against the Physical <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> of a target. When you roll <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> for this attack, add an extra 2d8 damage.</p>\n<p chunk_id=\"baac3182-caec-4423-a357-cd65bcff7356\" class=\"CORE-paragraph-styles_CORE-body\"> This talent becomes more powerful as your tier increases: at tier 3, you roll an extra 3d8 damage (instead of 2d8); at tier 4, you instead roll an extra 4d8 damage; and at tier 5, you instead roll an extra 5d8 damage.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Devastating Blow",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Make a melee weapon attack against the Physical defense of a target.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"730d72ac-c969-4e98-a56e-0b9e769939fb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"intimidation\" nexus=\"cosmererpg\">Intimidation</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"flamestance\" nexus=\"cosmererpg\">Flamestance</tooltip> talent\n</p>\n<p chunk_id=\"09574fdc-7648-4c5e-855a-00f89e1a47ea\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"fe5919c7-fed5-45d8-8b36-c30e2548210f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You intimidatingly press your opponent’s defenses—and their nerves—hoping to expose a fatal gap.</em></p>\n</div>\n<p chunk_id=\"eea9dec4-582c-4697-a3aa-f5bbb81d8a72\" class=\"CORE-paragraph-styles_CORE-body\">Spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-weapons\" nexus=\"cosmererpg\">melee weapon</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip> against a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target's</tooltip> Cognitive <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip>. On a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>, your target also loses one <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span> and loses focus equal to your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"intimidation\" nexus=\"cosmererpg\">Intimidation</tooltip>. On a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip>, they lose half as much focus (rounded up) and don’t lose <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span>.\n</p>\n<p chunk_id=\"c569e504-42d5-49d7-8afd-83a5162d5372\" class=\"CORE-paragraph-styles_CORE-body\"> You can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> from this test to gain <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span>, which you can use only to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> or activate a stance.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Feinting Strike",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 2 focus to make a melee weapon attack against a target's Cognitive defense.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "feinting-strike",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Duelist",
+							"value": "duelist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"duelist": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Intimidation 2+",
+									"value": "intimidation",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Flamestance talent ",
+									"value": "flamestance",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": 2,
+						"costLabel": "Focus",
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"flamestance"
+					],
+					"objectID": "105978",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"730d72ac-c969-4e98-a56e-0b9e769939fb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"intimidation\" nexus=\"cosmererpg\">Intimidation</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"flamestance\" nexus=\"cosmererpg\">Flamestance</tooltip> talent\n</p>\n<p chunk_id=\"09574fdc-7648-4c5e-855a-00f89e1a47ea\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"fe5919c7-fed5-45d8-8b36-c30e2548210f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You intimidatingly press your opponent’s defenses—and their nerves—hoping to expose a fatal gap.</em></p>\n</div>\n<p chunk_id=\"eea9dec4-582c-4697-a3aa-f5bbb81d8a72\" class=\"CORE-paragraph-styles_CORE-body\">Spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-weapons\" nexus=\"cosmererpg\">melee weapon</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip> against a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target's</tooltip> Cognitive <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip>. On a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>, your target also loses one <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span> and loses focus equal to your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"intimidation\" nexus=\"cosmererpg\">Intimidation</tooltip>. On a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip>, they lose half as much focus (rounded up) and don’t lose <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span>.\n</p>\n<p chunk_id=\"c569e504-42d5-49d7-8afd-83a5162d5372\" class=\"CORE-paragraph-styles_CORE-body\"> You can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> from this test to gain <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span>, which you can use only to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> or activate a stance.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Feinting Strike",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 2 focus to make a melee weapon attack against a target's Cognitive defense.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"aae70b01-8b70-432a-9396-4a624bfd1363\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"intimidation\" nexus=\"cosmererpg\">Intimidation</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"vigilant-stance\" nexus=\"cosmererpg\">Vigilant Stance</tooltip> key talent\n</p>\n<p chunk_id=\"fe39bbad-5461-4ad9-bdf2-596072fcd5d6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"15e1e562-a818-4ff3-9fb2-55b694387f3d\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You enter an aggressive, squared stance that favors swift flurries of decisive blows.</em></p>\n</div>\n<p chunk_id=\"49b72169-785f-4952-ad50-4936166bb34e\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you learn a new stance, which you can enter as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>:</p>\n<p chunk_id=\"0b6499c8-a6f8-4a80-9c07-41673aea223b\" class=\"hanging\"><strong><span class=\"color-span\">Flamestance.</span></strong> While in this stance, you gain an advantage on <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"intimidation\" nexus=\"cosmererpg\">Intimidation</tooltip> tests. Additionally, while there is exactly one enemy within your reach and none of your allies are within the reach of that enemy or you, you can use <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> to gain <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>, which you can spend only to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip> or use an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">action</tooltip> that includes an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attack-test\" nexus=\"cosmererpg\">attack test</tooltip> targeting that enemy.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Flamestance",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Gain an advantage on Intimidation, and when only one enemy is in reach and no allies are, gain ▶ to attack or Gain Advantage.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "flamestance",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Duelist",
+							"value": "duelist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"duelist": [
+							[
+								{
+									"rank": 1,
+									"type": "skill",
+									"label": "Intimidation 1+",
+									"value": "intimidation",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Vigilant Stance key talent",
+									"value": "vigilant-stance",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"vigilant-stance"
+					],
+					"objectID": "105975",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"aae70b01-8b70-432a-9396-4a624bfd1363\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"intimidation\" nexus=\"cosmererpg\">Intimidation</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"vigilant-stance\" nexus=\"cosmererpg\">Vigilant Stance</tooltip> key talent\n</p>\n<p chunk_id=\"fe39bbad-5461-4ad9-bdf2-596072fcd5d6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"15e1e562-a818-4ff3-9fb2-55b694387f3d\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You enter an aggressive, squared stance that favors swift flurries of decisive blows.</em></p>\n</div>\n<p chunk_id=\"49b72169-785f-4952-ad50-4936166bb34e\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you learn a new stance, which you can enter as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>:</p>\n<p chunk_id=\"0b6499c8-a6f8-4a80-9c07-41673aea223b\" class=\"hanging\"><strong><span class=\"color-span\">Flamestance.</span></strong> While in this stance, you gain an advantage on <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"intimidation\" nexus=\"cosmererpg\">Intimidation</tooltip> tests. Additionally, while there is exactly one enemy within your reach and none of your allies are within the reach of that enemy or you, you can use <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> to gain <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>, which you can spend only to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip> or use an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">action</tooltip> that includes an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attack-test\" nexus=\"cosmererpg\">attack test</tooltip> targeting that enemy.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Flamestance",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Gain an advantage on Intimidation, and when only one enemy is in reach and no allies are, gain ▶ to attack or Gain Advantage.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"f498ca6d-cceb-49e3-8721-97bc09dd8e63\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"defensive-position\" nexus=\"cosmererpg\">Defensive Position</tooltip> talent\n</p>\n<p chunk_id=\"f6ccceca-bb9d-44c6-bfa2-f8aeff403947\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"50d501d7-7e61-49e6-934e-310b8b31c705\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You coordinate your allies to march in a defensive formation with you.</em></p>\n</div>\n<p chunk_id=\"56a8e5f5-5c88-4b15-ad90-2fb7c77c3f08\" class=\"CORE-paragraph-styles_CORE-body\">While an ally within 10 feet of you benefits from the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"brace\" nexus=\"cosmererpg\">Brace</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">action</tooltip>, they also benefit from your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"defensive-position\" nexus=\"cosmererpg\">Defensive Position</tooltip> as if they had that talent themself.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Formation Drills",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While an ally within 10 feet of you benefits from the Brace action, they also benefit from your Defensive Position as if they had that talent themself.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "formation-drills",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Soldier",
+							"value": "soldier"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"soldier": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Discipline 2+",
+									"value": "discipline",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Defensive Position talent",
+									"value": "defensive-position",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"defensive-position"
+					],
+					"objectID": "105991",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"f498ca6d-cceb-49e3-8721-97bc09dd8e63\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"defensive-position\" nexus=\"cosmererpg\">Defensive Position</tooltip> talent\n</p>\n<p chunk_id=\"f6ccceca-bb9d-44c6-bfa2-f8aeff403947\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"50d501d7-7e61-49e6-934e-310b8b31c705\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You coordinate your allies to march in a defensive formation with you.</em></p>\n</div>\n<p chunk_id=\"56a8e5f5-5c88-4b15-ad90-2fb7c77c3f08\" class=\"CORE-paragraph-styles_CORE-body\">While an ally within 10 feet of you benefits from the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"brace\" nexus=\"cosmererpg\">Brace</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">action</tooltip>, they also benefit from your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"defensive-position\" nexus=\"cosmererpg\">Defensive Position</tooltip> as if they had that talent themself.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Formation Drills",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While an ally within 10 feet of you benefits from the Brace action, they also benefit from your Defensive Position as if they had that talent themself.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"e869d49a-2ba7-435f-8447-9128f9b8328d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"b6ac8aca-5793-48d8-8290-cead350f44e9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve trained your body to endure pain and fatigue, keeping you in the fight until the bitter end.</em></p>\n</div>\n<p chunk_id=\"4f6da07c-fc65-457f-bf6c-a56412ef871f\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your maximum and current <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip> increase by 1 per level. This applies to all previous and future levels; for example, if you choose this talent at level 6, retroactively increase your health by 6.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Agent (Investigator) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"baleful\" nexus=\"cosmererpg\">Baleful</tooltip> talent\n</p><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steady-aim-playtest\" nexus=\"cosmererpg\">Steady Aim</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Leader (Champion) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"valiant-intervention-playtest\" nexus=\"cosmererpg\">Valiant Intervention</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Warrior (Soldier) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"combat-training-playtest\" nexus=\"cosmererpg\">Combat Training</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Hardy",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Gain +1 max health per level (including previous levels).",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "hardy",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Agent",
+							"value": "agent"
+						},
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						},
+						{
+							"name": "Leader",
+							"value": "leader"
+						},
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Investigator",
+							"value": "investigator"
+						},
+						{
+							"name": "Archer",
+							"value": "archer"
+						},
+						{
+							"name": "Champion",
+							"value": "champion"
+						},
+						{
+							"name": "Soldier",
+							"value": "soldier"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"archer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Steady Aim talent",
+									"value": "steady-aim",
+									"hardRule": true
+								}
+							]
+						],
+						"soldier": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Combat Training talent",
+									"value": "combat-training",
+									"hardRule": true
+								}
+							]
+						],
+						"champion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Valiant Intervention talent",
+									"value": "valiant-intervention",
+									"hardRule": true
+								}
+							]
+						],
+						"investigator": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Baleful talent",
+									"value": "baleful",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"steady-aim",
+						"combat-training",
+						"valiant-intervention",
+						"baleful"
+					],
+					"objectID": "105868",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"e869d49a-2ba7-435f-8447-9128f9b8328d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"b6ac8aca-5793-48d8-8290-cead350f44e9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve trained your body to endure pain and fatigue, keeping you in the fight until the bitter end.</em></p>\n</div>\n<p chunk_id=\"4f6da07c-fc65-457f-bf6c-a56412ef871f\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your maximum and current <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip> increase by 1 per level. This applies to all previous and future levels; for example, if you choose this talent at level 6, retroactively increase your health by 6.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Agent (Investigator) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"baleful\" nexus=\"cosmererpg\">Baleful</tooltip> talent\n</p><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steady-aim-playtest\" nexus=\"cosmererpg\">Steady Aim</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Leader (Champion) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"valiant-intervention-playtest\" nexus=\"cosmererpg\">Valiant Intervention</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Warrior (Soldier) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"combat-training-playtest\" nexus=\"cosmererpg\">Combat Training</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Hardy",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Gain +1 max health per level (including previous levels).",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"5d88ca71-d178-4233-a690-12772a0a93dd\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"practiced-kata\" nexus=\"cosmererpg\">Practiced Kata</tooltip> talent\n</p>\n<p chunk_id=\"98bd6d19-0055-45b7-ae63-8370dc1a8227\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"645ab73c-4906-4f5d-a8cc-8bb122f47c96\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You hold your weapon high, prepared to deliver a crushing blow downward when your opponent shows weakness.</em></p>\n</div>\n<p chunk_id=\"f385c34c-df51-4740-a414-3be51ceb122a\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you learn a new stance, which you can enter as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>:</p>\n<p chunk_id=\"1086a28d-d515-4ddf-9e59-a8e923780f6c\" class=\"hanging\"><strong><span class=\"color-span\">Ironstance.</span></strong> While in this stance, you gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"insight\" nexus=\"cosmererpg\">Insight</tooltip> tests. Additionally, when a character within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> misses you or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">grazes</tooltip> you with an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip>, you can use <tooltip category=\"action\" class=\"tooltip-convert\" element=\"reactive-strike\" nexus=\"cosmererpg\">Reactive Strike</tooltip> against them as if they had voluntarily left your reach.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Ironstance",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You gain an advantage on Insight, and when you’re grazed or missed, you can make a Reactive Strike against your attacker.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "ironstance",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Duelist",
+							"value": "duelist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"duelist": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Athletics 2+",
+									"value": "athletics",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Practiced Kata talent ",
+									"value": "practiced-kata",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"practiced-kata"
+					],
+					"objectID": "105976",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"5d88ca71-d178-4233-a690-12772a0a93dd\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"practiced-kata\" nexus=\"cosmererpg\">Practiced Kata</tooltip> talent\n</p>\n<p chunk_id=\"98bd6d19-0055-45b7-ae63-8370dc1a8227\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"645ab73c-4906-4f5d-a8cc-8bb122f47c96\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You hold your weapon high, prepared to deliver a crushing blow downward when your opponent shows weakness.</em></p>\n</div>\n<p chunk_id=\"f385c34c-df51-4740-a414-3be51ceb122a\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you learn a new stance, which you can enter as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>:</p>\n<p chunk_id=\"1086a28d-d515-4ddf-9e59-a8e923780f6c\" class=\"hanging\"><strong><span class=\"color-span\">Ironstance.</span></strong> While in this stance, you gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"insight\" nexus=\"cosmererpg\">Insight</tooltip> tests. Additionally, when a character within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> misses you or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">grazes</tooltip> you with an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip>, you can use <tooltip category=\"action\" class=\"tooltip-convert\" element=\"reactive-strike\" nexus=\"cosmererpg\">Reactive Strike</tooltip> against them as if they had voluntarily left your reach.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Ironstance",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You gain an advantage on Insight, and when you’re grazed or missed, you can make a Reactive Strike against your attacker.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"55847ec6-a6f4-4d37-9221-cc448a50cb3b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"bloodstance\" nexus=\"cosmererpg\">Bloodstance</tooltip> talent\n</p>\n<p chunk_id=\"1ab09159-7d04-4aa4-968e-a0d6d342008d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"5e42c157-f2b1-47b2-89bb-939e3ba06cc5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You vault aggressively above your foes and slam into them with your full weight—a leap made all the more terrifying by unyielding Shardplate.</em></p>\n</div>\n<p chunk_id=\"6a28afee-18e2-4872-bb01-2ffbf1a68999\" class=\"CORE-paragraph-styles_CORE-body\">Spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to leap up to a quarter of your movement rate, then make an <tooltip category=\"item\" class=\"tooltip-convert\" element=\"unarmed-attack\" nexus=\"cosmererpg\">unarmed attack</tooltip> against the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"physical-illusion\" nexus=\"cosmererpg\">Physical</tooltip>\n</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> of each character of your choice within your reach. While wearing <tooltip category=\"item\" class=\"tooltip-convert\" element=\"shardplate\" nexus=\"cosmererpg\">Shardplate</tooltip>, you gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on this test. Roll double the usual <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage-dice\" nexus=\"cosmererpg\">damage dice</tooltip> for this attack. On a hit, each target whose <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"strength\" nexus=\"cosmererpg\">Strength</tooltip> score is lower than yours is also knocked <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"prone\" nexus=\"cosmererpg\">Prone</tooltip>.\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Meteoric Leap",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 2 focus to leap up to a quarter of your movement rate, then make an unarmed attack against the Physical defense of each character of your choice within your reach.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "meteoric-leap",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Shardbearer",
+							"value": "shardbearer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"shardbearer": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Athletics 3+",
+									"value": "athletics",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Bloodstance talent",
+									"value": "bloodstance",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": 2,
+						"costLabel": "Focus",
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"bloodstance"
+					],
+					"objectID": "105987",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"55847ec6-a6f4-4d37-9221-cc448a50cb3b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"bloodstance\" nexus=\"cosmererpg\">Bloodstance</tooltip> talent\n</p>\n<p chunk_id=\"1ab09159-7d04-4aa4-968e-a0d6d342008d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"5e42c157-f2b1-47b2-89bb-939e3ba06cc5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You vault aggressively above your foes and slam into them with your full weight—a leap made all the more terrifying by unyielding Shardplate.</em></p>\n</div>\n<p chunk_id=\"6a28afee-18e2-4872-bb01-2ffbf1a68999\" class=\"CORE-paragraph-styles_CORE-body\">Spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to leap up to a quarter of your movement rate, then make an <tooltip category=\"item\" class=\"tooltip-convert\" element=\"unarmed-attack\" nexus=\"cosmererpg\">unarmed attack</tooltip> against the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"physical-illusion\" nexus=\"cosmererpg\">Physical</tooltip>\n</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> of each character of your choice within your reach. While wearing <tooltip category=\"item\" class=\"tooltip-convert\" element=\"shardplate\" nexus=\"cosmererpg\">Shardplate</tooltip>, you gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on this test. Roll double the usual <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage-dice\" nexus=\"cosmererpg\">damage dice</tooltip> for this attack. On a hit, each target whose <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"strength\" nexus=\"cosmererpg\">Strength</tooltip> score is lower than yours is also knocked <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"prone\" nexus=\"cosmererpg\">Prone</tooltip>.\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Meteoric Leap",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 2 focus to leap up to a quarter of your movement rate, then make an unarmed attack against the Physical defense of each character of your choice within your reach.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"b1cbe4a6-4e03-49f9-9b1b-2053af037205\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies</p>\n<p chunk_id=\"0a871d07-ffe7-456e-9938-8e92ab639faa\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"79e90496-a13a-4494-867f-02d766541c47\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You deliver your swings, punches, and kicks with practiced efficiency.</em></p>\n</div>\n<p chunk_id=\"7115475e-3f42-4501-addc-f213e3155b65\" class=\"CORE-paragraph-styles_CORE-body\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>\n</tooltip> with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapons\" nexus=\"cosmererpg\">weapon</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"unarmed-attacks\" nexus=\"cosmererpg\">unarmed attack</tooltip>, for each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> you used on that attack’s action, increase the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> you deal by 1 + your tier. For example, if you’re level 6 and you make an attack that costs <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span>, each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> deals an extra 1 + 2 damage, for a total of 6 damage.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Mighty",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you hit with a weapon or unarmed attack, for each ▶ you used on that attack’s action, increase the damage you deal by 1 + your tier.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "mighty",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Agent",
+							"value": "agent"
+						},
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						},
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						},
+						{
+							"name": "Leader",
+							"value": "leader"
+						},
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Spy",
+							"value": "spy"
+						},
+						{
+							"name": "Mentor",
+							"value": "mentor"
+						},
+						{
+							"name": "Assassin",
+							"value": "assassin"
+						},
+						{
+							"name": "Champion",
+							"value": "champion"
+						},
+						{
+							"name": "Shardbearer",
+							"value": "shardbearer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"spy": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cover Story talent",
+									"value": "cover-story",
+									"hardRule": true
+								}
+							]
+						],
+						"mentor": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Practical Demonstration talent",
+									"value": "practical-demonstration",
+									"hardRule": true
+								}
+							]
+						],
+						"assassin": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cold Eyes talent",
+									"value": "cold-eyes",
+									"hardRule": true
+								}
+							]
+						],
+						"champion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Imposing Posture talent",
+									"value": "imposing-posture",
+									"hardRule": true
+								}
+							]
+						],
+						"shardbearer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Stonestance talent",
+									"value": "stonestance",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"cover-story",
+						"practical-demonstration",
+						"cold-eyes",
+						"imposing-posture",
+						"stonestance"
+					],
+					"objectID": "105876",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"b1cbe4a6-4e03-49f9-9b1b-2053af037205\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies</p>\n<p chunk_id=\"0a871d07-ffe7-456e-9938-8e92ab639faa\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"79e90496-a13a-4494-867f-02d766541c47\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You deliver your swings, punches, and kicks with practiced efficiency.</em></p>\n</div>\n<p chunk_id=\"7115475e-3f42-4501-addc-f213e3155b65\" class=\"CORE-paragraph-styles_CORE-body\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>\n</tooltip> with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapons\" nexus=\"cosmererpg\">weapon</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"unarmed-attacks\" nexus=\"cosmererpg\">unarmed attack</tooltip>, for each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> you used on that attack’s action, increase the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> you deal by 1 + your tier. For example, if you’re level 6 and you make an attack that costs <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span>, each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> deals an extra 1 + 2 damage, for a total of 6 damage.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Mighty",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you hit with a weapon or unarmed attack, for each ▶ you used on that attack’s action, increase the damage you deal by 1 + your tier.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"4f4f0f38-84b5-4e46-9d31-1d92f8fced96\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"vigilant-stance\" nexus=\"cosmererpg\">Vigilant Stance</tooltip> key talent\n</p>\n<p chunk_id=\"2c5eb8e9-24ab-43e4-8b49-7f75a93f83e2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"d72e1588-e9a5-4142-aa1d-d1e26aa31548\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your study of martial kata and other forms has taught you that your stance in conversation is as important as in battle. With practiced poise, you project the exact attitude you want through body language and positioning.</em></p>\n</div>\n<p chunk_id=\"882f4388-ad80-43fa-b148-14fe223eebcf\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you acquire this talent, you can use fighting stances in <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"conversations\" nexus=\"cosmererpg\">conversation</tooltip> and <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"endeavors\" nexus=\"cosmererpg\">endeavor</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scenes</tooltip>, in addition to combat. Activating or changing a stance during a conversation or endeavor costs 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> and counts as your contribution for the round.\n</p>\n<p chunk_id=\"f65d7a71-d2bb-455c-ba67-558c1486cc87\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, if you aren’t <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"surprised\" nexus=\"cosmererpg\">Surprised</tooltip> when a combat, conversation, or endeavor scene begins, you can enter Vigilant Stance at the beginning of that scene (no action required).</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Practiced Kata",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Activating or changing a stance during a conversation or endeavor costs 1 focus and counts as your contribution for the round. If you aren't Surprised when a scene begins, you can enter Vigilant Stance (no action required).",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "practiced-kata",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Duelist",
+							"value": "duelist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"duelist": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Vigilant Stance key talent",
+									"value": "vigilant-stance",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": 1,
+						"costLabel": "Focus",
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"vigilant-stance"
+					],
+					"objectID": "105974",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"4f4f0f38-84b5-4e46-9d31-1d92f8fced96\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"vigilant-stance\" nexus=\"cosmererpg\">Vigilant Stance</tooltip> key talent\n</p>\n<p chunk_id=\"2c5eb8e9-24ab-43e4-8b49-7f75a93f83e2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"d72e1588-e9a5-4142-aa1d-d1e26aa31548\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your study of martial kata and other forms has taught you that your stance in conversation is as important as in battle. With practiced poise, you project the exact attitude you want through body language and positioning.</em></p>\n</div>\n<p chunk_id=\"882f4388-ad80-43fa-b148-14fe223eebcf\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you acquire this talent, you can use fighting stances in <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"conversations\" nexus=\"cosmererpg\">conversation</tooltip> and <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"endeavors\" nexus=\"cosmererpg\">endeavor</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scenes</tooltip>, in addition to combat. Activating or changing a stance during a conversation or endeavor costs 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> and counts as your contribution for the round.\n</p>\n<p chunk_id=\"f65d7a71-d2bb-455c-ba67-558c1486cc87\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, if you aren’t <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"surprised\" nexus=\"cosmererpg\">Surprised</tooltip> when a combat, conversation, or endeavor scene begins, you can enter Vigilant Stance at the beginning of that scene (no action required).</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Practiced Kata",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Activating or changing a stance during a conversation or endeavor costs 1 focus and counts as your contribution for the round. If you aren't Surprised when a scene begins, you can enter Vigilant Stance (no action required).",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"23ec7acf-dc0d-411e-91e1-176fcbcbe52f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"shattering-blow\" nexus=\"cosmererpg\">Shattering Blow</tooltip> talent\n</p>\n<p chunk_id=\"9628faf3-83af-479c-8a09-23567d3d6ac2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span></p>\n<div chunk_id=\"5b28ff63-fbf1-492d-9186-bea64ed4d4c2\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>A Shardbearer must know when to deflect an oncoming blow, when to take it on their Shardplate, and when to evade. In extreme cases, a desperate fighter even might catch a Shardblade between their bare hands in a desperate maneuver called a lastclap.</em></p>\n</div>\n<p chunk_id=\"7a52eea9-6e71-40e3-a764-e5275fbf7d15\" class=\"CORE-paragraph-styles_CORE-body\">Before being hit by a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-attacks\" nexus=\"cosmererpg\">melee attack</tooltip>, you can use this <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reactions\" nexus=\"cosmererpg\">reaction</tooltip> and spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to attempt to parry the blow. Depending on whether you’re <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"unarmed-attacks\" nexus=\"cosmererpg\">unarmed</tooltip> or wielding a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapons\" nexus=\"cosmererpg\">weapon</tooltip>, make one of the following tests:</p>\n<p chunk_id=\"80e531e1-998e-49a4-bd7a-699b8907f412\" class=\"hanging\"><strong><span class=\"color-span\">Unarmed.</span></strong> Make an <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> test, gaining a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> unless you’re being attacked with a <tooltip category=\"item\" class=\"tooltip-convert\" element=\"shardblade\" nexus=\"cosmererpg\">Shardblade</tooltip>. You can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> to disarm your opponent, taking control of their weapon (and wielding it, if you desire).</p>\n<p chunk_id=\"216cf7f9-bf10-4dcb-97f4-7aa29c2adb19\" class=\"hanging\"><strong><span class=\"color-span\">Wielding a Weapon.</span></strong> Make a <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"light-weaponry\" nexus=\"cosmererpg\">Light Weaponry</tooltip> test or <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"heavy-weaponry\" nexus=\"cosmererpg\">Heavy Weaponry</tooltip> test (using the skill corresponding to your weapon). If you’re wielding a Shardblade and if your opponent’s weapon is non-<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"invested\" nexus=\"cosmererpg\">Invested</tooltip>, you can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> to destroy their weapon.</p>\n<p chunk_id=\"711d80f3-9f54-4815-bab8-2ce61f1c3781\" class=\"CORE-paragraph-styles_CORE-body\">The DC of this test equals the result of the attack test that <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip> you. On a success, the hit against you becomes a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graz</tooltip>e\n    </tooltip>.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Precise Parry",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Before being hit by a melee attack, you can use this reaction and spend 1 focus to attempt to parry the blow.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "precise-parry",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Shardbearer",
+							"value": "shardbearer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"shardbearer": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Perception 3+ ",
+									"value": "perception",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Shattering Blow talent",
+									"value": "shattering-blow",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": "",
+						"costUnit": 1,
+						"costLabel": "Focus",
+						"activationUnit": "Reaction",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"shattering-blow"
+					],
+					"objectID": "105986",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"23ec7acf-dc0d-411e-91e1-176fcbcbe52f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"shattering-blow\" nexus=\"cosmererpg\">Shattering Blow</tooltip> talent\n</p>\n<p chunk_id=\"9628faf3-83af-479c-8a09-23567d3d6ac2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span></p>\n<div chunk_id=\"5b28ff63-fbf1-492d-9186-bea64ed4d4c2\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>A Shardbearer must know when to deflect an oncoming blow, when to take it on their Shardplate, and when to evade. In extreme cases, a desperate fighter even might catch a Shardblade between their bare hands in a desperate maneuver called a lastclap.</em></p>\n</div>\n<p chunk_id=\"7a52eea9-6e71-40e3-a764-e5275fbf7d15\" class=\"CORE-paragraph-styles_CORE-body\">Before being hit by a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-attacks\" nexus=\"cosmererpg\">melee attack</tooltip>, you can use this <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reactions\" nexus=\"cosmererpg\">reaction</tooltip> and spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to attempt to parry the blow. Depending on whether you’re <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"unarmed-attacks\" nexus=\"cosmererpg\">unarmed</tooltip> or wielding a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapons\" nexus=\"cosmererpg\">weapon</tooltip>, make one of the following tests:</p>\n<p chunk_id=\"80e531e1-998e-49a4-bd7a-699b8907f412\" class=\"hanging\"><strong><span class=\"color-span\">Unarmed.</span></strong> Make an <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> test, gaining a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> unless you’re being attacked with a <tooltip category=\"item\" class=\"tooltip-convert\" element=\"shardblade\" nexus=\"cosmererpg\">Shardblade</tooltip>. You can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> to disarm your opponent, taking control of their weapon (and wielding it, if you desire).</p>\n<p chunk_id=\"216cf7f9-bf10-4dcb-97f4-7aa29c2adb19\" class=\"hanging\"><strong><span class=\"color-span\">Wielding a Weapon.</span></strong> Make a <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"light-weaponry\" nexus=\"cosmererpg\">Light Weaponry</tooltip> test or <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"heavy-weaponry\" nexus=\"cosmererpg\">Heavy Weaponry</tooltip> test (using the skill corresponding to your weapon). If you’re wielding a Shardblade and if your opponent’s weapon is non-<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"invested\" nexus=\"cosmererpg\">Invested</tooltip>, you can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> to destroy their weapon.</p>\n<p chunk_id=\"711d80f3-9f54-4815-bab8-2ce61f1c3781\" class=\"CORE-paragraph-styles_CORE-body\">The DC of this test equals the result of the attack test that <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip> you. On a success, the hit against you becomes a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graz</tooltip>e\n    </tooltip>.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Precise Parry",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Before being hit by a melee attack, you can use this reaction and spend 1 focus to attempt to parry the blow.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"ebf30a11-44f7-4626-8964-2973ccfec5d1\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Access to a <tooltip category=\"item\" class=\"tooltip-convert\" element=\"shardblade\" nexus=\"cosmererpg\">Shardblade</tooltip> and <tooltip category=\"adversary-feature\" class=\"tooltip-convert\" element=\"shardplate\" nexus=\"cosmererpg\">Shardplate</tooltip> for training; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"vigilant-stance\" nexus=\"cosmererpg\">Vigilant Stance</tooltip> key talent</p>\n<p chunk_id=\"3e4bd7eb-3f0c-42c6-a2a4-ad92eb40941b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"06d6f07b-e9d8-4678-9687-012b3d43af5f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Given the rarity of Shardblades and Shardplate, it’s exceptionally difficult to acquire firsthand experience with these relics. You’ve managed this feat, learning to deal blows for maximum effect and to absorb strikes as efficiently as possible.</em></p>\n</div>\n<p chunk_id=\"94c5d5c0-1534-4013-b14c-159b152caf1f\" class=\"CORE-paragraph-styles_CORE-body\">Once per <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">round</tooltip>, when you use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> action to attack with a Shardblade, you can choose a number of additional enemies up to your ranks in the skill you used for that Strike. Each <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> must be within your Shardblade’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip>. Without spending <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>, you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip> each additional target whose <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">Physical</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> is equal to or lower than your Strike’s test result.\n</p>\n<p chunk_id=\"e21524ad-8296-450f-8a14-bfc7054d25cc\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"specialist-expertises\" nexus=\"cosmererpg\">specialist expertise</tooltip> in Shardplate, and gain a specialist expertise in either <tooltip category=\"item\" class=\"tooltip-convert\" element=\"grandbow\" nexus=\"cosmererpg\">Grandbows</tooltip>, Shardblades, or <tooltip category=\"item\" class=\"tooltip-convert\" element=\"warhammer\" nexus=\"cosmererpg\">Warhammers</tooltip>.</p>\n<p chunk_id=\"eab7798d-9e89-4964-a423-2c6132f2dfba\" class=\"CORE-paragraph-styles_CORE-body\"> Finally, while you wear Shardplate, it has 2 additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"charges\" nexus=\"cosmererpg\">charges</tooltip> for you.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Shard Training",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Once per round, when you use the Strike action to attack with a Shardblade, you can choose a number of additional enemies up to your ranks in the skill you used for that Strike.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "shard-training",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Shardbearer",
+							"value": "shardbearer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"shardbearer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Vigilant Stance key talent",
+									"value": "vigilant-stance",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": null,
+									"label": "Access to a Shardblade and Shardplate for training",
+									"value": null,
+									"hardRule": false
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"vigilant-stance"
+					],
+					"objectID": "105981",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"ebf30a11-44f7-4626-8964-2973ccfec5d1\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Access to a <tooltip category=\"item\" class=\"tooltip-convert\" element=\"shardblade\" nexus=\"cosmererpg\">Shardblade</tooltip> and <tooltip category=\"adversary-feature\" class=\"tooltip-convert\" element=\"shardplate\" nexus=\"cosmererpg\">Shardplate</tooltip> for training; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"vigilant-stance\" nexus=\"cosmererpg\">Vigilant Stance</tooltip> key talent</p>\n<p chunk_id=\"3e4bd7eb-3f0c-42c6-a2a4-ad92eb40941b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"06d6f07b-e9d8-4678-9687-012b3d43af5f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Given the rarity of Shardblades and Shardplate, it’s exceptionally difficult to acquire firsthand experience with these relics. You’ve managed this feat, learning to deal blows for maximum effect and to absorb strikes as efficiently as possible.</em></p>\n</div>\n<p chunk_id=\"94c5d5c0-1534-4013-b14c-159b152caf1f\" class=\"CORE-paragraph-styles_CORE-body\">Once per <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">round</tooltip>, when you use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> action to attack with a Shardblade, you can choose a number of additional enemies up to your ranks in the skill you used for that Strike. Each <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> must be within your Shardblade’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip>. Without spending <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>, you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip> each additional target whose <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">Physical</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> is equal to or lower than your Strike’s test result.\n</p>\n<p chunk_id=\"e21524ad-8296-450f-8a14-bfc7054d25cc\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"specialist-expertises\" nexus=\"cosmererpg\">specialist expertise</tooltip> in Shardplate, and gain a specialist expertise in either <tooltip category=\"item\" class=\"tooltip-convert\" element=\"grandbow\" nexus=\"cosmererpg\">Grandbows</tooltip>, Shardblades, or <tooltip category=\"item\" class=\"tooltip-convert\" element=\"warhammer\" nexus=\"cosmererpg\">Warhammers</tooltip>.</p>\n<p chunk_id=\"eab7798d-9e89-4964-a423-2c6132f2dfba\" class=\"CORE-paragraph-styles_CORE-body\"> Finally, while you wear Shardplate, it has 2 additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"charges\" nexus=\"cosmererpg\">charges</tooltip> for you.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Shard Training",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Once per round, when you use the Strike action to attack with a Shardblade, you can choose a number of additional enemies up to your ranks in the skill you used for that Strike.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"c70379b5-44ab-4d26-a83e-9d73623ab4d5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"windstance\" nexus=\"cosmererpg\">Windstance</tooltip> talent\n</p>\n<p chunk_id=\"ce3b1d45-5f46-48d2-b2e3-4a585c00caa0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"62690118-9697-4ffd-a722-49b81bf11454\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Whether striking a barricaded door, a Shardbearer, or a hapless enemy on the field, you know how to break through weak points or send foes flying with a precise, two-handed blow.</em></p>\n</div>\n<p chunk_id=\"8f7b702f-af35-4133-a36c-984014995e6f\" class=\"CORE-paragraph-styles_CORE-body\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip> a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-attacks\" nexus=\"cosmererpg\">melee attack</tooltip>, if you did so either with a two-handed weapon or with a hand free, you can spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to hit with remarkable force. Before resolving that attack’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip>, if your target is wearing armor with <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"charges\" nexus=\"cosmererpg\">charges</tooltip> (such as Shardplate), the armor loses 1 charge.</p>\n<p chunk_id=\"eb0fda77-8de6-4ed7-8fa8-6505d01d9fdc\" class=\"CORE-paragraph-styles_CORE-body\"> After that attack, each target who lost <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip> to your attack is pushed horizontally 5 feet away from you. If your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"strength\" nexus=\"cosmererpg\">Strength</tooltip> is greater than 5, they’re pushed an additional 5 feet for each additional point of Strength; for example, if your Strength is 7, they’re pushed an additional 10 feet, for a total of 15 feet. If your target hits a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"size-and-space\" nexus=\"cosmererpg\">Medium or larger</tooltip> object during this forced movement, the target takes damage as if they’d fallen the distance they were pushed (1d6 impact damage per 10 feet); at the GM’s discretion, the object might also take damage.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Shattering Blow",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you hit a target with a melee attack, if you did so either with a two-handed weapon or with a hand free, you can spend 2 focus to hit with remarkable force.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "shattering-blow",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Shardbearer",
+							"value": "shardbearer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"shardbearer": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Perception 2+",
+									"value": "perception",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Windstance talent",
+									"value": "windstance",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": 2,
+						"costLabel": "Focus",
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"windstance"
+					],
+					"objectID": "105984",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"c70379b5-44ab-4d26-a83e-9d73623ab4d5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"windstance\" nexus=\"cosmererpg\">Windstance</tooltip> talent\n</p>\n<p chunk_id=\"ce3b1d45-5f46-48d2-b2e3-4a585c00caa0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"62690118-9697-4ffd-a722-49b81bf11454\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Whether striking a barricaded door, a Shardbearer, or a hapless enemy on the field, you know how to break through weak points or send foes flying with a precise, two-handed blow.</em></p>\n</div>\n<p chunk_id=\"8f7b702f-af35-4133-a36c-984014995e6f\" class=\"CORE-paragraph-styles_CORE-body\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip> a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-attacks\" nexus=\"cosmererpg\">melee attack</tooltip>, if you did so either with a two-handed weapon or with a hand free, you can spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to hit with remarkable force. Before resolving that attack’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip>, if your target is wearing armor with <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"charges\" nexus=\"cosmererpg\">charges</tooltip> (such as Shardplate), the armor loses 1 charge.</p>\n<p chunk_id=\"eb0fda77-8de6-4ed7-8fa8-6505d01d9fdc\" class=\"CORE-paragraph-styles_CORE-body\"> After that attack, each target who lost <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip> to your attack is pushed horizontally 5 feet away from you. If your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"strength\" nexus=\"cosmererpg\">Strength</tooltip> is greater than 5, they’re pushed an additional 5 feet for each additional point of Strength; for example, if your Strength is 7, they’re pushed an additional 10 feet, for a total of 15 feet. If your target hits a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"size-and-space\" nexus=\"cosmererpg\">Medium or larger</tooltip> object during this forced movement, the target takes damage as if they’d fallen the distance they were pushed (1d6 impact damage per 10 feet); at the GM’s discretion, the object might also take damage.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Shattering Blow",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you hit a target with a melee attack, if you did so either with a two-handed weapon or with a hand free, you can spend 2 focus to hit with remarkable force.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"c4620085-340b-465e-baea-61216862621b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"flamestance\" nexus=\"cosmererpg\">Flamestance</tooltip> talent\n</p>\n<p chunk_id=\"f9ca2859-6c8c-47a2-b9f1-1df027105f9f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"c01dbb6e-77a1-4168-8c7c-564e18c08c5b\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You have trained extensively with a particular weapon and can exploit all the advantages it offers.</em></p>\n</div>\n<p chunk_id=\"59dbe94c-3518-46e1-8ff2-a163e8a9d036\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you acquire this talent, gain one <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapon-expertises\" nexus=\"cosmererpg\">weapon expertise</tooltip>. Then choose one weapon type in which you have an expertise and denote it in parentheses after this talent’s name on your character sheet; for example, “Signature Weapon (<tooltip category=\"item\" class=\"tooltip-convert\" element=\"longspear\" nexus=\"cosmererpg\">Longspear</tooltip>).”</p>\n<p chunk_id=\"c4810d6c-6d64-4ab5-b612-172a7a317fec\" class=\"CORE-paragraph-styles_CORE-body\"> Your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"range\" nexus=\"cosmererpg\">range</tooltip> for tests using this <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapons\" nexus=\"cosmererpg\">weapon</tooltip> type expands by 1. When you reach tier 3, this Opportunity range instead expands by 2.\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Signature Weapon",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Gain one weapon expertise, and increase your Opportunity range for tests using a weapon.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "signature-weapon",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Duelist",
+							"value": "duelist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"duelist": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Flamestance talent",
+									"value": "flamestance",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"flamestance"
+					],
+					"objectID": "105977",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"c4620085-340b-465e-baea-61216862621b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"flamestance\" nexus=\"cosmererpg\">Flamestance</tooltip> talent\n</p>\n<p chunk_id=\"f9ca2859-6c8c-47a2-b9f1-1df027105f9f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"c01dbb6e-77a1-4168-8c7c-564e18c08c5b\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You have trained extensively with a particular weapon and can exploit all the advantages it offers.</em></p>\n</div>\n<p chunk_id=\"59dbe94c-3518-46e1-8ff2-a163e8a9d036\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you acquire this talent, gain one <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapon-expertises\" nexus=\"cosmererpg\">weapon expertise</tooltip>. Then choose one weapon type in which you have an expertise and denote it in parentheses after this talent’s name on your character sheet; for example, “Signature Weapon (<tooltip category=\"item\" class=\"tooltip-convert\" element=\"longspear\" nexus=\"cosmererpg\">Longspear</tooltip>).”</p>\n<p chunk_id=\"c4810d6c-6d64-4ab5-b612-172a7a317fec\" class=\"CORE-paragraph-styles_CORE-body\"> Your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"range\" nexus=\"cosmererpg\">range</tooltip> for tests using this <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapons\" nexus=\"cosmererpg\">weapon</tooltip> type expands by 1. When you reach tier 3, this Opportunity range instead expands by 2.\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Signature Weapon",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Gain one weapon expertise, and increase your Opportunity range for tests using a weapon.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"7b088e3d-c59f-4cd3-933b-d2c37e3f46f7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"vigilant-stance\" nexus=\"cosmererpg\">Vigilant Stance</tooltip> key talent\n</p>\n<p chunk_id=\"8fd5549f-c839-4936-80d4-dae7504514bd\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"0fc13a19-6a06-4822-9b44-aaf9df0dfa40\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You shift into a solid stance, delivering powerful blows without giving up ground to the enemy.</em></p>\n</div>\n<p chunk_id=\"50796bec-31f1-431b-8154-e0cf8e70cb2e\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you learn a new stance, which you can enter as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>:</p>\n<p chunk_id=\"a99ef689-98d0-4e3c-b778-db1f69301c35\" class=\"hanging\"><strong><span class=\"color-span\">Stonestance.</span></strong> While in this stance, increase your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"deflect\" nexus=\"cosmererpg\">deflect</tooltip> value by 1. Additionally, before an enemy within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-weapons\" nexus=\"cosmererpg\">melee weapon</tooltip>’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> spends one or more <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> to <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip> one of your allies not in Stonestance, that enemy must spend one additional <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Stonestance",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Increase your deflect value by 1. Before an enemy within your melee weapon’s reach spends one or more ▶ to attack one of your allies not in Stonestance, that enemy must spend one additional ▶.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "stonestance",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Shardbearer",
+							"value": "shardbearer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"shardbearer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Vigilant Stance key talent",
+									"value": "vigilant-stance",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"vigilant-stance"
+					],
+					"objectID": "105982",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"7b088e3d-c59f-4cd3-933b-d2c37e3f46f7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"vigilant-stance\" nexus=\"cosmererpg\">Vigilant Stance</tooltip> key talent\n</p>\n<p chunk_id=\"8fd5549f-c839-4936-80d4-dae7504514bd\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"0fc13a19-6a06-4822-9b44-aaf9df0dfa40\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You shift into a solid stance, delivering powerful blows without giving up ground to the enemy.</em></p>\n</div>\n<p chunk_id=\"50796bec-31f1-431b-8154-e0cf8e70cb2e\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you learn a new stance, which you can enter as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>:</p>\n<p chunk_id=\"a99ef689-98d0-4e3c-b778-db1f69301c35\" class=\"hanging\"><strong><span class=\"color-span\">Stonestance.</span></strong> While in this stance, increase your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"deflect\" nexus=\"cosmererpg\">deflect</tooltip> value by 1. Additionally, before an enemy within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-weapons\" nexus=\"cosmererpg\">melee weapon</tooltip>’s <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> spends one or more <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> to <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip> one of your allies not in Stonestance, that enemy must spend one additional <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Stonestance",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Increase your deflect value by 1. Before an enemy within your melee weapon’s reach spends one or more ▶ to attack one of your allies not in Stonestance, that enemy must spend one additional ▶.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"523ba0f8-405a-476e-ad14-24d780033ef0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Varies</p>\n<p chunk_id=\"2a497dde-0160-4d91-874f-9067ebe849f2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"a73fc26f-1496-4e2e-8f64-f27d80b0f279\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You move through treacherous terrain with confidence and speed.</em></p>\n</div>\n<p chunk_id=\"9ae01082-0f03-4fe7-81aa-1fb008aa7904\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, increase your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"movement-rate\" nexus=\"cosmererpg\">movement rate</tooltip> by 10.</p>\n<p chunk_id=\"21c80c55-f7d2-4fe6-a1fa-1b2da9c8e2f9\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, before you take <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> from dangerous terrain or falling, reduce that damage by 2 × your tier.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Surefooted",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Increase your movement rate by 10. Before you take damage from dangerous terrain or falling, reduce that damage by 2 × your tier.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "surefooted",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Agent",
+							"value": "agent"
+						},
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						},
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Thief",
+							"value": "thief"
+						},
+						{
+							"name": "Tracker",
+							"value": "tracker"
+						},
+						{
+							"name": "Duelist",
+							"value": "duelist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"thief": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cheap Shot talent",
+									"value": "cheap-shot",
+									"hardRule": true
+								}
+							]
+						],
+						"duelist": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Ironstance talent",
+									"value": "ironstance",
+									"hardRule": true
+								}
+							]
+						],
+						"tracker": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Experienced Trapper talent",
+									"value": "experienced-trapper",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"cheap-shot",
+						"experienced-trapper",
+						"ironstance"
+					],
+					"objectID": "105882",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"523ba0f8-405a-476e-ad14-24d780033ef0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Varies</p>\n<p chunk_id=\"2a497dde-0160-4d91-874f-9067ebe849f2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"a73fc26f-1496-4e2e-8f64-f27d80b0f279\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You move through treacherous terrain with confidence and speed.</em></p>\n</div>\n<p chunk_id=\"9ae01082-0f03-4fe7-81aa-1fb008aa7904\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, increase your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"movement-rate\" nexus=\"cosmererpg\">movement rate</tooltip> by 10.</p>\n<p chunk_id=\"21c80c55-f7d2-4fe6-a1fa-1b2da9c8e2f9\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, before you take <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> from dangerous terrain or falling, reduce that damage by 2 × your tier.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Surefooted",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Increase your movement rate by 10. Before you take damage from dangerous terrain or falling, reduce that damage by 2 × your tier.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"47b03ea0-30e6-46ed-a875-3a751153e6e4\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Varies</p>\n<p chunk_id=\"6a334cab-35b8-45fd-9ef4-5d4350482f6e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"ed339350-7b8a-482a-9c10-2f7a02c441ea\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You instinctively follow the tempo of battle, keeping the pressure on your foes at critical moments.</em></p>\n</div>\n<p chunk_id=\"f059a5e9-7ea4-4212-b5ae-26b2c8470f74\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a second <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> action with a hand you already used for a Strike this turn.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Swift Strikes",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 1 focus to make a second Strike action with a hand you already used for a Strike this turn.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "swift-strikes",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						},
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Assassin",
+							"value": "assassin"
+						},
+						{
+							"name": "Soldier",
+							"value": "soldier"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"soldier": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Hardy talent",
+									"value": "hardy",
+									"hardRule": true
+								}
+							]
+						],
+						"assassin": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cold Eyes talent",
+									"value": "cold-eyes",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": 1,
+						"costLabel": "Focus",
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"cold-eyes",
+						"hardy"
+					],
+					"objectID": "105922",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"47b03ea0-30e6-46ed-a875-3a751153e6e4\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Varies</p>\n<p chunk_id=\"6a334cab-35b8-45fd-9ef4-5d4350482f6e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"ed339350-7b8a-482a-9c10-2f7a02c441ea\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You instinctively follow the tempo of battle, keeping the pressure on your foes at critical moments.</em></p>\n</div>\n<p chunk_id=\"f059a5e9-7ea4-4212-b5ae-26b2c8470f74\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a second <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> action with a hand you already used for a Strike this turn.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Swift Strikes",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 1 focus to make a second Strike action with a hand you already used for a Strike this turn.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"2cc5119d-f259-4dea-8258-56b13a628bb8\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> none</p>\n<p chunk_id=\"fc7af56a-0b8a-46c3-b7e8-b42261670b3c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"0cdf1339-eb72-49db-97fa-554961519a18\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You study special fighting styles to face various foes and strategies. The most basic of these postures emphasizes alertness and quick responses to oncoming threats.</em></p>\n</div>\n<p chunk_id=\"10ffb7c4-d581-4d62-b2e2-d69af2a6a4b8\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you learn to use stances. You begin with Vigilant Stance, which you can enter as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>:</p>\n<p chunk_id=\"d772cf74-4248-4a88-826f-b10627295bbd\" class=\"hanging\"><strong><span class=\"color-span\">Vigilant Stance.</span></strong> While in this stance, reduce the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> cost of your <tooltip category=\"action\" class=\"tooltip-convert\" element=\"dodge\" nexus=\"cosmererpg\">Dodge</tooltip> and <tooltip category=\"action\" class=\"tooltip-convert\" element=\"reactive-strike\" nexus=\"cosmererpg\">Reactive Strike</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reactions\" nexus=\"cosmererpg\">reactions</tooltip> by 1. Additionally, you can enter another stance you know as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>.\n</p>\n<p chunk_id=\"95a53c64-10f7-4dfd-9e69-587d29004e55\" class=\"CORE-paragraph-styles_CORE-body\">You can enter a stance you know by using that talent’s stated number of <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">actions</tooltip>. Your stance ends if you either end it as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>, enter another stance, or end the scene. While in a stance, you temporarily gain any actions, bonuses, and other effects it grants; these effects end when the stance does.</p>\n<p chunk_id=\"7d7a27c8-3aea-43a4-a803-6b66cd410075\" class=\"CORE-paragraph-styles_CORE-body\"> By default, you can only use stances during combat, not during other <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scenes</tooltip>.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Vigilant Stance",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-starter-rules",
+					"shortDescription": "While in this stance, reduce the focus cost of your Dodge and Reactive Strike reactions by 1. Additionally, you can enter another stance you know as ▷.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "vigilant-stance",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [],
+					"hasPrerequisites": false,
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"objectID": "105973",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"2cc5119d-f259-4dea-8258-56b13a628bb8\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> none</p>\n<p chunk_id=\"fc7af56a-0b8a-46c3-b7e8-b42261670b3c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"0cdf1339-eb72-49db-97fa-554961519a18\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You study special fighting styles to face various foes and strategies. The most basic of these postures emphasizes alertness and quick responses to oncoming threats.</em></p>\n</div>\n<p chunk_id=\"10ffb7c4-d581-4d62-b2e2-d69af2a6a4b8\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you learn to use stances. You begin with Vigilant Stance, which you can enter as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>:</p>\n<p chunk_id=\"d772cf74-4248-4a88-826f-b10627295bbd\" class=\"hanging\"><strong><span class=\"color-span\">Vigilant Stance.</span></strong> While in this stance, reduce the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> cost of your <tooltip category=\"action\" class=\"tooltip-convert\" element=\"dodge\" nexus=\"cosmererpg\">Dodge</tooltip> and <tooltip category=\"action\" class=\"tooltip-convert\" element=\"reactive-strike\" nexus=\"cosmererpg\">Reactive Strike</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reactions\" nexus=\"cosmererpg\">reactions</tooltip> by 1. Additionally, you can enter another stance you know as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>.\n</p>\n<p chunk_id=\"95a53c64-10f7-4dfd-9e69-587d29004e55\" class=\"CORE-paragraph-styles_CORE-body\">You can enter a stance you know by using that talent’s stated number of <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">actions</tooltip>. Your stance ends if you either end it as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>, enter another stance, or end the scene. While in a stance, you temporarily gain any actions, bonuses, and other effects it grants; these effects end when the stance does.</p>\n<p chunk_id=\"7d7a27c8-3aea-43a4-a803-6b66cd410075\" class=\"CORE-paragraph-styles_CORE-body\"> By default, you can only use stances during combat, not during other <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scenes</tooltip>.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Vigilant Stance",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While in this stance, reduce the focus cost of your Dodge and Reactive Strike reactions by 1. Additionally, you can enter another stance you know as ▷.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"16d0e26f-32b2-4a52-b6fc-b678df1d9256\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"feinting-strike\" nexus=\"cosmererpg\">Feinting Strike</tooltip> talent\n</p>\n<p chunk_id=\"af0e63ca-9daf-4bb5-a374-9e91afa68ed5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"3f582c93-c8df-40e9-87f0-4639c8cf7e4c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You assume a flexible stance, allowing you to quickly switch between inexorable advances and rapid reactions to wear down your foe.</em></p>\n</div>\n<p chunk_id=\"6e9c10a4-d385-4858-a056-08690631e5f2\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you learn a new stance, which you can enter as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>:</p>\n<p chunk_id=\"4690ec0c-d446-4c49-b79d-bc27ea21c423\" class=\"hanging\"><strong><span class=\"color-span\">Vinestance.</span></strong> Your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">Physical</tooltip> and <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">Cognitive</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> increase by 1. Additionally, after you’re <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">grazed</tooltip> by a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-attacks\" nexus=\"cosmererpg\">melee attack</tooltip>, you can use <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span> to make an <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> test against your attacker’s Cognitive defense. On a success, your target loses 1d4 focus, and you can push them horizontally up to 5 feet × your ranks in Athletics.\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Vinestance",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Your Physical and Cognitive defenses increase by 1. After you’re hit or grazed in melee spend a Reaction to test Athletics vs. Cognitive.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "vinestance",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Duelist",
+							"value": "duelist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"duelist": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Athletics 3+",
+									"value": "athletics",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Feinting Strike talent",
+									"value": "feinting-strike",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"feinting-strike"
+					],
+					"objectID": "105979",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"16d0e26f-32b2-4a52-b6fc-b678df1d9256\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"feinting-strike\" nexus=\"cosmererpg\">Feinting Strike</tooltip> talent\n</p>\n<p chunk_id=\"af0e63ca-9daf-4bb5-a374-9e91afa68ed5\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"3f582c93-c8df-40e9-87f0-4639c8cf7e4c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You assume a flexible stance, allowing you to quickly switch between inexorable advances and rapid reactions to wear down your foe.</em></p>\n</div>\n<p chunk_id=\"6e9c10a4-d385-4858-a056-08690631e5f2\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you learn a new stance, which you can enter as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>:</p>\n<p chunk_id=\"4690ec0c-d446-4c49-b79d-bc27ea21c423\" class=\"hanging\"><strong><span class=\"color-span\">Vinestance.</span></strong> Your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">Physical</tooltip> and <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">Cognitive</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> increase by 1. Additionally, after you’re <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">grazed</tooltip> by a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-attacks\" nexus=\"cosmererpg\">melee attack</tooltip>, you can use <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span> to make an <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> test against your attacker’s Cognitive defense. On a success, your target loses 1d4 focus, and you can push them horizontally up to 5 feet × your ranks in Athletics.\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Vinestance",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Your Physical and Cognitive defenses increase by 1. After you’re hit or grazed in melee spend a Reaction to test Athletics vs. Cognitive.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"9c186f77-87c2-4ad1-88ee-affe7fb1997b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"defensive-position\" nexus=\"cosmererpg\">Defensive Position</tooltip> talent\n</p>\n<p chunk_id=\"83ed1625-a5de-40e1-af14-9251cb35bca6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"6c2dc3ff-d7c3-4e96-9671-8cc6d4bc940e\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Through your experience living in dangerous locations, you’ve learned to stay focused and respond quickly to unexpected hazards.</em></p>\n</div>\n<p chunk_id=\"482a6bb3-90fd-433c-b5e3-56f047dcb998\" class=\"CORE-paragraph-styles_CORE-body\">While you have 1 or more <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>, you can’t be <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"surprised\" nexus=\"cosmererpg\">Surprised</tooltip>. Additionally, when you resist influence or lose focus involuntarily, reduce the amount of focus lost by your ranks in Discipline (to a minimum of 1 focus lost).</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Wary",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While you have 1 or more focus, you can’t be Surprised. When you resist influence or lose focus involuntarily, reduce the amount of focus lost by your ranks in Discipline.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "wary",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Soldier",
+							"value": "soldier"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"soldier": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Discipline 3+",
+									"value": "discipline",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Defensive Position talent",
+									"value": "defensive-position",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"defensive-position"
+					],
+					"objectID": "105992",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"9c186f77-87c2-4ad1-88ee-affe7fb1997b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"discipline\" nexus=\"cosmererpg\">Discipline</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"defensive-position\" nexus=\"cosmererpg\">Defensive Position</tooltip> talent\n</p>\n<p chunk_id=\"83ed1625-a5de-40e1-af14-9251cb35bca6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"6c2dc3ff-d7c3-4e96-9671-8cc6d4bc940e\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Through your experience living in dangerous locations, you’ve learned to stay focused and respond quickly to unexpected hazards.</em></p>\n</div>\n<p chunk_id=\"482a6bb3-90fd-433c-b5e3-56f047dcb998\" class=\"CORE-paragraph-styles_CORE-body\">While you have 1 or more <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>, you can’t be <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"surprised\" nexus=\"cosmererpg\">Surprised</tooltip>. Additionally, when you resist influence or lose focus involuntarily, reduce the amount of focus lost by your ranks in Discipline (to a minimum of 1 focus lost).</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Wary",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While you have 1 or more focus, you can’t be Surprised. When you resist influence or lose focus involuntarily, reduce the amount of focus lost by your ranks in Discipline.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"28007acd-c6c9-41c1-8a4f-636385e544be\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"shard-training\" nexus=\"cosmererpg\">Shard Training</tooltip> talent\n</p>\n<p chunk_id=\"a751e418-285c-4516-95c0-533ddf3e52a2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"88911df1-0255-448f-9ef3-7b276c5fabdd\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You adopt a mobile stance that maximizes your area of attack, delivering wide sweeps that slash across groups of foes.</em></p>\n</div>\n<p chunk_id=\"b70c1dad-38bb-47aa-9107-2fceb340cf7c\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you learn a new stance, which you can enter as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>:</p>\n<p chunk_id=\"6b03b7b4-44af-4c68-bb5a-a2dafab98e94\" class=\"hanging\"><strong><span class=\"color-span\">Windstance.</span></strong> While in this stance, you gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip> tests. Additionally, while there are two or more enemies within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip>, you can use <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> to gain <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>, which you can spend only to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"disengage\" nexus=\"cosmererpg\">Disengage</tooltip> or use an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">action</tooltip> that includes an attack test targeting one or more of those enemies.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Windstance",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While in this stance, you gain an advantage on Agility tests. Additionally, while there are two or more enemies within your reach, you can use ▷ to gain ▶, which you can spend only to Disengage or use an action that includes an attack test.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "windstance",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Shardbearer",
+							"value": "shardbearer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"shardbearer": [
+							[
+								{
+									"rank": 1,
+									"type": "skill",
+									"label": "Perception 1+",
+									"value": "perception",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Shard Training talent",
+									"value": "shard-training",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"shard-training"
+					],
+					"objectID": "105983",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"28007acd-c6c9-41c1-8a4f-636385e544be\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"perception\" nexus=\"cosmererpg\">Perception</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"shard-training\" nexus=\"cosmererpg\">Shard Training</tooltip> talent\n</p>\n<p chunk_id=\"a751e418-285c-4516-95c0-533ddf3e52a2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"88911df1-0255-448f-9ef3-7b276c5fabdd\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You adopt a mobile stance that maximizes your area of attack, delivering wide sweeps that slash across groups of foes.</em></p>\n</div>\n<p chunk_id=\"b70c1dad-38bb-47aa-9107-2fceb340cf7c\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, you learn a new stance, which you can enter as <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>:</p>\n<p chunk_id=\"6b03b7b4-44af-4c68-bb5a-a2dafab98e94\" class=\"hanging\"><strong><span class=\"color-span\">Windstance.</span></strong> While in this stance, you gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip> tests. Additionally, while there are two or more enemies within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip>, you can use <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> to gain <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span>, which you can spend only to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"disengage\" nexus=\"cosmererpg\">Disengage</tooltip> or use an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"actions\" nexus=\"cosmererpg\">action</tooltip> that includes an attack test targeting one or more of those enemies.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Windstance",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While in this stance, you gain an advantage on Agility tests. Additionally, while there are two or more enemies within your reach, you can use ▷ to gain ▶, which you can spend only to Disengage or use an action that includes an attack test.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"4810e933-e123-48b4-b6ca-f6e9601087c6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"intimidation\" nexus=\"cosmererpg\">Intimidation</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"feinting-strike\" nexus=\"cosmererpg\">Feinting Strike</tooltip> talent\n</p>\n<p chunk_id=\"1b58a5d3-98cf-4407-a8f6-050df12c11f0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"8d4f3e84-3970-49c2-8b12-8ada045f637c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Battles are won and lost in moments of brief inattention or exhaustion. You create and exploit these opportunities, patiently waiting to vanquish your foe in a single stroke.</em></p>\n</div>\n<p chunk_id=\"6bdf192d-eacb-46b0-9484-b30c1cc56191\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to move up to half your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"movement-rate\" nexus=\"cosmererpg\">movement</tooltip> rate, then make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-weapons\" nexus=\"cosmererpg\">melee weapon</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip> against the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">Cognitive</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> of a target who has 0 focus. This attack ignores your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target's</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"deflect\" nexus=\"cosmererpg\">deflect</tooltip> value and deals an extra 4d6 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> on a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>. It can’t <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip>, only miss or hit.\n</p>\n<p chunk_id=\"51fc6932-0b81-4b85-8d0d-76fa13ee6a96\" class=\"CORE-paragraph-styles_CORE-body\"> This talent becomes more powerful as your tier increases: at tier 3, you roll an extra 6d6 damage (instead of 4d6); at tier 4, you instead roll an extra 8d6 damage; and at tier 5, you instead roll an extra 10d6 damage.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Wit’s End",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 1 focus to move up to half your movement rate, then make a melee weapon attack against the Cognitive defense of a target who has 0 focus.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "wits-end",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Duelist",
+							"value": "duelist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"duelist": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Intimidation 3+",
+									"value": "intimidation",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Feinting Strike talent",
+									"value": "feinting-strike",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": 1,
+						"costLabel": "Focus",
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"feinting-strike"
+					],
+					"objectID": "105980",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"4810e933-e123-48b4-b6ca-f6e9601087c6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"intimidation\" nexus=\"cosmererpg\">Intimidation</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"feinting-strike\" nexus=\"cosmererpg\">Feinting Strike</tooltip> talent\n</p>\n<p chunk_id=\"1b58a5d3-98cf-4407-a8f6-050df12c11f0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"8d4f3e84-3970-49c2-8b12-8ada045f637c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Battles are won and lost in moments of brief inattention or exhaustion. You create and exploit these opportunities, patiently waiting to vanquish your foe in a single stroke.</em></p>\n</div>\n<p chunk_id=\"6bdf192d-eacb-46b0-9484-b30c1cc56191\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to move up to half your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"movement-rate\" nexus=\"cosmererpg\">movement</tooltip> rate, then make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"melee-weapons\" nexus=\"cosmererpg\">melee weapon</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"attacking\" nexus=\"cosmererpg\">attack</tooltip> against the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">Cognitive</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> of a target who has 0 focus. This attack ignores your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target's</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"deflect\" nexus=\"cosmererpg\">deflect</tooltip> value and deals an extra 4d6 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> on a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>. It can’t <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">graze</tooltip>, only miss or hit.\n</p>\n<p chunk_id=\"51fc6932-0b81-4b85-8d0d-76fa13ee6a96\" class=\"CORE-paragraph-styles_CORE-body\"> This talent becomes more powerful as your tier increases: at tier 3, you roll an extra 6d6 damage (instead of 4d6); at tier 4, you instead roll an extra 8d6 damage; and at tier 5, you instead roll an extra 10d6 damage.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Wit’s End",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 1 focus to move up to half your movement rate, then make a melee weapon attack against the Cognitive defense of a target who has 0 focus.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 25,
+			"nbSortedHits": 25,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=paths.value%3A'warrior'&hitsPerPage=25&page=0&query=",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"roundTrip": 58
+				},
+				"afterFetch": {
+					"format": {
+						"highlighting": 2,
+						"total": 2
+					}
+				},
+				"total": 1
+			},
+			"serverTimeMS": 4
+		}
+	]
+}

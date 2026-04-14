@@ -1,0 +1,823 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"ef10dd7f-8f54-4723-b819-1eefa99858f8\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Tension 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rigged-weaponry\" nexus=\"cosmererpg\">Rigged Weaponry</tooltip> talent</p>\n<p chunk_id=\"cbe683b7-ecfc-4ed3-97a8-cf4d17e3de82\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"59de0581-2555-4f9d-b1ee-b4680e4f722d\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>As you infuse soft materials with Tension, they contort themselves into exactly what you envision.</em></p>\n</div>\n<p chunk_id=\"8ca71959-8078-4610-b275-440c383318d4\" class=\"CORE-paragraph-styles_CORE-body\">When you use Tension to create an object or weapon, you can automatically reshape it before it becomes rigid without using additional actions or time. When you do, you instantaneously mold the soft material into an object as elaborate, intricate, and complex as you wish. For example, you could turn a large tarp into a table or chair, shape a cloak around its wearer as a functioning suit of half plate, cause a grappling hook attached to a rope to secure itself to a ledge above, or create intricate shapes or images.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Cloth Mastery",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you use Tension to create an object or weapon, you can automatically reshape it before it becomes rigid without using additional actions or time.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "cloth-mastery",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"isLegacy": false,
+					"sort": 0,
+					"paths": [
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						}
+					],
+					"isSpoiler": false,
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"talentTrees": [
+						{
+							"name": "Tension",
+							"value": "tension"
+						}
+					],
+					"parentTalents": [
+						"rigged-weaponry"
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"peakspren-bond": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Rigged Weaponry talent",
+									"value": "rigged-weaponry",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Tension 2+",
+									"value": "tension",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"elementImage": "null",
+					"objectID": "106096",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"ef10dd7f-8f54-4723-b819-1eefa99858f8\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Tension 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rigged-weaponry\" nexus=\"cosmererpg\">Rigged Weaponry</tooltip> talent</p>\n<p chunk_id=\"cbe683b7-ecfc-4ed3-97a8-cf4d17e3de82\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"59de0581-2555-4f9d-b1ee-b4680e4f722d\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>As you infuse soft materials with Tension, they contort themselves into exactly what you envision.</em></p>\n</div>\n<p chunk_id=\"8ca71959-8078-4610-b275-440c383318d4\" class=\"CORE-paragraph-styles_CORE-body\">When you use Tension to create an object or weapon, you can automatically reshape it before it becomes rigid without using additional actions or time. When you do, you instantaneously mold the soft material into an object as elaborate, intricate, and complex as you wish. For example, you could turn a large tarp into a table or chair, shape a cloak around its wearer as a functioning suit of half plate, cause a grappling hook attached to a rope to secure itself to a ledge above, or create intricate shapes or images.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Cloth Mastery",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you use Tension to create an object or weapon, you can automatically reshape it before it becomes rigid without using additional actions or time.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"f8d4f283-eae9-4aff-ac21-bb6231e69015\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"cloth-mastery\" nexus=\"cosmererpg\">Cloth Mastery</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"surface-tension\" nexus=\"cosmererpg\">Surface Tension</tooltip> talent</p>\n<p chunk_id=\"eaaa704d-f300-41a3-9f1d-0ffc340b79bc\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"74ff3008-af9a-4739-8351-6b84506524f9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>The impromptu weapons and armor you create with Tension are so powerful that they rival Shardblades and Plate.</em></p>\n</div>\n<p chunk_id=\"299a2f57-2461-4a40-af45-242da533a169\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you infuse Tension to grant a character the Hardened Defense effect, their Physical defense increases by 4 (instead of 2).</p>\n<p chunk_id=\"d9ea6cc7-74a6-431c-bece-429fac416326\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Additionally, when you temporarily create a weapon with Tension (see “<a href=\"nexus/cosmererpg/sources/stormlight-handbook/chapter-6-surges/#CreatingObjectsandWeapons\" title=\"Creating Objects and Weapons\">Creating Objects and Weapons</a>”), it gains an extra d4 damage die (for example, an axe created this way deals 1d6 + 1d4 keen damage). The size of this die increases with your ranks in Tension; at 2 ranks, the extra die becomes a d6 (instead of a d4), and so on.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Clothsmith",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you infuse Tension to grant a character the Hardened Defense effect, their Physical defense increases by 4.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "clothsmith",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"isLegacy": false,
+					"sort": 0,
+					"paths": [
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						}
+					],
+					"isSpoiler": false,
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"talentTrees": [
+						{
+							"name": "Tension",
+							"value": "tension"
+						}
+					],
+					"parentTalents": [
+						"cloth-mastery",
+						"surface-tension"
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"peakspren-bond": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cloth Mastery talent",
+									"value": "cloth-mastery",
+									"hardRule": true
+								},
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Surface Tension talent",
+									"value": "surface-tension",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"elementImage": "null",
+					"objectID": "106100",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"f8d4f283-eae9-4aff-ac21-bb6231e69015\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"cloth-mastery\" nexus=\"cosmererpg\">Cloth Mastery</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"surface-tension\" nexus=\"cosmererpg\">Surface Tension</tooltip> talent</p>\n<p chunk_id=\"eaaa704d-f300-41a3-9f1d-0ffc340b79bc\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"74ff3008-af9a-4739-8351-6b84506524f9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>The impromptu weapons and armor you create with Tension are so powerful that they rival Shardblades and Plate.</em></p>\n</div>\n<p chunk_id=\"299a2f57-2461-4a40-af45-242da533a169\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you infuse Tension to grant a character the Hardened Defense effect, their Physical defense increases by 4 (instead of 2).</p>\n<p chunk_id=\"d9ea6cc7-74a6-431c-bece-429fac416326\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Additionally, when you temporarily create a weapon with Tension (see “<a href=\"nexus/cosmererpg/sources/stormlight-handbook/chapter-6-surges/#CreatingObjectsandWeapons\" title=\"Creating Objects and Weapons\">Creating Objects and Weapons</a>”), it gains an extra d4 damage die (for example, an axe created this way deals 1d6 + 1d4 keen damage). The size of this die increases with your ranks in Tension; at 2 ranks, the extra die becomes a d6 (instead of a d4), and so on.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Clothsmith",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you infuse Tension to grant a character the Hardened Defense effect, their Physical defense increases by 4.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"fa0de05e-f8bc-46bb-9ac5-09347e59f8c2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"stormlight-reclamation\" nexus=\"cosmererpg\">Stormlight Reclamation</tooltip> talent\n</p>\n<p chunk_id=\"1eafd032-619b-41f2-894f-9736f96c14fb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"b468d43b-3e60-4448-b37d-5b20f37f676c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your infusions of Tension expend the Stormlight far less quickly.</em></p>\n</div>\n<p chunk_id=\"1bbaff10-c677-4d63-bd8f-2370dc2d86c9\" class=\"CORE-paragraph-styles_CORE-body\">When you infuse Tension into an object, instead of the infusion expending 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> per round, it expends 1 Investiture per number of rounds equal to your ranks in Tension. For example, if you have 3 ranks in Tension, those infusions expend Investiture once every 3 rounds.</p>\n<p chunk_id=\"1164470f-7987-49a0-8b9c-e5eed122fcb6\" class=\"CORE-paragraph-styles_CORE-body\">Additionally, while you have 1 Investiture or more, you can maintain Tension infusions on objects you’re holding or wearing without either you or the infusion expending Investiture.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Extended Tension",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you infuse Tension into an object, it expends 1 Investiture per number of rounds equal to your ranks in Tension.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "extended-tension",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"isLegacy": false,
+					"sort": 0,
+					"paths": [
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						}
+					],
+					"isSpoiler": false,
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"talentTrees": [
+						{
+							"name": "Tension",
+							"value": "tension"
+						}
+					],
+					"parentTalents": [
+						"stormlight-reclamation"
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"peakspren-bond": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Stormlight Reclamation talent",
+									"value": "stormlight-reclamation",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"elementImage": "null",
+					"objectID": "106098",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"fa0de05e-f8bc-46bb-9ac5-09347e59f8c2\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"stormlight-reclamation\" nexus=\"cosmererpg\">Stormlight Reclamation</tooltip> talent\n</p>\n<p chunk_id=\"1eafd032-619b-41f2-894f-9736f96c14fb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"b468d43b-3e60-4448-b37d-5b20f37f676c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your infusions of Tension expend the Stormlight far less quickly.</em></p>\n</div>\n<p chunk_id=\"1bbaff10-c677-4d63-bd8f-2370dc2d86c9\" class=\"CORE-paragraph-styles_CORE-body\">When you infuse Tension into an object, instead of the infusion expending 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> per round, it expends 1 Investiture per number of rounds equal to your ranks in Tension. For example, if you have 3 ranks in Tension, those infusions expend Investiture once every 3 rounds.</p>\n<p chunk_id=\"1164470f-7987-49a0-8b9c-e5eed122fcb6\" class=\"CORE-paragraph-styles_CORE-body\">Additionally, while you have 1 Investiture or more, you can maintain Tension infusions on objects you’re holding or wearing without either you or the infusion expending Investiture.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Extended Tension",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you infuse Tension into an object, it expends 1 Investiture per number of rounds equal to your ranks in Tension.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"cb7a5a7c-45bb-4f64-9c8c-eb281adcc5ef\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"cloth-mastery\" nexus=\"cosmererpg\">Cloth Mastery</tooltip> talent\n</p>\n<p chunk_id=\"df460233-72a4-40dd-9833-e3de43028f8c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"7bd30a8a-2a9b-46c2-a48b-92f5a0b270de\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your careful practice allows you to selectively change the rigidity of an object’s parts, allowing fine control much like the movement of muscles and tendons.</em></p>\n</div>\n<p chunk_id=\"60c18b7c-c45a-49c9-8bd3-63b861e510b0\" class=\"CORE-paragraph-styles_CORE-body\">Infuse 1 Investiture or more into an unattended object within reach that is of a size you can affect with Tension. Though the infused object isn’t a character, for the duration, its current and maximum health both increase to 5 × your ranks in Tension, and each of its defenses equals 10 + your Tension modifier. If the infused object is reduced to 0 health, the infusion ends early and the object breaks.</p>\n<p chunk_id=\"4ed4591a-cde3-41a5-bba4-6594abc21037\" class=\"CORE-paragraph-styles_CORE-body\">Many Tension users infuse long pieces of cloth, rope, or other flexible material that they can control, effectively extending their range. On each of your turns for the duration, while touching part of one object you infused using this talent, you can move it up to 25 feet along surfaces (including ceilings) and can use it to interact with characters and other objects. You can use ▷ to have one infused object perform simple tasks like climbing a tree or opening a door. You can use ▶ to task one infused object with something that requires a test or your careful attention, such as attacking someone or writing a message. The object has no senses of its own and can’t act without your touch and direct control, so you can’t give it tasks that require senses or knowledge you don’t have.</p>\n<p chunk_id=\"2408b573-c348-49b1-aa57-297f7c0a2acb\" class=\"CORE-paragraph-styles_CORE-body\">If the object’s task requires a test (such as an attack or Athletics test), you must be able to sense its target, and you use your Tension instead of that test’s usual skill.</p>\n<p chunk_id=\"142a2f0a-fe75-42f2-9e3f-332404c4bf5c\" class=\"CORE-paragraph-styles_CORE-body\">The object can make a melee attack using Tension against the Physical defense of a target within 5 feet of it, rolling 2d4 impact damage. The size of these dice increases with your ranks in Tension; at 2 ranks, roll 2d6 (instead of 2d4), and so on.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Fine Control",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Infuse 1 Investiture or more into an unattended object within reach that is of a size you can affect with Tension.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "fine-control",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"isLegacy": false,
+					"sort": 0,
+					"paths": [
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						}
+					],
+					"isSpoiler": false,
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"talentTrees": [
+						{
+							"name": "Tension",
+							"value": "tension"
+						}
+					],
+					"parentTalents": [
+						"cloth-mastery"
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"peakspren-bond": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cloth Mastery",
+									"value": "cloth-mastery",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"elementImage": "null",
+					"objectID": "106097",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"cb7a5a7c-45bb-4f64-9c8c-eb281adcc5ef\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"cloth-mastery\" nexus=\"cosmererpg\">Cloth Mastery</tooltip> talent\n</p>\n<p chunk_id=\"df460233-72a4-40dd-9833-e3de43028f8c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"7bd30a8a-2a9b-46c2-a48b-92f5a0b270de\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your careful practice allows you to selectively change the rigidity of an object’s parts, allowing fine control much like the movement of muscles and tendons.</em></p>\n</div>\n<p chunk_id=\"60c18b7c-c45a-49c9-8bd3-63b861e510b0\" class=\"CORE-paragraph-styles_CORE-body\">Infuse 1 Investiture or more into an unattended object within reach that is of a size you can affect with Tension. Though the infused object isn’t a character, for the duration, its current and maximum health both increase to 5 × your ranks in Tension, and each of its defenses equals 10 + your Tension modifier. If the infused object is reduced to 0 health, the infusion ends early and the object breaks.</p>\n<p chunk_id=\"4ed4591a-cde3-41a5-bba4-6594abc21037\" class=\"CORE-paragraph-styles_CORE-body\">Many Tension users infuse long pieces of cloth, rope, or other flexible material that they can control, effectively extending their range. On each of your turns for the duration, while touching part of one object you infused using this talent, you can move it up to 25 feet along surfaces (including ceilings) and can use it to interact with characters and other objects. You can use ▷ to have one infused object perform simple tasks like climbing a tree or opening a door. You can use ▶ to task one infused object with something that requires a test or your careful attention, such as attacking someone or writing a message. The object has no senses of its own and can’t act without your touch and direct control, so you can’t give it tasks that require senses or knowledge you don’t have.</p>\n<p chunk_id=\"2408b573-c348-49b1-aa57-297f7c0a2acb\" class=\"CORE-paragraph-styles_CORE-body\">If the object’s task requires a test (such as an attack or Athletics test), you must be able to sense its target, and you use your Tension instead of that test’s usual skill.</p>\n<p chunk_id=\"142a2f0a-fe75-42f2-9e3f-332404c4bf5c\" class=\"CORE-paragraph-styles_CORE-body\">The object can make a melee attack using Tension against the Physical defense of a target within 5 feet of it, rolling 2d4 impact damage. The size of these dice increases with your ranks in Tension; at 2 ranks, roll 2d6 (instead of 2d4), and so on.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Fine Control",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Infuse 1 Investiture or more into an unattended object within reach that is of a size you can affect with Tension.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"118aa1b0-0038-4262-8011-0997f0dd973a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"tension-parry\" nexus=\"cosmererpg\">Tension Parry</tooltip> talent\n</p>\n<p chunk_id=\"e108abfd-34bd-4de8-a54c-efdf5ff88f19\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"4e44e53e-1b7e-4989-a36c-dbef2b3ddc4b\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Dynamic use of Tension on cloth or rope allows you to augment your martial prowess.</em></p>\n</div>\n<p chunk_id=\"bd16a204-d604-4bff-a9de-2d9e489afb8e\" class=\"CORE-paragraph-styles_CORE-body\">While wielding a melee weapon and holding cloth or other flexible object that’s at least 10 feet long, you can spend 1 Investiture as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> to increase the weapon’s reach by 10 feet until the end of your next turn.</p>\n<p chunk_id=\"f58c5f2a-09fd-47fc-b585-61370d0b94a5\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, after you hit a character with a melee attack, you can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> or 2 focus to use Tension on an object the target is holding or wearing, infusing Investiture as usual but without spending an action. You automatically succeed on the test to infuse it.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Rigged Weaponry",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You can spend 1 Investiture as ▷ to increase a weapon’s reach by 10 feet until the end of your next turn.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "rigged-weaponry",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"isLegacy": false,
+					"sort": 0,
+					"paths": [
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						}
+					],
+					"isSpoiler": false,
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"talentTrees": [
+						{
+							"name": "Tension",
+							"value": "tension"
+						}
+					],
+					"parentTalents": [
+						"tension-parry"
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"peakspren-bond": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Tension Parry talent",
+								"value": "tension-parry",
+								"hardRule": true
+							}
+						]
+					},
+					"elementImage": "null",
+					"objectID": "106095",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"118aa1b0-0038-4262-8011-0997f0dd973a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"tension-parry\" nexus=\"cosmererpg\">Tension Parry</tooltip> talent\n</p>\n<p chunk_id=\"e108abfd-34bd-4de8-a54c-efdf5ff88f19\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"4e44e53e-1b7e-4989-a36c-dbef2b3ddc4b\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Dynamic use of Tension on cloth or rope allows you to augment your martial prowess.</em></p>\n</div>\n<p chunk_id=\"bd16a204-d604-4bff-a9de-2d9e489afb8e\" class=\"CORE-paragraph-styles_CORE-body\">While wielding a melee weapon and holding cloth or other flexible object that’s at least 10 feet long, you can spend 1 Investiture as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span> to increase the weapon’s reach by 10 feet until the end of your next turn.</p>\n<p chunk_id=\"f58c5f2a-09fd-47fc-b585-61370d0b94a5\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, after you hit a character with a melee attack, you can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> or 2 focus to use Tension on an object the target is holding or wearing, infusing Investiture as usual but without spending an action. You automatically succeed on the test to infuse it.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Rigged Weaponry",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You can spend 1 Investiture as ▷ to increase a weapon’s reach by 10 feet until the end of your next turn.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"70c004dd-69b8-4710-b3e3-5eb421cb3d14\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies\n</p>\n<p chunk_id=\"f1ab27a0-86e3-47a9-a776-0cdc3d515263\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"722c41e7-0e3a-4ea3-a111-a84bd2bca6dc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can reclaim Stormlight from active infusions.</em></p>\n</div>\n<p chunk_id=\"eb779919-ef2b-4ac3-b364-5a7ed67ac868\" class=\"CORE-paragraph-styles_CORE-body\">After your infusions expend their infused Investiture at the start of your turn, you can end any number of those infusions within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip>, recovering all remaining Investiture they were infused with.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Stormlight Reclamation",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "At the start of your turn, you can end any number of infusions to regain their remaining Investiture.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "stormlight-reclamation",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Edgedancer",
+							"value": "edgedancer"
+						},
+						{
+							"name": "Lightweaver",
+							"value": "lightweaver"
+						},
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						},
+						{
+							"name": "Truthwatcher",
+							"value": "truthwatcher"
+						},
+						{
+							"name": "Windrunner",
+							"value": "windrunner"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Abrasion",
+							"value": "abrasion"
+						},
+						{
+							"name": "Illumination",
+							"value": "illumination"
+						},
+						{
+							"name": "Tension",
+							"value": "tension"
+						},
+						{
+							"name": "Adhesion",
+							"value": "adhesion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"tension": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Tension",
+									"value": "tension",
+									"hardRule": true
+								}
+							]
+						],
+						"abrasion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Reverse Abrasion talent",
+									"value": "reverse-abrasion",
+									"hardRule": true
+								}
+							]
+						],
+						"adhesion": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Adhesion",
+									"value": "adhesion",
+									"hardRule": true
+								}
+							]
+						],
+						"illusion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Distracting Illusion talent",
+									"value": "distracting-illusion",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Free action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"reverse-abrasion",
+						"distracting-illusion",
+						"speak-the-first-ideal-stoneward",
+						"speak-the-first-ideal-windrunner"
+					],
+					"objectID": "106007",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"70c004dd-69b8-4710-b3e3-5eb421cb3d14\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies\n</p>\n<p chunk_id=\"f1ab27a0-86e3-47a9-a776-0cdc3d515263\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"722c41e7-0e3a-4ea3-a111-a84bd2bca6dc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can reclaim Stormlight from active infusions.</em></p>\n</div>\n<p chunk_id=\"eb779919-ef2b-4ac3-b364-5a7ed67ac868\" class=\"CORE-paragraph-styles_CORE-body\">After your infusions expend their infused Investiture at the start of your turn, you can end any number of those infusions within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip>, recovering all remaining Investiture they were infused with.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Stormlight Reclamation",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "At the start of your turn, you can end any number of infusions to regain their remaining Investiture.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"a749b77e-90eb-4723-9e39-730cbf628ae8\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"extended-tension\" nexus=\"cosmererpg\">Extended Tension</tooltip> talent\n</p>\n<p chunk_id=\"6986ce25-5e06-4c5c-9aa3-4bbd225274fd\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"4c8ea251-8211-4663-8d1e-8586dc499ce9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You use Tension to solidify the surface of liquids into traversable ground.</em></p>\n</div>\n<p chunk_id=\"17c624f8-b141-48b8-b36d-780c6b79f551\" class=\"CORE-paragraph-styles_CORE-body\">You can use Tension on liquid, affecting an area up to twice the size you can normally affect with your ranks in Tension. For the duration, this liquid’s surface tension increases and characters can walk on it like solid ground.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Surface Tension",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "You can use Tension on liquid, affecting an area up to twice the size you can normally affect with your ranks in Tension.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "surface-tension",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"isLegacy": false,
+					"sort": 0,
+					"paths": [
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						}
+					],
+					"isSpoiler": false,
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"talentTrees": [
+						{
+							"name": "Tension",
+							"value": "tension"
+						}
+					],
+					"parentTalents": [
+						"extended-tension"
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"peakspren-bond": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Extended Tension talent",
+									"value": "extended-tension",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"elementImage": "null",
+					"objectID": "106099",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"a749b77e-90eb-4723-9e39-730cbf628ae8\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"extended-tension\" nexus=\"cosmererpg\">Extended Tension</tooltip> talent\n</p>\n<p chunk_id=\"6986ce25-5e06-4c5c-9aa3-4bbd225274fd\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"4c8ea251-8211-4663-8d1e-8586dc499ce9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You use Tension to solidify the surface of liquids into traversable ground.</em></p>\n</div>\n<p chunk_id=\"17c624f8-b141-48b8-b36d-780c6b79f551\" class=\"CORE-paragraph-styles_CORE-body\">You can use Tension on liquid, affecting an area up to twice the size you can normally affect with your ranks in Tension. For the duration, this liquid’s surface tension increases and characters can walk on it like solid ground.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Surface Tension",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "You can use Tension on liquid, affecting an area up to twice the size you can normally affect with your ranks in Tension.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"88272e63-8848-4759-ac6d-8c0818baf84e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"fba3b947-c058-439d-8f02-75de3e6d7928\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">↻</span></p>\n<div chunk_id=\"29d09e3c-4201-40d9-abf7-b80008015325\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You stiffen clothing to block incoming attacks.</em></p>\n</div>\n<p chunk_id=\"5a07e51f-dab8-46a1-83b6-469eaf2d0a6b\" class=\"CORE-paragraph-styles_CORE-body\">Before you or an ally within your reach is hit or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">grazed</tooltip> by an attack against Physical defense, you can use this reaction to infuse Tension into the target’s clothing or a soft material you wrap around the target, spending Investiture as usual. They gain the Hardened Defense effect, increasing their Physical defense by 2 for the duration, including against the triggering attack. If the attack hit, this increase can change it to a miss. If the attack grazed, the target ignores its effects.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Tension Parry",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When attacked, you can react to increase the Physical defense of you or an ally by 2.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "tension-parry",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Stoneward",
+							"value": "stoneward"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Tension",
+							"value": "tension"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"tension": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Tension",
+									"value": "tension",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": "",
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Reaction",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-stoneward"
+					],
+					"objectID": "106094",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"88272e63-8848-4759-ac6d-8c0818baf84e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"fba3b947-c058-439d-8f02-75de3e6d7928\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">↻</span></p>\n<div chunk_id=\"29d09e3c-4201-40d9-abf7-b80008015325\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You stiffen clothing to block incoming attacks.</em></p>\n</div>\n<p chunk_id=\"5a07e51f-dab8-46a1-83b6-469eaf2d0a6b\" class=\"CORE-paragraph-styles_CORE-body\">Before you or an ally within your reach is hit or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"graze\" nexus=\"cosmererpg\">grazed</tooltip> by an attack against Physical defense, you can use this reaction to infuse Tension into the target’s clothing or a soft material you wrap around the target, spending Investiture as usual. They gain the Hardened Defense effect, increasing their Physical defense by 2 for the duration, including against the triggering attack. If the attack hit, this increase can change it to a miss. If the attack grazed, the target ignores its effects.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Tension Parry",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When attacked, you can react to increase the Physical defense of you or an ally by 2.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 8,
+			"nbSortedHits": 8,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=talentTrees.value%3A'tension'&hitsPerPage=25&page=0",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"roundTrip": 60
+				},
+				"total": 0
+			},
+			"serverTimeMS": 1
+		}
+	]
+}

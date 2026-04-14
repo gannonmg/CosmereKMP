@@ -1,0 +1,776 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"9b888c4b-e1bc-414b-abcf-113d99cf5edc\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"4187a86a-da27-4d61-b786-042700183351\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"0acb9af1-e4ef-49d2-8e1b-7bde1c7c6490\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You atrophy the bodies of your enemies, inflicting debilitating wounds.</em></p>\n</div>\n<p chunk_id=\"1322b45e-7a49-417e-8236-94a9bde364a0\" class=\"CORE-paragraph-styles_CORE-body\">When you hit with a Division attack, you can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> to inflict an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"injuries\" nexus=\"cosmererpg\">injury</tooltip> on one target of that attack.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Bodily Decay",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you hit with a Division attack, you can spend an Opportunity to cause one target of that attack to suffer an injury.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "bodily-decay",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Division",
+							"value": "division"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"division": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Division",
+									"value": "division",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-dustbringer",
+						"first-ideal-skybreaker"
+					],
+					"objectID": "106010",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"9b888c4b-e1bc-414b-abcf-113d99cf5edc\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"4187a86a-da27-4d61-b786-042700183351\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"0acb9af1-e4ef-49d2-8e1b-7bde1c7c6490\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You atrophy the bodies of your enemies, inflicting debilitating wounds.</em></p>\n</div>\n<p chunk_id=\"1322b45e-7a49-417e-8236-94a9bde364a0\" class=\"CORE-paragraph-styles_CORE-body\">When you hit with a Division attack, you can spend <span aria-label=\"Opportunity\" class=\"icon-font-blue icon\" title=\"Opportunity\">O</span> to inflict an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"injuries\" nexus=\"cosmererpg\">injury</tooltip> on one target of that attack.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Bodily Decay",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you hit with a Division attack, you can spend an Opportunity to cause one target of that attack to suffer an injury.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"d06eeca9-c0ba-4e02-8b6e-4ba54ed6ebef\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"gout-of-flame\" nexus=\"cosmererpg\">Gout of Flame</tooltip> talent\n</p>\n<p chunk_id=\"067d96cf-692e-4f6c-b2d4-83cd2ffe412e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"36f7a49f-d494-4bb3-8a68-1666902a30cc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your Division is especially potent and destructive.</em></p>\n</div>\n<p chunk_id=\"ef387ff9-99df-42e1-a125-88a499f43a8d\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\">When you roll damage for Division or its talents, roll an additional damage die of the same size.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Devastating Division",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you roll damage for Division, roll an additional damage die.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "devastating-division",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Division",
+							"value": "division"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"division": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Gout of Flame talent",
+								"value": "gout-of-flame",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"gout-of-flame"
+					],
+					"objectID": "106013",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"d06eeca9-c0ba-4e02-8b6e-4ba54ed6ebef\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"gout-of-flame\" nexus=\"cosmererpg\">Gout of Flame</tooltip> talent\n</p>\n<p chunk_id=\"067d96cf-692e-4f6c-b2d4-83cd2ffe412e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"36f7a49f-d494-4bb3-8a68-1666902a30cc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your Division is especially potent and destructive.</em></p>\n</div>\n<p chunk_id=\"ef387ff9-99df-42e1-a125-88a499f43a8d\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\">When you roll damage for Division or its talents, roll an additional damage die of the same size.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Devastating Division",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you roll damage for Division, roll an additional damage die.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"2ed1fec5-fd7c-479d-ad00-c6a1475cc011\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"830a2e92-09b0-4ef6-935c-ddf328b14a60\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"af1e51de-9110-43e9-b304-7052d3bfafcd\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your ability to decay what you touch ensures you can’t be contained for long.</em></p>\n</div>\n<p chunk_id=\"89ab80d1-1393-48e5-a340-fc65e8d6d04c\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> or more to end that many effects on yourself or an ally within your reach. The chosen effects must either be applying the <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"immobilized\" nexus=\"cosmererpg\">Immobilized</tooltip> or <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"restrained\" nexus=\"cosmererpg\">Restrained</tooltip> condition, or be adding a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> to one or more physical tests.</p>\n<p chunk_id=\"4cd5db25-ed7c-4223-aaa4-d3f98b68c850\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Depending on the effect’s source, this talent might not fully destroy the source at the GM’s discretion, but it creates space or opportunity for your target to move around it or free themself from its constraint. If the effect’s source remains at the end of the target’s next turn (such as when swimming or when wearing armor with the <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"cumbersome\" nexus=\"cosmererpg\">Cumbersome</tooltip> trait), the effect then reasserts itself.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Eroding Escape",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 1 or more Investiture to end that many effects inflicting the Restrained or Immobilized condition.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "eroding-escape",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Division",
+							"value": "division"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"division": [
+							[
+								{
+									"rank": null,
+									"type": "power",
+									"label": "Division",
+									"value": "division",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"first-ideal-dustbringer",
+						"first-ideal-skybreaker"
+					],
+					"objectID": "106014",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"2ed1fec5-fd7c-479d-ad00-c6a1475cc011\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Speak the First Ideal</p>\n<p chunk_id=\"830a2e92-09b0-4ef6-935c-ddf328b14a60\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"af1e51de-9110-43e9-b304-7052d3bfafcd\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your ability to decay what you touch ensures you can’t be contained for long.</em></p>\n</div>\n<p chunk_id=\"89ab80d1-1393-48e5-a340-fc65e8d6d04c\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"investiture\" nexus=\"cosmererpg\">Investiture</tooltip> or more to end that many effects on yourself or an ally within your reach. The chosen effects must either be applying the <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"immobilized\" nexus=\"cosmererpg\">Immobilized</tooltip> or <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"restrained\" nexus=\"cosmererpg\">Restrained</tooltip> condition, or be adding a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> to one or more physical tests.</p>\n<p chunk_id=\"4cd5db25-ed7c-4223-aaa4-d3f98b68c850\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Depending on the effect’s source, this talent might not fully destroy the source at the GM’s discretion, but it creates space or opportunity for your target to move around it or free themself from its constraint. If the effect’s source remains at the end of the target’s next turn (such as when swimming or when wearing armor with the <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"cumbersome\" nexus=\"cosmererpg\">Cumbersome</tooltip> trait), the effect then reasserts itself.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Eroding Escape",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 1 or more Investiture to end that many effects inflicting the Restrained or Immobilized condition.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"a51e6bcc-3b17-4c06-9907-459db3133a5a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"igniting-division\" nexus=\"cosmererpg\">Igniting Division</tooltip> talent</p>\n<p chunk_id=\"af918d8f-bfb5-49eb-a8b4-3c2381f5a803\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"71c2f454-cc0f-44e4-b184-ac4961cb05b5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You use Division to spray heat and flame across a wide area.</em></p>\n</div>\n<p chunk_id=\"1b9d2333-0a18-4bb9-bd4a-931c963caedf\" class=\"CORE-paragraph-styles_CORE-body\">Spend 3 Investiture and choose an area up to one size larger than you can normally affect with your ranks in Division; if you already have 5 ranks in Division, you can instead affect an area up to 25 feet in each dimension.</p>\n<p chunk_id=\"3b3cb248-024f-4ae1-954b-0ef4bf4e1744\" class=\"CORE-paragraph-styles_CORE-body\">Make a Division attack against the Physical defense of each target who is at least partially within the chosen area, rolling 3d4 energy damage. The size of these damage dice increases with your ranks in Division; at 2 ranks, roll 3d6 (instead of 3d4), and so on.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Gout of Flame",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 3 Investiture to make a Division attack vs. Physical against each target in an area one size larger than normal.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "gout-of-flame",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Division",
+							"value": "division"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"division": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Igniting Division talent",
+								"value": "igniting-division",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": 3,
+						"minCost": 3,
+						"trigger": null,
+						"costUnit": "investiture",
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"igniting-division"
+					],
+					"objectID": "106012",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"a51e6bcc-3b17-4c06-9907-459db3133a5a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"igniting-division\" nexus=\"cosmererpg\">Igniting Division</tooltip> talent</p>\n<p chunk_id=\"af918d8f-bfb5-49eb-a8b4-3c2381f5a803\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"71c2f454-cc0f-44e4-b184-ac4961cb05b5\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You use Division to spray heat and flame across a wide area.</em></p>\n</div>\n<p chunk_id=\"1b9d2333-0a18-4bb9-bd4a-931c963caedf\" class=\"CORE-paragraph-styles_CORE-body\">Spend 3 Investiture and choose an area up to one size larger than you can normally affect with your ranks in Division; if you already have 5 ranks in Division, you can instead affect an area up to 25 feet in each dimension.</p>\n<p chunk_id=\"3b3cb248-024f-4ae1-954b-0ef4bf4e1744\" class=\"CORE-paragraph-styles_CORE-body\">Make a Division attack against the Physical defense of each target who is at least partially within the chosen area, rolling 3d4 energy damage. The size of these damage dice increases with your ranks in Division; at 2 ranks, roll 3d6 (instead of 3d4), and so on.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Gout of Flame",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 3 Investiture to make a Division attack vs. Physical against each target in an area one size larger than normal.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"936feed8-13fb-40a3-a72a-ed6d02599a1f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"bodily-decay\" nexus=\"cosmererpg\">Bodily Decay</tooltip> talent\n</p>\n<p chunk_id=\"0f6da801-d44d-4290-b4c2-3514cb2fb68a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"bcb71f18-31a4-4a19-963f-f907bdfcf0bd\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can make anything burn, even materials that are usually nonflammable.</em></p>\n</div>\n<p chunk_id=\"79e6523a-8281-49d9-9f31-b02ae8c46d6d\" class=\"CORE-paragraph-styles_CORE-body\">When you affect a target with Division, you can spend 1 or more additional Investiture to cause that target to catch fire for a number of rounds equal to the Investiture spent. If you didn’t already have to make a Division test when you affected that target (see “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-6-surges/#DivisionUnderPressure\" title=\"Division Under Pressure\">Division Under Pressure</a>”), you must succeed on one now to do so.</p>\n<p chunk_id=\"da72d486-3fd8-455b-8799-a2f88fd70436\" class=\"CORE-paragraph-styles_CORE-body\">For the duration, the target becomes <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"afflicted\" nexus=\"cosmererpg\">Afflicted</tooltip>, and the area within 5 feet of the target is lit on fire and becomes <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"dangerous-terrain\" nexus=\"cosmererpg\">dangerous terrain</tooltip>. Both effects deal energy damage equal to your Division modifier. At the GM’s discretion, the dangerous terrain can spread on subsequent rounds.</p>\n<p chunk_id=\"2c355ec3-b9a4-4237-bcd6-3ace7651a04a\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">The target or a character within reach of it can <tooltip category=\"action\" class=\"tooltip-convert\" element=\"use-a-skill\" nexus=\"cosmererpg\">Use a Skill</tooltip> to make an <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip> or <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> test opposed by your Division. If they succeed, the target’s Afflicted condition ends early, but the ignited area continues to burn.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Igniting Division",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you use Division, spend 1 or more Investiture to light the target’s space on fire",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "igniting-division",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Division",
+							"value": "division"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"division": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Bodily Decay talent",
+								"value": "bodily-decay",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": 10,
+						"minCost": 1,
+						"trigger": null,
+						"costUnit": "investiture",
+						"costLabel": "1+ investiture",
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"bodily-decay"
+					],
+					"objectID": "106011",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"936feed8-13fb-40a3-a72a-ed6d02599a1f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"bodily-decay\" nexus=\"cosmererpg\">Bodily Decay</tooltip> talent\n</p>\n<p chunk_id=\"0f6da801-d44d-4290-b4c2-3514cb2fb68a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"bcb71f18-31a4-4a19-963f-f907bdfcf0bd\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can make anything burn, even materials that are usually nonflammable.</em></p>\n</div>\n<p chunk_id=\"79e6523a-8281-49d9-9f31-b02ae8c46d6d\" class=\"CORE-paragraph-styles_CORE-body\">When you affect a target with Division, you can spend 1 or more additional Investiture to cause that target to catch fire for a number of rounds equal to the Investiture spent. If you didn’t already have to make a Division test when you affected that target (see “<a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-6-surges/#DivisionUnderPressure\" title=\"Division Under Pressure\">Division Under Pressure</a>”), you must succeed on one now to do so.</p>\n<p chunk_id=\"da72d486-3fd8-455b-8799-a2f88fd70436\" class=\"CORE-paragraph-styles_CORE-body\">For the duration, the target becomes <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"afflicted\" nexus=\"cosmererpg\">Afflicted</tooltip>, and the area within 5 feet of the target is lit on fire and becomes <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"dangerous-terrain\" nexus=\"cosmererpg\">dangerous terrain</tooltip>. Both effects deal energy damage equal to your Division modifier. At the GM’s discretion, the dangerous terrain can spread on subsequent rounds.</p>\n<p chunk_id=\"2c355ec3-b9a4-4237-bcd6-3ace7651a04a\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">The target or a character within reach of it can <tooltip category=\"action\" class=\"tooltip-convert\" element=\"use-a-skill\" nexus=\"cosmererpg\">Use a Skill</tooltip> to make an <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip> or <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> test opposed by your Division. If they succeed, the target’s Afflicted condition ends early, but the ignited area continues to burn.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Igniting Division",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you use Division, spend 1 or more Investiture to light the target’s space on fire",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"fa47b502-388e-4625-a952-1fc4eb8f6a7f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"spark-sending\" nexus=\"cosmererpg\">Spark Sending</tooltip> talent</p>\n<p chunk_id=\"860e011d-65ea-46fe-9933-38d7a35310d7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"3ce9e109-e065-44e7-baa7-d0c1e8389e5b\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can send your spark to far greater distances, seeking out targets around corners and through walls and corners.</em></p>\n</div>\n<p chunk_id=\"4bbf1644-f9aa-49fa-a993-ad00ccd2f049\" class=\"CORE-paragraph-styles_CORE-body\">You can use Division and its talents as though your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> equals your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"spren\" nexus=\"cosmererpg\">spren</tooltip> bond range. You still need a solid surface from you to your target (such as a wall or floor) along which you can send an entropic spark, but you don’t need line of effect to your target while you can sense them.</p>\n<p chunk_id=\"b0d4bdb4-02ad-4c9a-b18a-de591f9d3157\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, your target can't benefit from the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"brace\" nexus=\"cosmererpg\">Brace</tooltip> action against any of your Division attacks.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Inescapable Spark",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Your Spark Sending now extends to your spren bond range. You don’t need line of effect when you can sense your target, and they can’t Brace against your Division.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "inescapable-spark",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Division",
+							"value": "division"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"division": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Spark Sending talent",
+								"value": "spark-sending",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"spark-sending"
+					],
+					"objectID": "106016",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"fa47b502-388e-4625-a952-1fc4eb8f6a7f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"spark-sending\" nexus=\"cosmererpg\">Spark Sending</tooltip> talent</p>\n<p chunk_id=\"860e011d-65ea-46fe-9933-38d7a35310d7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"3ce9e109-e065-44e7-baa7-d0c1e8389e5b\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You can send your spark to far greater distances, seeking out targets around corners and through walls and corners.</em></p>\n</div>\n<p chunk_id=\"4bbf1644-f9aa-49fa-a993-ad00ccd2f049\" class=\"CORE-paragraph-styles_CORE-body\">You can use Division and its talents as though your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> equals your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"spren\" nexus=\"cosmererpg\">spren</tooltip> bond range. You still need a solid surface from you to your target (such as a wall or floor) along which you can send an entropic spark, but you don’t need line of effect to your target while you can sense them.</p>\n<p chunk_id=\"b0d4bdb4-02ad-4c9a-b18a-de591f9d3157\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, your target can't benefit from the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"brace\" nexus=\"cosmererpg\">Brace</tooltip> action against any of your Division attacks.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Inescapable Spark",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Your Spark Sending now extends to your spren bond range. You don’t need line of effect when you can sense your target, and they can’t Brace against your Division.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"2ef17e5e-152e-4a27-87a6-4181ed37aecc\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"bodily-decay\" nexus=\"cosmererpg\">Bodily Decay</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"eroding-escape\" nexus=\"cosmererpg\">Eroding Escape</tooltip> talent\n</p>\n<p chunk_id=\"b44ab6d5-0003-4dd7-bdff-624ef586cb1e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"07649ae6-f09f-438c-9a18-c33030d0e689\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You annihilate your targets from a distance by sending your entropic spark racing through a physical object, creating a chain reaction at its destination.</em></p>\n</div>\n<p chunk_id=\"838a7be8-e8ab-4f13-90f6-4cb2a49806c3\" class=\"CORE-paragraph-styles_CORE-body\">You can use Division and its talents as though your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> is 20 feet, as long as there is a solid surface from you to your target (such as a wall or floor) along which you can send an entropic spark.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Spark Sending",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When there’s a solid surface between you and target, use Division as though your reach is 20 feet.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "spark-sending",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Division",
+							"value": "division"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"division": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Bodily Decay talent",
+									"value": "bodily-decay",
+									"hardRule": true
+								},
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Eroding Escape talent",
+									"value": "eroding-escape",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"bodily-decay",
+						"eroding-escape"
+					],
+					"objectID": "106015",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"2ef17e5e-152e-4a27-87a6-4181ed37aecc\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"bodily-decay\" nexus=\"cosmererpg\">Bodily Decay</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"eroding-escape\" nexus=\"cosmererpg\">Eroding Escape</tooltip> talent\n</p>\n<p chunk_id=\"b44ab6d5-0003-4dd7-bdff-624ef586cb1e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"07649ae6-f09f-438c-9a18-c33030d0e689\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You annihilate your targets from a distance by sending your entropic spark racing through a physical object, creating a chain reaction at its destination.</em></p>\n</div>\n<p chunk_id=\"838a7be8-e8ab-4f13-90f6-4cb2a49806c3\" class=\"CORE-paragraph-styles_CORE-body\">You can use Division and its talents as though your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip> is 20 feet, as long as there is a solid surface from you to your target (such as a wall or floor) along which you can send an entropic spark.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Spark Sending",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When there’s a solid surface between you and target, use Division as though your reach is 20 feet.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"fb2be769-fa25-45e3-9129-c13abbb8f0d9\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"spark-sending\" nexus=\"cosmererpg\">Spark Sending</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"gout-of-flame\" nexus=\"cosmererpg\">Gout of Flame</tooltip> talent</p>\n<p chunk_id=\"45bb4096-923e-443f-9162-6b0e20ee2d99\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"072921d1-b2e4-4f47-abc0-4530ef118567\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve grown so powerful that the ability to destroy everything around you is almost alarmingly easy.</em></p>\n</div>\n<p chunk_id=\"c5359832-3921-4918-aa8c-8fba1e078a15\" class=\"CORE-paragraph-styles_CORE-body\">It costs you one <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> fewer to use Division (but not its talents). Additionally, your DCs on the <a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-6-surges/#DivisionUnderPressure1\" title=\"Division Under Pressure\">Division Under Pressure</a> table are reduced by 5.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Unleashed Entropy",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "It costs you one fewer 1 to use the Division skill. Your Division Under Pressure DC is reduced by 5.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "unleashed-entropy",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Dustbringer",
+							"value": "dustbringer"
+						},
+						{
+							"name": "Skybreaker",
+							"value": "skybreaker"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Division",
+							"value": "division"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"division": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Gout of Flame talent",
+									"value": "gout-of-flame",
+									"hardRule": true
+								},
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Inescapable Spark talent",
+									"value": "inescapable-spark",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"gout-of-flame",
+						"inescapable-spark"
+					],
+					"objectID": "106017",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"fb2be769-fa25-45e3-9129-c13abbb8f0d9\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"spark-sending\" nexus=\"cosmererpg\">Spark Sending</tooltip> talent or <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"gout-of-flame\" nexus=\"cosmererpg\">Gout of Flame</tooltip> talent</p>\n<p chunk_id=\"45bb4096-923e-443f-9162-6b0e20ee2d99\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Act</span></strong><strong><span class=\"color-span\">ivation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"072921d1-b2e4-4f47-abc0-4530ef118567\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve grown so powerful that the ability to destroy everything around you is almost alarmingly easy.</em></p>\n</div>\n<p chunk_id=\"c5359832-3921-4918-aa8c-8fba1e078a15\" class=\"CORE-paragraph-styles_CORE-body\">It costs you one <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> fewer to use Division (but not its talents). Additionally, your DCs on the <a href=\"/nexus/cosmererpg/sources/stormlight-handbook/chapter-6-surges/#DivisionUnderPressure1\" title=\"Division Under Pressure\">Division Under Pressure</a> table are reduced by 5.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Unleashed Entropy",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "It costs you one fewer 1 to use the Division skill. Your Division Under Pressure DC is reduced by 5.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 8,
+			"nbSortedHits": 8,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=talentTrees.value%3A'division'&hitsPerPage=25&page=0",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"roundTrip": 58
+				},
+				"afterFetch": {
+					"format": {
+						"highlighting": 1,
+						"total": 1
+					}
+				},
+				"total": 1
+			},
+			"serverTimeMS": 3
+		}
+	]
+}

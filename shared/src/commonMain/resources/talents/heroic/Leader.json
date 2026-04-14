@@ -1,0 +1,2625 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"e6669985-1a1e-4c76-bfd0-6da94f3139eb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Have a title granting you command over at least 5 people; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"confident-command\" nexus=\"cosmererpg\">Confident Command</tooltip> talent</p>\n<p chunk_id=\"3d37fe9c-8645-4d8d-b4f7-afaa53399ee6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"360c370c-120a-4bd4-9ebb-815c4346788f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your command experience helps you coordinate larger groups across greater distances.</em></p>\n</div>\n<p chunk_id=\"13214b2e-6508-4ebf-b7ed-26dcdd582650\" class=\"CORE-paragraph-styles_CORE-body\">Your Leader talents that affect allies now have double the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"range\" nexus=\"cosmererpg\">range</tooltip> (if they had one) and can affect up to twice as many allies as usual.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Authority",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Your Leader talents that affect allies now have double the range (if they had one) and can affect up to twice as many allies as usual.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "authority",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Officer",
+							"value": "officer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"officer": [
+							[
+								{
+									"rank": null,
+									"type": null,
+									"label": "Title granting you command of 5+ people",
+									"value": null,
+									"hardRule": false
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Confident Command",
+									"value": "confident-command",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"confident-command"
+					],
+					"objectID": "105943",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"e6669985-1a1e-4c76-bfd0-6da94f3139eb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Have a title granting you command over at least 5 people; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"confident-command\" nexus=\"cosmererpg\">Confident Command</tooltip> talent</p>\n<p chunk_id=\"3d37fe9c-8645-4d8d-b4f7-afaa53399ee6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"360c370c-120a-4bd4-9ebb-815c4346788f\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your command experience helps you coordinate larger groups across greater distances.</em></p>\n</div>\n<p chunk_id=\"13214b2e-6508-4ebf-b7ed-26dcdd582650\" class=\"CORE-paragraph-styles_CORE-body\">Your Leader talents that affect allies now have double the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"range\" nexus=\"cosmererpg\">range</tooltip> (if they had one) and can affect up to twice as many allies as usual.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Authority",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Your Leader talents that affect allies now have double the range (if they had one) and can affect up to twice as many allies as usual.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"4279198b-16ba-4b9f-a97c-955b63978ad6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"1e546ce6-9254-4089-a995-9e577ba0b356\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>With a severe stare, you crack the resolve of all but the most composed adversaries.</em></p>\n</div>\n<p chunk_id=\"6a7ac8cb-7aef-4597-9604-3fada64f1bb4\" class=\"CORE-paragraph-styles_CORE-body\">To resist your influence, a character must spend additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> equal to your tier.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Agent (Investigator) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"get-em-talking\" nexus=\"cosmererpg\">Get ’Em Talking</tooltip> talent\n</p><p class=\"talent-prerequisite\"><strong>Leader (Politico) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rumormonger\" nexus=\"cosmererpg\">Rumormonger</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Baleful",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "To resist your influence, a character must spend additional focus equal to your tier.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "baleful",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Agent",
+							"value": "agent"
+						},
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Investigator",
+							"value": "investigator"
+						},
+						{
+							"name": "Politico",
+							"value": "politico"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"politico": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Rumormonger talent",
+									"value": "rumormonger",
+									"hardRule": true
+								}
+							]
+						],
+						"investigator": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Get 'Em Talking talent",
+									"value": "get-em-talking",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"rumormonger",
+						"get-em-talking"
+					],
+					"objectID": "105866",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"4279198b-16ba-4b9f-a97c-955b63978ad6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"1e546ce6-9254-4089-a995-9e577ba0b356\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>With a severe stare, you crack the resolve of all but the most composed adversaries.</em></p>\n</div>\n<p chunk_id=\"6a7ac8cb-7aef-4597-9604-3fada64f1bb4\" class=\"CORE-paragraph-styles_CORE-body\">To resist your influence, a character must spend additional <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> equal to your tier.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Agent (Investigator) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"get-em-talking\" nexus=\"cosmererpg\">Get ’Em Talking</tooltip> talent\n</p><p class=\"talent-prerequisite\"><strong>Leader (Politico) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rumormonger\" nexus=\"cosmererpg\">Rumormonger</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Baleful",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "To resist your influence, a character must spend additional focus equal to your tier.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"f6847d0b-888b-4677-a03b-562655b2055a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent\n</p>\n<p chunk_id=\"6d5bc89e-c62c-4501-b560-9b5e732c8f88\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"42661e1e-7143-4281-b105-8629c3210059\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You lead through action, bolstering your allies with the momentum of your blows.</em></p>\n</div>\n<p chunk_id=\"3fc990c2-14a9-4255-8c7b-d6ee1dc7c3a8\" class=\"CORE-paragraph-styles_CORE-body\">After you use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> action, use Decisive Command as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>. If your Strike didn’t <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>, you also don’t have to spend the usual <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> for Decisive Command.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Combat Coordination",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-starter-rules",
+					"shortDescription": "After you use the Strike action, use Decisive Command as ▷.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "combat-coordination",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Champion",
+							"value": "champion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"champion": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Leadership 2+",
+									"value": "leadership",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Decisive Command",
+									"value": "decisive-command",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Free action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"decisive-command"
+					],
+					"objectID": "105932",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"f6847d0b-888b-4677-a03b-562655b2055a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent\n</p>\n<p chunk_id=\"6d5bc89e-c62c-4501-b560-9b5e732c8f88\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span></p>\n<div chunk_id=\"42661e1e-7143-4281-b105-8629c3210059\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You lead through action, bolstering your allies with the momentum of your blows.</em></p>\n</div>\n<p chunk_id=\"3fc990c2-14a9-4255-8c7b-d6ee1dc7c3a8\" class=\"CORE-paragraph-styles_CORE-body\">After you use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> action, use Decisive Command as <span aria-label=\"Free Action\" class=\"icon-font icon\" title=\"Free Action\">▷</span>. If your Strike didn’t <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>, you also don’t have to spend the usual <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> for Decisive Command.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Combat Coordination",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After you use the Strike action, use Decisive Command as ▷.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>Through practiced composure, you push your limits without becoming distracted or losing track of threats.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your maximum and current <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> increase by a number equal to your tier. When your tier increases by 1, your maximum and current focus do as well.</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"galvanize\" nexus=\"cosmererpg\">Galvanize</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Leader (Officer) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Scholar (Strategist) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"strategize\" nexus=\"cosmererpg\">Strategize</tooltip> talent</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Composed",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Increase your max and current focus by your tier.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "composed",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						},
+						{
+							"name": "Leader",
+							"value": "leader"
+						},
+						{
+							"name": "Scholar",
+							"value": "scholar"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Faithful",
+							"value": "faithful"
+						},
+						{
+							"name": "Officer",
+							"value": "officer"
+						},
+						{
+							"name": "Strategist",
+							"value": "strategist"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"officer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Decisive Command key talent",
+									"value": "decisive-command",
+									"hardRule": true
+								}
+							]
+						],
+						"faithful": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Galvanize talent",
+									"value": "galvanize",
+									"hardRule": true
+								}
+							]
+						],
+						"strategist": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Strategize talent",
+									"value": "strategize",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"galvanize",
+						"decisive-command",
+						"strategize"
+					],
+					"objectID": "105897",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div class=\"lore-block\">\n<p><em>Through practiced composure, you push your limits without becoming distracted or losing track of threats.</em></p>\n</div>\n<p class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your maximum and current <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> increase by a number equal to your tier. When your tier increases by 1, your maximum and current focus do as well.</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"galvanize\" nexus=\"cosmererpg\">Galvanize</tooltip> talent</p>\n<p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Leader (Officer) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Scholar (Strategist) Prerequisite:</span></strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"strategize\" nexus=\"cosmererpg\">Strategize</tooltip> talent</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Composed",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Increase your max and current focus by your tier.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"8d52bf58-f328-4d33-9de9-ea2b7605dfb7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"customary-garb\" nexus=\"cosmererpg\">Customary Garb</tooltip> talent\n</p>\n<p chunk_id=\"5b2c8726-f805-42c8-a89b-03d3a5068d35\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"1aed98cc-b41a-4a73-8958-6d8747b9a78b\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You deliver your words with care and conviction, letting them resound in the hearts of those under your command.</em></p>\n</div>\n<p chunk_id=\"b1b652dc-90fa-4264-a7a6-cbfae2fbc885\" class=\"CORE-paragraph-styles_CORE-body\">Before you make an <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"intimidation\" nexus=\"cosmererpg\">Intimidation</tooltip>, <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip>, or <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"persuasion\" nexus=\"cosmererpg\">Persuasion</tooltip> test, you can spend 1 focus to roll your command die and add the result to your d20 roll.</p>\n<p chunk_id=\"9e36ce0f-afdc-40ff-8e2a-f620ec46f6aa\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, increase the size of your command die by one size (such as from a d4 to a d6).</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Confident Command",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Before you make an Intimidation, Leadership, or Persuasion test, you can spend 1 focus to roll your command die and add the result to your d20 roll.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "confident-command",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Officer",
+							"value": "officer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"officer": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Leadership 2+",
+									"value": "leadership",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Customary Garb",
+									"value": "customary-garb",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"customary-garb"
+					],
+					"objectID": "105941",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"8d52bf58-f328-4d33-9de9-ea2b7605dfb7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"customary-garb\" nexus=\"cosmererpg\">Customary Garb</tooltip> talent\n</p>\n<p chunk_id=\"5b2c8726-f805-42c8-a89b-03d3a5068d35\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"1aed98cc-b41a-4a73-8958-6d8747b9a78b\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You deliver your words with care and conviction, letting them resound in the hearts of those under your command.</em></p>\n</div>\n<p chunk_id=\"b1b652dc-90fa-4264-a7a6-cbfae2fbc885\" class=\"CORE-paragraph-styles_CORE-body\">Before you make an <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"intimidation\" nexus=\"cosmererpg\">Intimidation</tooltip>, <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip>, or <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"persuasion\" nexus=\"cosmererpg\">Persuasion</tooltip> test, you can spend 1 focus to roll your command die and add the result to your d20 roll.</p>\n<p chunk_id=\"9e36ce0f-afdc-40ff-8e2a-f620ec46f6aa\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, increase the size of your command die by one size (such as from a d4 to a d6).</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Confident Command",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Before you make an Intimidation, Leadership, or Persuasion test, you can spend 1 focus to roll your command die and add the result to your d20 roll.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"36bb19b5-4010-495d-959c-8c4e4cbd888e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"f919697c-9ddf-43c0-a28f-ce027b92abfc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve worn your uniform or traditional clothing for so long that it feels like a second skin, freeing your movements and granting you a deep well of confidence.</em></p>\n</div>\n<p chunk_id=\"94bc185d-1647-4ffa-be75-9fb19cf6524c\" class=\"CORE-paragraph-styles_CORE-body\">While you’re visibly wearing <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"presentable\" nexus=\"cosmererpg\">Presentable</tooltip> armor or clothing appropriate for your station, your Physical and Spiritual <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> increase by 2.</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent\n</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Leader (Officer) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"through-the-fray\" nexus=\"cosmererpg\">Through the Fray</tooltip> talent</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Customary Garb",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While you’re visibly wearing Presentable armor or clothing appropriate for your station, your Physical and Spiritual defenses increase by 2.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "customary-garb",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						},
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Faithful",
+							"value": "faithful"
+						},
+						{
+							"name": "Officer",
+							"value": "officer"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"officer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Through the Fray talent",
+									"value": "through-the-fray",
+									"hardRule": true
+								}
+							]
+						],
+						"faithful": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Rousing Presence key talent",
+									"value": "rousing-presence",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"rousing-presence",
+						"through-the-fray"
+					],
+					"objectID": "105894",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"36bb19b5-4010-495d-959c-8c4e4cbd888e\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"f919697c-9ddf-43c0-a28f-ce027b92abfc\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve worn your uniform or traditional clothing for so long that it feels like a second skin, freeing your movements and granting you a deep well of confidence.</em></p>\n</div>\n<p chunk_id=\"94bc185d-1647-4ffa-be75-9fb19cf6524c\" class=\"CORE-paragraph-styles_CORE-body\">While you’re visibly wearing <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"presentable\" nexus=\"cosmererpg\">Presentable</tooltip> armor or clothing appropriate for your station, your Physical and Spiritual <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defenses</tooltip> increase by 2.</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Faithful) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rousing-presence\" nexus=\"cosmererpg\">Rousing Presence</tooltip> key talent\n</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Leader (Officer) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"through-the-fray\" nexus=\"cosmererpg\">Through the Fray</tooltip> talent</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Customary Garb",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While you’re visibly wearing Presentable armor or clothing appropriate for your station, your Physical and Spiritual defenses increase by 2.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"ecd93272-16b5-477c-bd70-f9017299258d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent\n</p>\n<p chunk_id=\"bea5379b-92ca-4c21-9ff3-3f8343ae815b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"df326faf-f368-4de7-89f8-1e05443c651c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve learned to take risks if you want to get results. When briefing your allies, sometimes you downplay the danger to increase their confidence—and to increase the chances they’ll prevail.</em></p>\n</div>\n<p chunk_id=\"053a57be-d674-4c8c-b4af-ce1f38b68fd9\" class=\"CORE-paragraph-styles_CORE-body\">Before an ally rolls your command die on a test, they can choose to instead <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"raising-the-stakes\" nexus=\"cosmererpg\">raise the stakes</tooltip> on that test. If they do so and roll a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"complications\" nexus=\"cosmererpg\">Complication</tooltip>, you recover 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Cutthroat Tactics",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Before an ally rolls your command die on a test, they can choose to instead raise the stakes on that test. If they do so and roll a Complication, you recover 1 focus.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "cutthroat-tactics",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Politico",
+							"value": "politico"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"politico": [
+							[
+								{
+									"rank": 1,
+									"type": "skill",
+									"label": "Deception 1+",
+									"value": "deception",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Decisive Command",
+									"value": "decisive-command",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"decisive-command"
+					],
+					"objectID": "105944",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"ecd93272-16b5-477c-bd70-f9017299258d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent\n</p>\n<p chunk_id=\"bea5379b-92ca-4c21-9ff3-3f8343ae815b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"df326faf-f368-4de7-89f8-1e05443c651c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve learned to take risks if you want to get results. When briefing your allies, sometimes you downplay the danger to increase their confidence—and to increase the chances they’ll prevail.</em></p>\n</div>\n<p chunk_id=\"053a57be-d674-4c8c-b4af-ce1f38b68fd9\" class=\"CORE-paragraph-styles_CORE-body\">Before an ally rolls your command die on a test, they can choose to instead <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"raising-the-stakes\" nexus=\"cosmererpg\">raise the stakes</tooltip> on that test. If they do so and roll a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"complications\" nexus=\"cosmererpg\">Complication</tooltip>, you recover 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip>.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Cutthroat Tactics",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Before an ally rolls your command die on a test, they can choose to instead raise the stakes on that test. If they do so and roll a Complication, you recover 1 focus.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"9e920000-07e8-4064-961b-8c3f9ce188c7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> none</p>\n<p chunk_id=\"750b6fe6-ea9a-4933-b979-caf81d9ddb76\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"d920a0e4-0c00-4daa-8571-3ddb1ae85946\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your voice carries the certainty of steel and your tactical acumen is renowned. This battle-won wisdom benefits those who listen.</em></p>\n</div>\n<p chunk_id=\"446149f6-57ff-4da2-bcb5-3a4e7bacbdb7\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, gain a command die, which begins as a d4 and can increase to a maximum of d12.</p>\n<p chunk_id=\"703fd1cc-6321-4a1c-a3b9-802960c9bd53\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to choose an ally you can influence within 20 feet of you. The next time they make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">test</tooltip> before the end of their next turn, they can roll your command die along with the other dice for that test. After rolling, they can choose one roll from that test, other than the plot die, and add the command die to it.</p>\n<p chunk_id=\"4132de46-089e-4115-b584-6511c2a7ef2a\" class=\"CORE-paragraph-styles_CORE-body\"> Some Leader talents allow you to use your command die in other ways; you can do so even if an ally currently has a command die from you.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Decisive Command",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-starter-rules",
+					"shortDescription": "Spend 1 focus to give an ally within 20 feet a d4 command die, that ally can add it to one die roll on their next test.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "decisive-command",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"hasPrerequisites": false,
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"objectID": "105931",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"9e920000-07e8-4064-961b-8c3f9ce188c7\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> none</p>\n<p chunk_id=\"750b6fe6-ea9a-4933-b979-caf81d9ddb76\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"d920a0e4-0c00-4daa-8571-3ddb1ae85946\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Your voice carries the certainty of steel and your tactical acumen is renowned. This battle-won wisdom benefits those who listen.</em></p>\n</div>\n<p chunk_id=\"446149f6-57ff-4da2-bcb5-3a4e7bacbdb7\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, gain a command die, which begins as a d4 and can increase to a maximum of d12.</p>\n<p chunk_id=\"703fd1cc-6321-4a1c-a3b9-802960c9bd53\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to choose an ally you can influence within 20 feet of you. The next time they make a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"skill-test\" nexus=\"cosmererpg\">test</tooltip> before the end of their next turn, they can roll your command die along with the other dice for that test. After rolling, they can choose one roll from that test, other than the plot die, and add the command die to it.</p>\n<p chunk_id=\"4132de46-089e-4115-b584-6511c2a7ef2a\" class=\"CORE-paragraph-styles_CORE-body\"> Some Leader talents allow you to use your command die in other ways; you can do so even if an ally currently has a command die from you.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Decisive Command",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 1 focus to give an ally within 20 feet a d4 command die, that ally can add it to one die roll on their next test.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"29401b2d-1a29-43e3-bdda-012fe942019a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"resolute-stand\" nexus=\"cosmererpg\">Resolute Stand</tooltip> talent\n</p>\n<p chunk_id=\"992094cf-3393-4d6a-b6d5-dbe3cf719bc6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"c7ee3f1e-d8ec-4eab-97f4-db9d3555bb35\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You set an example from the front, applying your advice to your own actions.</em></p>\n</div>\n<p chunk_id=\"868b08ce-6260-4b30-bb3a-7106bf89c02f\" class=\"CORE-paragraph-styles_CORE-body\">Before you make an <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip>, <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip>, or <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> test, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to roll your command die and add the result to your d20 roll.</p>\n<p chunk_id=\"e4ed5e34-2465-4878-8ab4-6d140b1e0b58\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, increase the size of your command die by one size (such as from a d4 to a d6).</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Demonstrative Command",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Before you make an Athletics, Agility, or Leadership test, you can spend 1 focus to roll your command die and add the result to your d20 roll.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "demonstrative-command",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Champion",
+							"value": "champion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"champion": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Leadership 2+",
+									"value": "leadership",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Resolute Stand",
+									"value": "resolute-stand",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"resolute-stand"
+					],
+					"objectID": "105937",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"29401b2d-1a29-43e3-bdda-012fe942019a\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"resolute-stand\" nexus=\"cosmererpg\">Resolute Stand</tooltip> talent\n</p>\n<p chunk_id=\"992094cf-3393-4d6a-b6d5-dbe3cf719bc6\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"c7ee3f1e-d8ec-4eab-97f4-db9d3555bb35\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You set an example from the front, applying your advice to your own actions.</em></p>\n</div>\n<p chunk_id=\"868b08ce-6260-4b30-bb3a-7106bf89c02f\" class=\"CORE-paragraph-styles_CORE-body\">Before you make an <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip>, <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"agility\" nexus=\"cosmererpg\">Agility</tooltip>, or <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> test, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to roll your command die and add the result to your d20 roll.</p>\n<p chunk_id=\"e4ed5e34-2465-4878-8ab4-6d140b1e0b58\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, increase the size of your command die by one size (such as from a d4 to a d6).</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Demonstrative Command",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Before you make an Athletics, Agility, or Leadership test, you can spend 1 focus to roll your command die and add the result to your d20 roll.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"853b12e1-2e84-4de3-8dcf-b7010745dd07\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"shrewd-command\" nexus=\"cosmererpg\">Shrewd Command</tooltip> talent\n</p>\n<p chunk_id=\"5c942a3d-cce1-4d7c-8852-c4edf4171b90\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Three Actions\" class=\"icon-font icon\" title=\"Three Actions\">3</span></p>\n<div chunk_id=\"55805b3d-4eda-4579-a894-6461820e1775\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>With great forethought and misdirection, you spread a rumor that even your allies assume to be true. When you later reveal the truth behind your ruse, your enemies are thrown into disarray.</em></p>\n</div>\n<p chunk_id=\"7c6dc86e-c2f3-46b3-b94c-a00bb5a51b5e\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">Spend 3 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a DC 15 <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip> test. On a success, choose a detail you established since the start of the last <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip> and reveal that it was actually a ruse. This ruse must be plausible. For example, it’s reasonable to reveal you hid a powerful artifact in a different place than you previously said, or to reveal you moved your army east instead of west. It’s not reasonable to reveal that a mundane item is actually a priceless artifact, nor to suddenly declare you recruited an army when you previously said you had no allies in the region. The GM is the final arbiter of what sort of ruse you can reveal.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Grand Deception",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 3 focus to make a DC 15 Deception test. On a success, choose a detail you established since the start of the last scene and reveal that it was actually a ruse.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "grand-deception",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Politico",
+							"value": "politico"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"politico": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Deception 3+",
+									"value": "deception",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Shrewd Command",
+									"value": "shrewd-command",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 3,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"shrewd-command"
+					],
+					"objectID": "105949",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"853b12e1-2e84-4de3-8dcf-b7010745dd07\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"shrewd-command\" nexus=\"cosmererpg\">Shrewd Command</tooltip> talent\n</p>\n<p chunk_id=\"5c942a3d-cce1-4d7c-8852-c4edf4171b90\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Three Actions\" class=\"icon-font icon\" title=\"Three Actions\">3</span></p>\n<div chunk_id=\"55805b3d-4eda-4579-a894-6461820e1775\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>With great forethought and misdirection, you spread a rumor that even your allies assume to be true. When you later reveal the truth behind your ruse, your enemies are thrown into disarray.</em></p>\n</div>\n<p chunk_id=\"7c6dc86e-c2f3-46b3-b94c-a00bb5a51b5e\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">Spend 3 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a DC 15 <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip> test. On a success, choose a detail you established since the start of the last <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip> and reveal that it was actually a ruse. This ruse must be plausible. For example, it’s reasonable to reveal you hid a powerful artifact in a different place than you previously said, or to reveal you moved your army east instead of west. It’s not reasonable to reveal that a mundane item is actually a priceless artifact, nor to suddenly declare you recruited an army when you previously said you had no allies in the region. The GM is the final arbiter of what sort of ruse you can reveal.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Grand Deception",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 3 focus to make a DC 15 Deception test. On a success, choose a detail you established since the start of the last scene and reveal that it was actually a ruse.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"e869d49a-2ba7-435f-8447-9128f9b8328d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"b6ac8aca-5793-48d8-8290-cead350f44e9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve trained your body to endure pain and fatigue, keeping you in the fight until the bitter end.</em></p>\n</div>\n<p chunk_id=\"4f6da07c-fc65-457f-bf6c-a56412ef871f\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your maximum and current <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip> increase by 1 per level. This applies to all previous and future levels; for example, if you choose this talent at level 6, retroactively increase your health by 6.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Agent (Investigator) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"baleful\" nexus=\"cosmererpg\">Baleful</tooltip> talent\n</p><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steady-aim-playtest\" nexus=\"cosmererpg\">Steady Aim</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Leader (Champion) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"valiant-intervention-playtest\" nexus=\"cosmererpg\">Valiant Intervention</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Warrior (Soldier) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"combat-training-playtest\" nexus=\"cosmererpg\">Combat Training</tooltip> talent</p></div>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Hardy",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Gain +1 max health per level (including previous levels).",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "hardy",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Agent",
+							"value": "agent"
+						},
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						},
+						{
+							"name": "Leader",
+							"value": "leader"
+						},
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Investigator",
+							"value": "investigator"
+						},
+						{
+							"name": "Archer",
+							"value": "archer"
+						},
+						{
+							"name": "Champion",
+							"value": "champion"
+						},
+						{
+							"name": "Soldier",
+							"value": "soldier"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"archer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Steady Aim talent",
+									"value": "steady-aim",
+									"hardRule": true
+								}
+							]
+						],
+						"soldier": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Combat Training talent",
+									"value": "combat-training",
+									"hardRule": true
+								}
+							]
+						],
+						"champion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Valiant Intervention talent",
+									"value": "valiant-intervention",
+									"hardRule": true
+								}
+							]
+						],
+						"investigator": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Baleful talent",
+									"value": "baleful",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"steady-aim",
+						"combat-training",
+						"valiant-intervention",
+						"baleful"
+					],
+					"objectID": "105868",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"e869d49a-2ba7-435f-8447-9128f9b8328d\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"b6ac8aca-5793-48d8-8290-cead350f44e9\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You’ve trained your body to endure pain and fatigue, keeping you in the fight until the bitter end.</em></p>\n</div>\n<p chunk_id=\"4f6da07c-fc65-457f-bf6c-a56412ef871f\" class=\"CORE-paragraph-styles_CORE-body\">When you acquire this talent, your maximum and current <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip> increase by 1 per level. This applies to all previous and future levels; for example, if you choose this talent at level 6, retroactively increase your health by 6.</p><div class=\"talent-prerequisite-wrapper\"><p class=\"talent-prerequisite\"><strong>Agent (Investigator) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"baleful\" nexus=\"cosmererpg\">Baleful</tooltip> talent\n</p><p class=\"talent-prerequisite\"><strong>Hunter (Archer) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steady-aim-playtest\" nexus=\"cosmererpg\">Steady Aim</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Leader (Champion) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"valiant-intervention-playtest\" nexus=\"cosmererpg\">Valiant Intervention</tooltip> talent</p><p class=\"talent-prerequisite\"><strong>Warrior (Soldier) Prerequisite:</strong> <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"combat-training-playtest\" nexus=\"cosmererpg\">Combat Training</tooltip> talent</p></div>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Hardy",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Gain +1 max health per level (including previous levels).",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"f940eed7-030b-4170-9c50-4f6f9413945a\" class=\"CORE-paragraph-styles_CORE-stat ParaOverride-2\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"combat-coordination\" nexus=\"cosmererpg\">Combat Coordination</tooltip> talent\n</p>\n<p chunk_id=\"aa4ec0c1-4c1a-44cf-8662-287c0d83ea7f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"6bea3eca-bf1c-47d0-91b5-de2429a12631\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>On and off the battlefield, your powerful physique sends a clear message to your foes.</em></p>\n</div>\n<p chunk_id=\"122cb259-724f-485e-b9fe-0a34c3d40238\" class=\"CORE-paragraph-styles_CORE-body\">After an enemy resists your influence while within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapons\" nexus=\"cosmererpg\">weapon's</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip>, they become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"disoriented\" nexus=\"cosmererpg\">Disoriented</tooltip> until the end of their next turn.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Imposing Posture",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After an enemy resists your influence while within your weapon's reach, they become Disoriented until the end of their next turn.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "imposing-posture",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Champion",
+							"value": "champion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"champion": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Athletics 2+",
+									"value": "athletics",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Combat Coordination",
+									"value": "combat-coordination",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"combat-coordination"
+					],
+					"objectID": "105934",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"f940eed7-030b-4170-9c50-4f6f9413945a\" class=\"CORE-paragraph-styles_CORE-stat ParaOverride-2\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"combat-coordination\" nexus=\"cosmererpg\">Combat Coordination</tooltip> talent\n</p>\n<p chunk_id=\"aa4ec0c1-4c1a-44cf-8662-287c0d83ea7f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"6bea3eca-bf1c-47d0-91b5-de2429a12631\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>On and off the battlefield, your powerful physique sends a clear message to your foes.</em></p>\n</div>\n<p chunk_id=\"122cb259-724f-485e-b9fe-0a34c3d40238\" class=\"CORE-paragraph-styles_CORE-body\">After an enemy resists your influence while within your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapons\" nexus=\"cosmererpg\">weapon's</tooltip>\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"reach\" nexus=\"cosmererpg\">reach</tooltip>, they become <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"disoriented\" nexus=\"cosmererpg\">Disoriented</tooltip> until the end of their next turn.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Imposing Posture",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After an enemy resists your influence while within your weapon's reach, they become Disoriented until the end of their next turn.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"b1cbe4a6-4e03-49f9-9b1b-2053af037205\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies</p>\n<p chunk_id=\"0a871d07-ffe7-456e-9938-8e92ab639faa\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"79e90496-a13a-4494-867f-02d766541c47\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You deliver your swings, punches, and kicks with practiced efficiency.</em></p>\n</div>\n<p chunk_id=\"7115475e-3f42-4501-addc-f213e3155b65\" class=\"CORE-paragraph-styles_CORE-body\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>\n</tooltip> with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapons\" nexus=\"cosmererpg\">weapon</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"unarmed-attacks\" nexus=\"cosmererpg\">unarmed attack</tooltip>, for each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> you used on that attack’s action, increase the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> you deal by 1 + your tier. For example, if you’re level 6 and you make an attack that costs <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span>, each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> deals an extra 1 + 2 damage, for a total of 6 damage.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Mighty",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you hit with a weapon or unarmed attack, for each ▶ you used on that attack’s action, increase the damage you deal by 1 + your tier.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "mighty",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Agent",
+							"value": "agent"
+						},
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						},
+						{
+							"name": "Hunter",
+							"value": "hunter"
+						},
+						{
+							"name": "Leader",
+							"value": "leader"
+						},
+						{
+							"name": "Warrior",
+							"value": "warrior"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Spy",
+							"value": "spy"
+						},
+						{
+							"name": "Mentor",
+							"value": "mentor"
+						},
+						{
+							"name": "Assassin",
+							"value": "assassin"
+						},
+						{
+							"name": "Champion",
+							"value": "champion"
+						},
+						{
+							"name": "Shardbearer",
+							"value": "shardbearer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"spy": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cover Story talent",
+									"value": "cover-story",
+									"hardRule": true
+								}
+							]
+						],
+						"mentor": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Practical Demonstration talent",
+									"value": "practical-demonstration",
+									"hardRule": true
+								}
+							]
+						],
+						"assassin": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cold Eyes talent",
+									"value": "cold-eyes",
+									"hardRule": true
+								}
+							]
+						],
+						"champion": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Imposing Posture talent",
+									"value": "imposing-posture",
+									"hardRule": true
+								}
+							]
+						],
+						"shardbearer": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Stonestance talent",
+									"value": "stonestance",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"cover-story",
+						"practical-demonstration",
+						"cold-eyes",
+						"imposing-posture",
+						"stonestance"
+					],
+					"objectID": "105876",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"b1cbe4a6-4e03-49f9-9b1b-2053af037205\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n    Varies</p>\n<p chunk_id=\"0a871d07-ffe7-456e-9938-8e92ab639faa\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"79e90496-a13a-4494-867f-02d766541c47\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You deliver your swings, punches, and kicks with practiced efficiency.</em></p>\n</div>\n<p chunk_id=\"7115475e-3f42-4501-addc-f213e3155b65\" class=\"CORE-paragraph-styles_CORE-body\">When you <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">\n<tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit\" nexus=\"cosmererpg\">hit</tooltip>\n</tooltip> with a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"weapons\" nexus=\"cosmererpg\">weapon</tooltip> or <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"unarmed-attacks\" nexus=\"cosmererpg\">unarmed attack</tooltip>, for each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> you used on that attack’s action, increase the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"damage\" nexus=\"cosmererpg\">damage</tooltip> you deal by 1 + your tier. For example, if you’re level 6 and you make an attack that costs <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span>, each <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> deals an extra 1 + 2 damage, for a total of 6 damage.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Mighty",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you hit with a weapon or unarmed attack, for each ▶ you used on that attack’s action, increase the damage you deal by 1 + your tier.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"dbb69dc7-e828-45ae-8dc2-aef8855a186f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"persuasion\" nexus=\"cosmererpg\">Persuasion</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"confident-command\" nexus=\"cosmererpg\">Confident Command</tooltip> talent\n</p>\n<p chunk_id=\"a96b330a-411f-4b0a-aace-0539e53414aa\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"2ae77a7c-8523-429d-9f19-a7feb1e6750a\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You invigorate your troops, helping them push through fear, pain, and exhaustion under the worst of conditions.</em></p>\n</div>\n<p chunk_id=\"4890068b-5976-46e7-8d4c-d74ad5acae32\" class=\"CORE-paragraph-styles_CORE-body\">After you use your Decisive Command on an ally, until the end of their next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>, their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"movement-rate\" nexus=\"cosmererpg\">movement rate</tooltip> increases by 10 feet and they ignore the effects of the <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"exhausted\" nexus=\"cosmererpg\">Exhausted</tooltip>, <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"slowed\" nexus=\"cosmererpg\">Slowed</tooltip>, and <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"surprised\" nexus=\"cosmererpg\">Surprised</tooltip> conditions.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Relentless March",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "After you use your Decisive Command on an ally, until the end of their next turn, their movement rate increases by 10 feet and they ignore the effects of the Exhausted, Slowed, and Surprised conditions.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "relentless-march",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Officer",
+							"value": "officer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"officer": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Persuasion 3+",
+									"value": "persuasion",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Confident Command",
+									"value": "confident-command",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Passive",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"confident-command"
+					],
+					"objectID": "105940",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"dbb69dc7-e828-45ae-8dc2-aef8855a186f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"persuasion\" nexus=\"cosmererpg\">Persuasion</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"confident-command\" nexus=\"cosmererpg\">Confident Command</tooltip> talent\n</p>\n<p chunk_id=\"a96b330a-411f-4b0a-aace-0539e53414aa\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Always Active\" class=\"icon-font icon\" title=\"Always Active\">∞</span></p>\n<div chunk_id=\"2ae77a7c-8523-429d-9f19-a7feb1e6750a\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You invigorate your troops, helping them push through fear, pain, and exhaustion under the worst of conditions.</em></p>\n</div>\n<p chunk_id=\"4890068b-5976-46e7-8d4c-d74ad5acae32\" class=\"CORE-paragraph-styles_CORE-body\">After you use your Decisive Command on an ally, until the end of their next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>, their <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"movement-rate\" nexus=\"cosmererpg\">movement rate</tooltip> increases by 10 feet and they ignore the effects of the <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"exhausted\" nexus=\"cosmererpg\">Exhausted</tooltip>, <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"slowed\" nexus=\"cosmererpg\">Slowed</tooltip>, and <tooltip category=\"condition\" class=\"tooltip-convert\" element=\"surprised\" nexus=\"cosmererpg\">Surprised</tooltip> conditions.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Relentless March",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "After you use your Decisive Command on an ally, until the end of their next turn, their movement rate increases by 10 feet and they ignore the effects of the Exhausted, Slowed, and Surprised conditions.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"485b735b-c397-4706-8d91-711d3c519ba0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"resolute-stand\" nexus=\"cosmererpg\">Resolute Stand</tooltip> talent\n</p>\n<p chunk_id=\"0bfe7687-2245-4523-acdf-1883b4c5d415\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span></p>\n<div chunk_id=\"53870b9f-5a32-4885-a23c-5686af11ff7c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You summon your last reserves and press forward despite grievous wounds.</em></p>\n</div>\n<p chunk_id=\"8609b876-a363-45bd-8205-1bab8a181770\" class=\"CORE-paragraph-styles_CORE-body\">Once per <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip>, before you are reduced to 0 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip>, you can use this reaction to instead change your health to equal your Athletics modifier.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Resilient Hero",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Once per scene, before you are reduced to 0 health, you can use this reaction to instead change your health to equal your Athletics modifier.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "resilient-hero",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Champion",
+							"value": "champion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"champion": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Athletics 3+",
+									"value": "athletics",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Resolute Stand",
+									"value": "resolute-stand",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": "",
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Reaction",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"resolute-stand"
+					],
+					"objectID": "105936",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"485b735b-c397-4706-8d91-711d3c519ba0\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"resolute-stand\" nexus=\"cosmererpg\">Resolute Stand</tooltip> talent\n</p>\n<p chunk_id=\"0bfe7687-2245-4523-acdf-1883b4c5d415\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span></p>\n<div chunk_id=\"53870b9f-5a32-4885-a23c-5686af11ff7c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You summon your last reserves and press forward despite grievous wounds.</em></p>\n</div>\n<p chunk_id=\"8609b876-a363-45bd-8205-1bab8a181770\" class=\"CORE-paragraph-styles_CORE-body\">Once per <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"scenes\" nexus=\"cosmererpg\">scene</tooltip>, before you are reduced to 0 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"health\" nexus=\"cosmererpg\">health</tooltip>, you can use this reaction to instead change your health to equal your Athletics modifier.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Resilient Hero",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Once per scene, before you are reduced to 0 health, you can use this reaction to instead change your health to equal your Athletics modifier.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"42a15098-9afd-4853-abec-2432f2aad26c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"hardy\" nexus=\"cosmererpg\">Hardy</tooltip> talent\n</p>\n<p chunk_id=\"c6d939cc-042a-41a9-85b0-12fb0ca26e59\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"f462c674-1c3e-4afb-9697-47d54c8ef558\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You project resolve, and even powerful groups of opponents find it hard to focus their attention elsewhere.</em></p>\n</div>\n<p chunk_id=\"c4436fb4-c348-4d8c-be3c-8cf9f6558d8e\" class=\"CORE-paragraph-styles_CORE-body\">When you use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"valiant-intervention\" nexus=\"cosmererpg\">Valiant Intervention</tooltip>, you can spend <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> up to your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> to target that many additional characters.</p>\n<p chunk_id=\"5603569d-e801-4767-85dd-3b90a97806c1\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, after you affect a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> with Valiant Intervention, they can’t make <tooltip category=\"action\" class=\"tooltip-convert\" element=\"reactive-strike\" nexus=\"cosmererpg\">Reactive Strikes</tooltip> against your allies until the end of that target’s next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Resolute Stand",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you use your Valiant Intervention, you can spend focus up to your ranks in Leadership to target that many additional characters.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "resolute-stand",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Champion",
+							"value": "champion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"champion": [
+							[
+								{
+									"rank": 1,
+									"type": "skill",
+									"label": "Athletics 1+",
+									"value": "athletics",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Hardy",
+									"value": "hardy",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"hardy"
+					],
+					"objectID": "105935",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"42a15098-9afd-4853-abec-2432f2aad26c\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"hardy\" nexus=\"cosmererpg\">Hardy</tooltip> talent\n</p>\n<p chunk_id=\"c6d939cc-042a-41a9-85b0-12fb0ca26e59\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"f462c674-1c3e-4afb-9697-47d54c8ef558\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You project resolve, and even powerful groups of opponents find it hard to focus their attention elsewhere.</em></p>\n</div>\n<p chunk_id=\"c4436fb4-c348-4d8c-be3c-8cf9f6558d8e\" class=\"CORE-paragraph-styles_CORE-body\">When you use your <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"valiant-intervention\" nexus=\"cosmererpg\">Valiant Intervention</tooltip>, you can spend <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> up to your ranks in <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> to target that many additional characters.</p>\n<p chunk_id=\"5603569d-e801-4767-85dd-3b90a97806c1\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, after you affect a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> with Valiant Intervention, they can’t make <tooltip category=\"action\" class=\"tooltip-convert\" element=\"reactive-strike\" nexus=\"cosmererpg\">Reactive Strikes</tooltip> against your allies until the end of that target’s next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Resolute Stand",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you use your Valiant Intervention, you can spend focus up to your ranks in Leadership to target that many additional characters.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"31b169c8-119e-49fa-972f-f0ea395edf57\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Have a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"patrons\" nexus=\"cosmererpg\">patron</tooltip>; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"cutthroat-tactics\" nexus=\"cosmererpg\">Cutthroat Tactics</tooltip> talent</p>\n<p chunk_id=\"b314ae21-66a8-4fbb-bae7-9fa3306174d1\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"00f70dc1-01ae-4b30-a502-99602da9c850\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>In social circles where rumors swirl and eddy, your patron’s name creates vast ripples.</em></p>\n</div>\n<p chunk_id=\"4a8bc653-83e5-49d8-bea3-21b394de1830\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you make a test to spread misinformation or gather rumors, you can spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to add an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip> to the result.</p>\n<p chunk_id=\"7bcd84a1-b063-4631-842f-416e15c0cd51\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> in Scandal.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Rumormonger",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you make a test to spread misinformation or gather rumors, you can spend 2 focus to add an Opportunity to the result.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "rumormonger",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Politico",
+							"value": "politico"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"politico": [
+							[
+								{
+									"rank": null,
+									"type": null,
+									"label": "A patron",
+									"value": null,
+									"hardRule": false
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Cutthroat Tactics",
+									"value": "cutthroat-tactics",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"cutthroat-tactics"
+					],
+					"objectID": "105946",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"31b169c8-119e-49fa-972f-f0ea395edf57\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong> Have a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"patrons\" nexus=\"cosmererpg\">patron</tooltip>; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"cutthroat-tactics\" nexus=\"cosmererpg\">Cutthroat Tactics</tooltip> talent</p>\n<p chunk_id=\"b314ae21-66a8-4fbb-bae7-9fa3306174d1\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"00f70dc1-01ae-4b30-a502-99602da9c850\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>In social circles where rumors swirl and eddy, your patron’s name creates vast ripples.</em></p>\n</div>\n<p chunk_id=\"4a8bc653-83e5-49d8-bea3-21b394de1830\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you make a test to spread misinformation or gather rumors, you can spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to add an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip> to the result.</p>\n<p chunk_id=\"7bcd84a1-b063-4631-842f-416e15c0cd51\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> in Scandal.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Rumormonger",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you make a test to spread misinformation or gather rumors, you can spend 2 focus to add an Opportunity to the result.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"32e9dcf2-c1e6-4ddf-aa62-f7e2c7c3192b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"baleful\" nexus=\"cosmererpg\">Baleful</tooltip> talent\n</p>\n<p chunk_id=\"82c256d1-c82b-42eb-be7d-a0e562c57b8f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"cc4c57b5-1d30-4efb-b4b5-9298566431aa\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Envy, greed, suspicion—to you, these are mere tools, useful for igniting rivalries between rival factions or dividing your foes in the heat of battle.</em></p>\n</div>\n<p chunk_id=\"b527533a-9a94-435c-aa4d-88814a72599a\" class=\"CORE-paragraph-styles_CORE-body\">Choose two or more characters you can influence and spend that many focus to seed division among them. Describe a potential source of conflict (such as suspicion or jealousy), then make a <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> test (DC equals highest Spiritual <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> among those targets). On a success, you influence each target to become hostile toward the other <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">targets</tooltip>, which sparks an argument, combat, or other conflict until they find a way to resolve it.</p>\n<p chunk_id=\"a07d7662-c394-4e01-8af6-afba77032185\" class=\"CORE-paragraph-styles_CORE-body\"> A target can resist this influence, but after they do, they lose additional focus equal to your ranks in Leadership. If only some of the targets resist influence, the others remain hostile, but their conflict might become easier to resolve.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Set at Odds",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Choose two or more characters you can influence and spend that many focus to seed division among them. Make a Leadership test (DC equals highest Spiritual defense of targets)",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "set-at-odds",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Politico",
+							"value": "politico"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"politico": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Leadership 3+",
+									"value": "leadership",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Baleful",
+									"value": "baleful",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 2,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"baleful"
+					],
+					"objectID": "105947",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"32e9dcf2-c1e6-4ddf-aa62-f7e2c7c3192b\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"baleful\" nexus=\"cosmererpg\">Baleful</tooltip> talent\n</p>\n<p chunk_id=\"82c256d1-c82b-42eb-be7d-a0e562c57b8f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Two Actions\" class=\"icon-font icon\" title=\"Two Actions\">2</span></p>\n<div chunk_id=\"cc4c57b5-1d30-4efb-b4b5-9298566431aa\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Envy, greed, suspicion—to you, these are mere tools, useful for igniting rivalries between rival factions or dividing your foes in the heat of battle.</em></p>\n</div>\n<p chunk_id=\"b527533a-9a94-435c-aa4d-88814a72599a\" class=\"CORE-paragraph-styles_CORE-body\">Choose two or more characters you can influence and spend that many focus to seed division among them. Describe a potential source of conflict (such as suspicion or jealousy), then make a <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> test (DC equals highest Spiritual <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> among those targets). On a success, you influence each target to become hostile toward the other <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">targets</tooltip>, which sparks an argument, combat, or other conflict until they find a way to resolve it.</p>\n<p chunk_id=\"a07d7662-c394-4e01-8af6-afba77032185\" class=\"CORE-paragraph-styles_CORE-body\"> A target can resist this influence, but after they do, they lose additional focus equal to your ranks in Leadership. If only some of the targets resist influence, the others remain hostile, but their conflict might become easier to resolve.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Set at Odds",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Choose two or more characters you can influence and spend that many focus to seed division among them. Make a Leadership test (DC equals highest Spiritual defense of targets)",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"077794e8-de2b-4388-b3a6-13eadfe40b08\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rumormonger\" nexus=\"cosmererpg\">Rumormonger</tooltip> talent\n</p>\n<p chunk_id=\"bc8bc52f-22e8-473f-845d-9498a71e2eca\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"b3e8558a-b37e-4cab-b59d-28010a5831ad\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>With a biting word or strategic glance, you cut to the heart of a conversation.</em></p>\n</div>\n<p chunk_id=\"6eeb5be9-3c70-4d0e-b795-dd5c665c66e0\" class=\"CORE-paragraph-styles_CORE-body\">Before you make a <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip>, <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"insight\" nexus=\"cosmererpg\">Insight</tooltip>, or <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> test, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to roll your command die and add the result to your d20 roll.</p>\n<p chunk_id=\"3bc059b5-459d-4c32-94f7-2e2b3bf7dcad\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, increase the size of your command die by one size (such as from a d4 to a d6).</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Shrewd Command",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Before you make a Deception, Insight, or Leadership test, you can spend 1 focus to roll your command die and add the result to your d20 roll.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "shrewd-command",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Politico",
+							"value": "politico"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"politico": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Leadership 2+",
+									"value": "leadership",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Rumormonger",
+									"value": "rumormonger",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"rumormonger"
+					],
+					"objectID": "105948",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"077794e8-de2b-4388-b3a6-13eadfe40b08\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rumormonger\" nexus=\"cosmererpg\">Rumormonger</tooltip> talent\n</p>\n<p chunk_id=\"bc8bc52f-22e8-473f-845d-9498a71e2eca\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"b3e8558a-b37e-4cab-b59d-28010a5831ad\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>With a biting word or strategic glance, you cut to the heart of a conversation.</em></p>\n</div>\n<p chunk_id=\"6eeb5be9-3c70-4d0e-b795-dd5c665c66e0\" class=\"CORE-paragraph-styles_CORE-body\">Before you make a <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip>, <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"insight\" nexus=\"cosmererpg\">Insight</tooltip>, or <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> test, you can spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to roll your command die and add the result to your d20 roll.</p>\n<p chunk_id=\"3bc059b5-459d-4c32-94f7-2e2b3bf7dcad\" class=\"CORE-paragraph-styles_CORE-body\"> Additionally, when you acquire this talent, increase the size of your command die by one size (such as from a d4 to a d6).</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Shrewd Command",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Before you make a Deception, Insight, or Leadership test, you can spend 1 focus to roll your command die and add the result to your d20 roll.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"781a9a6f-e7dc-4641-9e05-4264d621e6da\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"authority\" nexus=\"cosmererpg\">Authority</tooltip> talent\n</p>\n<p chunk_id=\"36e039c2-bcae-435d-8d5a-24f1ae14ac3f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Three Actions\" class=\"icon-font icon\" title=\"Three Actions\">3</span></p>\n<div chunk_id=\"597155ea-b615-45bc-a383-96b10c9d4a0e\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You observe a weakness in your enemy’s position, then direct your squad to focus their full power on a single crucial foe.</em></p>\n</div>\n<p chunk_id=\"8b677721-72ef-4b9f-99dc-70e453593395\" class=\"CORE-paragraph-styles_CORE-body\">Spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a Leadership test against the Cognitive <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> of an enemy you can sense. On a success, choose a number of allies up to your ranks in Leadership. On a failure, choose one ally you can influence. On the next turn of each of your chosen allies, they gain <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> that can be spent only to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> against that enemy. This Strike doesn’t count against their allowed number of Strike actions for the hands holding that weapon.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Synchronized Assault",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 2 focus to make a Leadership test against the Cognitive defense of an enemy you can sense. On the next turn of each of your chosen allies, they gain ▶ that can be spent only to Strike against that enemy.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "synchronized-assault",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Officer",
+							"value": "officer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"officer": [
+							[
+								{
+									"rank": 3,
+									"type": "skill",
+									"label": "Leadership 3+",
+									"value": "leadership",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Authority",
+									"value": "authority",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 3,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"authority"
+					],
+					"objectID": "105942",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"781a9a6f-e7dc-4641-9e05-4264d621e6da\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip> 3+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"authority\" nexus=\"cosmererpg\">Authority</tooltip> talent\n</p>\n<p chunk_id=\"36e039c2-bcae-435d-8d5a-24f1ae14ac3f\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Three Actions\" class=\"icon-font icon\" title=\"Three Actions\">3</span></p>\n<div chunk_id=\"597155ea-b615-45bc-a383-96b10c9d4a0e\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You observe a weakness in your enemy’s position, then direct your squad to focus their full power on a single crucial foe.</em></p>\n</div>\n<p chunk_id=\"8b677721-72ef-4b9f-99dc-70e453593395\" class=\"CORE-paragraph-styles_CORE-body\">Spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to make a Leadership test against the Cognitive <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> of an enemy you can sense. On a success, choose a number of allies up to your ranks in Leadership. On a failure, choose one ally you can influence. On the next turn of each of your chosen allies, they gain <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span> that can be spent only to <tooltip category=\"action\" class=\"tooltip-convert\" element=\"strike\" nexus=\"cosmererpg\">Strike</tooltip> against that enemy. This Strike doesn’t count against their allowed number of Strike actions for the hands holding that weapon.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Synchronized Assault",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 2 focus to make a Leadership test against the Cognitive defense of an enemy you can sense. On the next turn of each of your chosen allies, they gain ▶ that can be spent only to Strike against that enemy.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"006e38a5-dfc0-48e1-9dbb-10f0aabe33db\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent\n</p>\n<p chunk_id=\"9e551cc0-a50d-4667-8fac-44cb4a7e2296\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"7878df89-b46e-46c4-a249-6556c4dfd840\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Through clever omissions and false implications, you undermine your enemy’s confidence and force them to question their own defenses.</em></p>\n</div>\n<p chunk_id=\"0bcd38d5-1933-443d-ac7d-7cb5753cd17c\" class=\"CORE-paragraph-styles_CORE-body\">Make a <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip> test against the Cognitive <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> of an enemy you can influence. On a success, your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> loses one <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span> and gains a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> on their next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">cognitive or spiritual</tooltip> test.</p>\n<p chunk_id=\"f82c15b9-cd13-41b1-92ec-cf383bd78b1c\" class=\"CORE-paragraph-styles_CORE-body\"> A target can resist this influence, but after they do, you gain an advantage on your next test targeting them before the end of your next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Tactical Ploy",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Make a Deception test against the Cognitive defense of an enemy you can influence.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "tactical-ploy",
+					"sources": [
+						"Stormlight Handbook"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Politico",
+							"value": "politico"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"politico": [
+							{
+								"rank": null,
+								"type": "talent",
+								"label": "Decisive Command",
+								"value": "decisive-command",
+								"hardRule": true
+							}
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"decisive-command"
+					],
+					"objectID": "105945",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"006e38a5-dfc0-48e1-9dbb-10f0aabe33db\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent\n</p>\n<p chunk_id=\"9e551cc0-a50d-4667-8fac-44cb4a7e2296\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"7878df89-b46e-46c4-a249-6556c4dfd840\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>Through clever omissions and false implications, you undermine your enemy’s confidence and force them to question their own defenses.</em></p>\n</div>\n<p chunk_id=\"0bcd38d5-1933-443d-ac7d-7cb5753cd17c\" class=\"CORE-paragraph-styles_CORE-body\">Make a <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip> test against the Cognitive <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> of an enemy you can influence. On a success, your <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target</tooltip> loses one <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span> and gains a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> on their next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"physical-cognitive-and-spiritual\" nexus=\"cosmererpg\">cognitive or spiritual</tooltip> test.</p>\n<p chunk_id=\"f82c15b9-cd13-41b1-92ec-cf383bd78b1c\" class=\"CORE-paragraph-styles_CORE-body\"> A target can resist this influence, but after they do, you gain an advantage on your next test targeting them before the end of your next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Tactical Ploy",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Make a Deception test against the Cognitive defense of an enemy you can influence.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"dddeb771-571c-4396-a88e-f7d674284973\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"persuasion\" nexus=\"cosmererpg\">Persuasion</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent\n</p>\n<p chunk_id=\"44962b4d-6da0-4f28-b5ff-cb0db3cf6794\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"a877a34b-1c11-4479-9b7b-80314db7f9f3\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You skillfully spot opportunities to gain the upper hand, coordinating with your allies as they spring into action.</em></p>\n</div>\n<p chunk_id=\"8a69c148-c384-40df-b215-02c17e39e927\" class=\"CORE-paragraph-styles_CORE-body\">Choose an ally you can influence within 20 feet of you. Before the end of your turn, they can use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"disengage\" nexus=\"cosmererpg\">Disengage</tooltip> or <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip> action as <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span>.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Through the Fray",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Choose an ally you can influence within 20 feet of you and before the end of your turn, they can use the Disengage or Gain Advantage action as a Reaction.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "through-the-fray",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Officer",
+							"value": "officer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"officer": [
+							[
+								{
+									"rank": 1,
+									"type": "skill",
+									"label": "Persuasion 1+",
+									"value": "persuasion",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Decisive Command",
+									"value": "decisive-command",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"decisive-command"
+					],
+					"objectID": "105938",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"dddeb771-571c-4396-a88e-f7d674284973\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"persuasion\" nexus=\"cosmererpg\">Persuasion</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent\n</p>\n<p chunk_id=\"44962b4d-6da0-4f28-b5ff-cb0db3cf6794\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"a877a34b-1c11-4479-9b7b-80314db7f9f3\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You skillfully spot opportunities to gain the upper hand, coordinating with your allies as they spring into action.</em></p>\n</div>\n<p chunk_id=\"8a69c148-c384-40df-b215-02c17e39e927\" class=\"CORE-paragraph-styles_CORE-body\">Choose an ally you can influence within 20 feet of you. Before the end of your turn, they can use the <tooltip category=\"action\" class=\"tooltip-convert\" element=\"disengage\" nexus=\"cosmererpg\">Disengage</tooltip> or <tooltip category=\"action\" class=\"tooltip-convert\" element=\"gain-advantage\" nexus=\"cosmererpg\">Gain Advantage</tooltip> action as <span aria-label=\"Reaction\" class=\"icon-font icon\" title=\"Reaction\">R</span>.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Through the Fray",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Choose an ally you can influence within 20 feet of you and before the end of your turn, they can use the Disengage or Gain Advantage action as a Reaction.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"2ea465b8-e418-4fe4-bd26-23c24a4ed9fb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent\n</p>\n<p chunk_id=\"67646a1e-c562-4edd-b219-ca03ea27f762\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"30ea08b2-851d-4c06-a471-e300f90c4b85\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You dauntlessly approach your opposition, daring them to ignore you at their peril.</em></p>\n</div>\n<p chunk_id=\"59399764-dc03-440a-b61c-4fe870d00f19\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to move up to 10 feet, then make an Athletics test against the Spiritual <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> of an enemy you can influence. On a success, they gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> on tests against your allies until the end of the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target's</tooltip> next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>.</p>\n<p chunk_id=\"5c9f058f-7221-4f9e-a9ab-ff3a257d1f0b\" class=\"CORE-paragraph-styles_CORE-body\"> A target can resist this influence, but after they do, you gain an advantage on your next test against them until the end of your next turn.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Valiant Intervention",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "Spend 1 focus to move up to 10 feet, then make an Athletics test against the Spiritual defense of an enemy you can influence.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "valiant-intervention",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Champion",
+							"value": "champion"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"champion": [
+							[
+								{
+									"rank": 1,
+									"type": "skill",
+									"label": "Athletics 1+",
+									"value": "athletics",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Decisive Command",
+									"value": "decisive-command",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Action",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"decisive-command"
+					],
+					"objectID": "105933",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"2ea465b8-e418-4fe4-bd26-23c24a4ed9fb\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"athletics\" nexus=\"cosmererpg\">Athletics</tooltip> 1+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"decisive-command\" nexus=\"cosmererpg\">Decisive Command</tooltip> key talent\n</p>\n<p chunk_id=\"67646a1e-c562-4edd-b219-ca03ea27f762\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"One Action\" class=\"icon-font icon\" title=\"One Action\">▶</span></p>\n<div chunk_id=\"30ea08b2-851d-4c06-a471-e300f90c4b85\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You dauntlessly approach your opposition, daring them to ignore you at their peril.</em></p>\n</div>\n<p chunk_id=\"59399764-dc03-440a-b61c-4fe870d00f19\" class=\"CORE-paragraph-styles_CORE-body\">Spend 1 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to move up to 10 feet, then make an Athletics test against the Spiritual <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"defenses\" nexus=\"cosmererpg\">defense</tooltip> of an enemy you can influence. On a success, they gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">disadvantage</tooltip> on tests against your allies until the end of the <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"target-types\" nexus=\"cosmererpg\">target's</tooltip> next <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"rounds-and-turns\" nexus=\"cosmererpg\">turn</tooltip>.</p>\n<p chunk_id=\"5c9f058f-7221-4f9e-a9ab-ff3a257d1f0b\" class=\"CORE-paragraph-styles_CORE-body\"> A target can resist this influence, but after they do, you gain an advantage on your next test against them until the end of your next turn.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Valiant Intervention",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "Spend 1 focus to move up to 10 feet, then make an Athletics test against the Spiritual defense of an enemy you can influence.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"88669169-bb1d-4bd4-8ade-da56d5b3d5af\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"11cc6971-92b5-47e4-969e-638a0fc368d0\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You cleverly match your outfits to the occasion, always making the perfect statement.</em></p>\n</div>\n<p chunk_id=\"227401c3-0a5a-47de-8460-1e7c8546c89c\" class=\"CORE-paragraph-styles_CORE-body\">While visibly wearing <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"presentable\" nexus=\"cosmererpg\">Presentable</tooltip> armor or fashionable clothing, you gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on the first <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip>, <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip>, or <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"persuasion\" nexus=\"cosmererpg\">Persuasion</tooltip> test you make during each scene.</p>\n<p chunk_id=\"3c317a3e-eb3c-4221-be38-4f13fb6a5459\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"cultural-expertises\" nexus=\"cosmererpg\">cultural expertise</tooltip> in Fashion.</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Diplomat) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steadfast-challenge\" nexus=\"cosmererpg\">Steadfast Challenge</tooltip> talent\n</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Leader (Politico) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rumormonger\" nexus=\"cosmererpg\">Rumormonger</tooltip> talent\n</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Well Dressed",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "While visibly wearing Presentable armor or fashionable clothing, you gain an advantage on the first Deception, Leadership, or Persuasion test you make during each scene.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "well-dressed",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Envoy",
+							"value": "envoy"
+						},
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Diplomat",
+							"value": "diplomat"
+						},
+						{
+							"name": "Politico",
+							"value": "politico"
+						}
+					],
+					"hasPrerequisites": false,
+					"prerequisitesData": {
+						"diplomat": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Steadfast Challenge talent",
+									"value": "steadfast-challenge",
+									"hardRule": true
+								}
+							]
+						],
+						"politico": [
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Rumormonger talent",
+									"value": "rumormonger",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"steadfast-challenge",
+						"rumormonger"
+					],
+					"objectID": "105890",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"88669169-bb1d-4bd4-8ade-da56d5b3d5af\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"11cc6971-92b5-47e4-969e-638a0fc368d0\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You cleverly match your outfits to the occasion, always making the perfect statement.</em></p>\n</div>\n<p chunk_id=\"227401c3-0a5a-47de-8460-1e7c8546c89c\" class=\"CORE-paragraph-styles_CORE-body\">While visibly wearing <tooltip category=\"trait\" class=\"tooltip-convert\" element=\"presentable\" nexus=\"cosmererpg\">Presentable</tooltip> armor or fashionable clothing, you gain an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"advantages-and-disadvantages\" nexus=\"cosmererpg\">advantage</tooltip> on the first <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"deception\" nexus=\"cosmererpg\">Deception</tooltip>, <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"leadership\" nexus=\"cosmererpg\">Leadership</tooltip>, or <tooltip category=\"skill\" class=\"tooltip-convert\" element=\"persuasion\" nexus=\"cosmererpg\">Persuasion</tooltip> test you make during each scene.</p>\n<p chunk_id=\"3c317a3e-eb3c-4221-be38-4f13fb6a5459\" class=\"CORE-paragraph-styles_CORE-body _idGenParaOverride-1\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"cultural-expertises\" nexus=\"cosmererpg\">cultural expertise</tooltip> in Fashion.</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Envoy (Diplomat) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"steadfast-challenge\" nexus=\"cosmererpg\">Steadfast Challenge</tooltip> talent\n</p><p class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Leader (Politico) Prerequisite:</span></strong>\n<tooltip category=\"talent\" class=\"tooltip-convert\" element=\"rumormonger\" nexus=\"cosmererpg\">Rumormonger</tooltip> talent\n</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Well Dressed",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "While visibly wearing Presentable armor or fashionable clothing, you gain an advantage on the first Deception, Leadership, or Persuasion test you make during each scene.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				},
+				{
+					"dataType": "talent",
+					"elementDisplay": "<p chunk_id=\"8cf78e68-430d-4773-97c5-af7e5bcb6834\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"persuasion\" nexus=\"cosmererpg\">Persuasion</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"composed\" nexus=\"cosmererpg\">Composed</tooltip> talent\n</p>\n<p chunk_id=\"2033fe5a-eb44-42b5-ac76-d8d78dad3d14\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"af0582a1-5405-4b59-96ac-440f5c25e97c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You adeptly move the wheels of the military machine, acquiring the supplies needed to keep your unit in fighting shape.</em></p>\n</div>\n<p chunk_id=\"0a3cb0a1-08d4-41f5-a1b7-663c49232230\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you make a test to requisition or allocate resources, you can spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to add an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip> to the result.</p>\n<p chunk_id=\"17e898ac-f387-4105-8a97-4e3a4813fb0b\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> in Military Logistics.</p>",
+					"elementThumbnail": "null",
+					"isHomebrew": false,
+					"longDescription": null,
+					"name": "Well Supplied",
+					"nexusesIn": [
+						"Cosmere RPG"
+					],
+					"nexusSlug": "cosmererpg",
+					"primarySourceSlug": "stormlight-handbook",
+					"shortDescription": "When you make a test to requisition or allocate resources, you can spend 2 focus to add an Opportunity to the result.",
+					"showInBuilder": true,
+					"showInListing": true,
+					"showInSearch": true,
+					"showInSheet": true,
+					"slug": "well-supplied",
+					"sources": [
+						"Stormlight Handbook",
+						"Stormlight Starter Rules"
+					],
+					"sourceSlugs": [
+						"stormlight-handbook",
+						"stormlight-starter-rules"
+					],
+					"token": "",
+					"tokenSize": "",
+					"paths": [
+						{
+							"name": "Leader",
+							"value": "leader"
+						}
+					],
+					"talentTrees": [
+						{
+							"name": "Officer",
+							"value": "officer"
+						}
+					],
+					"hasPrerequisites": true,
+					"prerequisitesData": {
+						"officer": [
+							[
+								{
+									"rank": 2,
+									"type": "skill",
+									"label": "Persuasion 2+",
+									"value": "persuasion",
+									"hardRule": true
+								}
+							],
+							[
+								{
+									"rank": null,
+									"type": "talent",
+									"label": "Composed",
+									"value": "composed",
+									"hardRule": true
+								}
+							]
+						]
+					},
+					"actionData": {
+						"skill": [],
+						"maxCost": null,
+						"minCost": null,
+						"trigger": null,
+						"costUnit": null,
+						"costLabel": null,
+						"activationUnit": "Special",
+						"activationValue": 1,
+						"includeCostButton": false
+					},
+					"sort": 0,
+					"isSpoiler": false,
+					"parentTalents": [
+						"composed"
+					],
+					"objectID": "105939",
+					"_highlightResult": {
+						"elementDisplay": {
+							"value": "<p chunk_id=\"8cf78e68-430d-4773-97c5-af7e5bcb6834\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Prerequisite:</span></strong>\n<tooltip category=\"skill\" class=\"tooltip-convert\" element=\"persuasion\" nexus=\"cosmererpg\">Persuasion</tooltip> 2+; <tooltip category=\"talent\" class=\"tooltip-convert\" element=\"composed\" nexus=\"cosmererpg\">Composed</tooltip> talent\n</p>\n<p chunk_id=\"2033fe5a-eb44-42b5-ac76-d8d78dad3d14\" class=\"CORE-paragraph-styles_CORE-stat\"><strong><span class=\"color-span\">Activation:</span></strong> <span aria-label=\"Special Activation\" class=\"icon-font icon\" title=\"Special Activation\">★</span></p>\n<div chunk_id=\"af0582a1-5405-4b59-96ac-440f5c25e97c\" class=\"lore-block\" style=\"\">\n<p class=\"\"><em>You adeptly move the wheels of the military machine, acquiring the supplies needed to keep your unit in fighting shape.</em></p>\n</div>\n<p chunk_id=\"0a3cb0a1-08d4-41f5-a1b7-663c49232230\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\">When you make a test to requisition or allocate resources, you can spend 2 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"focus\" nexus=\"cosmererpg\">focus</tooltip> to add an <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"opportunity-and-complication-ranges\" nexus=\"cosmererpg\">Opportunity</tooltip> to the result.</p>\n<p chunk_id=\"17e898ac-f387-4105-8a97-4e3a4813fb0b\" class=\"CORE-paragraph-styles_CORE-body ParaOverride-2\"> Additionally, when you acquire this talent, gain a <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"utility-expertises\" nexus=\"cosmererpg\">utility expertise</tooltip> in Military Logistics.</p>",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"name": {
+							"value": "Well Supplied",
+							"matchLevel": "none",
+							"matchedWords": []
+						},
+						"shortDescription": {
+							"value": "When you make a test to requisition or allocate resources, you can spend 2 focus to add an Opportunity to the result.",
+							"matchLevel": "none",
+							"matchedWords": []
+						}
+					}
+				}
+			],
+			"nbHits": 25,
+			"nbSortedHits": 25,
+			"page": 0,
+			"nbPages": 1,
+			"hitsPerPage": 25,
+			"exhaustiveNbHits": true,
+			"exhaustiveTypo": true,
+			"exhaustive": {
+				"nbHits": true,
+				"typo": true
+			},
+			"query": "",
+			"params": "filters=paths.value%3A'leader'&hitsPerPage=25&page=0&query=",
+			"index": "cosmererpg_talent_name_asc",
+			"appliedRelevancyStrictness": 0,
+			"renderingContent": {},
+			"processingTimeMS": 1,
+			"processingTimingsMS": {
+				"_request": {
+					"queue": 1,
+					"roundTrip": 61
+				},
+				"afterFetch": {
+					"format": {
+						"highlighting": 2,
+						"total": 3
+					}
+				},
+				"total": 1
+			},
+			"serverTimeMS": 6
+		}
+	]
+}
