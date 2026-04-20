@@ -1,8 +1,9 @@
 package com.gannon.cosmere_kmp.rules
 
-//import kotlinx.serialization.Serializable
-//
-//@Serializable
+import com.gannon.cosmere_kmp.util.EnumDisplayNamedOption
+import kotlinx.serialization.Serializable
+
+@Serializable
 enum class WHSetting: EnumDisplayNamedOption {
-    STORMLIGHT, MISTBORN
+    Stormlight, Mistborn
 }

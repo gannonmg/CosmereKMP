@@ -1,0 +1,44 @@
+---
+config:
+theme: redux-dark
+layout: dagre
+id: 52378058-d09b-4c9a-b684-fc3d5feb0245
+---
+flowchart TB
+
+    subgraph SwiftVM["Swift ViewModels & Bridge"]
+        iOSSheetVM
+        iOSBuilderVM
+    end
+
+    subgraph SwiftUI["SwiftUI"]
+        iOSSheet["Character Sheet"]
+        iOSBuilder["Character Creation"]
+    end
+
+    subgraph iOS["iOS Application"]
+        SwiftVM
+        SwiftUI
+    end
+
+    subgraph AndroidVM["Android ViewModels"]
+    end
+
+    subgraph Compose["Android Screens"]
+        AndroidSheet["Character Sheet"]
+        AndroidBuilder["Character Creation"]
+    end
+
+    subgraph Android["Android Application"]
+        AndroidVM
+        Compose
+    end
+
+    subgraph KMP["Kotlin Multi Platform"]
+        Repo["CharacterRepository"]
+    end
+
+    iOS --> KMP
+    iOSSheet -- User Interaction --> iOSSheetVM
+    Android --> KMP
+    Compose --> AndroidVM

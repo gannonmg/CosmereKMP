@@ -25,28 +25,18 @@ private object SkillRankLayout {
     val modifierCornerRadius = 16.dp
 }
 
-interface SkillRankDisplayable {
-    val skillName: String
-    val attributeLabel: String
-    val attributeScore: Int
-    val ranks: Int
-    val bonusRanks: Int?
-}
-
-val SkillRankDisplayable.flatSkillMod: Int
-    get() = attributeScore + ranks
-
-val SkillRankDisplayable.skillMod: Int
-    get() = attributeScore + ranks + (bonusRanks ?: 0)
-
-val SkillRankDisplayable.nameLabel: String
-    get() = "$skillName($attributeLabel)"
-
 @Composable
 fun SkillRankView(
-    skillInfo: SkillRankDisplayable,
+    skillName: String,
+    attributeLabel: String,
+    attributeScore: Int,
+    ranks: Int,
+    bonusRanks: Int? = null,
     modifier: Modifier = Modifier,
 ) {
+    val skillMod = attributeScore + ranks + (bonusRanks ?: 0)
+    val nameLabel = "$skillName ($attributeLabel)"
+
     Row(
         modifier = modifier,
         verticalAlignment = Alignment.CenterVertically
@@ -63,13 +53,13 @@ fun SkillRankView(
             contentAlignment = Alignment.Center
         ) {
             Text(
-                text = skillInfo.skillMod.toString(),
+                text = skillMod.toString(),
                 fontWeight = FontWeight.Bold
             )
         }
 
         Text(
-            text = skillInfo.nameLabel,
+            text = nameLabel,
             modifier = Modifier.padding(start = 12.dp)
         )
 
@@ -80,7 +70,7 @@ fun SkillRankView(
             verticalAlignment = Alignment.CenterVertically
         ) {
             for (i in 1..5) {
-                SkillRankDot(state = getSkillRankState(skillInfo, i))
+                SkillRankDot(state = getSkillRankState(ranks, bonusRanks, i))
             }
         }
     }
@@ -133,11 +123,12 @@ private fun SkillRankDot(
 }
 
 private fun getSkillRankState(
-    skillInfo: SkillRankDisplayable,
+    ranks: Int,
+    bonusRanks: Int?,
     i: Int,
 ): SkillRankState {
-    if (i <= skillInfo.ranks) return SkillRankState.Claimed
-    if (i <= skillInfo.ranks + (skillInfo.bonusRanks ?: 0)) return SkillRankState.Granted
+    if (i <= ranks) return SkillRankState.Claimed
+    if (i <= ranks + (bonusRanks ?: 0)) return SkillRankState.Granted
     // TODO: This is a placeholder value for actual skill rank max at Tier
     if (3 < i) return SkillRankState.Ineligible
     return SkillRankState.Empty

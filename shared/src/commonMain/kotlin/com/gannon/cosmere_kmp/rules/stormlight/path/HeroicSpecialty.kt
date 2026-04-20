@@ -1,6 +1,6 @@
 package com.gannon.cosmere_kmp.rules.stormlight.path
 
-import com.gannon.cosmere_kmp.rules.EnumDisplayNamedOption
+import com.gannon.cosmere_kmp.util.EnumDisplayNamedOption
 
 //import kotlinx.serialization.Serializable
 

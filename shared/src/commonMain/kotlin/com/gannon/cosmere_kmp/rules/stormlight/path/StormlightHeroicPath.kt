@@ -1,6 +1,6 @@
 package com.gannon.cosmere_kmp.rules.stormlight.path
 
-import com.gannon.cosmere_kmp.rules.EnumDisplayNamedOption
+import com.gannon.cosmere_kmp.util.EnumDisplayNamedOption
 import com.gannon.cosmere_kmp.rules.skill.Skill
 import com.gannon.cosmere_kmp.rules.talent.TalentResourceSource
 //import kotlinx.serialization.Serializable
@@ -32,11 +32,11 @@ enum class StormlightHeroicPath : EnumDisplayNamedOption, TalentResourceSource {
     /** Starting skill rank granted by this heroic path. */
     val startingSkill: Skill
         get() = when (this) {
-            AGENT -> Skill.INSIGHT
-            ENVOY -> Skill.DISCIPLINE
-            HUNTER -> Skill.PERCEPTION
-            LEADER -> Skill.LEADERSHIP
-            SCHOLAR -> Skill.LORE
-            WARRIOR -> Skill.ATHLETICS
+            AGENT -> Skill.Insight
+            ENVOY -> Skill.Discipline
+            HUNTER -> Skill.Perception
+            LEADER -> Skill.Leadership
+            SCHOLAR -> Skill.Lore
+            WARRIOR -> Skill.Athletics
         }
 }

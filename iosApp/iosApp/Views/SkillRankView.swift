@@ -10,35 +10,25 @@ import SwiftUI
 
 struct SkillRankView: View {
 
-    private enum Layout {
+    enum Layout {
         /// 16
         static let circleDiameter: CGFloat = 16
-        /// 16
-        static let modifierCornerRadius: CGFloat = 16
     }
 
-    protocol Displayable {
-        var skillName: String { get }
-        var attributeLabel: String { get }
-        var attributeScore: Int { get }
-        var ranks: Int { get }
-        var bonusRanks: Int? { get }
+    struct Config {
+        let skill: Skill
+        let attributeLabel: String
+        let attributeScore: Int
+        let ranks: Int
+        var bonusRanks: Int? = 0
     }
 
-    let skillInfo: any Displayable
+    let config: Config
 
     var body: some View {
         HStack {
-            Text("\(skillInfo.skillMod)")
-                .bold()
-                .padding(.horizontal, 20)
-                .padding(.vertical, 8)
-                .cornerRadius(Layout.modifierCornerRadius)
-                .overlay(
-                    RoundedRectangle(cornerRadius: 8)
-                        .stroke(Color.black, lineWidth: 2)
-                )
-            Text(skillInfo.nameLabel)
+            SkillModifierView(value: config.skillMod)
+            Text(config.nameLabel)
             Spacer()
             ForEach(1...5, id: \.self) {
                 let state = getState(i: $0)
@@ -50,11 +40,23 @@ struct SkillRankView: View {
     }
 
     private func getState(i: Int) -> SkillRankState {
-        if i <= skillInfo.ranks { return .claimed }
-        if i <= skillInfo.ranks + (skillInfo.bonusRanks ?? 0) {  return .granted }
+        if i <= config.ranks { return .claimed }
+        if i <= config.ranks + (config.bonusRanks ?? 0) {  return .granted }
         // TODO: This is a placeholder magic number for tier cap
         if 3 < i { return .ineligible }
         return .empty
+    }
+}
+
+struct SkillModifierView: View {
+    let value: Int
+    var isSmall: Bool = false
+
+    var body: some View {
+        Text("\(value)")
+            .font(isSmall ? .callout : .body)
+            .bold()
+            .rollable(isCompact: isSmall)
     }
 }
 
@@ -72,26 +74,31 @@ extension Shape {
     }
 }
 
-extension SkillRankView.Displayable {
+extension SkillRankView.Config {
     var flatSkillMod: Int { attributeScore + ranks }
     var skillMod: Int { attributeScore + ranks + (bonusRanks ?? 0) }
     var nameLabel: String { skillName + "(" + attributeLabel + ")" }
+    var skillName: String { skill.displayName }
+
+    init(skill: Skill, build: CharacterBuild) {
+        let attribute = skill.associatedAttribute
+
+        self.init(
+            skill: skill,
+            attributeLabel: attribute.shortLabel,
+            attributeScore: (build.attributes[attribute] ?? 0).intValue,
+            ranks: (build.skillRanks[skill] ?? 0).intValue
+        )
+    }
 }
 
 #if DEBUG
-struct SkillRankViewPreviewable: SkillRankView.Displayable {
-    let skillName: String
-    let attributeLabel: String
-    let attributeScore: Int
-    let ranks: Int
-    let bonusRanks: Int?
-}
 
 #Preview {
     VStack {
         SkillRankView(
-            skillInfo: SkillRankViewPreviewable(
-                skillName: "Deduction",
+            config: .init(
+                skill: .deduction,
                 attributeLabel: "INT",
                 attributeScore: 2,
                 ranks: 3,
@@ -99,8 +106,11 @@ struct SkillRankViewPreviewable: SkillRankView.Displayable {
             )
         )
         SkillRankView(
-            skillInfo: SkillRankViewPreviewable(
-                skillName: "Intimidation",
+            config: .init(skill: .deduction, build: PreviewContent.build1)
+        )
+        SkillRankView(
+            config: .init(
+                skill: .intimidation,
                 attributeLabel: "WIL",
                 attributeScore: 1,
                 ranks: 1,

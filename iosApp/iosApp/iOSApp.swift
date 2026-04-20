@@ -4,7 +4,7 @@ import SwiftUI
 struct iOSApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SheetView(viewModel: SheetViewModel(build: PreviewContent.build1))
         }
     }
 }

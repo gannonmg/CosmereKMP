@@ -37,6 +37,7 @@ android {
 
 dependencies {
     implementation(project(":composeApp"))
+    implementation(project(":shared"))
     debugImplementation(libs.compose.uiTooling)
     implementation(libs.androidx.activity.compose)
     implementation(libs.compose.foundation)

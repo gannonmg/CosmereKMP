@@ -1,0 +1,75 @@
+flowchart LR
+
+    subgraph iOS["iOS Application"]
+        direction TB
+
+        subgraph SwiftUI["SwiftUI"]
+            direction TB
+            iOSSheet["Character Sheet"]
+            iOSBuilder["Character Creation"]
+        end
+
+        subgraph SwiftVM["Swift ViewModels & Bridge"]
+            direction TB
+            iOSSheetVM["iOSSheetVM"]
+            iOSBuilderVM["iOSBuilderVM"]
+        end
+
+        iOSSheet -->|User Interaction| iOSSheetVM
+        iOSBuilder -->|User Interaction| iOSBuilderVM
+    end
+
+    subgraph KMP["Kotlin Multiplatform"]
+        CharacterStore["CharacterStore"]
+        LevelHistory["LevelHistory"]
+        Engine["CharacterEngine"]
+        Build["CharacterBuild"]
+        SheetState["CharacterSheetState"]
+        Sheet["CharacterSheet"]
+
+        subgraph Rules
+            direction TB
+            Ancestry
+            Path["Paths
+            - Heroic
+            - Spren
+            - Surge
+            "]
+            Attribute
+            Skill
+            Talent
+            Expertise
+        end
+
+        CharacterStore -->|provides data| LevelHistory
+        CharacterStore -->|provides data| SheetState
+        LevelHistory -->|input| Engine
+        Engine -->|derives| Build
+        Attribute -->|informs| Skill
+        Path -->|defines| Talent
+        Rules -->|define| Build
+        Build -->|contributes to| Sheet
+        SheetState -->|contributes to| Sheet
+    end
+
+    subgraph Android["Android Application"]
+        direction TB
+
+        subgraph Compose["Android Screens"]
+            direction TB
+            AndroidSheet["Character Sheet"]
+            AndroidBuilder["Character Creation"]
+        end
+
+        subgraph AndroidVM["Android ViewModels"]
+            direction TB
+            AndroidSheetVM["AndroidSheetVM"]
+            AndroidBuilderVM["AndroidBuilderVM"]
+        end
+
+        AndroidSheet -->|User Interaction| AndroidSheetVM
+        AndroidBuilder -->|User Interaction| AndroidBuilderVM
+    end
+
+    iOS --> KMP
+    Android --> KMP

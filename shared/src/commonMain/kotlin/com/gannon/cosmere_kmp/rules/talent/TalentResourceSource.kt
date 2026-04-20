@@ -1,6 +1,6 @@
 package com.gannon.cosmere_kmp.rules.talent
 
-import com.gannon.cosmere_kmp.rules.DisplayNamedOption
+import com.gannon.cosmere_kmp.util.DisplayNamedOption
 
 /** Static talent JSON source that can derive its own bundled resource path. */
 interface TalentResourceSource : DisplayNamedOption {

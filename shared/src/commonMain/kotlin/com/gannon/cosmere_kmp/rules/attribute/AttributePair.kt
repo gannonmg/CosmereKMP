@@ -1,12 +1,12 @@
 package com.gannon.cosmere_kmp.rules.attribute
 
-import com.gannon.cosmere_kmp.rules.EnumDisplayNamedOption
+import com.gannon.cosmere_kmp.util.EnumDisplayNamedOption
 
 //@Serializable
 enum class AttributePair : EnumDisplayNamedOption {
-    PHYSICAL,
-    COGNITIVE,
-    SPIRITUAL;
+    Physical,
+    Cognitive,
+    Spiritual;
 
     /** First attribute in this pair. */
     val first: Attribute
@@ -19,8 +19,8 @@ enum class AttributePair : EnumDisplayNamedOption {
     /** Attributes grouped by this pair. */
     val attributes: Pair<Attribute, Attribute>
         get() = when (this) {
-            PHYSICAL -> Attribute.STRENGTH to Attribute.SPEED
-            COGNITIVE -> Attribute.INTELLECT to Attribute.WILLPOWER
-            SPIRITUAL -> Attribute.AWARENESS to Attribute.PRESENCE
+            Physical -> Attribute.Strength to Attribute.Speed
+            Cognitive -> Attribute.Intellect to Attribute.Willpower
+            Spiritual -> Attribute.Awareness to Attribute.Presence
         }
 }

@@ -13,19 +13,16 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-
-interface AttributePairDisplayable {
-    val title: String
-    val firstTitle: String
-    val secondTitle: String
-    val firstValue: Int
-    val secondValue: Int
-    val defense: Int
-}
+import com.gannon.cosmere_kmp.character.build.AttributePairDisplayable
 
 @Composable
 fun AttributePairView(
-    displayable: AttributePairDisplayable,
+    title: String,
+    firstTitle: String,
+    secondTitle: String,
+    firstValue: Int,
+    secondValue: Int,
+    defense: Int,
     modifier: Modifier = Modifier,
 ) {
     Column(
@@ -33,7 +30,7 @@ fun AttributePairView(
         horizontalAlignment = Alignment.CenterHorizontally,
     ) {
         Text(
-            text = displayable.title,
+            text = title,
             fontSize = 24.sp,
             fontWeight = FontWeight.Bold
         )
@@ -43,15 +40,15 @@ fun AttributePairView(
             verticalAlignment = Alignment.CenterVertically
         ) {
             AttributeValueBox(
-                title = displayable.firstTitle,
-                value = displayable.firstValue
+                title = firstTitle,
+                value = firstValue
             )
 
-            DefenseBox(defense = displayable.defense)
+            DefenseBox(defense = defense)
 
             AttributeValueBox(
-                title = displayable.secondTitle,
-                value = displayable.secondValue
+                title = secondTitle,
+                value = secondValue
             )
         }
     }
