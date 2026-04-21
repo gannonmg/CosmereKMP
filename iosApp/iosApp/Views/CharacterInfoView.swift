@@ -30,6 +30,16 @@ final class SheetViewModel {
         return defense
     }
 
+    func attributeScore(_ attribute: Attribute) -> Int {
+        build.attributes[attribute]?.intValue ?? 0
+    }
+
+    func skillModifier(_ skill: Skill) -> Int {
+        let attributeMod = attributeScore(skill.associatedAttribute)
+        let rank = build.skillRanks[skill]?.intValue ?? 0
+        return attributeMod + rank
+    }
+
     func updateHealth(by amount: Int) {
         let newValue = currentHealth + amount
         self.currentHealth = min(max(0, newValue), maxHealth)
@@ -59,30 +69,116 @@ struct SheetView: View {
                     DefensesView(defenseValueFor: viewModel.defense(for:))
                         .frame(maxWidth: .infinity)
                         .padding(.horizontal)
-                    MasonryLayout(columns: 2, spacing: 8) {
-                        ForEach(Attribute.entries) {
-                            CompactAttributeSectionView(attribute: $0, build: PreviewContent.build1)
+
+                    HStack(spacing: 4) {
+                        HStack {
+                            ZStack {
+                                Image(systemName: "shield")
+                                    .resizable()
+                                    .scaledToFit()
+                                    .frame(width: 28, height: 28)
+                                Image("bounce")
+                                    .resizable()
+                                    .scaledToFit()
+                                    .frame(width: 32, height: 32)
+                                    .offset(y: -10)
+                            }
+                            VStack(alignment: .leading, spacing: 0) {
+                                Text("Deflect")
+                                    .font(.caption2)
+                                Text("1")
+                                    .font(.headline)
+                            }
+                        }
+                        .padding(12)
+                        .background {
+                            RoundedRectangle(cornerRadius: 16)
+                                .foregroundStyle(.white)
+                                .shadow(radius: 2, x: 1, y: 2)
+                        }
+
+                        HStack {
+                            HStack {
+                                Image(systemName: "figure.run")
+                                    .resizable()
+                                    .scaledToFit()
+                                    .frame(width: 28, height: 28)
+                                VStack(alignment: .leading, spacing: 0) {
+                                    Text("Movement")
+                                        .font(.caption2)
+                                    Text("30ft.")
+                                        .font(.headline)
+                                }
+                            }
+
+                            HStack {
+                                Image(systemName: "eye")
+                                    .resizable()
+                                    .scaledToFit()
+                                    .frame(width: 28, height: 28)
+                                VStack(alignment: .leading, spacing: 0) {
+                                    Text("Senses")
+                                        .font(.caption2)
+                                    Text("10ft.")
+                                        .font(.headline)
+                                }
+                            }
+                        }
+                        .padding(12)
+                        .background {
+                            RoundedRectangle(cornerRadius: 16)
+                                .foregroundStyle(.white)
+                                .shadow(radius: 2, x: 1, y: 2)
+                        }
+
+                        VStack(spacing: 0) {
+                            Text("Conditions")
+                                .font(.caption2)
+                            Image(systemName: "eye")
+                                .resizable()
+                                .scaledToFit()
+                                .frame(width: 24, height: 24)
+                        }
+                        .padding(12)
+                        .background {
+                            RoundedRectangle(cornerRadius: 16)
+                                .foregroundStyle(.white)
+                                .shadow(radius: 2, x: 1, y: 2)
+                        }
+                    }
+
+                    CollapsibleSection("Skills") {
+                        MasonryLayout(columns: 2, spacing: 8) {
+                            ForEach(Attribute.allCases) {
+                                CompactAttributeSectionView(attribute: $0, build: PreviewContent.build1)
+                            }
                         }
                     }
                     .padding(.horizontal)
-//                    StatSectionView(build: viewModel.build)
-//                    let configs = AttributePair.entries.map { pair in
-//                        AttributePairView.Config(
-//                            pair: pair,
-//                            firstValue: (viewModel.build.attributes[pair.first] ?? 0).intValue,
-//                            secondValue: (viewModel.build.attributes[pair.second] ?? 0).intValue,
-//                        )
-//                    }
-//                    CompactAttributesView(pairConfigs: configs)
-//                    CompactSkillsView(build: viewModel.build)
+
+                    CollapsibleSection("Weapons") {
+                        let weapons: [Weapon] = [
+                            Weapon.companion.javelin,
+                            Weapon.companion.dagger,
+                            Weapon.companion.shortbow,
+                            Weapon.companion.staff,
+                            Weapon.companion.greatsword
+                        ]
+
+                        VStack(spacing: 4) {
+                            IndexedForEach(weapons) { weapon in
+                                WeaponView(
+                                    weapon: weapon,
+                                    skillModifier: viewModel.skillModifier(weapon.skill),
+                                    isExpert: .random()
+                                )
+                            }
+                        }
+                        .padding(.bottom, 4)
+                    }
+                    .padding(.horizontal)
                 }
                 .padding(.top, 32)
-            }
-            .background {
-                UnevenRoundedRectangle(
-                    cornerRadii: .init(topLeading: 20, topTrailing: 20)
-                )
-                .foregroundStyle(.blue.opacity(0.5))
             }
             .ignoresSafeArea(.all, edges: .bottom)
             .navigationTitle("Kayle")
@@ -103,177 +199,49 @@ struct SheetView: View {
                 .padding(.horizontal)
                 .padding(.bottom)
             }
+            .background(.blue.opacity(0.1))
         }
     }
 }
 
+struct CollapsibleSection<Content: View>: View {
 
-struct CharacterResourcesView: View {
+    private let title: String
+    @State private var isOpen: Bool
+    private let content: () -> Content
 
-    let currentHealth: Int
-    let maxHealth: Int
-    let updateHealth: (Int) -> Void
-    let currentFocus: Int
-    let maxFocus: Int
-    let updateFocus: (Int) -> Void
-    let currentInvestiture: Int
-    let maxInvestiture: Int
-    let updateInvestiture: (Int) -> Void
-
-    var body: some View {
-        HStack {
-            ResourceView(
-                currentValue: currentHealth,
-                maxValue: maxHealth,
-                label: "Health",
-                backgroundColor: .resourcePool(.health).opacity(0.3)
-            )
-            .modifier(UpdateHealthAlert(updateHealth: updateHealth))
-
-            ResourceView(
-                currentValue: currentFocus,
-                maxValue: maxFocus,
-                label: "Focus",
-                backgroundColor: .resourcePool(.focus).opacity(0.3)
-            )
-            .modifier(UpdateResourcePopover(
-                currentValue: currentFocus,
-                updateResource: updateFocus
-            ))
-
-            ResourceView(
-                currentValue: currentInvestiture,
-                maxValue: maxInvestiture,
-                label: "Investiture",
-                backgroundColor: .resourcePool(.investiture).opacity(0.3)
-            )
-            .modifier(UpdateResourcePopover(
-                currentValue: currentInvestiture,
-                updateResource: updateInvestiture
-            ))
-        }
-        .padding(.horizontal, 8)
-        .padding(.vertical, 8)
-        .glassEffect(in: .rect(cornerRadius: 16.0))
+    init(
+        _ title: String,
+        isOpen: Bool = true,
+        @ViewBuilder content: @escaping () -> Content
+    ) {
+        self.title = title
+        self.isOpen = isOpen
+        self.content = content
     }
-}
-
-struct UpdateHealthAlert: ViewModifier {
-    @State private var showingHealthAdjuster = false
-    @State private var healthUpdate: Int?
-
-    let updateHealth: (Int) -> Void
-
-    func body(content: Content) -> some View {
-        content
-            .alert("Update your health.", isPresented: $showingHealthAdjuster) {
-                TextField(
-                    "Health",
-                    value: $healthUpdate,
-                    format: .number,
-                    prompt: Text("0")
-                ).keyboardType(.numberPad)
-
-                Button("Heal") {
-                    updateHealth(healthUpdate ?? 0)
-                    healthUpdate = nil
-                }
-                .tint(.green)
-                .keyboardShortcut(.defaultAction)
-
-                Button("Damage", role: .destructive) {
-                    updateHealth(-(healthUpdate ?? 0))
-                    healthUpdate = nil
-                }
-            } message: {
-                Text("Hit Points")
-            }
-            .onTapGesture { showingHealthAdjuster = true }
-    }
-}
-
-struct UpdateResourcePopover: ViewModifier {
-    @State private var showingPopover: Bool = false
-    private var binding: Binding<Int> {
-        Binding<Int>(
-            get: { currentValue },
-            set: { updateResource($0) }
-        )
-    }
-
-    let currentValue: Int
-    let updateResource: (Int) -> Void
-
-    func body(content: Content) -> some View {
-        content
-            .popover(
-                isPresented: $showingPopover,
-                attachmentAnchor: .point(.top),
-                arrowEdge: .bottom
-            ) {
-                Stepper("Focus", value: binding)
-                    .presentationCompactAdaptation(.popover)
-                    .padding(.horizontal)
-            }
-            .onTapGesture { showingPopover = true }
-    }
-}
-
-struct ResourceView: View {
-    let currentValue: Int
-    let maxValue: Int
-    let label: String
-    let backgroundColor: Color
 
     var body: some View {
         VStack {
-            Text(attributedString)
-            Text(label).font(.footnote)
+            HStack {
+                Text(title).font(.headline)
+                Spacer()
+                Button {
+                    withAnimation {
+                        isOpen.toggle()
+                    }
+                } label: {
+                    let systemImage = isOpen ? "arrow.down" : "arrow.right"
+                    Image(systemName: systemImage)
+                }
+                .foregroundStyle(.black)
+            }
+
+            if isOpen {
+                content()
+                    .transition(.move(edge: .top).combined(with: .opacity))
+            }
         }
-        .padding(8)
-        .frame(maxWidth: .infinity)
-        .background {
-            RoundedRectangle(cornerRadius: 12)
-                .foregroundStyle(backgroundColor)
-        }
-    }
-
-    private var attributedString: AttributedString {
-        let currentText = "\(currentValue)"
-        let maxText = " / \(maxValue)"
-        var attrString = AttributedString(currentText + maxText)
-
-        // Apply a larger font to a specific range
-        if let range = attrString.range(of: currentText) {
-            attrString[range].font = .system(size: 30).bold()
-        }
-
-        // Apply a smaller font to another range
-        if let range = attrString.range(of: maxText) {
-            attrString[range].font = .system(size: 12)
-        }
-        return attrString
-    }
-}
-
-struct ScalingHeaderView<Header: View, Content: View>: View {
-
-    @ViewBuilder public var header: Header
-    @ViewBuilder public var content: Content
-
-    @State private var offset: CGFloat = 0
-
-    var body: some View {
-        ScrollView {
-            header
-            content
-        }
-        .onScrollGeometryChange(for: CGFloat.self) { geometry in
-            max(0, geometry.contentOffset.y + geometry.contentInsets.top)
-        } action: { oldValue, newValue in
-            
-        }
-
+        .clipped()
     }
 }
 

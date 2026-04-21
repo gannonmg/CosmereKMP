@@ -69,7 +69,6 @@ extension Shape {
         case .ineligible: AnyView(self.fill(.gray))
         case .available: AnyView(self.stroke(.yellow, lineWidth: 2))
         case .selected: AnyView(self.fill(.yellow))
-        default: AnyView(self)
         }
     }
 }

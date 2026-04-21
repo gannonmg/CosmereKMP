@@ -18,7 +18,7 @@ struct CompactSkillsView: View {
 
     var body: some View {
         LazyVGrid(columns: columns, spacing: 4) {
-            let skills = Skill.entries
+            let skills = Skill.allCases
                 .filter { !$0.isSurge || (build.skillRanks[$0]?.intValue ?? 0) > 0 }
                 .sorted(by: { $0.displayName < $1.displayName })
             ForEach(skills) { skill in

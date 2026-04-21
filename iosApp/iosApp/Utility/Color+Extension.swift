@@ -14,7 +14,6 @@ extension Color {
         case .physical: Color("WHBlue")
         case .cognitive: Color("WHPurple")
         case .spiritual: Color("WHGreen")
-        default: fatalError()
         }
     }
 
@@ -23,7 +22,6 @@ extension Color {
         case .health: Color("WHRed")
         case .focus: Color("WHBlue")
         case .investiture: Color("WHGreen")
-        default: fatalError()
         }
     }
 }

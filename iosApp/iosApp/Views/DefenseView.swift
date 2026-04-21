@@ -52,13 +52,12 @@ struct DefensesView: View {
         case .physical: "fist"
         case .cognitive: "brain.side"
         case .spiritual: "swirl"
-        default: fatalError()
         }
     }
 
     var body: some View {
         HStack {
-            ForEach(AttributePair.entries.enumerated(), id: \.element) { enumeration in
+            ForEach(AttributePair.allCases.enumerated(), id: \.element) { enumeration in
                 if enumeration.offset != 0 {
                     Divider()
                 }
@@ -83,7 +82,6 @@ struct DefensesView: View {
         case .physical: 14
         case .cognitive: 15
         case .spiritual: 13
-        default: fatalError()
         }
     }
 }

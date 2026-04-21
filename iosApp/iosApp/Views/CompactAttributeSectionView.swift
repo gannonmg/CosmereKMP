@@ -30,7 +30,7 @@ struct CompactAttributeSectionView: View {
         .padding()
         .background {
             RoundedRectangle(cornerRadius: 16)
-                .foregroundStyle(.white.opacity(0.9))
+                .foregroundStyle(.white)
                 .shadow(radius: 2, x: 1, y: 2)
         }
     }
@@ -39,7 +39,7 @@ struct CompactAttributeSectionView: View {
 #Preview {
     ScrollView {
         MasonryLayout(columns: 2, spacing: 12) {
-            ForEach(Attribute.entries) {
+            ForEach(Attribute.allCases) {
                 CompactAttributeSectionView(attribute: $0, build: PreviewContent.build1)
             }
         }

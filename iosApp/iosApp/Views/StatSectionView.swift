@@ -45,7 +45,7 @@ struct StatSectionView: View {
                     .animation(.default, value: selectedPair)
                     .onPreferenceChange(PageHeightKey.self) { maxPageHeight = $0 }
                 Picker("Attribute Pair", selection: $selectedPair) {
-                    ForEach(AttributePair.entries) { pair in
+                    ForEach(AttributePair.allCases) { pair in
                         Text(pair.displayName).tag(pair)
                     }
                 }
@@ -65,7 +65,7 @@ struct StatSectionView: View {
     }
 
     private var attributePairSections: some View {
-        ForEach(AttributePair.entries) { pair in
+        ForEach(AttributePair.allCases) { pair in
             AttributePairSectionView(pair: pair, build: build)
                 .padding(.horizontal)
                 .background(
